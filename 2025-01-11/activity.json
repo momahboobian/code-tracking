@@ -2,9 +2,9 @@
   "date": "2025-01-11",
   "projects": {
     "good-pr": {
-      "totalLinesAdded": 12395,
-      "totalLinesRemoved": 25,
-      "totalActiveTime": 82,
+      "totalLinesAdded": 12498,
+      "totalLinesRemoved": 130,
+      "totalActiveTime": 84,
       "files": {
         "/Users/mahbom01/Documents/_MoReel Desktop/Git-repo/good-pr/pages/api/updateRepository.js": [
           {
@@ -568,6 +568,48 @@
             "fileName": "/Users/mahbom01/Documents/_MoReel Desktop/Git-repo/good-pr/components/Dashboard/Dashboard.js",
             "fileType": ".js",
             "linesAdded": 106,
+            "linesRemoved": 0,
+            "projectName": "good-pr",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-01-11T02:13:35.960Z",
+            "fileName": "/Users/mahbom01/Documents/_MoReel Desktop/Git-repo/good-pr/components/Dashboard/Dashboard.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "good-pr",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-01-11T02:13:54.244Z",
+            "fileName": "/Users/mahbom01/Documents/_MoReel Desktop/Git-repo/good-pr/components/Dashboard/Dashboard.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 103,
+            "projectName": "good-pr",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-01-11T02:13:54.245Z",
+            "fileName": "/Users/mahbom01/Documents/_MoReel Desktop/Git-repo/good-pr/components/Dashboard/Dashboard.js",
+            "fileType": ".js",
+            "linesAdded": 103,
             "linesRemoved": 0,
             "projectName": "good-pr",
             "content": {
