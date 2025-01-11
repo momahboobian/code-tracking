@@ -3,8 +3,8 @@
   "projects": {
     "good-pr": {
       "totalLinesAdded": 9711,
-      "totalLinesRemoved": 10,
-      "totalActiveTime": 57,
+      "totalLinesRemoved": 12,
+      "totalActiveTime": 61,
       "files": {
         "/Users/mahbom01/Documents/_MoReel Desktop/Git-repo/good-pr/pages/api/updateRepository.js": [
           {
@@ -268,6 +268,20 @@
             },
             "duration": 1,
             "language": "js"
+          },
+          {
+            "timestamp": "2025-01-11T01:09:11.370Z",
+            "fileName": "/Users/mahbom01/Documents/_MoReel Desktop/Git-repo/good-pr/pages/api/fetchData.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "good-pr",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "js"
           }
         ],
         "/Users/mahbom01/Documents/_MoReel Desktop/Git-repo/good-pr/components/Sidebar/SidebarDashboard.js": [
@@ -437,6 +451,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-01-11T01:09:11.371Z",
+            "fileName": "/Users/mahbom01/Documents/_MoReel Desktop/Git-repo/good-pr/components/GroupsPage/Components/TeamCard.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "good-pr",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "js"
           }
         ],
