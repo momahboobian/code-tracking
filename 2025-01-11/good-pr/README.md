@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 9186                                          |
+| **Lines Added** (➕)   | 9425                                          |
 | **Lines Removed** (➖) | 3                                        |
-| **Net Change** (↕)    | 9183                |
-| **Active Time** (⌚)   | 38 minutes |
+| **Net Change** (↕)    | 9422                |
+| **Active Time** (⌚)   | 43 minutes |
 
 
 ## Modified Files
@@ -16,7 +16,7 @@
 - **package.json** (+51, -1)
 - **package-lock.json** (+7850, -0)
 - **.eslintrc.json** (+31, -0)
-- **fetchData.js** (+74, -2)
+- **fetchData.js** (+76, -2)
 - **SidebarDashboard.js** (+60, -0)
 - **IssuesActivityCard.js** (+319, -0)
 - **TeamActivityPie.js** (+391, -0)
@@ -24,6 +24,8 @@
 - **ProjectCard.js** (+144, -0)
 - **ShareButton.js** (+40, -0)
 - **Dashboard.js** (+106, -0)
+- **TeamCard.js** (+147, -0)
+- **GroupsPage.js** (+90, -0)
 
 ## Visualizations
 
@@ -32,7 +34,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".js" : 1189
+".js" : 1428
 ".json" : 8000
 ```
 
@@ -42,8 +44,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "00h" : 14
-"01h" : 7
+"01h" : 11
 ```
 
 
-> **Last Updated:** 11/01/2025, 01:03:15
+> **Last Updated:** 11/01/2025, 01:04:48
