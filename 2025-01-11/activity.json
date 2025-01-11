@@ -2,9 +2,9 @@
   "date": "2025-01-11",
   "projects": {
     "good-pr": {
-      "totalLinesAdded": 9736,
+      "totalLinesAdded": 9737,
       "totalLinesRemoved": 20,
-      "totalActiveTime": 68,
+      "totalActiveTime": 73,
       "files": {
         "/Users/mahbom01/Documents/_MoReel Desktop/Git-repo/good-pr/pages/api/updateRepository.js": [
           {
@@ -223,6 +223,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-01-11T01:49:03.971Z",
+            "fileName": "/Users/mahbom01/Documents/_MoReel Desktop/Git-repo/good-pr/.eslintrc.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "good-pr",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "json"
           }
         ],
