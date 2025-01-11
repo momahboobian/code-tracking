@@ -2,9 +2,9 @@
   "date": "2025-01-11",
   "projects": {
     "good-pr": {
-      "totalLinesAdded": 14256,
-      "totalLinesRemoved": 450,
-      "totalActiveTime": 101,
+      "totalLinesAdded": 14612,
+      "totalLinesRemoved": 454,
+      "totalActiveTime": 106,
       "files": {
         "/Users/mahbom01/Documents/_MoReel Desktop/Git-repo/good-pr/pages/api/updateRepository.js": [
           {
@@ -480,6 +480,20 @@
             },
             "duration": 1,
             "language": "js"
+          },
+          {
+            "timestamp": "2025-01-11T15:33:17.001Z",
+            "fileName": "/Users/mahbom01/Documents/_MoReel Desktop/Git-repo/good-pr/components/Sidebar/SidebarDashboard.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "good-pr",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "js"
           }
         ],
         "/Users/mahbom01/Documents/_MoReel Desktop/Git-repo/good-pr/components/Dashboard/Components/IssuesActivityCard.js": [
@@ -641,6 +655,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-01-11T15:34:04.340Z",
+            "fileName": "/Users/mahbom01/Documents/_MoReel Desktop/Git-repo/good-pr/components/Dashboard/Components/ProjectCard.js",
+            "fileType": ".js",
+            "linesAdded": 144,
+            "linesRemoved": 0,
+            "projectName": "good-pr",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "js"
           }
         ],
@@ -1188,6 +1216,22 @@
             },
             "duration": 1,
             "language": "css"
+          }
+        ],
+        "/Users/mahbom01/Documents/_MoReel Desktop/Git-repo/good-pr/components/Dashboard/Components/TasksActivity.js": [
+          {
+            "timestamp": "2025-01-11T15:34:46.323Z",
+            "fileName": "/Users/mahbom01/Documents/_MoReel Desktop/Git-repo/good-pr/components/Dashboard/Components/TasksActivity.js",
+            "fileType": ".js",
+            "linesAdded": 212,
+            "linesRemoved": 0,
+            "projectName": "good-pr",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
           }
         ]
       },
