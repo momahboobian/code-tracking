@@ -3,7 +3,7 @@
   "projects": {
     "good-pr": {
       "totalLinesAdded": 14612,
-      "totalLinesRemoved": 454,
+      "totalLinesRemoved": 457,
       "totalActiveTime": 106,
       "files": {
         "/Users/mahbom01/Documents/_MoReel Desktop/Git-repo/good-pr/pages/api/updateRepository.js": [
@@ -565,6 +565,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-01-11T15:43:52.119Z",
+            "fileName": "/Users/mahbom01/Documents/_MoReel Desktop/Git-repo/good-pr/components/Dashboard/Components/IssuesActivityCard.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "good-pr",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "js"
           }
         ],
