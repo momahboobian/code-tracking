@@ -2,9 +2,9 @@
   "date": "2025-01-11",
   "projects": {
     "good-pr": {
-      "totalLinesAdded": 13969,
+      "totalLinesAdded": 14256,
       "totalLinesRemoved": 450,
-      "totalActiveTime": 93,
+      "totalActiveTime": 101,
       "files": {
         "/Users/mahbom01/Documents/_MoReel Desktop/Git-repo/good-pr/pages/api/updateRepository.js": [
           {
@@ -1036,6 +1036,20 @@
             },
             "duration": 1,
             "language": "js"
+          },
+          {
+            "timestamp": "2025-01-11T15:30:30.624Z",
+            "fileName": "/Users/mahbom01/Documents/_MoReel Desktop/Git-repo/good-pr/postcss.config.js",
+            "fileType": ".js",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "good-pr",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
           }
         ],
         "/Users/mahbom01/Documents/_MoReel Desktop/Git-repo/good-pr/components/Dashboard/Components/Tooltips.js": [
@@ -1126,6 +1140,54 @@
             },
             "duration": 0,
             "language": "unknown"
+          }
+        ],
+        "/Users/mahbom01/Documents/_MoReel Desktop/Git-repo/good-pr/jsconfig.json": [
+          {
+            "timestamp": "2025-01-11T15:30:14.600Z",
+            "fileName": "/Users/mahbom01/Documents/_MoReel Desktop/Git-repo/good-pr/jsconfig.json",
+            "fileType": ".json",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "good-pr",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "json"
+          }
+        ],
+        "/Users/mahbom01/Documents/_MoReel Desktop/Git-repo/good-pr/app/page.module.css": [
+          {
+            "timestamp": "2025-01-11T15:30:55.305Z",
+            "fileName": "/Users/mahbom01/Documents/_MoReel Desktop/Git-repo/good-pr/app/page.module.css",
+            "fileType": ".css",
+            "linesAdded": 230,
+            "linesRemoved": 0,
+            "projectName": "good-pr",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          }
+        ],
+        "/Users/mahbom01/Documents/_MoReel Desktop/Git-repo/good-pr/styles/globals.css": [
+          {
+            "timestamp": "2025-01-11T15:31:14.505Z",
+            "fileName": "/Users/mahbom01/Documents/_MoReel Desktop/Git-repo/good-pr/styles/globals.css",
+            "fileType": ".css",
+            "linesAdded": 41,
+            "linesRemoved": 0,
+            "projectName": "good-pr",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
           }
         ]
       },
