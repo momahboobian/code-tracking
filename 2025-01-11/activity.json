@@ -2,9 +2,9 @@
   "date": "2025-01-11",
   "projects": {
     "good-pr": {
-      "totalLinesAdded": 87,
+      "totalLinesAdded": 7986,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 4,
+      "totalActiveTime": 8,
       "files": {
         "/Users/mahbom01/Documents/_MoReel Desktop/Git-repo/good-pr/pages/api/updateRepository.js": [
           {
@@ -49,6 +49,38 @@
               "removed": []
             },
             "duration": 2,
+            "language": "json"
+          }
+        ],
+        "/Users/mahbom01/Documents/_MoReel Desktop/Git-repo/good-pr/package.json": [
+          {
+            "timestamp": "2025-01-11T00:49:10.708Z",
+            "fileName": "/Users/mahbom01/Documents/_MoReel Desktop/Git-repo/good-pr/package.json",
+            "fileType": ".json",
+            "linesAdded": 49,
+            "linesRemoved": 0,
+            "projectName": "good-pr",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "json"
+          }
+        ],
+        "/Users/mahbom01/Documents/_MoReel Desktop/Git-repo/good-pr/package-lock.json": [
+          {
+            "timestamp": "2025-01-11T00:49:10.889Z",
+            "fileName": "/Users/mahbom01/Documents/_MoReel Desktop/Git-repo/good-pr/package-lock.json",
+            "fileType": ".json",
+            "linesAdded": 7850,
+            "linesRemoved": 0,
+            "projectName": "good-pr",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "json"
           }
         ]
