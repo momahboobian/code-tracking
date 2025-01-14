@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 188                                          |
-| **Lines Removed** (➖) | 6                                        |
-| **Net Change** (↕)    | 182                |
-| **Active Time** (⌚)   | 34 minutes |
+| **Lines Added** (➕)   | 221                                          |
+| **Lines Removed** (➖) | 10                                        |
+| **Net Change** (↕)    | 211                |
+| **Active Time** (⌚)   | 41 minutes |
 
 
 ## Modified Files
@@ -15,7 +15,8 @@
 - **oauthService.ts** (+20, -0)
 - **githubService.ts** (+49, -6)
 - **webhookController.ts** (+49, -0)
-- **authController.ts** (+47, -0)
+- **authController.ts** (+51, -4)
+- **index.ts** (+29, -0)
 
 ## Visualizations
 
@@ -24,7 +25,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 194
+".ts" : 231
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -33,8 +34,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "21h" : 19
-"22h" : 1
+"22h" : 4
 ```
 
 
-> **Last Updated:** 14/01/2025, 22:29:46
+> **Last Updated:** 14/01/2025, 22:34:46
