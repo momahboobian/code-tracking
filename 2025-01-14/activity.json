@@ -2,9 +2,9 @@
   "date": "2025-01-14",
   "projects": {
     "github-activity-tracker": {
-      "totalLinesAdded": 305,
+      "totalLinesAdded": 329,
       "totalLinesRemoved": 33,
-      "totalActiveTime": 78,
+      "totalActiveTime": 84,
       "files": {
         "/Users/mahbom01/Documents/_MoReel Desktop/Git-repo/github-activity-tracker/src/services/tokenCache.ts": [
           {
@@ -640,6 +640,36 @@
             "fileName": "/Users/mahbom01/Documents/_MoReel Desktop/Git-repo/github-activity-tracker/package.json",
             "fileType": ".json",
             "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "github-activity-tracker",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "/Users/mahbom01/Documents/_MoReel Desktop/Git-repo/github-activity-tracker/tsconfig.json": [
+          {
+            "timestamp": "2025-01-14T23:48:05.185Z",
+            "fileName": "/Users/mahbom01/Documents/_MoReel Desktop/Git-repo/github-activity-tracker/tsconfig.json",
+            "fileType": ".json",
+            "linesAdded": 21,
+            "linesRemoved": 0,
+            "projectName": "github-activity-tracker",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-01-14T23:48:10.535Z",
+            "fileName": "/Users/mahbom01/Documents/_MoReel Desktop/Git-repo/github-activity-tracker/tsconfig.json",
+            "fileType": ".json",
+            "linesAdded": 3,
             "linesRemoved": 0,
             "projectName": "github-activity-tracker",
             "content": {

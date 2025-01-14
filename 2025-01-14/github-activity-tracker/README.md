@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 305                                          |
+| **Lines Added** (➕)   | 329                                          |
 | **Lines Removed** (➖) | 33                                        |
-| **Net Change** (↕)    | 272                |
-| **Active Time** (⌚)   | 78 minutes |
+| **Net Change** (↕)    | 296                |
+| **Active Time** (⌚)   | 84 minutes |
 
 
 ## Modified Files
@@ -18,6 +18,7 @@
 - **authController.ts** (+54, -7)
 - **index.ts** (+30, -1)
 - **package.json** (+42, -0)
+- **tsconfig.json** (+24, -0)
 
 ## Visualizations
 
@@ -27,7 +28,7 @@
 pie showData
 title Lines changed by file type
 ".ts" : 296
-".json" : 42
+".json" : 66
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -37,8 +38,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "21h" : 19
 "22h" : 11
-"23h" : 15
+"23h" : 17
 ```
 
 
-> **Last Updated:** 14/01/2025, 23:44:46
+> **Last Updated:** 14/01/2025, 23:49:46
