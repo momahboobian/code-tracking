@@ -2,9 +2,9 @@
   "date": "2025-01-14",
   "projects": {
     "github-activity-tracker": {
-      "totalLinesAdded": 260,
-      "totalLinesRemoved": 31,
-      "totalActiveTime": 63,
+      "totalLinesAdded": 262,
+      "totalLinesRemoved": 32,
+      "totalActiveTime": 71,
       "files": {
         "/Users/mahbom01/Documents/_MoReel Desktop/Git-repo/github-activity-tracker/src/services/tokenCache.ts": [
           {
@@ -473,6 +473,34 @@
               "removed": []
             },
             "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-01-14T23:30:06.021Z",
+            "fileName": "/Users/mahbom01/Documents/_MoReel Desktop/Git-repo/github-activity-tracker/src/controllers/webhookController.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "github-activity-tracker",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-01-14T23:34:06.216Z",
+            "fileName": "/Users/mahbom01/Documents/_MoReel Desktop/Git-repo/github-activity-tracker/src/controllers/webhookController.ts",
+            "fileType": ".ts",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "github-activity-tracker",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "ts"
           }
         ],
