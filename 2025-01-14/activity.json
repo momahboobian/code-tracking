@@ -2,9 +2,9 @@
   "date": "2025-01-14",
   "projects": {
     "github-activity-tracker": {
-      "totalLinesAdded": 256,
-      "totalLinesRemoved": 20,
-      "totalActiveTime": 58,
+      "totalLinesAdded": 260,
+      "totalLinesRemoved": 31,
+      "totalActiveTime": 63,
       "files": {
         "/Users/mahbom01/Documents/_MoReel Desktop/Git-repo/github-activity-tracker/src/services/tokenCache.ts": [
           {
@@ -374,6 +374,34 @@
             },
             "duration": 2,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-01-14T23:25:56.853Z",
+            "fileName": "/Users/mahbom01/Documents/_MoReel Desktop/Git-repo/github-activity-tracker/src/services/githubService.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 9,
+            "projectName": "github-activity-tracker",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-01-14T23:26:04.918Z",
+            "fileName": "/Users/mahbom01/Documents/_MoReel Desktop/Git-repo/github-activity-tracker/src/services/githubService.ts",
+            "fileType": ".ts",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "github-activity-tracker",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ],
         "/Users/mahbom01/Documents/_MoReel Desktop/Git-repo/github-activity-tracker/src/controllers/webhookController.ts": [
@@ -431,6 +459,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-01-14T23:27:53.188Z",
+            "fileName": "/Users/mahbom01/Documents/_MoReel Desktop/Git-repo/github-activity-tracker/src/controllers/webhookController.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "github-activity-tracker",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "ts"
           }
         ],
