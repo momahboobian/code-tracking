@@ -2,9 +2,9 @@
   "date": "2025-01-14",
   "projects": {
     "github-activity-tracker": {
-      "totalLinesAdded": 237,
-      "totalLinesRemoved": 10,
-      "totalActiveTime": 41,
+      "totalLinesAdded": 241,
+      "totalLinesRemoved": 13,
+      "totalActiveTime": 46,
       "files": {
         "/Users/mahbom01/Documents/_MoReel Desktop/Git-repo/github-activity-tracker/src/services/tokenCache.ts": [
           {
@@ -292,6 +292,20 @@
             },
             "duration": 0,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-01-14T22:53:00.856Z",
+            "fileName": "/Users/mahbom01/Documents/_MoReel Desktop/Git-repo/github-activity-tracker/src/controllers/webhookController.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "github-activity-tracker",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ],
         "/Users/mahbom01/Documents/_MoReel Desktop/Git-repo/github-activity-tracker/src/controllers/authController.ts": [
@@ -335,6 +349,34 @@
               "removed": []
             },
             "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-01-14T22:51:47.364Z",
+            "fileName": "/Users/mahbom01/Documents/_MoReel Desktop/Git-repo/github-activity-tracker/src/controllers/authController.ts",
+            "fileType": ".ts",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "github-activity-tracker",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-01-14T22:52:04.481Z",
+            "fileName": "/Users/mahbom01/Documents/_MoReel Desktop/Git-repo/github-activity-tracker/src/controllers/authController.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "github-activity-tracker",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "ts"
           }
         ],
