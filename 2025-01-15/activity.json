@@ -2,9 +2,9 @@
   "date": "2025-01-15",
   "projects": {
     "github-activity-tracker": {
-      "totalLinesAdded": 118,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 6,
+      "totalLinesAdded": 145,
+      "totalLinesRemoved": 24,
+      "totalActiveTime": 18,
       "files": {
         "/Users/mahbom01/Documents/_MoReel Desktop/Git-repo/github-activity-tracker/tsconfig.json": [
           {
@@ -35,6 +35,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-01-15T00:08:47.119Z",
+            "fileName": "/Users/mahbom01/Documents/_MoReel Desktop/Git-repo/github-activity-tracker/src/index.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 9,
+            "projectName": "github-activity-tracker",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "ts"
           }
         ],
@@ -72,6 +86,50 @@
             "fileName": "/Users/mahbom01/Documents/_MoReel Desktop/Git-repo/github-activity-tracker/src/services/githubService.ts",
             "fileType": ".ts",
             "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "github-activity-tracker",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-01-15T00:04:25.339Z",
+            "fileName": "/Users/mahbom01/Documents/_MoReel Desktop/Git-repo/github-activity-tracker/src/services/githubService.ts",
+            "fileType": ".ts",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "github-activity-tracker",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-01-15T00:09:51.518Z",
+            "fileName": "/Users/mahbom01/Documents/_MoReel Desktop/Git-repo/github-activity-tracker/src/services/githubService.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 15,
+            "projectName": "github-activity-tracker",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          }
+        ],
+        "/Users/mahbom01/Documents/_MoReel Desktop/Git-repo/github-activity-tracker/src/config/index.ts": [
+          {
+            "timestamp": "2025-01-15T00:09:58.987Z",
+            "fileName": "/Users/mahbom01/Documents/_MoReel Desktop/Git-repo/github-activity-tracker/src/config/index.ts",
+            "fileType": ".ts",
+            "linesAdded": 25,
             "linesRemoved": 0,
             "projectName": "github-activity-tracker",
             "content": {
