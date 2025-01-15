@@ -2,7 +2,7 @@
   "date": "2025-01-15",
   "projects": {
     "github-activity-tracker": {
-      "totalLinesAdded": 145,
+      "totalLinesAdded": 192,
       "totalLinesRemoved": 24,
       "totalActiveTime": 18,
       "files": {
@@ -137,6 +137,22 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/mahbom01/Documents/_MoReel Desktop/Git-repo/github-activity-tracker/src/controllers/authController.ts": [
+          {
+            "timestamp": "2025-01-15T00:35:15.320Z",
+            "fileName": "/Users/mahbom01/Documents/_MoReel Desktop/Git-repo/github-activity-tracker/src/controllers/authController.ts",
+            "fileType": ".ts",
+            "linesAdded": 47,
+            "linesRemoved": 0,
+            "projectName": "github-activity-tracker",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "ts"
           }
         ]
