@@ -187,6 +187,57 @@
         "/Users/mahbom01/Documents/_MoReel Desktop/Git-repo/github-activity-tracker/src/index.ts"
       ],
       "averageChangeSize": 23.6
+    },
+    "activity-tracker": {
+      "totalLinesAdded": 70,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/mahbom01/Documents/_MoReel Desktop/Git-repo/activity-tracker/src/app/page.tsx": [
+          {
+            "timestamp": "2025-01-15T16:53:10.799Z",
+            "fileName": "/Users/mahbom01/Documents/_MoReel Desktop/Git-repo/activity-tracker/src/app/page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 17,
+            "linesRemoved": 0,
+            "projectName": "activity-tracker",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "/Users/mahbom01/Documents/_MoReel Desktop/Git-repo/activity-tracker/package.json": [
+          {
+            "timestamp": "2025-01-15T16:53:10.796Z",
+            "fileName": "/Users/mahbom01/Documents/_MoReel Desktop/Git-repo/activity-tracker/package.json",
+            "fileType": ".json",
+            "linesAdded": 53,
+            "linesRemoved": 0,
+            "projectName": "activity-tracker",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "tsx": 0,
+        "json": 0
+      },
+      "changeFrequency": {
+        "16": 0
+      },
+      "topFiles": [
+        "/Users/mahbom01/Documents/_MoReel Desktop/Git-repo/activity-tracker/src/app/page.tsx",
+        "/Users/mahbom01/Documents/_MoReel Desktop/Git-repo/activity-tracker/package.json"
+      ],
+      "averageChangeSize": 35
     }
   },
   "totalActiveTime": 6,
