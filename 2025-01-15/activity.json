@@ -2,7 +2,7 @@
   "date": "2025-01-15",
   "projects": {
     "github-activity-tracker": {
-      "totalLinesAdded": 192,
+      "totalLinesAdded": 238,
       "totalLinesRemoved": 24,
       "totalActiveTime": 18,
       "files": {
@@ -154,6 +154,22 @@
             },
             "duration": 0,
             "language": "ts"
+          }
+        ],
+        "/Users/mahbom01/Documents/_MoReel Desktop/Git-repo/github-activity-tracker/.env": [
+          {
+            "timestamp": "2025-01-15T13:11:44.414Z",
+            "fileName": "/Users/mahbom01/Documents/_MoReel Desktop/Git-repo/github-activity-tracker/.env",
+            "fileType": "unknown",
+            "linesAdded": 46,
+            "linesRemoved": 0,
+            "projectName": "github-activity-tracker",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
           }
         ]
       },
