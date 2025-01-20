@@ -1,0 +1,120 @@
+{
+  "date": "2025-01-20",
+  "projects": {
+    "activity-tracker": {
+      "totalLinesAdded": 103,
+      "totalLinesRemoved": 3,
+      "totalActiveTime": 5,
+      "files": {
+        "/Volumes/OS x Base iMac/_MoReel Desktop/Git-repo/activity-tracker/src/components/gitHubLogin.tsx": [
+          {
+            "timestamp": "2025-01-20T09:56:37.179Z",
+            "fileName": "/Volumes/OS x Base iMac/_MoReel Desktop/Git-repo/activity-tracker/src/components/gitHubLogin.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "activity-tracker",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-01-20T09:56:47.674Z",
+            "fileName": "/Volumes/OS x Base iMac/_MoReel Desktop/Git-repo/activity-tracker/src/components/gitHubLogin.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 83,
+            "linesRemoved": 0,
+            "projectName": "activity-tracker",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-01-20T09:58:17.129Z",
+            "fileName": "/Volumes/OS x Base iMac/_MoReel Desktop/Git-repo/activity-tracker/src/components/gitHubLogin.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "activity-tracker",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-01-20T09:58:30.887Z",
+            "fileName": "/Volumes/OS x Base iMac/_MoReel Desktop/Git-repo/activity-tracker/src/components/gitHubLogin.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "activity-tracker",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Volumes/OS x Base iMac/_MoReel Desktop/Git-repo/activity-tracker/src/app/page.tsx": [
+          {
+            "timestamp": "2025-01-20T09:56:57.640Z",
+            "fileName": "/Volumes/OS x Base iMac/_MoReel Desktop/Git-repo/activity-tracker/src/app/page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 17,
+            "linesRemoved": 0,
+            "projectName": "activity-tracker",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-01-20T09:57:36.549Z",
+            "fileName": "/Volumes/OS x Base iMac/_MoReel Desktop/Git-repo/activity-tracker/src/app/page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "activity-tracker",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "tsx": 5
+      },
+      "changeFrequency": {
+        "9": 5
+      },
+      "topFiles": [
+        "/Volumes/OS x Base iMac/_MoReel Desktop/Git-repo/activity-tracker/src/components/gitHubLogin.tsx",
+        "/Volumes/OS x Base iMac/_MoReel Desktop/Git-repo/activity-tracker/src/app/page.tsx"
+      ],
+      "averageChangeSize": 17.666666666666668
+    }
+  },
+  "totalActiveTime": 5,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    9
+  ],
+  "mostUsedLanguages": [
+    "tsx"
+  ]
+}
