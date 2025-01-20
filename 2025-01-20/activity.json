@@ -2,9 +2,9 @@
   "date": "2025-01-20",
   "projects": {
     "activity-tracker": {
-      "totalLinesAdded": 143,
-      "totalLinesRemoved": 56,
-      "totalActiveTime": 16,
+      "totalLinesAdded": 147,
+      "totalLinesRemoved": 57,
+      "totalActiveTime": 18,
       "files": {
         "/Volumes/OS x Base iMac/_MoReel Desktop/Git-repo/activity-tracker/src/components/gitHubLogin.tsx": [
           {
@@ -103,6 +103,48 @@
               "removed": []
             },
             "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-01-20T10:36:28.059Z",
+            "fileName": "/Volumes/OS x Base iMac/_MoReel Desktop/Git-repo/activity-tracker/src/components/gitHubLogin.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "activity-tracker",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-01-20T10:36:33.408Z",
+            "fileName": "/Volumes/OS x Base iMac/_MoReel Desktop/Git-repo/activity-tracker/src/components/gitHubLogin.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "activity-tracker",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-01-20T10:37:32.131Z",
+            "fileName": "/Volumes/OS x Base iMac/_MoReel Desktop/Git-repo/activity-tracker/src/components/gitHubLogin.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "activity-tracker",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "tsx"
           }
         ],
