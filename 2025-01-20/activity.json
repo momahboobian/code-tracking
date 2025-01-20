@@ -2,9 +2,9 @@
   "date": "2025-01-20",
   "projects": {
     "activity-tracker": {
-      "totalLinesAdded": 197,
-      "totalLinesRemoved": 61,
-      "totalActiveTime": 30,
+      "totalLinesAdded": 221,
+      "totalLinesRemoved": 63,
+      "totalActiveTime": 39,
       "files": {
         "/Volumes/OS x Base iMac/_MoReel Desktop/Git-repo/activity-tracker/src/components/gitHubLogin.tsx": [
           {
@@ -202,6 +202,90 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-01-20T10:44:24.691Z",
+            "fileName": "/Volumes/OS x Base iMac/_MoReel Desktop/Git-repo/activity-tracker/src/components/gitHubLogin.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "activity-tracker",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-01-20T10:45:40.813Z",
+            "fileName": "/Volumes/OS x Base iMac/_MoReel Desktop/Git-repo/activity-tracker/src/components/gitHubLogin.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "activity-tracker",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-01-20T10:45:48.464Z",
+            "fileName": "/Volumes/OS x Base iMac/_MoReel Desktop/Git-repo/activity-tracker/src/components/gitHubLogin.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "activity-tracker",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-01-20T10:46:31.841Z",
+            "fileName": "/Volumes/OS x Base iMac/_MoReel Desktop/Git-repo/activity-tracker/src/components/gitHubLogin.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "activity-tracker",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-01-20T10:47:45.127Z",
+            "fileName": "/Volumes/OS x Base iMac/_MoReel Desktop/Git-repo/activity-tracker/src/components/gitHubLogin.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "activity-tracker",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-01-20T10:48:00.273Z",
+            "fileName": "/Volumes/OS x Base iMac/_MoReel Desktop/Git-repo/activity-tracker/src/components/gitHubLogin.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 17,
+            "linesRemoved": 0,
+            "projectName": "activity-tracker",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "/Volumes/OS x Base iMac/_MoReel Desktop/Git-repo/activity-tracker/src/app/page.tsx": [
@@ -296,6 +380,20 @@
             "fileName": "/Volumes/OS x Base iMac/_MoReel Desktop/Git-repo/activity-tracker/src/components/icons/mailIcons.tsx",
             "fileType": ".tsx",
             "linesAdded": 19,
+            "linesRemoved": 0,
+            "projectName": "activity-tracker",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-01-20T10:43:54.931Z",
+            "fileName": "/Volumes/OS x Base iMac/_MoReel Desktop/Git-repo/activity-tracker/src/components/icons/mailIcons.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
             "linesRemoved": 0,
             "projectName": "activity-tracker",
             "content": {
