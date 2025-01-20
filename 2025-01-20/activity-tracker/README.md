@@ -4,14 +4,14 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 103                                          |
-| **Lines Removed** (➖) | 3                                        |
-| **Net Change** (↕)    | 100                |
-| **Active Time** (⌚)   | 5 minutes |
+| **Lines Added** (➕)   | 136                                          |
+| **Lines Removed** (➖) | 56                                        |
+| **Net Change** (↕)    | 80                |
+| **Active Time** (⌚)   | 9 minutes |
 
 
 ## Modified Files
-- **gitHubLogin.tsx** (+86, -2)
+- **gitHubLogin.tsx** (+119, -55)
 - **page.tsx** (+17, -1)
 
 ## Visualizations
@@ -21,7 +21,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 106
+".tsx" : 192
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -30,7 +30,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "09h" : 6
+"10h" : 2
 ```
 
 
-> **Last Updated:** 20/01/2025, 09:58:41
+> **Last Updated:** 20/01/2025, 10:03:41
