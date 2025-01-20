@@ -2,7 +2,7 @@
   "date": "2025-01-20",
   "projects": {
     "activity-tracker": {
-      "totalLinesAdded": 221,
+      "totalLinesAdded": 233,
       "totalLinesRemoved": 66,
       "totalActiveTime": 43,
       "files": {
@@ -299,6 +299,20 @@
               "removed": []
             },
             "duration": 4,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-01-20T11:13:11.701Z",
+            "fileName": "/Volumes/OS x Base iMac/_MoReel Desktop/Git-repo/activity-tracker/src/components/gitHubLogin.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "activity-tracker",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ],
