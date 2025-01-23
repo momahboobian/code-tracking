@@ -2,9 +2,9 @@
   "date": "2025-01-23",
   "projects": {
     "good-pr": {
-      "totalLinesAdded": 107,
+      "totalLinesAdded": 181,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 3,
+      "totalActiveTime": 4,
       "files": {
         "/Volumes/OS x Base iMac/_MoReel Desktop/Git-repo/good-pr/.next/types/package.json": [
           {
@@ -52,6 +52,36 @@
             },
             "duration": 0,
             "language": "prisma"
+          }
+        ],
+        "/Users/sogolazmoon/Desktop/good-pr/.env": [
+          {
+            "timestamp": "2025-01-23T23:41:11.331Z",
+            "fileName": "/Users/sogolazmoon/Desktop/good-pr/.env",
+            "fileType": "unknown",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "good-pr",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-01-23T23:41:11.620Z",
+            "fileName": "/Users/sogolazmoon/Desktop/good-pr/.env",
+            "fileType": "unknown",
+            "linesAdded": 73,
+            "linesRemoved": 0,
+            "projectName": "good-pr",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
           }
         ]
       },
