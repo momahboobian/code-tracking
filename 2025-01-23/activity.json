@@ -1,0 +1,66 @@
+{
+  "date": "2025-01-23",
+  "projects": {
+    "good-pr": {
+      "totalLinesAdded": 75,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 3,
+      "files": {
+        "/Volumes/OS x Base iMac/_MoReel Desktop/Git-repo/good-pr/.next/types/package.json": [
+          {
+            "timestamp": "2025-01-23T18:15:19.169Z",
+            "fileName": "/Volumes/OS x Base iMac/_MoReel Desktop/Git-repo/good-pr/.next/types/package.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "good-pr",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ],
+        "/Volumes/OS x Base iMac/_MoReel Desktop/Git-repo/good-pr/.env": [
+          {
+            "timestamp": "2025-01-23T18:18:17.657Z",
+            "fileName": "/Volumes/OS x Base iMac/_MoReel Desktop/Git-repo/good-pr/.env",
+            "fileType": "unknown",
+            "linesAdded": 74,
+            "linesRemoved": 0,
+            "projectName": "good-pr",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "unknown"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 0,
+        "unknown": 3
+      },
+      "changeFrequency": {
+        "18": 3
+      },
+      "topFiles": [
+        "/Volumes/OS x Base iMac/_MoReel Desktop/Git-repo/good-pr/.next/types/package.json",
+        "/Volumes/OS x Base iMac/_MoReel Desktop/Git-repo/good-pr/.env"
+      ],
+      "averageChangeSize": 37.5
+    }
+  },
+  "totalActiveTime": 3,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    18
+  ],
+  "mostUsedLanguages": [
+    "unknown",
+    "json"
+  ]
+}
