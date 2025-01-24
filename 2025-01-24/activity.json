@@ -2,9 +2,9 @@
   "date": "2025-01-24",
   "projects": {
     "good-pr": {
-      "totalLinesAdded": 132,
+      "totalLinesAdded": 133,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 9,
+      "totalActiveTime": 14,
       "files": {
         "/Users/sogolazmoon/Desktop/good-pr/prisma/schema.prisma": [
           {
@@ -63,6 +63,20 @@
               "removed": []
             },
             "duration": 4,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-01-24T00:24:47.237Z",
+            "fileName": "/Users/sogolazmoon/Desktop/good-pr/Dockerfile",
+            "fileType": "unknown",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "good-pr",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "unknown"
           }
         ],
