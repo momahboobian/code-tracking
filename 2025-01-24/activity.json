@@ -1,0 +1,85 @@
+{
+  "date": "2025-01-24",
+  "projects": {
+    "good-pr": {
+      "totalLinesAdded": 125,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 2,
+      "files": {
+        "/Users/sogolazmoon/Desktop/good-pr/prisma/schema.prisma": [
+          {
+            "timestamp": "2025-01-24T00:02:46.394Z",
+            "fileName": "/Users/sogolazmoon/Desktop/good-pr/prisma/schema.prisma",
+            "fileType": ".prisma",
+            "linesAdded": 32,
+            "linesRemoved": 0,
+            "projectName": "good-pr",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "prisma"
+          }
+        ],
+        "/Users/sogolazmoon/Desktop/good-pr/Dockerfile": [
+          {
+            "timestamp": "2025-01-24T00:03:34.241Z",
+            "fileName": "/Users/sogolazmoon/Desktop/good-pr/Dockerfile",
+            "fileType": "unknown",
+            "linesAdded": 48,
+            "linesRemoved": 0,
+            "projectName": "good-pr",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          }
+        ],
+        "/Users/sogolazmoon/Desktop/good-pr/package.json": [
+          {
+            "timestamp": "2025-01-24T00:04:21.816Z",
+            "fileName": "/Users/sogolazmoon/Desktop/good-pr/package.json",
+            "fileType": ".json",
+            "linesAdded": 45,
+            "linesRemoved": 0,
+            "projectName": "good-pr",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "prisma": 0,
+        "unknown": 1,
+        "json": 1
+      },
+      "changeFrequency": {
+        "0": 2
+      },
+      "topFiles": [
+        "/Users/sogolazmoon/Desktop/good-pr/prisma/schema.prisma",
+        "/Users/sogolazmoon/Desktop/good-pr/Dockerfile",
+        "/Users/sogolazmoon/Desktop/good-pr/package.json"
+      ],
+      "averageChangeSize": 41.666666666666664
+    }
+  },
+  "totalActiveTime": 2,
+  "totalProjects": 1,
+  "totalFiles": 3,
+  "mostActiveHours": [
+    0
+  ],
+  "mostUsedLanguages": [
+    "unknown",
+    "json",
+    "prisma"
+  ]
+}
