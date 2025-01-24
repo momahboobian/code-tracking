@@ -3,7 +3,7 @@
   "projects": {
     "good-pr": {
       "totalLinesAdded": 133,
-      "totalLinesRemoved": 0,
+      "totalLinesRemoved": 1,
       "totalActiveTime": 14,
       "files": {
         "/Users/sogolazmoon/Desktop/good-pr/prisma/schema.prisma": [
@@ -108,6 +108,22 @@
             },
             "duration": 0,
             "language": "json"
+          }
+        ],
+        "/Users/sogolazmoon/Desktop/good-pr/.env": [
+          {
+            "timestamp": "2025-01-24T01:20:18.457Z",
+            "fileName": "/Users/sogolazmoon/Desktop/good-pr/.env",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "good-pr",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
           }
         ]
       },
