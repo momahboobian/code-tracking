@@ -2,7 +2,7 @@
   "date": "2025-01-24",
   "projects": {
     "good-pr": {
-      "totalLinesAdded": 133,
+      "totalLinesAdded": 134,
       "totalLinesRemoved": 1,
       "totalActiveTime": 14,
       "files": {
@@ -117,6 +117,20 @@
             "fileType": "unknown",
             "linesAdded": 0,
             "linesRemoved": 1,
+            "projectName": "good-pr",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-01-24T01:26:02.690Z",
+            "fileName": "/Users/sogolazmoon/Desktop/good-pr/.env",
+            "fileType": "unknown",
+            "linesAdded": 1,
+            "linesRemoved": 0,
             "projectName": "good-pr",
             "content": {
               "added": [],
