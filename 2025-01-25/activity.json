@@ -609,9 +609,9 @@
       "averageChangeSize": 25.333333333333332
     },
     "pdf-analysis-app": {
-      "totalLinesAdded": 198,
+      "totalLinesAdded": 372,
       "totalLinesRemoved": 1,
-      "totalActiveTime": 11,
+      "totalActiveTime": 14,
       "files": {
         "/Volumes/OS x Base iMac/_MoReel Desktop/Git-repo/pdf-analysis-app/src/services/api.ts": [
           {
@@ -763,6 +763,36 @@
             "fileName": "/Volumes/OS x Base iMac/_MoReel Desktop/Git-repo/pdf-analysis-app/src/pages/Home/Home.tsx",
             "fileType": ".tsx",
             "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "pdf-analysis-app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-01-25T17:58:51.457Z",
+            "fileName": "/Volumes/OS x Base iMac/_MoReel Desktop/Git-repo/pdf-analysis-app/src/pages/Home/Home.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "pdf-analysis-app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          }
+        ],
+        "/Volumes/OS x Base iMac/_MoReel Desktop/Git-repo/pdf-analysis-app/src/components/FileUpload/FileUpload.tsx": [
+          {
+            "timestamp": "2025-01-25T17:59:30.482Z",
+            "fileName": "/Volumes/OS x Base iMac/_MoReel Desktop/Git-repo/pdf-analysis-app/src/components/FileUpload/FileUpload.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 169,
             "linesRemoved": 0,
             "projectName": "pdf-analysis-app",
             "content": {

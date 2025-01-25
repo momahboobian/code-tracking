@@ -4,16 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 198                                          |
+| **Lines Added** (➕)   | 372                                          |
 | **Lines Removed** (➖) | 1                                        |
-| **Net Change** (↕)    | 197                |
-| **Active Time** (⌚)   | 11 minutes |
+| **Net Change** (↕)    | 371                |
+| **Active Time** (⌚)   | 14 minutes |
 
 
 ## Modified Files
 - **api.ts** (+75, -0)
 - **socket.ts** (+14, -1)
-- **Home.tsx** (+109, -0)
+- **Home.tsx** (+114, -0)
+- **FileUpload.tsx** (+169, -0)
 
 ## Visualizations
 
@@ -23,7 +24,7 @@
 pie showData
 title Lines changed by file type
 ".ts" : 90
-".tsx" : 109
+".tsx" : 283
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -32,8 +33,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "14h" : 2
-"17h" : 9
+"17h" : 11
 ```
 
 
-> **Last Updated:** 25/01/2025, 17:58:23
+> **Last Updated:** 25/01/2025, 18:03:23
