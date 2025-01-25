@@ -3,8 +3,8 @@
   "projects": {
     "samplePdf": {
       "totalLinesAdded": 127,
-      "totalLinesRemoved": 10,
-      "totalActiveTime": 47,
+      "totalLinesRemoved": 13,
+      "totalActiveTime": 50,
       "files": {
         "/Volumes/OS x Base iMac/_MoReel Desktop/Git-repo/_Python/samplePdf/entrypoint.sh": [
           {
@@ -259,6 +259,34 @@
               "removed": []
             },
             "duration": 2,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-01-25T15:04:46.667Z",
+            "fileName": "/Volumes/OS x Base iMac/_MoReel Desktop/Git-repo/_Python/samplePdf/app.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "samplePdf",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-01-25T15:05:27.515Z",
+            "fileName": "/Volumes/OS x Base iMac/_MoReel Desktop/Git-repo/_Python/samplePdf/app.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "samplePdf",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "py"
           }
         ],
