@@ -4,9 +4,9 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 127                                          |
+| **Lines Added** (➕)   | 144                                          |
 | **Lines Removed** (➖) | 13                                        |
-| **Net Change** (↕)    | 114                |
+| **Net Change** (↕)    | 131                |
 | **Active Time** (⌚)   | 50 minutes |
 
 
@@ -16,6 +16,7 @@
 - **.env** (+9, -0)
 - **config.py** (+20, -0)
 - **gunicorn.conf.py** (+3, -0)
+- **Dockerfile** (+17, -0)
 
 ## Visualizations
 
@@ -26,7 +27,7 @@ pie showData
 title Lines changed by file type
 ".sh" : 11
 ".py" : 120
-"unknown" : 9
+"unknown" : 26
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -35,8 +36,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "14h" : 21
-"15h" : 6
+"15h" : 7
 ```
 
 
-> **Last Updated:** 25/01/2025, 15:08:26
+> **Last Updated:** 25/01/2025, 15:13:26

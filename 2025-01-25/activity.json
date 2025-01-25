@@ -2,7 +2,7 @@
   "date": "2025-01-25",
   "projects": {
     "samplePdf": {
-      "totalLinesAdded": 127,
+      "totalLinesAdded": 144,
       "totalLinesRemoved": 13,
       "totalActiveTime": 50,
       "files": {
@@ -392,6 +392,22 @@
             },
             "duration": 1,
             "language": "py"
+          }
+        ],
+        "/Volumes/OS x Base iMac/_MoReel Desktop/Git-repo/_Python/samplePdf/Dockerfile": [
+          {
+            "timestamp": "2025-01-25T15:12:59.067Z",
+            "fileName": "/Volumes/OS x Base iMac/_MoReel Desktop/Git-repo/_Python/samplePdf/Dockerfile",
+            "fileType": "unknown",
+            "linesAdded": 17,
+            "linesRemoved": 0,
+            "projectName": "samplePdf",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
           }
         ]
       },
