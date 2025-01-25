@@ -2,9 +2,9 @@
   "date": "2025-01-25",
   "projects": {
     "samplePdf": {
-      "totalLinesAdded": 82,
+      "totalLinesAdded": 102,
       "totalLinesRemoved": 1,
-      "totalActiveTime": 18,
+      "totalActiveTime": 26,
       "files": {
         "/Volumes/OS x Base iMac/_MoReel Desktop/Git-repo/_Python/samplePdf/entrypoint.sh": [
           {
@@ -134,6 +134,78 @@
             },
             "duration": 3,
             "language": "py"
+          },
+          {
+            "timestamp": "2025-01-25T14:44:29.033Z",
+            "fileName": "/Volumes/OS x Base iMac/_MoReel Desktop/Git-repo/_Python/samplePdf/app.py",
+            "fileType": ".py",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "samplePdf",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-01-25T14:46:15.627Z",
+            "fileName": "/Volumes/OS x Base iMac/_MoReel Desktop/Git-repo/_Python/samplePdf/app.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "samplePdf",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-01-25T14:48:09.466Z",
+            "fileName": "/Volumes/OS x Base iMac/_MoReel Desktop/Git-repo/_Python/samplePdf/app.py",
+            "fileType": ".py",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "samplePdf",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
+          }
+        ],
+        "/Volumes/OS x Base iMac/_MoReel Desktop/Git-repo/_Python/samplePdf/.env": [
+          {
+            "timestamp": "2025-01-25T14:44:31.283Z",
+            "fileName": "/Volumes/OS x Base iMac/_MoReel Desktop/Git-repo/_Python/samplePdf/.env",
+            "fileType": "unknown",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "samplePdf",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-01-25T14:44:33.777Z",
+            "fileName": "/Volumes/OS x Base iMac/_MoReel Desktop/Git-repo/_Python/samplePdf/.env",
+            "fileType": "unknown",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "samplePdf",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
           }
         ]
       },
