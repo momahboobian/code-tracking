@@ -4,15 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 88                                          |
-| **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 88                |
-| **Active Time** (⌚)   | 2 minutes |
+| **Lines Added** (➕)   | 198                                          |
+| **Lines Removed** (➖) | 1                                        |
+| **Net Change** (↕)    | 197                |
+| **Active Time** (⌚)   | 11 minutes |
 
 
 ## Modified Files
 - **api.ts** (+75, -0)
-- **socket.ts** (+13, -0)
+- **socket.ts** (+14, -1)
+- **Home.tsx** (+109, -0)
 
 ## Visualizations
 
@@ -21,7 +22,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 88
+".ts" : 90
+".tsx" : 109
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -30,7 +32,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "14h" : 2
+"17h" : 9
 ```
 
 
-> **Last Updated:** 25/01/2025, 14:43:23
+> **Last Updated:** 25/01/2025, 17:58:23
