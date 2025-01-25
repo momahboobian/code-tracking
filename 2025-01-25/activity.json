@@ -123,9 +123,9 @@
       "averageChangeSize": 25.333333333333332
     },
     "pdf-analysis-app": {
-      "totalLinesAdded": 75,
+      "totalLinesAdded": 88,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 0,
+      "totalActiveTime": 2,
       "files": {
         "/Volumes/OS x Base iMac/_MoReel Desktop/Git-repo/pdf-analysis-app/src/services/api.ts": [
           {
@@ -140,6 +140,22 @@
               "removed": []
             },
             "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "/Volumes/OS x Base iMac/_MoReel Desktop/Git-repo/pdf-analysis-app/src/utils/socket.ts": [
+          {
+            "timestamp": "2025-01-25T14:39:08.499Z",
+            "fileName": "/Volumes/OS x Base iMac/_MoReel Desktop/Git-repo/pdf-analysis-app/src/utils/socket.ts",
+            "fileType": ".ts",
+            "linesAdded": 13,
+            "linesRemoved": 0,
+            "projectName": "pdf-analysis-app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "ts"
           }
         ]
