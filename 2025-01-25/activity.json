@@ -1,0 +1,80 @@
+{
+  "date": "2025-01-25",
+  "projects": {
+    "samplePdf": {
+      "totalLinesAdded": 76,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 3,
+      "files": {
+        "/Volumes/OS x Base iMac/_MoReel Desktop/Git-repo/_Python/samplePdf/entrypoint.sh": [
+          {
+            "timestamp": "2025-01-25T14:19:35.150Z",
+            "fileName": "/Volumes/OS x Base iMac/_MoReel Desktop/Git-repo/_Python/samplePdf/entrypoint.sh",
+            "fileType": ".sh",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "samplePdf",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "sh"
+          }
+        ],
+        "/Volumes/OS x Base iMac/_MoReel Desktop/Git-repo/_Python/samplePdf/app.py": [
+          {
+            "timestamp": "2025-01-25T14:19:59.590Z",
+            "fileName": "/Volumes/OS x Base iMac/_MoReel Desktop/Git-repo/_Python/samplePdf/app.py",
+            "fileType": ".py",
+            "linesAdded": 65,
+            "linesRemoved": 0,
+            "projectName": "samplePdf",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-01-25T14:21:50.068Z",
+            "fileName": "/Volumes/OS x Base iMac/_MoReel Desktop/Git-repo/_Python/samplePdf/app.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "samplePdf",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
+          }
+        ]
+      },
+      "languageStats": {
+        "sh": 0,
+        "py": 3
+      },
+      "changeFrequency": {
+        "14": 3
+      },
+      "topFiles": [
+        "/Volumes/OS x Base iMac/_MoReel Desktop/Git-repo/_Python/samplePdf/app.py",
+        "/Volumes/OS x Base iMac/_MoReel Desktop/Git-repo/_Python/samplePdf/entrypoint.sh"
+      ],
+      "averageChangeSize": 25.333333333333332
+    }
+  },
+  "totalActiveTime": 3,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    14
+  ],
+  "mostUsedLanguages": [
+    "py",
+    "sh"
+  ]
+}
