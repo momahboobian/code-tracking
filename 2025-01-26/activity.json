@@ -1,0 +1,61 @@
+{
+  "date": "2025-01-26",
+  "projects": {
+    "samplePdf": {
+      "totalLinesAdded": 68,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "/Users/sogolazmoon/Library/Application Support/Code/User/settings.json": [
+          {
+            "timestamp": "2025-01-26T20:11:46.550Z",
+            "fileName": "/Users/sogolazmoon/Library/Application Support/Code/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 66,
+            "linesRemoved": 0,
+            "projectName": "samplePdf",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-01-26T20:11:46.770Z",
+            "fileName": "/Users/sogolazmoon/Library/Application Support/Code/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "samplePdf",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 1
+      },
+      "changeFrequency": {
+        "20": 1
+      },
+      "topFiles": [
+        "/Users/sogolazmoon/Library/Application Support/Code/User/settings.json"
+      ],
+      "averageChangeSize": 34
+    }
+  },
+  "totalActiveTime": 1,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    20
+  ],
+  "mostUsedLanguages": [
+    "json"
+  ]
+}
