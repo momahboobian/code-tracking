@@ -2,7 +2,7 @@
   "date": "2025-01-30",
   "projects": {
     "good-pr": {
-      "totalLinesAdded": 163,
+      "totalLinesAdded": 211,
       "totalLinesRemoved": 3,
       "totalActiveTime": 6,
       "files": {
@@ -110,6 +110,22 @@
             },
             "duration": 2,
             "language": "js"
+          }
+        ],
+        "/Users/momahboobian/Documents/Git-repo/good-pr/Dockerfile": [
+          {
+            "timestamp": "2025-01-30T10:49:09.205Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/good-pr/Dockerfile",
+            "fileType": "unknown",
+            "linesAdded": 48,
+            "linesRemoved": 0,
+            "projectName": "good-pr",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
           }
         ]
       },
