@@ -1,0 +1,78 @@
+{
+  "date": "2025-01-30",
+  "projects": {
+    "good-pr": {
+      "totalLinesAdded": 53,
+      "totalLinesRemoved": 2,
+      "totalActiveTime": 3,
+      "files": {
+        "/Users/momahboobian/Documents/Git-repo/good-pr/package.json": [
+          {
+            "timestamp": "2025-01-30T09:27:56.903Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/good-pr/package.json",
+            "fileType": ".json",
+            "linesAdded": 50,
+            "linesRemoved": 0,
+            "projectName": "good-pr",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/Git-repo/good-pr/.next/package.json": [
+          {
+            "timestamp": "2025-01-30T09:29:09.540Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/good-pr/.next/package.json",
+            "fileType": ".json",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "good-pr",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-01-30T09:30:00.372Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/good-pr/.next/package.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "good-pr",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 3
+      },
+      "changeFrequency": {
+        "9": 3
+      },
+      "topFiles": [
+        "/Users/momahboobian/Documents/Git-repo/good-pr/.next/package.json",
+        "/Users/momahboobian/Documents/Git-repo/good-pr/package.json"
+      ],
+      "averageChangeSize": 18.333333333333332
+    }
+  },
+  "totalActiveTime": 3,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    9
+  ],
+  "mostUsedLanguages": [
+    "json"
+  ]
+}
