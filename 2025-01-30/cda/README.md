@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 417                                          |
+| **Lines Added** (➕)   | 439                                          |
 | **Lines Removed** (➖) | 78                                        |
-| **Net Change** (↕)    | 339                |
-| **Active Time** (⌚)   | 24 minutes |
+| **Net Change** (↕)    | 361                |
+| **Active Time** (⌚)   | 29 minutes |
 
 
 ## Modified Files
@@ -17,6 +17,7 @@
 - **20250130140053-create-duty-request-status-history-table.js** (+20, -1)
 - **settings.json** (+70, -0)
 - **20241018145737-create-allocate-production-filter-to-person.js** (+18, -0)
+- **20250130142220-create-duty-requests-view.js** (+22, -0)
 
 ## Visualizations
 
@@ -27,7 +28,7 @@ pie showData
 title Lines changed by file type
 ".lock" : 343
 ".json" : 93
-".js" : 59
+".js" : 81
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -37,8 +38,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "12h" : 5
 "13h" : 3
-"14h" : 8
+"14h" : 11
 ```
 
 
-> **Last Updated:** 30/01/2025, 14:18:26
+> **Last Updated:** 30/01/2025, 14:28:26
