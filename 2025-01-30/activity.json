@@ -170,6 +170,67 @@
         "/Users/momahboobian/Documents/Git-repo/good-pr/package.json"
       ],
       "averageChangeSize": 18.333333333333332
+    },
+    "cda": {
+      "totalLinesAdded": 266,
+      "totalLinesRemoved": 77,
+      "totalActiveTime": 2,
+      "files": {
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-db-migration/yarn.lock": [
+          {
+            "timestamp": "2025-01-30T12:34:18.776Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-db-migration/yarn.lock",
+            "fileType": ".lock",
+            "linesAdded": 189,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "lock"
+          },
+          {
+            "timestamp": "2025-01-30T12:35:03.500Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-db-migration/yarn.lock",
+            "fileType": ".lock",
+            "linesAdded": 0,
+            "linesRemoved": 77,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "lock"
+          },
+          {
+            "timestamp": "2025-01-30T12:35:16.288Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-db-migration/yarn.lock",
+            "fileType": ".lock",
+            "linesAdded": 77,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "lock"
+          }
+        ]
+      },
+      "languageStats": {
+        "lock": 2
+      },
+      "changeFrequency": {
+        "12": 2
+      },
+      "topFiles": [
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-db-migration/yarn.lock"
+      ],
+      "averageChangeSize": 114.33333333333333
     }
   },
   "totalActiveTime": 3,
