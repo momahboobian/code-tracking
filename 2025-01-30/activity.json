@@ -2,9 +2,9 @@
   "date": "2025-01-30",
   "projects": {
     "good-pr": {
-      "totalLinesAdded": 243,
+      "totalLinesAdded": 411,
       "totalLinesRemoved": 4,
-      "totalActiveTime": 7,
+      "totalActiveTime": 11,
       "files": {
         "/Users/momahboobian/Documents/Git-repo/good-pr/package.json": [
           {
@@ -19,6 +19,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-01-30T18:15:40.043Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/good-pr/package.json",
+            "fileType": ".json",
+            "linesAdded": 50,
+            "linesRemoved": 0,
+            "projectName": "good-pr",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "json"
           }
         ],
@@ -140,6 +154,20 @@
             },
             "duration": 0,
             "language": "unknown"
+          },
+          {
+            "timestamp": "2025-01-30T18:15:40.044Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/good-pr/Dockerfile",
+            "fileType": "unknown",
+            "linesAdded": 48,
+            "linesRemoved": 0,
+            "projectName": "good-pr",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "unknown"
           }
         ],
         "/Users/momahboobian/Documents/Git-repo/good-pr/prisma/schema.prisma": [
@@ -156,6 +184,22 @@
             },
             "duration": 0,
             "language": "prisma"
+          }
+        ],
+        "/Users/momahboobian/Library/Application Support/Code/User/settings.json": [
+          {
+            "timestamp": "2025-01-30T18:14:27.624Z",
+            "fileName": "/Users/momahboobian/Library/Application Support/Code/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 70,
+            "linesRemoved": 0,
+            "projectName": "good-pr",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
           }
         ]
       },
