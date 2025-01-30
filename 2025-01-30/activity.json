@@ -172,7 +172,7 @@
       "averageChangeSize": 18.333333333333332
     },
     "cda": {
-      "totalLinesAdded": 289,
+      "totalLinesAdded": 306,
       "totalLinesRemoved": 77,
       "totalActiveTime": 3,
       "files": {
@@ -248,6 +248,22 @@
             },
             "duration": 1,
             "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-db-migration/src/migrations/staff/tables/20250130135205-create-duty-request-table.js": [
+          {
+            "timestamp": "2025-01-30T13:52:29.634Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-db-migration/src/migrations/staff/tables/20250130135205-create-duty-request-table.js",
+            "fileType": ".js",
+            "linesAdded": 17,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
           }
         ]
       },
