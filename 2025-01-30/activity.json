@@ -2,9 +2,9 @@
   "date": "2025-01-30",
   "projects": {
     "good-pr": {
-      "totalLinesAdded": 509,
+      "totalLinesAdded": 583,
       "totalLinesRemoved": 4,
-      "totalActiveTime": 13,
+      "totalActiveTime": 18,
       "files": {
         "/Users/momahboobian/Documents/Git-repo/good-pr/package.json": [
           {
@@ -93,6 +93,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-01-30T20:59:22.808Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/good-pr/.env",
+            "fileType": "unknown",
+            "linesAdded": 74,
+            "linesRemoved": 0,
+            "projectName": "good-pr",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "unknown"
           }
         ],
