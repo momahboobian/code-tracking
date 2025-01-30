@@ -172,9 +172,9 @@
       "averageChangeSize": 18.333333333333332
     },
     "cda": {
-      "totalLinesAdded": 439,
+      "totalLinesAdded": 440,
       "totalLinesRemoved": 78,
-      "totalActiveTime": 29,
+      "totalActiveTime": 34,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-db-migration/yarn.lock": [
           {
@@ -453,6 +453,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-01-30T14:32:53.496Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-db-migration/src/migrations/staff/views/20250130142220-create-duty-requests-view.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "js"
           }
         ]
