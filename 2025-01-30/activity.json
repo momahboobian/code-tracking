@@ -172,7 +172,7 @@
       "averageChangeSize": 18.333333333333332
     },
     "cda": {
-      "totalLinesAdded": 464,
+      "totalLinesAdded": 487,
       "totalLinesRemoved": 82,
       "totalActiveTime": 49,
       "files": {
@@ -517,6 +517,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-01-30T17:41:57.791Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-db-migration/src/migrations/staff/tables/20250130140053-create-duty-request-status-history-table.js",
+            "fileType": ".js",
+            "linesAdded": 23,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "js"
           }
         ],
