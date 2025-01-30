@@ -2,9 +2,9 @@
   "date": "2025-01-30",
   "projects": {
     "good-pr": {
-      "totalLinesAdded": 411,
+      "totalLinesAdded": 509,
       "totalLinesRemoved": 4,
-      "totalActiveTime": 11,
+      "totalActiveTime": 13,
       "files": {
         "/Users/momahboobian/Documents/Git-repo/good-pr/package.json": [
           {
@@ -23,6 +23,20 @@
           },
           {
             "timestamp": "2025-01-30T18:15:40.043Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/good-pr/package.json",
+            "fileType": ".json",
+            "linesAdded": 50,
+            "linesRemoved": 0,
+            "projectName": "good-pr",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-01-30T20:55:11.732Z",
             "fileName": "/Users/momahboobian/Documents/Git-repo/good-pr/package.json",
             "fileType": ".json",
             "linesAdded": 50,
@@ -167,6 +181,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-01-30T20:53:42.697Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/good-pr/Dockerfile",
+            "fileType": "unknown",
+            "linesAdded": 48,
+            "linesRemoved": 0,
+            "projectName": "good-pr",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "unknown"
           }
         ],
