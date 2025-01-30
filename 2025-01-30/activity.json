@@ -172,7 +172,7 @@
       "averageChangeSize": 18.333333333333332
     },
     "cda": {
-      "totalLinesAdded": 440,
+      "totalLinesAdded": 450,
       "totalLinesRemoved": 78,
       "totalActiveTime": 34,
       "files": {
@@ -467,6 +467,20 @@
               "removed": []
             },
             "duration": 5,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-01-30T14:48:24.415Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-db-migration/src/migrations/staff/views/20250130142220-create-duty-requests-view.js",
+            "fileType": ".js",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "js"
           }
         ]
