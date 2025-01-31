@@ -3,7 +3,7 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 926,
-      "totalLinesRemoved": 356,
+      "totalLinesRemoved": 358,
       "totalActiveTime": 79,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-db-migration/src/migrations/staff/tables/20250130135205-create-duty-request-table.js": [
@@ -803,6 +803,20 @@
           },
           {
             "timestamp": "2025-01-31T16:04:03.670Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/low-risk-schema/resolvers/duty-request.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-01-31T16:16:38.293Z",
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/low-risk-schema/resolvers/duty-request.js",
             "fileType": ".js",
             "linesAdded": 0,
