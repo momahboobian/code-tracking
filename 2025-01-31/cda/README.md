@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 963                                          |
+| **Lines Added** (➕)   | 1433                                          |
 | **Lines Removed** (➖) | 369                                        |
-| **Net Change** (↕)    | 594                |
-| **Active Time** (⌚)   | 96 minutes |
+| **Net Change** (↕)    | 1064                |
+| **Active Time** (⌚)   | 99 minutes |
 
 
 ## Modified Files
@@ -19,6 +19,7 @@
 - **duty-request.js** (+379, -291)
 - **allocate.js** (+118, -0)
 - **dutyRequest.js** (+112, -34)
+- **allocate.js** (+470, -0)
 
 ## Visualizations
 
@@ -27,7 +28,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".js" : 1253
+".js" : 1723
 ".json" : 79
 ```
 
@@ -40,8 +41,8 @@ title Coding activity by hour (count of changes)
 "13h" : 16
 "14h" : 3
 "15h" : 31
-"16h" : 25
+"16h" : 26
 ```
 
 
-> **Last Updated:** 31/01/2025, 16:42:05
+> **Last Updated:** 31/01/2025, 16:47:05
