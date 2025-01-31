@@ -5,16 +5,16 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 225                                          |
-| **Lines Removed** (➖) | 5                                        |
-| **Net Change** (↕)    | 220                |
-| **Active Time** (⌚)   | 13 minutes |
+| **Lines Removed** (➖) | 20                                        |
+| **Net Change** (↕)    | 205                |
+| **Active Time** (⌚)   | 14 minutes |
 
 
 ## Modified Files
 - **20250130135205-create-duty-request-table.js** (+22, -0)
 - **settings.json** (+75, -4)
 - **duty-request.js** (+60, -0)
-- **duty-request.js** (+68, -1)
+- **duty-request.js** (+68, -16)
 
 ## Visualizations
 
@@ -23,7 +23,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".js" : 151
+".js" : 166
 ".json" : 79
 ```
 
@@ -33,8 +33,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "09h" : 7
-"13h" : 10
+"13h" : 12
 ```
 
 
-> **Last Updated:** 31/01/2025, 13:45:40
+> **Last Updated:** 31/01/2025, 13:50:40
