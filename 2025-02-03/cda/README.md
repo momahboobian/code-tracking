@@ -4,16 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 672                                          |
-| **Lines Removed** (➖) | 370                                        |
+| **Lines Added** (➕)   | 702                                          |
+| **Lines Removed** (➖) | 400                                        |
 | **Net Change** (↕)    | 302                |
-| **Active Time** (⌚)   | 212 minutes |
+| **Active Time** (⌚)   | 224 minutes |
 
 
 ## Modified Files
 - **duty-request.js** (+101, -19)
-- **duty-request.js** (+102, -51)
-- **dutyRequest.js** (+406, -300)
+- **duty-request.js** (+106, -55)
+- **dutyRequest.js** (+432, -326)
 - **20250203122505-replace-duty-requests-view.js** (+39, -0)
 - **.env** (+24, -0)
 
@@ -24,7 +24,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".js" : 1018
+".js" : 1078
 "unknown" : 24
 ```
 
@@ -42,8 +42,8 @@ title Coding activity by hour (count of changes)
 "15h" : 10
 "16h" : 22
 "17h" : 19
-"18h" : 20
+"18h" : 24
 ```
 
 
-> **Last Updated:** 03/02/2025, 18:44:22
+> **Last Updated:** 03/02/2025, 18:49:22
