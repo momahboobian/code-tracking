@@ -2,9 +2,9 @@
   "date": "2025-02-05",
   "projects": {
     "cda": {
-      "totalLinesAdded": 108,
+      "totalLinesAdded": 132,
       "totalLinesRemoved": 46,
-      "totalActiveTime": 14,
+      "totalActiveTime": 16,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/packages/cda-transformers/src/duty-reuqest.js": [
           {
@@ -210,6 +210,22 @@
             },
             "duration": 0,
             "language": "js"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/.env": [
+          {
+            "timestamp": "2025-02-05T12:15:21.749Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/.env",
+            "fileType": "unknown",
+            "linesAdded": 24,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "unknown"
           }
         ]
       },
