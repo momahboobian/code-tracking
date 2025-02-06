@@ -2,9 +2,9 @@
   "date": "2025-02-06",
   "projects": {
     "cda": {
-      "totalLinesAdded": 369,
-      "totalLinesRemoved": 76,
-      "totalActiveTime": 132,
+      "totalLinesAdded": 475,
+      "totalLinesRemoved": 77,
+      "totalActiveTime": 137,
       "files": {
         "/Users/momahboobian/Library/Application Support/Code/User/settings.json": [
           {
@@ -1080,6 +1080,92 @@
             },
             "duration": 5,
             "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-transformers/src/duty-request.js": [
+          {
+            "timestamp": "2025-02-06T17:17:29.602Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-transformers/src/duty-request.js",
+            "fileType": ".js",
+            "linesAdded": 49,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-02-06T17:17:49.748Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-transformers/src/duty-request.js",
+            "fileType": ".js",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-02-06T17:18:47.841Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-transformers/src/duty-request.js",
+            "fileType": ".js",
+            "linesAdded": 51,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-02-06T17:19:08.043Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-transformers/src/duty-request.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-02-06T17:20:02.562Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-transformers/src/duty-request.js",
+            "fileType": ".js",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-02-06T17:20:49.111Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-transformers/src/duty-request.js",
+            "fileType": ".js",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
           }
         ]
       },
