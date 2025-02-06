@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 335,
-      "totalLinesRemoved": 57,
-      "totalActiveTime": 104,
+      "totalLinesRemoved": 58,
+      "totalActiveTime": 105,
       "files": {
         "/Users/momahboobian/Library/Application Support/Code/User/settings.json": [
           {
@@ -777,6 +777,20 @@
             "fileType": ".ts",
             "linesAdded": 2,
             "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-02-06T11:20:31.643Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/low-risk-schema/duty-request/service/getDutyRequests.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "cda",
             "content": {
               "added": [],
