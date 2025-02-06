@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 321                                          |
-| **Lines Removed** (➖) | 46                                        |
-| **Net Change** (↕)    | 275                |
-| **Active Time** (⌚)   | 88 minutes |
+| **Lines Added** (➕)   | 332                                          |
+| **Lines Removed** (➖) | 47                                        |
+| **Net Change** (↕)    | 285                |
+| **Active Time** (⌚)   | 95 minutes |
 
 
 ## Modified Files
@@ -15,7 +15,7 @@
 - **createDutyRequest.ts** (+19, -15)
 - **dutyRequest.js** (+3, -3)
 - **deleteDutyRequest.ts** (+12, -11)
-- **getDutyRequests.ts** (+127, -11)
+- **getDutyRequests.ts** (+138, -12)
 - **updateDutyRequest.ts** (+89, -6)
 
 ## Visualizations
@@ -26,7 +26,7 @@
 pie showData
 title Lines changed by file type
 ".json" : 71
-".ts" : 290
+".ts" : 302
 ".js" : 6
 ```
 
@@ -37,8 +37,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "09h" : 12
 "10h" : 30
-"11h" : 7
+"11h" : 11
 ```
 
 
-> **Last Updated:** 06/02/2025, 11:10:12
+> **Last Updated:** 06/02/2025, 11:15:12
