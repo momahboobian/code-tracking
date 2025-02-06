@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 476,
-      "totalLinesRemoved": 94,
-      "totalActiveTime": 146,
+      "totalLinesRemoved": 95,
+      "totalActiveTime": 150,
       "files": {
         "/Users/momahboobian/Library/Application Support/Code/User/settings.json": [
           {
@@ -1235,6 +1235,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-02-06T17:29:21.019Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-transformers/src/duty-request.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "js"
           }
         ]
