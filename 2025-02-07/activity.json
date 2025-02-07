@@ -2,9 +2,9 @@
   "date": "2025-02-07",
   "projects": {
     "cda": {
-      "totalLinesAdded": 8883,
+      "totalLinesAdded": 8943,
       "totalLinesRemoved": 33,
-      "totalActiveTime": 32,
+      "totalActiveTime": 41,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/packages/cda-transformers/src/duty-request.js": [
           {
@@ -360,6 +360,150 @@
             },
             "duration": 1,
             "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/graphql/low-risk/queries.ts": [
+          {
+            "timestamp": "2025-02-07T11:12:47.482Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/graphql/low-risk/queries.ts",
+            "fileType": ".ts",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-02-07T11:13:41.460Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/graphql/low-risk/queries.ts",
+            "fileType": ".ts",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-02-07T11:14:06.434Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/graphql/low-risk/queries.ts",
+            "fileType": ".ts",
+            "linesAdded": 23,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-02-07T11:14:11.816Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/graphql/low-risk/queries.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-02-07T11:14:42.707Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/graphql/low-risk/queries.ts",
+            "fileType": ".ts",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-02-07T11:15:18.293Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/graphql/low-risk/queries.ts",
+            "fileType": ".ts",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-02-07T11:15:42.593Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/graphql/low-risk/queries.ts",
+            "fileType": ".ts",
+            "linesAdded": 24,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/graphql/low-risk/mutations.ts": [
+          {
+            "timestamp": "2025-02-07T11:16:02.228Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/graphql/low-risk/mutations.ts",
+            "fileType": ".ts",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-02-07T11:16:18.791Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/graphql/low-risk/mutations.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-02-07T11:17:02.385Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/graphql/low-risk/mutations.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ]
       },
