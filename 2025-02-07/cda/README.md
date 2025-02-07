@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 9278                                          |
-| **Lines Removed** (➖) | 93                                        |
-| **Net Change** (↕)    | 9185                |
-| **Active Time** (⌚)   | 101 minutes |
+| **Lines Added** (➕)   | 9344                                          |
+| **Lines Removed** (➖) | 95                                        |
+| **Net Change** (↕)    | 9249                |
+| **Active Time** (⌚)   | 110 minutes |
 
 
 ## Modified Files
@@ -23,7 +23,7 @@
 - **index.tsx** (+18, -0)
 - **queries.ts** (+56, -0)
 - **mutations.ts** (+82, -0)
-- **Home.tsx** (+47, -7)
+- **Home.tsx** (+47, -9)
 - **App.tsx** (+47, -0)
 - **index.ts** (+3, -0)
 - **NewRequest.test.tsx** (+19, -18)
@@ -34,6 +34,11 @@
 - **App.scss** (+38, -0)
 - **types.ts** (+28, -13)
 - **version.ts** (+11, -0)
+- **.env** (+24, -0)
+- **index.ts** (+3, -0)
+- **RequestWrapper.test.tsx** (+14, -0)
+- **RequestWrapper.tsx** (+21, -0)
+- **RequestWrapper.scss** (+4, -0)
 
 ## Visualizations
 
@@ -44,9 +49,10 @@ pie showData
 title Lines changed by file type
 ".js" : 199
 ".lock" : 8110
-".ts" : 764
-".tsx" : 260
-".scss" : 38
+".ts" : 767
+".tsx" : 297
+".scss" : 42
+"unknown" : 24
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -57,8 +63,8 @@ title Coding activity by hour (count of changes)
 "09h" : 14
 "10h" : 8
 "11h" : 39
-"12h" : 14
+"12h" : 20
 ```
 
 
-> **Last Updated:** 07/02/2025, 12:52:10
+> **Last Updated:** 07/02/2025, 12:57:10
