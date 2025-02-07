@@ -4,20 +4,21 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 8604                                          |
-| **Lines Removed** (➖) | 31                                        |
-| **Net Change** (↕)    | 8573                |
-| **Active Time** (⌚)   | 17 minutes |
+| **Lines Added** (➕)   | 8844                                          |
+| **Lines Removed** (➖) | 32                                        |
+| **Net Change** (↕)    | 8812                |
+| **Active Time** (⌚)   | 26 minutes |
 
 
 ## Modified Files
-- **duty-request.js** (+6, -15)
-- **duty-request.js** (+3, -4)
+- **duty-request.js** (+55, -15)
+- **duty-request.js** (+95, -4)
 - **yarn.lock** (+8098, -12)
 - **index.js** (+30, -0)
 - **index.ts** (+273, -0)
 - **createDutyRequest.ts** (+76, -0)
 - **getDutyRequests.ts** (+118, -0)
+- **updateDutyRequest.ts** (+99, -1)
 
 ## Visualizations
 
@@ -26,9 +27,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".js" : 58
+".js" : 199
 ".lock" : 8110
-".ts" : 467
+".ts" : 567
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -37,8 +38,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "09h" : 14
-"10h" : 2
+"10h" : 7
 ```
 
 
-> **Last Updated:** 07/02/2025, 10:47:10
+> **Last Updated:** 07/02/2025, 10:52:10
