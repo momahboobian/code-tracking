@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 1191,
-      "totalLinesRemoved": 791,
-      "totalActiveTime": 360,
+      "totalLinesRemoved": 794,
+      "totalActiveTime": 364,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/components/RequestWrapper/RequestWrapper.scss": [
           {
@@ -2849,6 +2849,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-10T17:25:22.989Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/components/RequestForm/RequestForm.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "tsx"
           }
         ],
