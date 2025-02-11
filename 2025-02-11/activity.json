@@ -2,9 +2,9 @@
   "date": "2025-02-11",
   "projects": {
     "cda": {
-      "totalLinesAdded": 758,
-      "totalLinesRemoved": 411,
-      "totalActiveTime": 105,
+      "totalLinesAdded": 780,
+      "totalLinesRemoved": 422,
+      "totalActiveTime": 109,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/components/RequestForm/RequestForm.tsx": [
           {
@@ -804,6 +804,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-11T11:03:20.747Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/components/RequestForm/RequestForm.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 11,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/types/types.ts": [
@@ -834,6 +848,52 @@
             },
             "duration": 1,
             "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/helpers/GenerateOptions.ts": [
+          {
+            "timestamp": "2025-02-11T11:01:26.240Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/helpers/GenerateOptions.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-02-11T11:01:36.837Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/helpers/GenerateOptions.ts",
+            "fileType": ".ts",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/components/GenerateOptions/GenerateOptions.tsx": [
+          {
+            "timestamp": "2025-02-11T11:03:06.290Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/components/GenerateOptions/GenerateOptions.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
           }
         ]
       },
