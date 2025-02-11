@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 2439,
-      "totalLinesRemoved": 1695,
-      "totalActiveTime": 459,
+      "totalLinesRemoved": 1712,
+      "totalActiveTime": 465,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/components/RequestForm/RequestForm.tsx": [
           {
@@ -4059,6 +4059,48 @@
             "fileType": ".tsx",
             "linesAdded": 1,
             "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-11T18:56:19.885Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/components/RequestForm/RequestForm.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 14,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-11T18:57:04.713Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/components/RequestForm/RequestForm.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-11T18:57:12.892Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/components/RequestForm/RequestForm.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "cda",
             "content": {
               "added": [],
