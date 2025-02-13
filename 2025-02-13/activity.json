@@ -927,9 +927,9 @@
       "averageChangeSize": 32.333333333333336
     },
     "samplePdf": {
-      "totalLinesAdded": 179,
+      "totalLinesAdded": 182,
       "totalLinesRemoved": 3,
-      "totalActiveTime": 3,
+      "totalActiveTime": 5,
       "files": {
         "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/app.py": [
           {
@@ -1004,6 +1004,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-02-13T13:56:54.762Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/utils/calcGrandTotals.py",
+            "fileType": ".py",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "samplePdf",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "py"
           }
         ]
