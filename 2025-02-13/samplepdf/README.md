@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 289                                          |
+| **Lines Added** (➕)   | 301                                          |
 | **Lines Removed** (➖) | 6                                        |
-| **Net Change** (↕)    | 283                |
-| **Active Time** (⌚)   | 18 minutes |
+| **Net Change** (↕)    | 295                |
+| **Active Time** (⌚)   | 22 minutes |
 
 
 ## Modified Files
@@ -15,8 +15,9 @@
 - **pdf_processing.py** (+42, -0)
 - **calcGrandTotals.py** (+53, -3)
 - **extractSiteNames.py** (+73, -0)
-- **cors_config.py** (+11, -0)
+- **cors_config.py** (+14, -0)
 - **config.py** (+23, -3)
+- **.env** (+9, -0)
 
 ## Visualizations
 
@@ -25,7 +26,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".py" : 295
+".py" : 298
+"unknown" : 9
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -34,8 +36,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "13h" : 6
-"14h" : 9
+"14h" : 11
 ```
 
 
-> **Last Updated:** 13/02/2025, 14:16:30
+> **Last Updated:** 13/02/2025, 14:21:30
