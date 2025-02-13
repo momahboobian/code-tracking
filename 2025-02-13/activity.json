@@ -927,7 +927,7 @@
       "averageChangeSize": 32.333333333333336
     },
     "samplePdf": {
-      "totalLinesAdded": 255,
+      "totalLinesAdded": 256,
       "totalLinesRemoved": 3,
       "totalActiveTime": 10,
       "files": {
@@ -1034,6 +1034,22 @@
               "removed": []
             },
             "duration": 5,
+            "language": "py"
+          }
+        ],
+        "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/utils/cors_config.py": [
+          {
+            "timestamp": "2025-02-13T14:10:42.229Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/utils/cors_config.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "samplePdf",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "py"
           }
         ]
