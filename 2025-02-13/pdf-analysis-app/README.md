@@ -4,18 +4,20 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 284                                          |
-| **Lines Removed** (➖) | 19                                        |
-| **Net Change** (↕)    | 265                |
-| **Active Time** (⌚)   | 11 minutes |
+| **Lines Added** (➕)   | 340                                          |
+| **Lines Removed** (➖) | 21                                        |
+| **Net Change** (↕)    | 319                |
+| **Active Time** (⌚)   | 22 minutes |
 
 
 ## Modified Files
 - **api.ts** (+84, -9)
-- **socket.ts** (+13, -0)
+- **socket.ts** (+15, -0)
 - **Home.tsx** (+114, -8)
 - **settings.json** (+71, -1)
 - **.env** (+2, -1)
+- **package.json** (+45, -0)
+- **socketUrl.ts** (+9, -2)
 
 ## Visualizations
 
@@ -24,9 +26,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 106
+".ts" : 119
 ".tsx" : 122
-".json" : 72
+".json" : 117
 "unknown" : 3
 ```
 
@@ -36,8 +38,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "13h" : 3
-"14h" : 8
+"14h" : 16
 ```
 
 
-> **Last Updated:** 13/02/2025, 14:34:38
+> **Last Updated:** 13/02/2025, 14:39:38
