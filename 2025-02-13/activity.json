@@ -927,9 +927,9 @@
       "averageChangeSize": 32.333333333333336
     },
     "samplePdf": {
-      "totalLinesAdded": 182,
+      "totalLinesAdded": 255,
       "totalLinesRemoved": 3,
-      "totalActiveTime": 5,
+      "totalActiveTime": 10,
       "files": {
         "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/app.py": [
           {
@@ -1018,6 +1018,22 @@
               "removed": []
             },
             "duration": 2,
+            "language": "py"
+          }
+        ],
+        "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/utils/extractSiteNames.py": [
+          {
+            "timestamp": "2025-02-13T14:01:38.449Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/utils/extractSiteNames.py",
+            "fileType": ".py",
+            "linesAdded": 73,
+            "linesRemoved": 0,
+            "projectName": "samplePdf",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "py"
           }
         ]
