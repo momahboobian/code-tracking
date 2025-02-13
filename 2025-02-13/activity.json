@@ -861,6 +861,70 @@
         "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/components/RequestForm/RequestForm.test.tsx"
       ],
       "averageChangeSize": 64
+    },
+    "pdf-analysis-app": {
+      "totalLinesAdded": 88,
+      "totalLinesRemoved": 9,
+      "totalActiveTime": 2,
+      "files": {
+        "/Users/momahboobian/Documents/Git-repo/pdf-analysis-app/src/services/api.ts": [
+          {
+            "timestamp": "2025-02-13T13:10:49.715Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/pdf-analysis-app/src/services/api.ts",
+            "fileType": ".ts",
+            "linesAdded": 75,
+            "linesRemoved": 0,
+            "projectName": "pdf-analysis-app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-02-13T13:10:54.941Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/pdf-analysis-app/src/services/api.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 9,
+            "projectName": "pdf-analysis-app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/Git-repo/pdf-analysis-app/src/utils/socket.ts": [
+          {
+            "timestamp": "2025-02-13T13:11:26.986Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/pdf-analysis-app/src/utils/socket.ts",
+            "fileType": ".ts",
+            "linesAdded": 13,
+            "linesRemoved": 0,
+            "projectName": "pdf-analysis-app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ]
+      },
+      "languageStats": {
+        "ts": 2
+      },
+      "changeFrequency": {
+        "13": 2
+      },
+      "topFiles": [
+        "/Users/momahboobian/Documents/Git-repo/pdf-analysis-app/src/services/api.ts",
+        "/Users/momahboobian/Documents/Git-repo/pdf-analysis-app/src/utils/socket.ts"
+      ],
+      "averageChangeSize": 32.333333333333336
     }
   },
   "totalActiveTime": 0,
