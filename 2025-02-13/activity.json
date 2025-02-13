@@ -2,9 +2,9 @@
   "date": "2025-02-13",
   "projects": {
     "cda": {
-      "totalLinesAdded": 497,
-      "totalLinesRemoved": 61,
-      "totalActiveTime": 96,
+      "totalLinesAdded": 660,
+      "totalLinesRemoved": 64,
+      "totalActiveTime": 109,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/components/RequestForm/RequestForm.test.tsx": [
           {
@@ -548,6 +548,62 @@
             },
             "duration": 0,
             "language": "unknown"
+          },
+          {
+            "timestamp": "2025-02-13T15:04:18.665Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-02-13T15:04:27.535Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-02-13T15:04:37.160Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-02-13T15:05:15.053Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/containers/NewRequest/NewRequest.scss": [
@@ -862,6 +918,36 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-13T15:01:05.384Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/components/RequestForm/RequestForm.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 147,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/generated/version.ts": [
+          {
+            "timestamp": "2025-02-13T15:05:22.585Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/generated/version.ts",
+            "fileType": ".ts",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ]
       },
