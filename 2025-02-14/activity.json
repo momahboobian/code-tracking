@@ -2051,9 +2051,9 @@
       "averageChangeSize": 1.5
     },
     "src": {
-      "totalLinesAdded": 134,
+      "totalLinesAdded": 161,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 1,
+      "totalActiveTime": 2,
       "files": {
         "/Users/momahboobian/Documents/_BBC/Duty-Request/duty-request/src/components/RequestCard/RequestCard.tsx": [
           {
@@ -2075,6 +2075,36 @@
             "fileName": "/Users/momahboobian/Documents/_BBC/Duty-Request/duty-request/src/components/RequestCard/RequestCard.tsx",
             "fileType": ".tsx",
             "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "src",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/Duty-Request/duty-request/src/components/RequestContent/RequestContent.tsx": [
+          {
+            "timestamp": "2025-02-14T16:16:55.837Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/Duty-Request/duty-request/src/components/RequestContent/RequestContent.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "src",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-14T16:16:56.303Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/Duty-Request/duty-request/src/components/RequestContent/RequestContent.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 17,
             "linesRemoved": 0,
             "projectName": "src",
             "content": {
