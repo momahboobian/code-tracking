@@ -3,7 +3,7 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 866,
-      "totalLinesRemoved": 547,
+      "totalLinesRemoved": 550,
       "totalActiveTime": 189,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/.gitignore": [
@@ -1763,6 +1763,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2025-02-14T15:49:16.487Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/components/RequestCard/RequestCard.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "scss"
           }
         ],
