@@ -2,9 +2,9 @@
   "date": "2025-02-14",
   "projects": {
     "cda": {
-      "totalLinesAdded": 870,
+      "totalLinesAdded": 873,
       "totalLinesRemoved": 550,
-      "totalActiveTime": 189,
+      "totalActiveTime": 192,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/.gitignore": [
           {
@@ -539,6 +539,20 @@
               "removed": []
             },
             "duration": 5,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-14T15:57:30.108Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/components/RequestWrapper/RequestWrapper.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "tsx"
           }
         ],
