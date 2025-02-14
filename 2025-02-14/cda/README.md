@@ -4,17 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 923                                          |
-| **Lines Removed** (➖) | 605                                        |
-| **Net Change** (↕)    | 318                |
-| **Active Time** (⌚)   | 242 minutes |
+| **Lines Added** (➕)   | 925                                          |
+| **Lines Removed** (➖) | 606                                        |
+| **Net Change** (↕)    | 319                |
+| **Active Time** (⌚)   | 248 minutes |
 
 
 ## Modified Files
 - **.gitignore** (+3, -1)
 - **RequestWrapper.tsx** (+240, -167)
 - **RequestWrapper.scss** (+241, -200)
-- **RequestCard.tsx** (+166, -85)
+- **RequestCard.tsx** (+168, -86)
 - **RequestCard.scss** (+108, -64)
 - **RequestCard.test.tsx** (+80, -31)
 - **RequestWrapper.test.tsx** (+58, -40)
@@ -28,7 +28,7 @@
 pie showData
 title Lines changed by file type
 "unknown" : 4
-".tsx" : 911
+".tsx" : 914
 ".scss" : 613
 ```
 
@@ -42,8 +42,8 @@ title Coding activity by hour (count of changes)
 "13h" : 54
 "14h" : 39
 "15h" : 34
-"16h" : 31
+"16h" : 34
 ```
 
 
-> **Last Updated:** 14/02/2025, 16:44:56
+> **Last Updated:** 14/02/2025, 16:49:56
