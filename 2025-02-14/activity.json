@@ -1727,6 +1727,53 @@
         "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/.gitignore"
       ],
       "averageChangeSize": 1.5
+    },
+    "src": {
+      "totalLinesAdded": 134,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "/Users/momahboobian/Documents/_BBC/Duty-Request/duty-request/src/components/RequestCard/RequestCard.tsx": [
+          {
+            "timestamp": "2025-02-14T15:16:32.357Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/Duty-Request/duty-request/src/components/RequestCard/RequestCard.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 122,
+            "linesRemoved": 0,
+            "projectName": "src",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-14T15:16:51.765Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/Duty-Request/duty-request/src/components/RequestCard/RequestCard.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "src",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "tsx": 1
+      },
+      "changeFrequency": {
+        "15": 1
+      },
+      "topFiles": [
+        "/Users/momahboobian/Documents/_BBC/Duty-Request/duty-request/src/components/RequestCard/RequestCard.tsx"
+      ],
+      "averageChangeSize": 67
     }
   },
   "totalActiveTime": 1,
