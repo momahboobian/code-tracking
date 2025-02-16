@@ -2,9 +2,9 @@
   "date": "2025-02-16",
   "projects": {
     "iptv.moreel.me": {
-      "totalLinesAdded": 2690,
+      "totalLinesAdded": 2704,
       "totalLinesRemoved": 1,
-      "totalActiveTime": 8,
+      "totalActiveTime": 24,
       "files": {
         "/Users/momahboobian/Library/Caches/Transmit/8EF71774-F8C0-4F88-9EB9-0BB298AA4BE9/194.164.89.13/var/www/vhosts/moreel.me/iptv.moreel.me/allsat.txt": [
           {
@@ -61,6 +61,188 @@
               "removed": []
             },
             "duration": 4,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-02-16T20:46:34.126Z",
+            "fileName": "/Users/momahboobian/Library/Caches/Transmit/8EF71774-F8C0-4F88-9EB9-0BB298AA4BE9/194.164.89.13/var/www/vhosts/moreel.me/iptv.moreel.me/allsat.txt",
+            "fileType": ".txt",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "iptv.moreel.me",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-02-16T20:47:29.130Z",
+            "fileName": "/Users/momahboobian/Library/Caches/Transmit/8EF71774-F8C0-4F88-9EB9-0BB298AA4BE9/194.164.89.13/var/www/vhosts/moreel.me/iptv.moreel.me/allsat.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "iptv.moreel.me",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-02-16T20:47:43.742Z",
+            "fileName": "/Users/momahboobian/Library/Caches/Transmit/8EF71774-F8C0-4F88-9EB9-0BB298AA4BE9/194.164.89.13/var/www/vhosts/moreel.me/iptv.moreel.me/allsat.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "iptv.moreel.me",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-02-16T20:48:02.679Z",
+            "fileName": "/Users/momahboobian/Library/Caches/Transmit/8EF71774-F8C0-4F88-9EB9-0BB298AA4BE9/194.164.89.13/var/www/vhosts/moreel.me/iptv.moreel.me/allsat.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "iptv.moreel.me",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-02-16T20:48:24.041Z",
+            "fileName": "/Users/momahboobian/Library/Caches/Transmit/8EF71774-F8C0-4F88-9EB9-0BB298AA4BE9/194.164.89.13/var/www/vhosts/moreel.me/iptv.moreel.me/allsat.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "iptv.moreel.me",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-02-16T20:48:48.975Z",
+            "fileName": "/Users/momahboobian/Library/Caches/Transmit/8EF71774-F8C0-4F88-9EB9-0BB298AA4BE9/194.164.89.13/var/www/vhosts/moreel.me/iptv.moreel.me/allsat.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "iptv.moreel.me",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-02-16T20:49:11.859Z",
+            "fileName": "/Users/momahboobian/Library/Caches/Transmit/8EF71774-F8C0-4F88-9EB9-0BB298AA4BE9/194.164.89.13/var/www/vhosts/moreel.me/iptv.moreel.me/allsat.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "iptv.moreel.me",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-02-16T20:49:26.651Z",
+            "fileName": "/Users/momahboobian/Library/Caches/Transmit/8EF71774-F8C0-4F88-9EB9-0BB298AA4BE9/194.164.89.13/var/www/vhosts/moreel.me/iptv.moreel.me/allsat.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "iptv.moreel.me",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-02-16T20:49:40.508Z",
+            "fileName": "/Users/momahboobian/Library/Caches/Transmit/8EF71774-F8C0-4F88-9EB9-0BB298AA4BE9/194.164.89.13/var/www/vhosts/moreel.me/iptv.moreel.me/allsat.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "iptv.moreel.me",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-02-16T20:49:53.673Z",
+            "fileName": "/Users/momahboobian/Library/Caches/Transmit/8EF71774-F8C0-4F88-9EB9-0BB298AA4BE9/194.164.89.13/var/www/vhosts/moreel.me/iptv.moreel.me/allsat.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "iptv.moreel.me",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-02-16T20:50:06.317Z",
+            "fileName": "/Users/momahboobian/Library/Caches/Transmit/8EF71774-F8C0-4F88-9EB9-0BB298AA4BE9/194.164.89.13/var/www/vhosts/moreel.me/iptv.moreel.me/allsat.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "iptv.moreel.me",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-02-16T20:50:18.082Z",
+            "fileName": "/Users/momahboobian/Library/Caches/Transmit/8EF71774-F8C0-4F88-9EB9-0BB298AA4BE9/194.164.89.13/var/www/vhosts/moreel.me/iptv.moreel.me/allsat.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "iptv.moreel.me",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-02-16T20:50:30.460Z",
+            "fileName": "/Users/momahboobian/Library/Caches/Transmit/8EF71774-F8C0-4F88-9EB9-0BB298AA4BE9/194.164.89.13/var/www/vhosts/moreel.me/iptv.moreel.me/allsat.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "iptv.moreel.me",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "txt"
           }
         ]
