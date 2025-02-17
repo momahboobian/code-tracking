@@ -163,6 +163,39 @@
         "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/components/RequestCard/RequestCard.tsx"
       ],
       "averageChangeSize": 22.25
+    },
+    "pdf-analysis-app": {
+      "totalLinesAdded": 40,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/momahboobian/Documents/Git-repo/pdf-analysis-app/src/App.tsx": [
+          {
+            "timestamp": "2025-02-17T11:47:22.157Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/pdf-analysis-app/src/App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 40,
+            "linesRemoved": 0,
+            "projectName": "pdf-analysis-app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "tsx": 0
+      },
+      "changeFrequency": {
+        "11": 0
+      },
+      "topFiles": [
+        "/Users/momahboobian/Documents/Git-repo/pdf-analysis-app/src/App.tsx"
+      ],
+      "averageChangeSize": 40
     }
   },
   "totalActiveTime": 3,
