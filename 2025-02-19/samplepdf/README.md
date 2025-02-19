@@ -4,16 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 283                                          |
-| **Lines Removed** (➖) | 4                                        |
-| **Net Change** (↕)    | 279                |
-| **Active Time** (⌚)   | 12 minutes |
+| **Lines Added** (➕)   | 334                                          |
+| **Lines Removed** (➖) | 50                                        |
+| **Net Change** (↕)    | 284                |
+| **Active Time** (⌚)   | 18 minutes |
 
 
 ## Modified Files
 - **app.py** (+90, -0)
 - **requirements.txt** (+44, -3)
-- **file_upload.py** (+149, -1)
+- **file_upload.py** (+149, -47)
+- **calcSiteTotals.py** (+51, -0)
 
 ## Visualizations
 
@@ -22,7 +23,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".py" : 240
+".py" : 337
 ".txt" : 47
 ```
 
@@ -32,8 +33,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "17h" : 3
-"19h" : 7
+"19h" : 11
 ```
 
 
-> **Last Updated:** 19/02/2025, 19:21:24
+> **Last Updated:** 19/02/2025, 19:44:59
