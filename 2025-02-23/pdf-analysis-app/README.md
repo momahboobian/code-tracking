@@ -4,15 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1097                                          |
-| **Lines Removed** (➖) | 135                                        |
-| **Net Change** (↕)    | 962                |
-| **Active Time** (⌚)   | 117 minutes |
+| **Lines Added** (➕)   | 1107                                          |
+| **Lines Removed** (➖) | 143                                        |
+| **Net Change** (↕)    | 964                |
+| **Active Time** (⌚)   | 124 minutes |
 
 
 ## Modified Files
 - **App.tsx** (+48, -8)
-- **api.ts** (+75, -9)
+- **api.ts** (+76, -9)
 - **package.json** (+46, -0)
 - **tsconfig.json** (+8, -3)
 - **tsconfig.app.json** (+31, -0)
@@ -22,8 +22,9 @@
 - **index.ts** (+152, -8)
 - **InvoiceSection.tsx** (+147, -23)
 - **FileUpload.tsx** (+223, -8)
-- **socket.ts** (+18, -0)
+- **socket.ts** (+19, -8)
 - **.env** (+3, -0)
+- **socketUrl.ts** (+8, -0)
 
 ## Visualizations
 
@@ -33,7 +34,7 @@
 pie showData
 title Lines changed by file type
 ".tsx" : 854
-".ts" : 262
+".ts" : 280
 ".json" : 113
 "unknown" : 3
 ```
@@ -45,8 +46,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "00h" : 19
 "01h" : 42
-"02h" : 9
+"02h" : 15
 ```
 
 
-> **Last Updated:** 23/02/2025, 02:29:09
+> **Last Updated:** 23/02/2025, 02:49:09
