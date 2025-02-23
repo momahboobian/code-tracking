@@ -140,8 +140,8 @@
     },
     "pdf-analysis-app": {
       "totalLinesAdded": 814,
-      "totalLinesRemoved": 87,
-      "totalActiveTime": 53,
+      "totalLinesRemoved": 99,
+      "totalActiveTime": 58,
       "files": {
         "/Users/momahboobian/Documents/Git-repo/pdf-analysis-app/src/App.tsx": [
           {
@@ -619,6 +619,34 @@
             },
             "duration": 2,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-23T01:25:11.650Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/pdf-analysis-app/src/pages/Home/Home.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 6,
+            "projectName": "pdf-analysis-app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-23T01:25:13.217Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/pdf-analysis-app/src/pages/Home/Home.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "pdf-analysis-app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "/Users/momahboobian/Documents/Git-repo/pdf-analysis-app/src/types/index.ts": [
@@ -700,6 +728,20 @@
             "fileType": ".tsx",
             "linesAdded": 5,
             "linesRemoved": 0,
+            "projectName": "pdf-analysis-app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-23T01:25:44.962Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/pdf-analysis-app/src/components/InvoiceSection/InvoiceSection.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 5,
             "projectName": "pdf-analysis-app",
             "content": {
               "added": [],
