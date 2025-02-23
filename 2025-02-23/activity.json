@@ -183,9 +183,9 @@
       "averageChangeSize": 1
     },
     "pdf-analysis-app": {
-      "totalLinesAdded": 1087,
+      "totalLinesAdded": 1092,
       "totalLinesRemoved": 135,
-      "totalActiveTime": 110,
+      "totalActiveTime": 113,
       "files": {
         "/Users/momahboobian/Documents/Git-repo/pdf-analysis-app/src/App.tsx": [
           {
@@ -1119,6 +1119,50 @@
             },
             "duration": 0,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-02-23T02:23:50.367Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/pdf-analysis-app/src/utils/socket.ts",
+            "fileType": ".ts",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "pdf-analysis-app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/Git-repo/pdf-analysis-app/.env": [
+          {
+            "timestamp": "2025-02-23T02:22:28.230Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/pdf-analysis-app/.env",
+            "fileType": "unknown",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "pdf-analysis-app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-02-23T02:22:36.595Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/pdf-analysis-app/.env",
+            "fileType": "unknown",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "pdf-analysis-app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
           }
         ]
       },
