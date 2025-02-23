@@ -257,9 +257,9 @@
       "averageChangeSize": 1
     },
     "pdf-analysis-app": {
-      "totalLinesAdded": 1134,
-      "totalLinesRemoved": 145,
-      "totalActiveTime": 145,
+      "totalLinesAdded": 5998,
+      "totalLinesRemoved": 147,
+      "totalActiveTime": 147,
       "files": {
         "/Users/momahboobian/Documents/Git-repo/pdf-analysis-app/src/App.tsx": [
           {
@@ -405,6 +405,20 @@
             },
             "duration": 2,
             "language": "json"
+          },
+          {
+            "timestamp": "2025-02-23T23:52:11.705Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/pdf-analysis-app/package.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "pdf-analysis-app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ],
         "/Users/momahboobian/Documents/Git-repo/pdf-analysis-app/tsconfig.json": [
@@ -472,6 +486,20 @@
             "fileType": ".json",
             "linesAdded": 1,
             "linesRemoved": 0,
+            "projectName": "pdf-analysis-app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-02-23T23:52:17.941Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/pdf-analysis-app/tsconfig.app.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "pdf-analysis-app",
             "content": {
               "added": [],
@@ -1561,6 +1589,22 @@
             },
             "duration": 1,
             "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/Git-repo/pdf-analysis-app/package-lock.json": [
+          {
+            "timestamp": "2025-02-23T23:52:09.521Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/pdf-analysis-app/package-lock.json",
+            "fileType": ".json",
+            "linesAdded": 4864,
+            "linesRemoved": 0,
+            "projectName": "pdf-analysis-app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
           }
         ]
       },
