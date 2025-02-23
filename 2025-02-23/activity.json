@@ -212,8 +212,8 @@
     },
     "pdf-analysis-app": {
       "totalLinesAdded": 1124,
-      "totalLinesRemoved": 144,
-      "totalActiveTime": 134,
+      "totalLinesRemoved": 145,
+      "totalActiveTime": 139,
       "files": {
         "/Users/momahboobian/Documents/Git-repo/pdf-analysis-app/src/App.tsx": [
           {
@@ -1256,6 +1256,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-23T03:11:07.860Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/pdf-analysis-app/src/components/FileUpload/FileUpload.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "pdf-analysis-app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "tsx"
           }
         ],
