@@ -2,7 +2,7 @@
   "date": "2025-02-23",
   "projects": {
     "samplePdf": {
-      "totalLinesAdded": 302,
+      "totalLinesAdded": 303,
       "totalLinesRemoved": 8,
       "totalActiveTime": 10,
       "files": {
@@ -86,6 +86,20 @@
             "fileName": "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/routes/file_upload.py",
             "fileType": ".py",
             "linesAdded": 97,
+            "linesRemoved": 0,
+            "projectName": "samplePdf",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-02-23T02:39:27.663Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/routes/file_upload.py",
+            "fileType": ".py",
+            "linesAdded": 1,
             "linesRemoved": 0,
             "projectName": "samplePdf",
             "content": {
