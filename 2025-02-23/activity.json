@@ -139,9 +139,9 @@
       "averageChangeSize": 1
     },
     "pdf-analysis-app": {
-      "totalLinesAdded": 1009,
-      "totalLinesRemoved": 128,
-      "totalActiveTime": 79,
+      "totalLinesAdded": 1052,
+      "totalLinesRemoved": 129,
+      "totalActiveTime": 87,
       "files": {
         "/Users/momahboobian/Documents/Git-repo/pdf-analysis-app/src/App.tsx": [
           {
@@ -890,6 +890,48 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-23T01:45:27.995Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/pdf-analysis-app/src/components/FileUpload/FileUpload.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "pdf-analysis-app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-23T01:47:21.704Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/pdf-analysis-app/src/components/FileUpload/FileUpload.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 18,
+            "linesRemoved": 0,
+            "projectName": "pdf-analysis-app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-23T01:48:36.479Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/pdf-analysis-app/src/components/FileUpload/FileUpload.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 25,
+            "linesRemoved": 0,
+            "projectName": "pdf-analysis-app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "tsx"
           }
         ]
