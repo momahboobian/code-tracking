@@ -4,16 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 172                                          |
+| **Lines Added** (➕)   | 207                                          |
 | **Lines Removed** (➖) | 2                                        |
-| **Net Change** (↕)    | 170                |
-| **Active Time** (⌚)   | 5 minutes |
+| **Net Change** (↕)    | 205                |
+| **Active Time** (⌚)   | 7 minutes |
 
 
 ## Modified Files
 - **calcSiteTotals.py** (+4, -1)
 - **settings.json** (+71, -1)
 - **file_upload.py** (+97, -0)
+- **database_module.py** (+35, -0)
 
 ## Visualizations
 
@@ -22,7 +23,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".py" : 102
+".py" : 137
 ".json" : 72
 ```
 
@@ -31,8 +32,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"00h" : 6
+"00h" : 8
 ```
 
 
-> **Last Updated:** 23/02/2025, 00:29:28
+> **Last Updated:** 23/02/2025, 00:49:28
