@@ -424,9 +424,9 @@
       "averageChangeSize": 1
     },
     "cda": {
-      "totalLinesAdded": 893,
-      "totalLinesRemoved": 233,
-      "totalActiveTime": 133,
+      "totalLinesAdded": 968,
+      "totalLinesRemoved": 234,
+      "totalActiveTime": 137,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/generated/version.ts": [
           {
@@ -1146,6 +1146,34 @@
             },
             "duration": 1,
             "language": "js"
+          },
+          {
+            "timestamp": "2025-02-24T17:11:30.228Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/low-risk-schema/resolvers/duty-request.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-02-24T17:11:59.664Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/low-risk-schema/resolvers/duty-request.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-mailer/src/templates/duty-request-status/subject.pug": [
@@ -1584,6 +1612,36 @@
             },
             "duration": 1,
             "language": "js"
+          },
+          {
+            "timestamp": "2025-02-24T17:10:50.915Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/duty-request/dutyRequest.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          }
+        ],
+        "/Users/momahboobian/Library/Application Support/Code/User/settings.json": [
+          {
+            "timestamp": "2025-02-24T17:13:49.672Z",
+            "fileName": "/Users/momahboobian/Library/Application Support/Code/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 73,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
           }
         ]
       },
