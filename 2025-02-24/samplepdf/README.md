@@ -5,13 +5,14 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 0                                          |
-| **Lines Removed** (➖) | 1                                        |
-| **Net Change** (↕)    | -1                |
-| **Active Time** (⌚)   | 0 minute |
+| **Lines Removed** (➖) | 4                                        |
+| **Net Change** (↕)    | -4                |
+| **Active Time** (⌚)   | 1 minute |
 
 
 ## Modified Files
 - **file_upload.py** (+0, -1)
+- **app.py** (+0, -3)
 
 ## Visualizations
 
@@ -20,7 +21,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".py" : 1
+".py" : 4
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -28,8 +29,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"00h" : 1
+"00h" : 3
 ```
 
 
-> **Last Updated:** 24/02/2025, 00:17:19
+> **Last Updated:** 24/02/2025, 00:22:19
