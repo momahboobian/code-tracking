@@ -424,9 +424,9 @@
       "averageChangeSize": 1
     },
     "cda": {
-      "totalLinesAdded": 26,
+      "totalLinesAdded": 89,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 0,
+      "totalActiveTime": 6,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/generated/version.ts": [
           {
@@ -457,6 +457,54 @@
               "removed": []
             },
             "duration": 0,
+            "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-mailer/context/clearview.json": [
+          {
+            "timestamp": "2025-02-24T10:53:53.174Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-mailer/context/clearview.json",
+            "fileType": ".json",
+            "linesAdded": 32,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-mailer/context/calendar.json": [
+          {
+            "timestamp": "2025-02-24T10:54:59.548Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-mailer/context/calendar.json",
+            "fileType": ".json",
+            "linesAdded": 16,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-mailer/context/yesalert.json": [
+          {
+            "timestamp": "2025-02-24T10:58:08.561Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-mailer/context/yesalert.json",
+            "fileType": ".json",
+            "linesAdded": 15,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "json"
           }
         ]
