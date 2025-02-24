@@ -424,7 +424,7 @@
       "averageChangeSize": 1
     },
     "cda": {
-      "totalLinesAdded": 469,
+      "totalLinesAdded": 470,
       "totalLinesRemoved": 22,
       "totalActiveTime": 49,
       "files": {
@@ -695,6 +695,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-02-24T13:44:53.171Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-mailer/context/duty-request.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "json"
           }
         ],
