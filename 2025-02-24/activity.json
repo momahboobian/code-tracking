@@ -424,7 +424,7 @@
       "averageChangeSize": 1
     },
     "cda": {
-      "totalLinesAdded": 977,
+      "totalLinesAdded": 1329,
       "totalLinesRemoved": 234,
       "totalActiveTime": 139,
       "files": {
@@ -1670,6 +1670,22 @@
             },
             "duration": 2,
             "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/dist/high-risk-schema/resolvers/safety-reporting.js": [
+          {
+            "timestamp": "2025-02-24T17:23:27.787Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/dist/high-risk-schema/resolvers/safety-reporting.js",
+            "fileType": ".js",
+            "linesAdded": 352,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
           }
         ]
       },
