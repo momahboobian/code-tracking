@@ -424,9 +424,9 @@
       "averageChangeSize": 1
     },
     "cda": {
-      "totalLinesAdded": 89,
+      "totalLinesAdded": 153,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 6,
+      "totalActiveTime": 7,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/generated/version.ts": [
           {
@@ -506,6 +506,36 @@
             },
             "duration": 4,
             "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-mailer/src/templates/duty-request/html.pug": [
+          {
+            "timestamp": "2025-02-24T11:19:55.206Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-mailer/src/templates/duty-request/html.pug",
+            "fileType": ".pug",
+            "linesAdded": 63,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "pug"
+          },
+          {
+            "timestamp": "2025-02-24T11:20:02.612Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-mailer/src/templates/duty-request/html.pug",
+            "fileType": ".pug",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "pug"
           }
         ]
       },
