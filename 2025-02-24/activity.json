@@ -422,6 +422,39 @@
         "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/routes/file_upload.py"
       ],
       "averageChangeSize": 1
+    },
+    "cda": {
+      "totalLinesAdded": 11,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/generated/version.ts": [
+          {
+            "timestamp": "2025-02-24T09:52:47.361Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/generated/version.ts",
+            "fileType": ".ts",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ]
+      },
+      "languageStats": {
+        "ts": 0
+      },
+      "changeFrequency": {
+        "9": 0
+      },
+      "topFiles": [
+        "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/generated/version.ts"
+      ],
+      "averageChangeSize": 11
     }
   },
   "totalActiveTime": 1,
