@@ -424,7 +424,7 @@
       "averageChangeSize": 1
     },
     "cda": {
-      "totalLinesAdded": 1440,
+      "totalLinesAdded": 1442,
       "totalLinesRemoved": 234,
       "totalActiveTime": 146,
       "files": {
@@ -1187,6 +1187,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-02-24T18:29:48.813Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/low-risk-schema/resolvers/duty-request.js",
+            "fileType": ".js",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "js"
           }
         ],
