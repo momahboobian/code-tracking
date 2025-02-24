@@ -91,7 +91,7 @@
       "averageChangeSize": 73.5
     },
     "samplePdf": {
-      "totalLinesAdded": 311,
+      "totalLinesAdded": 312,
       "totalLinesRemoved": 12,
       "totalActiveTime": 24,
       "files": {
@@ -394,6 +394,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-02-24T00:54:33.881Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/utils/save_file_with_progress.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "samplePdf",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "py"
           }
         ]
