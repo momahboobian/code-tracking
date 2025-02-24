@@ -424,7 +424,7 @@
       "averageChangeSize": 1
     },
     "cda": {
-      "totalLinesAdded": 176,
+      "totalLinesAdded": 178,
       "totalLinesRemoved": 13,
       "totalActiveTime": 32,
       "files": {
@@ -731,6 +731,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "pug"
+          },
+          {
+            "timestamp": "2025-02-24T13:13:33.737Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-mailer/src/templates/duty-request/html.pug",
+            "fileType": ".pug",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "pug"
           }
         ],
