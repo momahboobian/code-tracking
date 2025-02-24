@@ -4,15 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1471                                          |
-| **Lines Removed** (➖) | 238                                        |
-| **Net Change** (↕)    | 1233                |
-| **Active Time** (⌚)   | 159 minutes |
+| **Lines Added** (➕)   | 1565                                          |
+| **Lines Removed** (➖) | 240                                        |
+| **Net Change** (↕)    | 1325                |
+| **Active Time** (⌚)   | 168 minutes |
 
 
 ## Modified Files
 - **version.ts** (+11, -0)
-- **duty-request.json** (+28, -13)
+- **duty-request.json** (+29, -14)
 - **clearview.json** (+32, -0)
 - **calendar.json** (+16, -0)
 - **yesalert.json** (+15, -0)
@@ -27,6 +27,9 @@
 - **safety-reporting.js** (+352, -0)
 - **updateDutyRequest.ts** (+109, -0)
 - **formatDate.ts** (+27, -2)
+- **duty-request copy.json** (+16, -1)
+- **duty-request-status.json** (+15, -0)
+- **html.pug** (+62, -0)
 
 ## Visualizations
 
@@ -36,8 +39,8 @@
 pie showData
 title Lines changed by file type
 ".ts" : 149
-".json" : 188
-".pug" : 86
+".json" : 222
+".pug" : 148
 ".css" : 283
 ".js" : 1003
 ```
@@ -57,8 +60,8 @@ title Coding activity by hour (count of changes)
 "16h" : 17
 "17h" : 14
 "18h" : 7
-"19h" : 3
+"19h" : 9
 ```
 
 
-> **Last Updated:** 24/02/2025, 19:14:26
+> **Last Updated:** 24/02/2025, 19:19:26
