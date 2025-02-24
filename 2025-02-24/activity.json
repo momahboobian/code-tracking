@@ -3,7 +3,7 @@
   "projects": {
     "pdf-analysis-app": {
       "totalLinesAdded": 147,
-      "totalLinesRemoved": 0,
+      "totalLinesRemoved": 4,
       "totalActiveTime": 1,
       "files": {
         "/Users/momahboobian/Documents/Git-repo/pdf-analysis-app/src/pages/Home/Home.tsx": [
@@ -33,6 +33,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-24T00:27:32.970Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/pdf-analysis-app/src/pages/Home/Home.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "pdf-analysis-app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ]
