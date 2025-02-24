@@ -425,7 +425,7 @@
     },
     "cda": {
       "totalLinesAdded": 1471,
-      "totalLinesRemoved": 234,
+      "totalLinesRemoved": 236,
       "totalActiveTime": 152,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/generated/version.ts": [
@@ -1857,6 +1857,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-02-24T19:07:48.321Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/utils/duty-request/formatDate.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "ts"
           }
         ]
