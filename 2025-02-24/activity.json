@@ -50,8 +50,8 @@
     },
     "samplePdf": {
       "totalLinesAdded": 0,
-      "totalLinesRemoved": 4,
-      "totalActiveTime": 1,
+      "totalLinesRemoved": 8,
+      "totalActiveTime": 6,
       "files": {
         "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/routes/file_upload.py": [
           {
@@ -96,6 +96,34 @@
               "removed": []
             },
             "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-02-24T00:22:46.022Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/app.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "samplePdf",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-02-24T00:24:56.298Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/app.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "samplePdf",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "py"
           }
         ]
