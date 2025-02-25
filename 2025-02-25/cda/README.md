@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 853                                          |
+| **Lines Added** (➕)   | 894                                          |
 | **Lines Removed** (➖) | 336                                        |
-| **Net Change** (↕)    | 517                |
-| **Active Time** (⌚)   | 137 minutes |
+| **Net Change** (↕)    | 558                |
+| **Active Time** (⌚)   | 145 minutes |
 
 
 ## Modified Files
@@ -25,6 +25,7 @@
 - **UserProvider.tsx** (+108, -67)
 - **userContext.ts** (+29, -19)
 - **index.tsx** (+3, -0)
+- **Admin.tsx** (+41, -0)
 
 ## Visualizations
 
@@ -38,7 +39,7 @@ title Lines changed by file type
 ".pug" : 40
 ".json" : 8
 "unknown" : 24
-".tsx" : 295
+".tsx" : 336
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -51,8 +52,8 @@ title Coding activity by hour (count of changes)
 "11h" : 8
 "12h" : 18
 "13h" : 18
-"14h" : 32
+"14h" : 39
 ```
 
 
-> **Last Updated:** 25/02/2025, 14:26:59
+> **Last Updated:** 25/02/2025, 14:31:59
