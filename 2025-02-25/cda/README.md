@@ -5,9 +5,9 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 894                                          |
-| **Lines Removed** (➖) | 336                                        |
-| **Net Change** (↕)    | 558                |
-| **Active Time** (⌚)   | 145 minutes |
+| **Lines Removed** (➖) | 342                                        |
+| **Net Change** (↕)    | 552                |
+| **Active Time** (⌚)   | 147 minutes |
 
 
 ## Modified Files
@@ -18,14 +18,14 @@
 - **duty-request-status.json** (+5, -3)
 - **duty-request.js** (+102, -24)
 - **.env** (+24, -0)
-- **App.tsx** (+68, -20)
+- **App.tsx** (+68, -21)
 - **NewRequest.tsx** (+23, -6)
 - **index.ts** (+5, -2)
 - **queries.ts** (+68, -12)
 - **UserProvider.tsx** (+108, -67)
 - **userContext.ts** (+29, -19)
 - **index.tsx** (+3, -0)
-- **Admin.tsx** (+41, -0)
+- **Admin.tsx** (+41, -5)
 
 ## Visualizations
 
@@ -39,7 +39,7 @@ title Lines changed by file type
 ".pug" : 40
 ".json" : 8
 "unknown" : 24
-".tsx" : 336
+".tsx" : 342
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -53,7 +53,8 @@ title Coding activity by hour (count of changes)
 "12h" : 18
 "13h" : 18
 "14h" : 39
+"17h" : 3
 ```
 
 
-> **Last Updated:** 25/02/2025, 14:31:59
+> **Last Updated:** 25/02/2025, 17:16:59
