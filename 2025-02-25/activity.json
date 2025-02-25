@@ -2,7 +2,7 @@
   "date": "2025-02-25",
   "projects": {
     "cda": {
-      "totalLinesAdded": 273,
+      "totalLinesAdded": 297,
       "totalLinesRemoved": 50,
       "totalActiveTime": 76,
       "files": {
@@ -604,6 +604,22 @@
             },
             "duration": 1,
             "language": "js"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/.env": [
+          {
+            "timestamp": "2025-02-25T12:45:13.196Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/.env",
+            "fileType": "unknown",
+            "linesAdded": 24,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
           }
         ]
       },
