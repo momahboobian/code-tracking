@@ -2,9 +2,9 @@
   "date": "2025-02-26",
   "projects": {
     "cda": {
-      "totalLinesAdded": 1445,
+      "totalLinesAdded": 1477,
       "totalLinesRemoved": 506,
-      "totalActiveTime": 244,
+      "totalActiveTime": 245,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/containers/Admin/Admin.tsx": [
           {
@@ -2434,6 +2434,36 @@
             },
             "duration": 2,
             "language": "scss"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/components/FilterBar/index.ts": [
+          {
+            "timestamp": "2025-02-26T23:51:01.571Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/components/FilterBar/index.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-02-26T23:51:15.239Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/components/FilterBar/index.ts",
+            "fileType": ".ts",
+            "linesAdded": 31,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ]
       },
