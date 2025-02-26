@@ -823,6 +823,39 @@
         "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/containers/Admin/Admin.tsx"
       ],
       "averageChangeSize": 18.5
+    },
+    "src": {
+      "totalLinesAdded": 134,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/momahboobian/Documents/_BBC/Duty-Request/duty-request/src/components/RequestCard/RequestCard.tsx": [
+          {
+            "timestamp": "2025-02-26T16:49:06.546Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/Duty-Request/duty-request/src/components/RequestCard/RequestCard.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 134,
+            "linesRemoved": 0,
+            "projectName": "src",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "tsx": 0
+      },
+      "changeFrequency": {
+        "16": 0
+      },
+      "topFiles": [
+        "/Users/momahboobian/Documents/_BBC/Duty-Request/duty-request/src/components/RequestCard/RequestCard.tsx"
+      ],
+      "averageChangeSize": 134
     }
   },
   "totalActiveTime": 1,
