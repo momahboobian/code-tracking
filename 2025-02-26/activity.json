@@ -2,9 +2,9 @@
   "date": "2025-02-26",
   "projects": {
     "cda": {
-      "totalLinesAdded": 539,
-      "totalLinesRemoved": 25,
-      "totalActiveTime": 4,
+      "totalLinesAdded": 767,
+      "totalLinesRemoved": 27,
+      "totalActiveTime": 17,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/containers/Admin/Admin.tsx": [
           {
@@ -170,6 +170,114 @@
             },
             "duration": 0,
             "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/components/RequestWrapper/RequestWrapper.tsx": [
+          {
+            "timestamp": "2025-02-26T15:29:40.510Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/components/RequestWrapper/RequestWrapper.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 62,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-26T15:29:40.883Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/components/RequestWrapper/RequestWrapper.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-26T15:29:48.144Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/components/RequestWrapper/RequestWrapper.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/components/RequestViewRow/index.ts": [
+          {
+            "timestamp": "2025-02-26T15:32:53.144Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/components/RequestViewRow/index.ts",
+            "fileType": ".ts",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/components/RequestViewRow/RequestCard.test.tsx": [
+          {
+            "timestamp": "2025-02-26T15:32:53.146Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/components/RequestViewRow/RequestCard.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 47,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/components/RequestViewRow/RequestViewRow.tsx": [
+          {
+            "timestamp": "2025-02-26T15:33:15.387Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/components/RequestViewRow/RequestViewRow.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 67,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/components/RequestViewRow/RequestViewRow.test.tsx": [
+          {
+            "timestamp": "2025-02-26T15:33:28.988Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/components/RequestViewRow/RequestViewRow.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 47,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ]
       },
