@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 243                                          |
-| **Lines Removed** (➖) | 33                                        |
-| **Net Change** (↕)    | 210                |
-| **Active Time** (⌚)   | 42 minutes |
+| **Lines Added** (➕)   | 349                                          |
+| **Lines Removed** (➖) | 106                                        |
+| **Net Change** (↕)    | 243                |
+| **Active Time** (⌚)   | 49 minutes |
 
 
 ## Modified Files
@@ -17,6 +17,7 @@
 - **index.ts** (+4, -0)
 - **FilterBar.tsx** (+7, -10)
 - **FilterTab.tsx** (+71, -5)
+- **Admin.tsx** (+106, -73)
 
 ## Visualizations
 
@@ -26,7 +27,7 @@
 pie showData
 title Lines changed by file type
 ".scss" : 16
-".tsx" : 256
+".tsx" : 435
 ".ts" : 4
 ```
 
@@ -37,9 +38,9 @@ pie showData
 title Coding activity by hour (count of changes)
 "00h" : 4
 "19h" : 10
-"20h" : 3
+"20h" : 9
 "23h" : 7
 ```
 
 
-> **Last Updated:** 27/02/2025, 20:01:07
+> **Last Updated:** 27/02/2025, 20:06:07
