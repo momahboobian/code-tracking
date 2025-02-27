@@ -2,9 +2,9 @@
   "date": "2025-02-27",
   "projects": {
     "cda": {
-      "totalLinesAdded": 764,
-      "totalLinesRemoved": 392,
-      "totalActiveTime": 106,
+      "totalLinesAdded": 796,
+      "totalLinesRemoved": 394,
+      "totalActiveTime": 110,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/components/FilterBar/FilterBar.scss": [
           {
@@ -1048,6 +1048,50 @@
             },
             "duration": 1,
             "language": "scss"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/.env": [
+          {
+            "timestamp": "2025-02-27T21:04:21.472Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/.env",
+            "fileType": "unknown",
+            "linesAdded": 24,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-02-27T21:04:29.630Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/.env",
+            "fileType": "unknown",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-02-27T21:07:00.302Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/.env",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "unknown"
           }
         ]
       },
