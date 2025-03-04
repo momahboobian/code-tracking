@@ -5,15 +5,15 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 671                                          |
-| **Lines Removed** (➖) | 301                                        |
-| **Net Change** (↕)    | 370                |
-| **Active Time** (⌚)   | 298 minutes |
+| **Lines Removed** (➖) | 335                                        |
+| **Net Change** (↕)    | 336                |
+| **Active Time** (⌚)   | 301 minutes |
 
 
 ## Modified Files
 - **RequestHeader.scss** (+27, -26)
 - **FilterTab.scss** (+0, -7)
-- **RequestViewRow.tsx** (+336, -120)
+- **RequestViewRow.tsx** (+336, -154)
 - **RequestViewRow.scss** (+138, -95)
 - **Admin.tsx** (+138, -53)
 - **types.ts** (+32, -0)
@@ -26,7 +26,7 @@
 pie showData
 title Lines changed by file type
 ".scss" : 293
-".tsx" : 647
+".tsx" : 681
 ".ts" : 32
 ```
 
@@ -41,8 +41,9 @@ title Coding activity by hour (count of changes)
 "12h" : 34
 "13h" : 19
 "14h" : 3
-"17h" : 25
+"17h" : 26
+"18h" : 1
 ```
 
 
-> **Last Updated:** 04/03/2025, 17:52:42
+> **Last Updated:** 04/03/2025, 18:02:42
