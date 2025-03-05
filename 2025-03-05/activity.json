@@ -2,9 +2,9 @@
   "date": "2025-03-05",
   "projects": {
     "cda": {
-      "totalLinesAdded": 3165,
+      "totalLinesAdded": 3229,
       "totalLinesRemoved": 853,
-      "totalActiveTime": 321,
+      "totalActiveTime": 322,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/components/RequestHeader/RequestHeader.scss": [
           {
@@ -3080,6 +3080,36 @@
             },
             "duration": 1,
             "language": "scss"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/package.json": [
+          {
+            "timestamp": "2025-03-05T15:33:20.193Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/package.json",
+            "fileType": ".json",
+            "linesAdded": 63,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-03-05T15:33:22.986Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/package.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ]
       },
