@@ -2,9 +2,9 @@
   "date": "2025-03-05",
   "projects": {
     "cda": {
-      "totalLinesAdded": 47,
-      "totalLinesRemoved": 2,
-      "totalActiveTime": 2,
+      "totalLinesAdded": 66,
+      "totalLinesRemoved": 26,
+      "totalActiveTime": 6,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/components/RequestHeader/RequestHeader.scss": [
           {
@@ -41,6 +41,48 @@
             "fileType": ".scss",
             "linesAdded": 1,
             "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2025-03-05T09:09:25.009Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/components/RequestHeader/RequestHeader.scss",
+            "fileType": ".scss",
+            "linesAdded": 18,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2025-03-05T09:09:53.614Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/components/RequestHeader/RequestHeader.scss",
+            "fileType": ".scss",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2025-03-05T09:10:51.568Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/components/RequestHeader/RequestHeader.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 24,
             "projectName": "cda",
             "content": {
               "added": [],
