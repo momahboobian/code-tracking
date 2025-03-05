@@ -2,8 +2,8 @@
   "date": "2025-03-05",
   "projects": {
     "cda": {
-      "totalLinesAdded": 727,
-      "totalLinesRemoved": 61,
+      "totalLinesAdded": 964,
+      "totalLinesRemoved": 132,
       "totalActiveTime": 50,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/components/RequestHeader/RequestHeader.scss": [
@@ -542,6 +542,68 @@
             },
             "duration": 1,
             "language": "js"
+          },
+          {
+            "timestamp": "2025-03-05T10:36:46.106Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/duty-request/dutyRequest.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 71,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/low-risk-schema/duty-request/service/createDutyRequest.ts": [
+          {
+            "timestamp": "2025-03-05T10:36:46.105Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/low-risk-schema/duty-request/service/createDutyRequest.ts",
+            "fileType": ".ts",
+            "linesAdded": 76,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/low-risk-schema/resolvers/duty-request.js": [
+          {
+            "timestamp": "2025-03-05T10:36:46.104Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/low-risk-schema/resolvers/duty-request.js",
+            "fileType": ".js",
+            "linesAdded": 64,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/low-risk-schema/duty-request/service/updateDutyRequest.ts": [
+          {
+            "timestamp": "2025-03-05T10:36:46.107Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/low-risk-schema/duty-request/service/updateDutyRequest.ts",
+            "fileType": ".ts",
+            "linesAdded": 97,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
           }
         ]
       },
