@@ -35,9 +35,9 @@
       "averageChangeSize": 58
     },
     "song-sieve": {
-      "totalLinesAdded": 93,
-      "totalLinesRemoved": 2,
-      "totalActiveTime": 8,
+      "totalLinesAdded": 318,
+      "totalLinesRemoved": 8,
+      "totalActiveTime": 12,
       "files": {
         "/Users/momahboobian/Documents/Git-repo/song-sieve/package.json": [
           {
@@ -114,6 +114,34 @@
           },
           {
             "timestamp": "2025-03-06T10:47:54.361Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/song-sieve/src/app/page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "song-sieve",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-03-06T11:17:39.500Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/song-sieve/src/app/page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "song-sieve",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-03-06T11:18:04.629Z",
             "fileName": "/Users/momahboobian/Documents/Git-repo/song-sieve/src/app/page.tsx",
             "fileType": ".tsx",
             "linesAdded": 0,
@@ -215,6 +243,36 @@
             },
             "duration": 1,
             "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/Git-repo/song-sieve/src/app/recoil/atoms.ts": [
+          {
+            "timestamp": "2025-03-06T11:16:04.985Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/song-sieve/src/app/recoil/atoms.ts",
+            "fileType": ".ts",
+            "linesAdded": 221,
+            "linesRemoved": 0,
+            "projectName": "song-sieve",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-03-06T11:16:31.343Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/song-sieve/src/app/recoil/atoms.ts",
+            "fileType": ".ts",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "song-sieve",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ]
       },
