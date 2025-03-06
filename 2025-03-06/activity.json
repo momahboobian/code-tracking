@@ -35,9 +35,9 @@
       "averageChangeSize": 58
     },
     "song-sieve": {
-      "totalLinesAdded": 32,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 0,
+      "totalLinesAdded": 65,
+      "totalLinesRemoved": 2,
+      "totalActiveTime": 1,
       "files": {
         "/Users/momahboobian/Documents/Git-repo/song-sieve/package.json": [
           {
@@ -53,6 +53,36 @@
             },
             "duration": 0,
             "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/Git-repo/song-sieve/src/app/page.tsx": [
+          {
+            "timestamp": "2025-03-06T10:47:53.642Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/song-sieve/src/app/page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 33,
+            "linesRemoved": 0,
+            "projectName": "song-sieve",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-03-06T10:47:54.361Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/song-sieve/src/app/page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "song-sieve",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ]
       },
