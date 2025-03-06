@@ -35,9 +35,9 @@
       "averageChangeSize": 58
     },
     "song-sieve": {
-      "totalLinesAdded": 66,
+      "totalLinesAdded": 93,
       "totalLinesRemoved": 2,
-      "totalActiveTime": 1,
+      "totalActiveTime": 8,
       "files": {
         "/Users/momahboobian/Documents/Git-repo/song-sieve/package.json": [
           {
@@ -67,6 +67,34 @@
             },
             "duration": 0,
             "language": "json"
+          },
+          {
+            "timestamp": "2025-03-06T11:05:10.214Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/song-sieve/package.json",
+            "fileType": ".json",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "song-sieve",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-03-06T11:07:19.764Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/song-sieve/package.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "song-sieve",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ],
         "/Users/momahboobian/Documents/Git-repo/song-sieve/src/app/page.tsx": [
@@ -90,6 +118,96 @@
             "fileType": ".tsx",
             "linesAdded": 0,
             "linesRemoved": 2,
+            "projectName": "song-sieve",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/Git-repo/song-sieve/jest.config.js": [
+          {
+            "timestamp": "2025-03-06T11:05:21.516Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/song-sieve/jest.config.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "song-sieve",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-03-06T11:05:22.279Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/song-sieve/jest.config.js",
+            "fileType": ".js",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "song-sieve",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "/Users/momahboobian/Documents/Git-repo/song-sieve/jest.setup.js": [
+          {
+            "timestamp": "2025-03-06T11:05:58.715Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/song-sieve/jest.setup.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "song-sieve",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-03-06T11:06:00.275Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/song-sieve/jest.setup.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "song-sieve",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "/Users/momahboobian/Documents/Git-repo/song-sieve/src/app/components/Header/Header.test.tsx": [
+          {
+            "timestamp": "2025-03-06T11:06:34.941Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/song-sieve/src/app/components/Header/Header.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "song-sieve",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-03-06T11:07:08.869Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/song-sieve/src/app/components/Header/Header.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 10,
+            "linesRemoved": 0,
             "projectName": "song-sieve",
             "content": {
               "added": [],
