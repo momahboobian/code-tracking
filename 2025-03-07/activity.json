@@ -2,9 +2,9 @@
   "date": "2025-03-07",
   "projects": {
     "cda": {
-      "totalLinesAdded": 882,
-      "totalLinesRemoved": 30,
-      "totalActiveTime": 55,
+      "totalLinesAdded": 891,
+      "totalLinesRemoved": 40,
+      "totalActiveTime": 65,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/App.tsx": [
           {
@@ -274,6 +274,20 @@
             },
             "duration": 0,
             "language": "js"
+          },
+          {
+            "timestamp": "2025-03-07T12:38:40.554Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/duty-request/dutyRequest.js",
+            "fileType": ".js",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "js"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/low-risk-schema/resolvers/duty-request.js": [
@@ -475,6 +489,90 @@
               "removed": []
             },
             "duration": 2,
+            "language": "pug"
+          },
+          {
+            "timestamp": "2025-03-07T12:35:53.032Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-mailer/src/templates/duty-request/html.pug",
+            "fileType": ".pug",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "pug"
+          },
+          {
+            "timestamp": "2025-03-07T12:36:22.382Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-mailer/src/templates/duty-request/html.pug",
+            "fileType": ".pug",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "pug"
+          },
+          {
+            "timestamp": "2025-03-07T12:36:47.408Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-mailer/src/templates/duty-request/html.pug",
+            "fileType": ".pug",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "pug"
+          },
+          {
+            "timestamp": "2025-03-07T12:37:05.035Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-mailer/src/templates/duty-request/html.pug",
+            "fileType": ".pug",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "pug"
+          },
+          {
+            "timestamp": "2025-03-07T12:39:49.971Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-mailer/src/templates/duty-request/html.pug",
+            "fileType": ".pug",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "pug"
+          },
+          {
+            "timestamp": "2025-03-07T12:40:19.206Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-mailer/src/templates/duty-request/html.pug",
+            "fileType": ".pug",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "pug"
           }
         ],
