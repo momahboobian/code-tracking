@@ -4,28 +4,28 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1957                                          |
-| **Lines Removed** (➖) | 138                                        |
-| **Net Change** (↕)    | 1819                |
-| **Active Time** (⌚)   | 167 minutes |
+| **Lines Added** (➕)   | 2285                                          |
+| **Lines Removed** (➖) | 218                                        |
+| **Net Change** (↕)    | 2067                |
+| **Active Time** (⌚)   | 185 minutes |
 
 
 ## Modified Files
 - **App.tsx** (+58, -0)
-- **dutyRequest.js** (+715, -92)
-- **duty-request.js** (+187, -1)
-- **duty-request.json** (+34, -1)
-- **html.pug** (+146, -10)
+- **dutyRequest.js** (+715, -121)
+- **duty-request.js** (+275, -1)
+- **duty-request.json** (+49, -1)
+- **html.pug** (+208, -10)
 - **.env** (+39, -0)
 - **.env.testing** (+10, -0)
 - **20250307121920-alter-duty-request-status-history-table.js** (+17, -4)
-- **duty-request.js** (+96, -0)
-- **package.json** (+64, -0)
+- **duty-request.js** (+191, -0)
+- **package.json** (+128, -0)
 - **settings.json** (+75, -2)
-- **getDutyRequests.ts** (+118, -4)
+- **getDutyRequests.ts** (+122, -4)
 - **updateDutyRequest.ts** (+150, -0)
-- **createDutyRequest.ts** (+138, -4)
-- **deleteDutyRequest.ts** (+110, -20)
+- **createDutyRequest.ts** (+138, -54)
+- **deleteDutyRequest.ts** (+110, -21)
 
 ## Visualizations
 
@@ -35,12 +35,12 @@
 pie showData
 title Lines changed by file type
 ".tsx" : 58
-".js" : 1112
-".json" : 176
-".pug" : 156
+".js" : 1324
+".json" : 255
+".pug" : 218
 "unknown" : 39
 ".testing" : 10
-".ts" : 544
+".ts" : 599
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -54,8 +54,8 @@ title Coding activity by hour (count of changes)
 "12h" : 23
 "13h" : 16
 "14h" : 19
-"15h" : 21
+"15h" : 30
 ```
 
 
-> **Last Updated:** 07/03/2025, 15:42:16
+> **Last Updated:** 07/03/2025, 15:47:16
