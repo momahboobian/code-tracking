@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1490                                          |
-| **Lines Removed** (➖) | 114                                        |
-| **Net Change** (↕)    | 1376                |
-| **Active Time** (⌚)   | 128 minutes |
+| **Lines Added** (➕)   | 1624                                          |
+| **Lines Removed** (➖) | 115                                        |
+| **Net Change** (↕)    | 1509                |
+| **Active Time** (⌚)   | 130 minutes |
 
 
 ## Modified Files
@@ -24,6 +24,7 @@
 - **settings.json** (+75, -2)
 - **getDutyRequests.ts** (+118, -4)
 - **updateDutyRequest.ts** (+150, -0)
+- **createDutyRequest.ts** (+134, -1)
 
 ## Visualizations
 
@@ -38,7 +39,7 @@ title Lines changed by file type
 ".pug" : 156
 "unknown" : 39
 ".testing" : 10
-".ts" : 272
+".ts" : 407
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -51,8 +52,8 @@ title Coding activity by hour (count of changes)
 "11h" : 8
 "12h" : 23
 "13h" : 16
-"14h" : 11
+"14h" : 14
 ```
 
 
-> **Last Updated:** 07/03/2025, 14:42:16
+> **Last Updated:** 07/03/2025, 14:52:16

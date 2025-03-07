@@ -2,9 +2,9 @@
   "date": "2025-03-07",
   "projects": {
     "cda": {
-      "totalLinesAdded": 1490,
-      "totalLinesRemoved": 114,
-      "totalActiveTime": 128,
+      "totalLinesAdded": 1624,
+      "totalLinesRemoved": 115,
+      "totalActiveTime": 130,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/App.tsx": [
           {
@@ -1157,6 +1157,50 @@
             "fileType": ".ts",
             "linesAdded": 29,
             "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/low-risk-schema/duty-request/service/createDutyRequest.ts": [
+          {
+            "timestamp": "2025-03-07T14:49:21.233Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/low-risk-schema/duty-request/service/createDutyRequest.ts",
+            "fileType": ".ts",
+            "linesAdded": 84,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-03-07T14:49:35.020Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/low-risk-schema/duty-request/service/createDutyRequest.ts",
+            "fileType": ".ts",
+            "linesAdded": 50,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-03-07T14:50:20.125Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/low-risk-schema/duty-request/service/createDutyRequest.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "cda",
             "content": {
               "added": [],
