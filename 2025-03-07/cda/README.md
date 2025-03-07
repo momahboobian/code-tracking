@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 918                                          |
+| **Lines Added** (➕)   | 1014                                          |
 | **Lines Removed** (➖) | 56                                        |
-| **Net Change** (↕)    | 862                |
-| **Active Time** (⌚)   | 90 minutes |
+| **Net Change** (↕)    | 958                |
+| **Active Time** (⌚)   | 91 minutes |
 
 
 ## Modified Files
@@ -19,6 +19,7 @@
 - **.env** (+39, -0)
 - **.env.testing** (+10, -0)
 - **20250307121920-alter-duty-request-status-history-table.js** (+17, -4)
+- **duty-request.js** (+96, -0)
 
 ## Visualizations
 
@@ -28,7 +29,7 @@
 pie showData
 title Lines changed by file type
 ".tsx" : 58
-".js" : 676
+".js" : 772
 ".json" : 35
 ".pug" : 156
 "unknown" : 39
@@ -44,8 +45,8 @@ title Coding activity by hour (count of changes)
 "10h" : 13
 "11h" : 8
 "12h" : 23
-"13h" : 4
+"13h" : 6
 ```
 
 
-> **Last Updated:** 07/03/2025, 13:05:30
+> **Last Updated:** 07/03/2025, 13:15:30
