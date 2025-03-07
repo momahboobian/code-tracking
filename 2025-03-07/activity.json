@@ -2,7 +2,7 @@
   "date": "2025-03-07",
   "projects": {
     "cda": {
-      "totalLinesAdded": 1953,
+      "totalLinesAdded": 1954,
       "totalLinesRemoved": 133,
       "totalActiveTime": 156,
       "files": {
@@ -1461,6 +1461,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-03-07T15:35:55.908Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/low-risk-schema/duty-request/service/deleteDutyRequest.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "ts"
           }
         ]
