@@ -2,9 +2,9 @@
   "date": "2025-03-07",
   "projects": {
     "cda": {
-      "totalLinesAdded": 377,
-      "totalLinesRemoved": 22,
-      "totalActiveTime": 32,
+      "totalLinesAdded": 444,
+      "totalLinesRemoved": 23,
+      "totalActiveTime": 37,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/App.tsx": [
           {
@@ -292,6 +292,64 @@
             },
             "duration": 1,
             "language": "json"
+          },
+          {
+            "timestamp": "2025-03-07T10:59:06.547Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-mailer/context/duty-request.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-03-07T11:00:50.315Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-mailer/context/duty-request.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-mailer/src/templates/duty-request/html.pug": [
+          {
+            "timestamp": "2025-03-07T10:59:21.317Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-mailer/src/templates/duty-request/html.pug",
+            "fileType": ".pug",
+            "linesAdded": 62,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "pug"
+          },
+          {
+            "timestamp": "2025-03-07T10:59:27.707Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-mailer/src/templates/duty-request/html.pug",
+            "fileType": ".pug",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "pug"
           }
         ]
       },
