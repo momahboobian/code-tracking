@@ -2,9 +2,9 @@
   "date": "2025-03-10",
   "projects": {
     "cda": {
-      "totalLinesAdded": 81364,
-      "totalLinesRemoved": 129,
-      "totalActiveTime": 53,
+      "totalLinesAdded": 104513,
+      "totalLinesRemoved": 195,
+      "totalActiveTime": 65,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/src/App.tsx": [
           {
@@ -80,6 +80,20 @@
             },
             "duration": 0,
             "language": "lock"
+          },
+          {
+            "timestamp": "2025-03-10T15:52:20.064Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/yarn.lock",
+            "fileType": ".lock",
+            "linesAdded": 0,
+            "linesRemoved": 10,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "lock"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/everywhere/src/App.tsx": [
@@ -138,6 +152,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-03-10T15:52:20.187Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/everywhere/src/App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/everywhere/package.json": [
@@ -162,6 +190,20 @@
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/everywhere/yarn.lock",
             "fileType": ".lock",
             "linesAdded": 13205,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "lock"
+          },
+          {
+            "timestamp": "2025-03-10T15:52:20.152Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/everywhere/yarn.lock",
+            "fileType": ".lock",
+            "linesAdded": 63,
             "linesRemoved": 0,
             "projectName": "cda",
             "content": {
@@ -246,6 +288,20 @@
             },
             "duration": 0,
             "language": "lock"
+          },
+          {
+            "timestamp": "2025-03-10T15:52:20.182Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/it-kit/yarn.lock",
+            "fileType": ".lock",
+            "linesAdded": 72,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "lock"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/package.json": [
@@ -291,6 +347,20 @@
               "removed": []
             },
             "duration": 3,
+            "language": "lock"
+          },
+          {
+            "timestamp": "2025-03-10T15:52:20.214Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/yarn.lock",
+            "fileType": ".lock",
+            "linesAdded": 0,
+            "linesRemoved": 10,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "lock"
           }
         ],
@@ -472,6 +542,20 @@
             },
             "duration": 3,
             "language": "lock"
+          },
+          {
+            "timestamp": "2025-03-10T15:52:20.122Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/yarn.lock",
+            "fileType": ".lock",
+            "linesAdded": 0,
+            "linesRemoved": 46,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "lock"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/say-my-name/package.json": [
@@ -580,6 +664,68 @@
             },
             "duration": 1,
             "language": "lock"
+          },
+          {
+            "timestamp": "2025-03-10T15:52:20.287Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/yarn.lock",
+            "fileType": ".lock",
+            "linesAdded": 58,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "lock"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/buildings/yarn.lock": [
+          {
+            "timestamp": "2025-03-10T15:52:20.096Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/buildings/yarn.lock",
+            "fileType": ".lock",
+            "linesAdded": 11510,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "lock"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/say-my-name/yarn.lock": [
+          {
+            "timestamp": "2025-03-10T15:52:20.261Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/say-my-name/yarn.lock",
+            "fileType": ".lock",
+            "linesAdded": 11372,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "lock"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-mailer/src/templates/duty-request/html.pug": [
+          {
+            "timestamp": "2025-03-10T15:56:05.614Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-mailer/src/templates/duty-request/html.pug",
+            "fileType": ".pug",
+            "linesAdded": 70,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "pug"
           }
         ]
       },
