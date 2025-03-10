@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 104579,
-      "totalLinesRemoved": 228,
-      "totalActiveTime": 114,
+      "totalLinesRemoved": 230,
+      "totalActiveTime": 119,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/src/App.tsx": [
           {
@@ -949,6 +949,20 @@
               "removed": []
             },
             "duration": 4,
+            "language": "pug"
+          },
+          {
+            "timestamp": "2025-03-10T18:44:33.145Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-mailer/src/templates/duty-request/html.pug",
+            "fileType": ".pug",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "pug"
           }
         ],
