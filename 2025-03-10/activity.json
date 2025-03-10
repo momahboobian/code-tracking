@@ -2,9 +2,9 @@
   "date": "2025-03-10",
   "projects": {
     "cda": {
-      "totalLinesAdded": 54914,
-      "totalLinesRemoved": 119,
-      "totalActiveTime": 31,
+      "totalLinesAdded": 68145,
+      "totalLinesRemoved": 126,
+      "totalActiveTime": 44,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/src/App.tsx": [
           {
@@ -382,6 +382,112 @@
             },
             "duration": 1,
             "language": "js"
+          },
+          {
+            "timestamp": "2025-03-10T14:56:49.306Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/buildings/src/App.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/package.json": [
+          {
+            "timestamp": "2025-03-10T14:59:28.836Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/package.json",
+            "fileType": ".json",
+            "linesAdded": 64,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/App.tsx": [
+          {
+            "timestamp": "2025-03-10T15:01:27.962Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 58,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-03-10T15:01:33.455Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-03-10T15:02:00.138Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/yarn.lock": [
+          {
+            "timestamp": "2025-03-10T15:04:24.092Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/yarn.lock",
+            "fileType": ".lock",
+            "linesAdded": 13061,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "lock"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/say-my-name/package.json": [
+          {
+            "timestamp": "2025-03-10T15:05:36.871Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/say-my-name/package.json",
+            "fileType": ".json",
+            "linesAdded": 45,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
           }
         ]
       },
