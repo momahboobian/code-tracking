@@ -2,9 +2,9 @@
   "date": "2025-03-10",
   "projects": {
     "cda": {
-      "totalLinesAdded": 68145,
+      "totalLinesAdded": 68169,
       "totalLinesRemoved": 126,
-      "totalActiveTime": 44,
+      "totalActiveTime": 47,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/src/App.tsx": [
           {
@@ -488,6 +488,22 @@
             },
             "duration": 2,
             "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/say-my-name/src/index.js": [
+          {
+            "timestamp": "2025-03-10T15:07:43.706Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/say-my-name/src/index.js",
+            "fileType": ".js",
+            "linesAdded": 24,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "js"
           }
         ]
       },
