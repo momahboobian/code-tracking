@@ -2,9 +2,9 @@
   "date": "2025-03-10",
   "projects": {
     "cda": {
-      "totalLinesAdded": 68288,
-      "totalLinesRemoved": 126,
-      "totalActiveTime": 50,
+      "totalLinesAdded": 81364,
+      "totalLinesRemoved": 129,
+      "totalActiveTime": 53,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/src/App.tsx": [
           {
@@ -550,6 +550,36 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-03-10T15:22:27.820Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/yarn.lock": [
+          {
+            "timestamp": "2025-03-10T15:22:37.154Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/yarn.lock",
+            "fileType": ".lock",
+            "linesAdded": 13076,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "lock"
           }
         ]
       },
