@@ -2,7 +2,7 @@
   "date": "2025-03-10",
   "projects": {
     "cda": {
-      "totalLinesAdded": 104530,
+      "totalLinesAdded": 104534,
       "totalLinesRemoved": 205,
       "totalActiveTime": 65,
       "files": {
@@ -41,6 +41,20 @@
             "fileType": ".tsx",
             "linesAdded": 0,
             "linesRemoved": 4,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-03-10T16:31:50.424Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/src/App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 4,
+            "linesRemoved": 0,
             "projectName": "cda",
             "content": {
               "added": [],
