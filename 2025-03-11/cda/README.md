@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 8828                                          |
+| **Lines Added** (➕)   | 9184                                          |
 | **Lines Removed** (➖) | 46                                        |
-| **Net Change** (↕)    | 8782                |
-| **Active Time** (⌚)   | 84 minutes |
+| **Net Change** (↕)    | 9138                |
+| **Active Time** (⌚)   | 89 minutes |
 
 
 ## Modified Files
@@ -23,6 +23,9 @@
 - **App.tsx** (+0, -4)
 - **yarn.lock** (+8038, -0)
 - **createDutyRequest.ts** (+211, -8)
+- **updateDutyRequest.ts** (+151, -0)
+- **deleteDutyRequest.ts** (+90, -0)
+- **getDutyRequests.ts** (+115, -0)
 
 ## Visualizations
 
@@ -34,7 +37,7 @@ title Lines changed by file type
 ".js" : 613
 ".tsx" : 4
 ".lock" : 8038
-".ts" : 219
+".ts" : 575
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -48,8 +51,8 @@ title Coding activity by hour (count of changes)
 "12h" : 12
 "13h" : 9
 "14h" : 8
-"15h" : 4
+"15h" : 10
 ```
 
 
-> **Last Updated:** 11/03/2025, 15:11:14
+> **Last Updated:** 11/03/2025, 15:41:14
