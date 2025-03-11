@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 337                                          |
-| **Lines Removed** (➖) | 11                                        |
-| **Net Change** (↕)    | 326                |
-| **Active Time** (⌚)   | 17 minutes |
+| **Lines Added** (➕)   | 434                                          |
+| **Lines Removed** (➖) | 20                                        |
+| **Net Change** (↕)    | 414                |
+| **Active Time** (⌚)   | 21 minutes |
 
 
 ## Modified Files
@@ -16,6 +16,7 @@
 - **20250311103639-replace-duty-requests-view.js** (+45, -4)
 - **20250130140053-create-duty-request-status-history-table.js** (+24, -1)
 - **20250307121920-alter-duty-request-status-history-table.js** (+13, -0)
+- **duty-request.js** (+97, -9)
 
 ## Visualizations
 
@@ -24,7 +25,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".js" : 348
+".js" : 454
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -34,8 +35,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "09h" : 5
 "10h" : 11
-"11h" : 1
+"11h" : 4
 ```
 
 
-> **Last Updated:** 11/03/2025, 11:06:13
+> **Last Updated:** 11/03/2025, 11:16:13
