@@ -2,7 +2,7 @@
   "date": "2025-03-12",
   "projects": {
     "cda": {
-      "totalLinesAdded": 619,
+      "totalLinesAdded": 667,
       "totalLinesRemoved": 138,
       "totalActiveTime": 94,
       "files": {
@@ -845,6 +845,22 @@
               "removed": []
             },
             "duration": 2,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/NewAlert/NewAlert.tsx": [
+          {
+            "timestamp": "2025-03-12T13:54:34.647Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/NewAlert/NewAlert.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 48,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ]
