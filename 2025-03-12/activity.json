@@ -3,7 +3,7 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 170,
-      "totalLinesRemoved": 65,
+      "totalLinesRemoved": 106,
       "totalActiveTime": 33,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/utils/duty-request/createHistoryRecord.ts": [
@@ -177,6 +177,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-03-12T09:16:08.811Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/duty-request/dutyRequest.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 41,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "js"
           }
         ],
