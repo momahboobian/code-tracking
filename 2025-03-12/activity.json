@@ -2,7 +2,7 @@
   "date": "2025-03-12",
   "projects": {
     "cda": {
-      "totalLinesAdded": 298,
+      "totalLinesAdded": 302,
       "totalLinesRemoved": 129,
       "totalActiveTime": 70,
       "files": {
@@ -395,6 +395,20 @@
             "fileType": ".js",
             "linesAdded": 0,
             "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-03-12T10:15:11.221Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/duty-request/dutyRequest.js",
+            "fileType": ".js",
+            "linesAdded": 4,
+            "linesRemoved": 0,
             "projectName": "cda",
             "content": {
               "added": [],
