@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 280                                          |
-| **Lines Removed** (➖) | 118                                        |
-| **Net Change** (↕)    | 162                |
-| **Active Time** (⌚)   | 48 minutes |
+| **Lines Added** (➕)   | 285                                          |
+| **Lines Removed** (➖) | 119                                        |
+| **Net Change** (↕)    | 166                |
+| **Active Time** (⌚)   | 55 minutes |
 
 
 ## Modified Files
@@ -16,6 +16,7 @@
 - **dutyRequest.js** (+70, -66)
 - **historyRecord.ts** (+79, -9)
 - **duty-request.js** (+98, -0)
+- **deleteDutyRequest.ts** (+5, -1)
 
 ## Visualizations
 
@@ -24,7 +25,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 164
+".ts" : 170
 ".js" : 234
 ```
 
@@ -34,8 +35,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "08h" : 16
-"09h" : 17
+"09h" : 20
 ```
 
 
-> **Last Updated:** 12/03/2025, 09:26:15
+> **Last Updated:** 12/03/2025, 09:31:15
