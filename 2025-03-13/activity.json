@@ -2,9 +2,9 @@
   "date": "2025-03-13",
   "projects": {
     "cda": {
-      "totalLinesAdded": 11726,
+      "totalLinesAdded": 11791,
       "totalLinesRemoved": 595,
-      "totalActiveTime": 293,
+      "totalActiveTime": 294,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/high-risk-schema/resolvers/yesalert.js": [
           {
@@ -2184,6 +2184,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-03-13T15:22:33.365Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/components/RecipientView/RecipientView.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/components/RecipientView/index.ts": [
@@ -2452,6 +2466,22 @@
             },
             "duration": 1,
             "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/node_modules/@bbc/ise-web-components/dist/styles/components/_label.scss": [
+          {
+            "timestamp": "2025-03-13T15:21:56.332Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/node_modules/@bbc/ise-web-components/dist/styles/components/_label.scss",
+            "fileType": ".scss",
+            "linesAdded": 64,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "scss"
           }
         ]
       },
