@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2810                                          |
-| **Lines Removed** (➖) | 912                                        |
-| **Net Change** (↕)    | 1898                |
-| **Active Time** (⌚)   | 635 minutes |
+| **Lines Added** (➕)   | 2827                                          |
+| **Lines Removed** (➖) | 917                                        |
+| **Net Change** (↕)    | 1910                |
+| **Active Time** (⌚)   | 648 minutes |
 
 
 ## Modified Files
@@ -26,12 +26,12 @@
 - **Job.tsx** (+44, -0)
 - **MonthlyViewRow.tsx** (+94, -0)
 - **RotaPattern.ts** (+46, -0)
-- **AlertForm.tsx** (+289, -16)
+- **AlertForm.tsx** (+289, -20)
 - **AlertForm.test.tsx** (+187, -36)
 - **SendToYourself.tsx** (+31, -2)
 - **index.tsx** (+3, -0)
 - **SendToYourself.scss** (+108, -76)
-- **AlertForm.scss** (+19, -0)
+- **AlertForm.scss** (+36, -1)
 
 ## Visualizations
 
@@ -40,8 +40,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".scss" : 964
-".tsx" : 1806
+".scss" : 982
+".tsx" : 1810
 ".js" : 494
 ".ts" : 458
 ```
@@ -59,8 +59,8 @@ title Coding activity by hour (count of changes)
 "14h" : 13
 "15h" : 16
 "16h" : 35
-"17h" : 88
+"17h" : 100
 ```
 
 
-> **Last Updated:** 14/03/2025, 17:53:30
+> **Last Updated:** 14/03/2025, 17:58:30
