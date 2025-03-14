@@ -4,14 +4,19 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 38                                          |
-| **Lines Removed** (➖) | 14                                        |
-| **Net Change** (↕)    | 24                |
-| **Active Time** (⌚)   | 28 minutes |
+| **Lines Added** (➕)   | 46                                          |
+| **Lines Removed** (➖) | 281                                        |
+| **Net Change** (↕)    | -235                |
+| **Active Time** (⌚)   | 45 minutes |
 
 
 ## Modified Files
-- **RecipientView.scss** (+38, -14)
+- **RecipientView.scss** (+42, -41)
+- **RecipientView.tsx** (+4, -4)
+- **yesalert.js** (+0, -36)
+- **queries.ts** (+0, -29)
+- **yesalert.js** (+0, -157)
+- **NewAlert.tsx** (+0, -14)
 
 ## Visualizations
 
@@ -20,7 +25,10 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".scss" : 52
+".scss" : 83
+".tsx" : 22
+".js" : 193
+".ts" : 29
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -28,8 +36,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"09h" : 26
+"09h" : 39
 ```
 
 
-> **Last Updated:** 14/03/2025, 09:13:29
+> **Last Updated:** 14/03/2025, 09:18:29
