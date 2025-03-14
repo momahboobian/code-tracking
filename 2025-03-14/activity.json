@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 1912,
-      "totalLinesRemoved": 539,
-      "totalActiveTime": 281,
+      "totalLinesRemoved": 542,
+      "totalActiveTime": 286,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/components/RecipientView/RecipientView.scss": [
           {
@@ -2651,6 +2651,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2025-03-14T12:27:18.519Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/components/RecipientView/RecipientView.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "scss"
           }
         ],
