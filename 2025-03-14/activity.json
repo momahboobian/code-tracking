@@ -2,7 +2,7 @@
   "date": "2025-03-14",
   "projects": {
     "cda": {
-      "totalLinesAdded": 600,
+      "totalLinesAdded": 634,
       "totalLinesRemoved": 287,
       "totalActiveTime": 60,
       "files": {
@@ -680,6 +680,22 @@
             },
             "duration": 1,
             "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/src/lib/dutyTimeHelpers.ts": [
+          {
+            "timestamp": "2025-03-14T09:55:34.611Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/src/lib/dutyTimeHelpers.ts",
+            "fileType": ".ts",
+            "linesAdded": 34,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
           }
         ]
       },
