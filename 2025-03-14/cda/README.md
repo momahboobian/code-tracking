@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2626                                          |
-| **Lines Removed** (➖) | 790                                        |
-| **Net Change** (↕)    | 1836                |
-| **Active Time** (⌚)   | 549 minutes |
+| **Lines Added** (➕)   | 2672                                          |
+| **Lines Removed** (➖) | 828                                        |
+| **Net Change** (↕)    | 1844                |
+| **Active Time** (⌚)   | 560 minutes |
 
 
 ## Modified Files
@@ -16,7 +16,7 @@
 - **yesalert.js** (+36, -36)
 - **queries.ts** (+29, -29)
 - **yesalert.js** (+217, -205)
-- **NewAlert.tsx** (+23, -15)
+- **NewAlert.tsx** (+26, -15)
 - **Duty.test.tsx** (+191, -2)
 - **App.tsx** (+238, -4)
 - **TeamViewRow.tsx** (+125, -2)
@@ -26,8 +26,8 @@
 - **Job.tsx** (+44, -0)
 - **MonthlyViewRow.tsx** (+94, -0)
 - **RotaPattern.ts** (+46, -0)
-- **AlertForm.tsx** (+273, -8)
-- **AlertForm.test.tsx** (+151, -0)
+- **AlertForm.tsx** (+280, -10)
+- **AlertForm.test.tsx** (+187, -36)
 - **SendToYourself.tsx** (+29, -0)
 - **index.tsx** (+3, -0)
 
@@ -39,7 +39,7 @@
 pie showData
 title Lines changed by file type
 ".scss" : 761
-".tsx" : 1703
+".tsx" : 1787
 ".js" : 494
 ".ts" : 458
 ```
@@ -57,8 +57,8 @@ title Coding activity by hour (count of changes)
 "14h" : 13
 "15h" : 16
 "16h" : 35
-"17h" : 10
+"17h" : 21
 ```
 
 
-> **Last Updated:** 14/03/2025, 17:13:30
+> **Last Updated:** 14/03/2025, 17:18:30
