@@ -2,9 +2,9 @@
   "date": "2025-03-14",
   "projects": {
     "cda": {
-      "totalLinesAdded": 1951,
-      "totalLinesRemoved": 569,
-      "totalActiveTime": 319,
+      "totalLinesAdded": 1955,
+      "totalLinesRemoved": 580,
+      "totalActiveTime": 328,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/components/RecipientView/RecipientView.scss": [
           {
@@ -3023,6 +3023,132 @@
             "fileType": ".scss",
             "linesAdded": 1,
             "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2025-03-14T12:44:12.666Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/components/RecipientView/RecipientView.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2025-03-14T12:44:21.561Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/components/RecipientView/RecipientView.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2025-03-14T12:44:27.297Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/components/RecipientView/RecipientView.scss",
+            "fileType": ".scss",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2025-03-14T12:44:29.086Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/components/RecipientView/RecipientView.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2025-03-14T12:44:32.121Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/components/RecipientView/RecipientView.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2025-03-14T12:45:28.785Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/components/RecipientView/RecipientView.scss",
+            "fileType": ".scss",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2025-03-14T12:45:30.142Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/components/RecipientView/RecipientView.scss",
+            "fileType": ".scss",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2025-03-14T12:45:58.429Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/components/RecipientView/RecipientView.scss",
+            "fileType": ".scss",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2025-03-14T12:46:31.733Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/components/RecipientView/RecipientView.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 4,
             "projectName": "cda",
             "content": {
               "added": [],
