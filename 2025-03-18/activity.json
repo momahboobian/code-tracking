@@ -2,9 +2,9 @@
   "date": "2025-03-18",
   "projects": {
     "cda": {
-      "totalLinesAdded": 9763,
+      "totalLinesAdded": 9844,
       "totalLinesRemoved": 36,
-      "totalActiveTime": 36,
+      "totalActiveTime": 43,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/components/SendToYourself/SendToYourself.tsx": [
           {
@@ -318,6 +318,50 @@
             },
             "duration": 4,
             "language": "js"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/components/AlertForm/AlertForm.scss": [
+          {
+            "timestamp": "2025-03-18T11:39:14.386Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/components/AlertForm/AlertForm.scss",
+            "fileType": ".scss",
+            "linesAdded": 79,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2025-03-18T11:40:39.838Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/components/AlertForm/AlertForm.scss",
+            "fileType": ".scss",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2025-03-18T11:41:14.834Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/components/AlertForm/AlertForm.scss",
+            "fileType": ".scss",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
           }
         ]
       },
