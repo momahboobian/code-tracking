@@ -4,24 +4,24 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 11095                                          |
-| **Lines Removed** (➖) | 668                                        |
-| **Net Change** (↕)    | 10427                |
-| **Active Time** (⌚)   | 567 minutes |
+| **Lines Added** (➕)   | 11218                                          |
+| **Lines Removed** (➖) | 672                                        |
+| **Net Change** (↕)    | 10546                |
+| **Active Time** (⌚)   | 574 minutes |
 
 
 ## Modified Files
 - **SendToYourself.tsx** (+346, -24)
 - **yesalert.js** (+376, -21)
 - **NewAlert.tsx** (+181, -21)
-- **AlertForm.tsx** (+578, -231)
+- **AlertForm.tsx** (+578, -232)
 - **RecipientView.scss** (+127, -0)
 - **yesalert.js** (+104, -0)
 - **yesalert.js** (+91, -0)
 - **create-users.sql** (+375, -0)
 - **yarn.lock** (+8038, -0)
 - **yesalert-queries.js** (+259, -0)
-- **AlertForm.scss** (+463, -344)
+- **AlertForm.scss** (+586, -347)
 - **AlertForm.test.tsx** (+151, -27)
 - **index.tsx** (+6, -0)
 
@@ -32,9 +32,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 1565
+".tsx" : 1566
 ".js" : 851
-".scss" : 934
+".scss" : 1060
 ".sql" : 375
 ".lock" : 8038
 ```
@@ -54,8 +54,8 @@ title Coding activity by hour (count of changes)
 "17h" : 19
 "18h" : 31
 "20h" : 19
-"21h" : 12
+"21h" : 17
 ```
 
 
-> **Last Updated:** 18/03/2025, 21:29:22
+> **Last Updated:** 18/03/2025, 21:34:22
