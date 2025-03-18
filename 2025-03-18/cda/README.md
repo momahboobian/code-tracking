@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 11313                                          |
+| **Lines Added** (➕)   | 11493                                          |
 | **Lines Removed** (➖) | 747                                        |
-| **Net Change** (↕)    | 10566                |
-| **Active Time** (⌚)   | 668 minutes |
+| **Net Change** (↕)    | 10746                |
+| **Active Time** (⌚)   | 678 minutes |
 
 
 ## Modified Files
@@ -21,9 +21,11 @@
 - **create-users.sql** (+375, -0)
 - **yarn.lock** (+8038, -0)
 - **yesalert-queries.js** (+259, -0)
-- **AlertForm.scss** (+637, -379)
+- **AlertForm.scss** (+641, -379)
 - **AlertForm.test.tsx** (+151, -27)
 - **index.tsx** (+6, -0)
+- **index.tsx** (+3, -0)
+- **SendAlert.tsx** (+173, -0)
 
 ## Visualizations
 
@@ -32,9 +34,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 1653
+".tsx" : 1829
 ".js" : 851
-".scss" : 1143
+".scss" : 1147
 ".sql" : 375
 ".lock" : 8038
 ```
@@ -55,8 +57,8 @@ title Coding activity by hour (count of changes)
 "18h" : 31
 "20h" : 19
 "21h" : 33
-"22h" : 44
+"22h" : 49
 ```
 
 
-> **Last Updated:** 18/03/2025, 22:44:22
+> **Last Updated:** 18/03/2025, 22:49:22
