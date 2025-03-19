@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 290,
-      "totalLinesRemoved": 266,
-      "totalActiveTime": 247,
+      "totalLinesRemoved": 268,
+      "totalActiveTime": 253,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/components/SendAlert/SendAlert.tsx": [
           {
@@ -719,6 +719,34 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-03-19T13:05:46.171Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/components/SendAlert/SendAlert.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-03-19T13:07:41.171Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/components/SendAlert/SendAlert.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "tsx"
           }
         ],
