@@ -2,9 +2,9 @@
   "date": "2025-03-20",
   "projects": {
     "cda": {
-      "totalLinesAdded": 1445,
-      "totalLinesRemoved": 362,
-      "totalActiveTime": 155,
+      "totalLinesAdded": 1448,
+      "totalLinesRemoved": 364,
+      "totalActiveTime": 160,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/components/AlertForm/AlertForm.tsx": [
           {
@@ -848,6 +848,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-03-20T19:15:15.685Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/NewAlert/NewAlert.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/components/SendAlert/SendAlert.tsx": [
@@ -1452,6 +1466,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-03-20T19:19:11.487Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/components/SendAlert/SendAlert.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/components/AlertForm/AlertForm.scss": [
@@ -1511,6 +1539,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-03-20T19:17:49.531Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/graphql/low-risk/queries.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "ts"
           }
         ],
