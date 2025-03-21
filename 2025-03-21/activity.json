@@ -3,7 +3,7 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 16527,
-      "totalLinesRemoved": 1087,
+      "totalLinesRemoved": 1116,
       "totalActiveTime": 310,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/generated/version.ts": [
@@ -2681,6 +2681,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-03-21T14:25:59.657Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/high-risk-schema/resolvers/yesalert.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 29,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "js"
           }
         ],
