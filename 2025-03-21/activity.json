@@ -2,7 +2,7 @@
   "date": "2025-03-21",
   "projects": {
     "cda": {
-      "totalLinesAdded": 16608,
+      "totalLinesAdded": 18224,
       "totalLinesRemoved": 1116,
       "totalActiveTime": 313,
       "files": {
@@ -2934,6 +2934,22 @@
             },
             "duration": 0,
             "language": "unknown"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-import-sap-data/yarn.lock": [
+          {
+            "timestamp": "2025-03-21T16:24:11.645Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-import-sap-data/yarn.lock",
+            "fileType": ".lock",
+            "linesAdded": 1616,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "lock"
           }
         ]
       },
