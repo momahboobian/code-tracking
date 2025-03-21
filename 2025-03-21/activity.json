@@ -2,9 +2,9 @@
   "date": "2025-03-21",
   "projects": {
     "cda": {
-      "totalLinesAdded": 1600,
-      "totalLinesRemoved": 431,
-      "totalActiveTime": 258,
+      "totalLinesAdded": 7929,
+      "totalLinesRemoved": 566,
+      "totalActiveTime": 274,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/generated/version.ts": [
           {
@@ -585,6 +585,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-03-21T13:25:08.587Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/NewAlert/NewAlert.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 65,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "tsx"
           }
         ],
@@ -1488,6 +1502,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-03-21T13:25:08.588Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/components/AlertForm/AlertForm.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 64,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/components/AlertForm/AlertForm.tsx": [
@@ -1511,6 +1539,20 @@
             "fileType": ".tsx",
             "linesAdded": 0,
             "linesRemoved": 9,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-03-21T13:25:08.585Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/components/AlertForm/AlertForm.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 96,
+            "linesRemoved": 0,
             "projectName": "cda",
             "content": {
               "added": [],
@@ -1564,6 +1606,20 @@
             },
             "duration": 3,
             "language": "scss"
+          },
+          {
+            "timestamp": "2025-03-21T13:25:08.586Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/NewAlert/NewAlert.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/graphql/low-risk/queries.ts": [
@@ -1580,6 +1636,20 @@
             },
             "duration": 2,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-03-21T13:25:08.584Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/graphql/low-risk/queries.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/graphql/high-risk/mutations.ts": [
@@ -1589,6 +1659,20 @@
             "fileType": ".ts",
             "linesAdded": 41,
             "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-03-21T13:25:08.589Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/graphql/high-risk/mutations.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 22,
             "projectName": "cda",
             "content": {
               "added": [],
@@ -2440,6 +2524,160 @@
             },
             "duration": 3,
             "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/components/RecipientView/RecipientView.scss": [
+          {
+            "timestamp": "2025-03-21T13:22:39.145Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/components/RecipientView/RecipientView.scss",
+            "fileType": ".scss",
+            "linesAdded": 127,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "scss"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/high-risk-schema/resolvers/yesalert.js": [
+          {
+            "timestamp": "2025-03-21T13:24:28.558Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/high-risk-schema/resolvers/yesalert.js",
+            "fileType": ".js",
+            "linesAdded": 343,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-03-21T13:25:08.585Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/high-risk-schema/resolvers/yesalert.js",
+            "fileType": ".js",
+            "linesAdded": 21,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-03-21T13:25:26.369Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/high-risk-schema/resolvers/yesalert.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 21,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/graphql/high-risk/queries.ts": [
+          {
+            "timestamp": "2025-03-21T13:25:08.583Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/graphql/high-risk/queries.ts",
+            "fileType": ".ts",
+            "linesAdded": 56,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/high-risk-schema/definitions/yesalert.js": [
+          {
+            "timestamp": "2025-03-21T13:25:08.590Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/high-risk-schema/definitions/yesalert.js",
+            "fileType": ".js",
+            "linesAdded": 125,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-03-21T13:25:26.368Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/high-risk-schema/definitions/yesalert.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 21,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/gql-generated/high-risk/gql.ts": [
+          {
+            "timestamp": "2025-03-21T13:25:08.589Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/gql-generated/high-risk/gql.ts",
+            "fileType": ".ts",
+            "linesAdded": 26,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/gql-generated/high-risk/graphql.ts": [
+          {
+            "timestamp": "2025-03-21T13:25:08.595Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/gql-generated/high-risk/graphql.ts",
+            "fileType": ".ts",
+            "linesAdded": 5428,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/gql-generated/low-risk/gql.ts": [
+          {
+            "timestamp": "2025-03-21T13:25:08.599Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/gql-generated/low-risk/gql.ts",
+            "fileType": ".ts",
+            "linesAdded": 43,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ]
       },
