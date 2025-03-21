@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1296                                          |
-| **Lines Removed** (➖) | 398                                        |
-| **Net Change** (↕)    | 898                |
-| **Active Time** (⌚)   | 202 minutes |
+| **Lines Added** (➕)   | 1333                                          |
+| **Lines Removed** (➖) | 413                                        |
+| **Net Change** (↕)    | 920                |
+| **Active Time** (⌚)   | 209 minutes |
 
 
 ## Modified Files
@@ -23,7 +23,7 @@
 - **NewAlert.scss** (+11, -0)
 - **queries.ts** (+14, -0)
 - **mutations.ts** (+41, -0)
-- **NewAlert.test.tsx** (+254, -124)
+- **NewAlert.test.tsx** (+291, -139)
 
 ## Visualizations
 
@@ -33,7 +33,7 @@
 pie showData
 title Lines changed by file type
 ".ts" : 66
-".tsx" : 1441
+".tsx" : 1493
 ".scss" : 187
 ```
 
@@ -45,8 +45,8 @@ title Coding activity by hour (count of changes)
 "09h" : 18
 "10h" : 52
 "11h" : 53
-"12h" : 18
+"12h" : 25
 ```
 
 
-> **Last Updated:** 21/03/2025, 12:12:18
+> **Last Updated:** 21/03/2025, 12:22:18
