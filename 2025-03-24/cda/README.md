@@ -5,9 +5,9 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 9261                                          |
-| **Lines Removed** (➖) | 1137                                        |
-| **Net Change** (↕)    | 8124                |
-| **Active Time** (⌚)   | 229 minutes |
+| **Lines Removed** (➖) | 1146                                        |
+| **Net Change** (↕)    | 8115                |
+| **Active Time** (⌚)   | 230 minutes |
 
 
 ## Modified Files
@@ -15,8 +15,8 @@
 - **gql.ts** (+52, -9)
 - **queries.ts** (+174, -118)
 - **queries.ts** (+20, -9)
-- **yesalert.js** (+734, -312)
-- **yesalert.js** (+242, -88)
+- **yesalert.js** (+734, -314)
+- **yesalert.js** (+242, -95)
 - **NewAlert.tsx** (+243, -195)
 - **dutyRequest.js** (+251, -0)
 - **yesalert.json** (+15, -0)
@@ -43,7 +43,7 @@ pie showData
 title Lines changed by file type
 ".tsx" : 1227
 ".ts" : 5872
-".js" : 3134
+".js" : 3143
 ".json" : 90
 ".pug" : 67
 ".scss" : 8
@@ -62,8 +62,8 @@ title Coding activity by hour (count of changes)
 "14h" : 30
 "15h" : 30
 "16h" : 4
-"17h" : 3
+"17h" : 5
 ```
 
 
-> **Last Updated:** 24/03/2025, 17:10:59
+> **Last Updated:** 24/03/2025, 17:20:59
