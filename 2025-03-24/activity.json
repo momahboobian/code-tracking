@@ -2,9 +2,9 @@
   "date": "2025-03-24",
   "projects": {
     "cda": {
-      "totalLinesAdded": 3242,
+      "totalLinesAdded": 3243,
       "totalLinesRemoved": 777,
-      "totalActiveTime": 160,
+      "totalActiveTime": 164,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/components/RecipientView/RecipientView.tsx": [
           {
@@ -135,6 +135,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-03-24T13:59:22.107Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/graphql/high-risk/queries.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "ts"
           }
         ],
