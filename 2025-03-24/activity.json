@@ -2,7 +2,7 @@
   "date": "2025-03-24",
   "projects": {
     "cda": {
-      "totalLinesAdded": 1998,
+      "totalLinesAdded": 2013,
       "totalLinesRemoved": 25,
       "totalActiveTime": 56,
       "files": {
@@ -319,6 +319,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-03-24T10:42:04.391Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/high-risk-schema/yesalert/yesalert-mutations.js",
+            "fileType": ".js",
+            "linesAdded": 15,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "js"
           }
         ]
