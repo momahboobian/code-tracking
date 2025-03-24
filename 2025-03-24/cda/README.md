@@ -4,24 +4,24 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 8988                                          |
-| **Lines Removed** (➖) | 885                                        |
-| **Net Change** (↕)    | 8103                |
-| **Active Time** (⌚)   | 186 minutes |
+| **Lines Added** (➕)   | 9092                                          |
+| **Lines Removed** (➖) | 902                                        |
+| **Net Change** (↕)    | 8190                |
+| **Active Time** (⌚)   | 188 minutes |
 
 
 ## Modified Files
-- **RecipientView.tsx** (+191, -3)
-- **gql.ts** (+46, -3)
-- **queries.ts** (+110, -54)
-- **queries.ts** (+14, -3)
-- **yesalert.js** (+696, -284)
+- **RecipientView.tsx** (+192, -3)
+- **gql.ts** (+49, -3)
+- **queries.ts** (+142, -54)
+- **queries.ts** (+17, -3)
+- **yesalert.js** (+696, -294)
 - **yesalert.js** (+228, -86)
-- **NewAlert.tsx** (+113, -65)
+- **NewAlert.tsx** (+178, -65)
 - **dutyRequest.js** (+251, -0)
 - **yesalert.json** (+15, -0)
-- **html.pug** (+65, -0)
-- **yesalert-mutations.js** (+1101, -386)
+- **html.pug** (+65, -2)
+- **yesalert-mutations.js** (+1101, -391)
 - **AlertForm.tsx** (+254, -0)
 - **settings.json** (+73, -1)
 - **index.ts** (+3, -0)
@@ -41,11 +41,11 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 959
-".ts" : 5720
-".js" : 3032
+".tsx" : 1025
+".ts" : 5758
+".js" : 3047
 ".json" : 89
-".pug" : 65
+".pug" : 67
 ".scss" : 8
 ```
 
@@ -59,8 +59,8 @@ title Coding activity by hour (count of changes)
 "11h" : 14
 "12h" : 17
 "13h" : 29
-"14h" : 20
+"14h" : 29
 ```
 
 
-> **Last Updated:** 24/03/2025, 14:25:59
+> **Last Updated:** 24/03/2025, 14:40:59
