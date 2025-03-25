@@ -2531,9 +2531,9 @@
       "averageChangeSize": 21.433333333333334
     },
     "samplePdf": {
-      "totalLinesAdded": 303,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 6,
+      "totalLinesAdded": 308,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 8,
       "files": {
         "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/app.py": [
           {
@@ -2614,6 +2614,48 @@
             "fileType": ".py",
             "linesAdded": 41,
             "linesRemoved": 0,
+            "projectName": "samplePdf",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-03-25T16:12:56.975Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/db/database_module.py",
+            "fileType": ".py",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "samplePdf",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-03-25T16:13:05.474Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/db/database_module.py",
+            "fileType": ".py",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "samplePdf",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-03-25T16:13:20.724Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/db/database_module.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "samplePdf",
             "content": {
               "added": [],
