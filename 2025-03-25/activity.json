@@ -2561,9 +2561,9 @@
       "averageChangeSize": 21.433333333333334
     },
     "samplePdf": {
-      "totalLinesAdded": 709,
+      "totalLinesAdded": 780,
       "totalLinesRemoved": 37,
-      "totalActiveTime": 71,
+      "totalActiveTime": 77,
       "files": {
         "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/app.py": [
           {
@@ -3321,6 +3321,48 @@
             "fileName": "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/routes/file_upload.py",
             "fileType": ".py",
             "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "samplePdf",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-03-25T19:54:35.265Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/routes/file_upload.py",
+            "fileType": ".py",
+            "linesAdded": 24,
+            "linesRemoved": 0,
+            "projectName": "samplePdf",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-03-25T19:56:20.932Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/routes/file_upload.py",
+            "fileType": ".py",
+            "linesAdded": 34,
+            "linesRemoved": 0,
+            "projectName": "samplePdf",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-03-25T19:58:30.824Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/routes/file_upload.py",
+            "fileType": ".py",
+            "linesAdded": 13,
             "linesRemoved": 0,
             "projectName": "samplePdf",
             "content": {
