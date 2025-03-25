@@ -2,9 +2,9 @@
   "date": "2025-03-25",
   "projects": {
     "cda": {
-      "totalLinesAdded": 8874,
+      "totalLinesAdded": 8878,
       "totalLinesRemoved": 635,
-      "totalActiveTime": 157,
+      "totalActiveTime": 163,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/high-risk-schema/resolvers/yesalert.js": [
           {
@@ -1784,6 +1784,34 @@
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/components/GroupMembersView/GroupMembersView.test.tsx",
             "fileType": ".tsx",
             "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-03-25T12:33:56.015Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/components/GroupMembersView/GroupMembersView.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-03-25T12:34:52.194Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/components/GroupMembersView/GroupMembersView.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
             "linesRemoved": 0,
             "projectName": "cda",
             "content": {
