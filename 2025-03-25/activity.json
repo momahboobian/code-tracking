@@ -2531,9 +2531,9 @@
       "averageChangeSize": 21.433333333333334
     },
     "samplePdf": {
-      "totalLinesAdded": 473,
-      "totalLinesRemoved": 18,
-      "totalActiveTime": 27,
+      "totalLinesAdded": 477,
+      "totalLinesRemoved": 28,
+      "totalActiveTime": 35,
       "files": {
         "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/app.py": [
           {
@@ -2936,6 +2936,48 @@
           },
           {
             "timestamp": "2025-03-25T17:25:46.143Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/db/schema.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "samplePdf",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-03-25T17:30:14.264Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/db/schema.py",
+            "fileType": ".py",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "samplePdf",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-03-25T17:31:51.442Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/db/schema.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 9,
+            "projectName": "samplePdf",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-03-25T17:32:00.247Z",
             "fileName": "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/db/schema.py",
             "fileType": ".py",
             "linesAdded": 0,
