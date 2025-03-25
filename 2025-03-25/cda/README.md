@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 7865                                          |
+| **Lines Added** (➕)   | 8058                                          |
 | **Lines Removed** (➖) | 316                                        |
-| **Net Change** (↕)    | 7549                |
-| **Active Time** (⌚)   | 47 minutes |
+| **Net Change** (↕)    | 7742                |
+| **Active Time** (⌚)   | 48 minutes |
 
 
 ## Modified Files
@@ -26,6 +26,8 @@
 - **gql.ts** (+44, -0)
 - **graphql.ts** (+5857, -0)
 - **mutations.ts** (+63, -0)
+- **index.ts** (+3, -0)
+- **GroupMembersView.tsx** (+190, -0)
 
 ## Visualizations
 
@@ -35,8 +37,8 @@
 pie showData
 title Lines changed by file type
 ".js" : 1384
-".ts" : 6128
-".tsx" : 597
+".ts" : 6131
+".tsx" : 787
 ".pug" : 69
 ".scss" : 3
 ```
@@ -47,8 +49,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "09h" : 46
-"10h" : 1
+"10h" : 3
 ```
 
 
-> **Last Updated:** 25/03/2025, 10:03:10
+> **Last Updated:** 25/03/2025, 10:08:10
