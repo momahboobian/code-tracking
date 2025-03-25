@@ -2529,6 +2529,53 @@
         "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/graphql/low-risk/queries.ts"
       ],
       "averageChangeSize": 21.433333333333334
+    },
+    "samplePdf": {
+      "totalLinesAdded": 91,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/app.py": [
+          {
+            "timestamp": "2025-03-25T15:01:18.912Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/app.py",
+            "fileType": ".py",
+            "linesAdded": 84,
+            "linesRemoved": 0,
+            "projectName": "samplePdf",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-03-25T15:01:19.861Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/app.py",
+            "fileType": ".py",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "samplePdf",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ]
+      },
+      "languageStats": {
+        "py": 1
+      },
+      "changeFrequency": {
+        "15": 1
+      },
+      "topFiles": [
+        "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/app.py"
+      ],
+      "averageChangeSize": 45.5
     }
   },
   "totalActiveTime": 19,
