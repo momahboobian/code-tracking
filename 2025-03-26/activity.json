@@ -2,9 +2,9 @@
   "date": "2025-03-26",
   "projects": {
     "cda": {
-      "totalLinesAdded": 6539,
+      "totalLinesAdded": 11296,
       "totalLinesRemoved": 21,
-      "totalActiveTime": 31,
+      "totalActiveTime": 34,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/NewAlert/NewAlert.tsx": [
           {
@@ -520,6 +520,66 @@
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/components/RequestCard/RequestCard.tsx",
             "fileType": ".tsx",
             "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-03-26T11:03:21.063Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/components/RequestCard/RequestCard.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/gql-generated/low-risk/graphql.ts": [
+          {
+            "timestamp": "2025-03-26T11:03:26.484Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/gql-generated/low-risk/graphql.ts",
+            "fileType": ".ts",
+            "linesAdded": 4431,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-03-26T11:04:03.421Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/gql-generated/low-risk/graphql.ts",
+            "fileType": ".ts",
+            "linesAdded": 278,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/components/RequestCard/RequestCard.test.tsx": [
+          {
+            "timestamp": "2025-03-26T11:04:31.620Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/components/RequestCard/RequestCard.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 47,
             "linesRemoved": 0,
             "projectName": "cda",
             "content": {
