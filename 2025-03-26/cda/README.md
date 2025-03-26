@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 6468                                          |
-| **Lines Removed** (➖) | 20                                        |
-| **Net Change** (↕)    | 6448                |
-| **Active Time** (⌚)   | 26 minutes |
+| **Lines Added** (➕)   | 6539                                          |
+| **Lines Removed** (➖) | 21                                        |
+| **Net Change** (↕)    | 6518                |
+| **Active Time** (⌚)   | 31 minutes |
 
 
 ## Modified Files
@@ -26,7 +26,8 @@
 - **queries.ts** (+70, -0)
 - **duty-request.js** (+98, -1)
 - **mutations.ts** (+85, -0)
-- **RequestWrapper.tsx** (+71, -19)
+- **RequestWrapper.tsx** (+74, -20)
+- **RequestCard.tsx** (+68, -0)
 
 ## Visualizations
 
@@ -35,7 +36,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 643
+".tsx" : 715
 ".ts" : 5738
 ".scss" : 8
 ".js" : 99
@@ -46,8 +47,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"10h" : 31
+"10h" : 35
 ```
 
 
-> **Last Updated:** 26/03/2025, 10:54:38
+> **Last Updated:** 26/03/2025, 10:59:38
