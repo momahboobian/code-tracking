@@ -2,9 +2,9 @@
   "date": "2025-03-26",
   "projects": {
     "cda": {
-      "totalLinesAdded": 6213,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 6,
+      "totalLinesAdded": 6396,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 10,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/NewAlert/NewAlert.tsx": [
           {
@@ -246,6 +246,80 @@
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/graphql/low-risk/queries.ts",
             "fileType": ".ts",
             "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-03-26T10:43:50.954Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/graphql/low-risk/queries.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/low-risk-schema/resolvers/duty-request.js": [
+          {
+            "timestamp": "2025-03-26T10:42:58.200Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/low-risk-schema/resolvers/duty-request.js",
+            "fileType": ".js",
+            "linesAdded": 98,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-03-26T10:43:00.754Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/low-risk-schema/resolvers/duty-request.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/graphql/low-risk/mutations.ts": [
+          {
+            "timestamp": "2025-03-26T10:43:54.116Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/graphql/low-risk/mutations.ts",
+            "fileType": ".ts",
+            "linesAdded": 82,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-03-26T10:44:17.664Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/graphql/low-risk/mutations.ts",
+            "fileType": ".ts",
+            "linesAdded": 2,
             "linesRemoved": 0,
             "projectName": "cda",
             "content": {
