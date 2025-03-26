@@ -2,7 +2,7 @@
   "date": "2025-03-26",
   "projects": {
     "cda": {
-      "totalLinesAdded": 11774,
+      "totalLinesAdded": 11777,
       "totalLinesRemoved": 217,
       "totalActiveTime": 222,
       "files": {
@@ -1353,6 +1353,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-03-26T14:51:32.972Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/components/RequestCard/RequestCard.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ],
