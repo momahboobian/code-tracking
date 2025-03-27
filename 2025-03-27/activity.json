@@ -2,9 +2,9 @@
   "date": "2025-03-27",
   "projects": {
     "cda": {
-      "totalLinesAdded": 19,
+      "totalLinesAdded": 42,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 3,
+      "totalActiveTime": 10,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/components/RequestEditModal/RequestEditModal.tsx": [
           {
@@ -26,6 +26,48 @@
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/components/RequestEditModal/RequestEditModal.tsx",
             "fileType": ".tsx",
             "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-03-27T09:35:29.817Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/components/RequestEditModal/RequestEditModal.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 13,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-03-27T09:36:29.167Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/components/RequestEditModal/RequestEditModal.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-03-27T09:38:47.186Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/components/RequestEditModal/RequestEditModal.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
             "linesRemoved": 0,
             "projectName": "cda",
             "content": {
