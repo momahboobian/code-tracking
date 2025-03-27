@@ -2,9 +2,9 @@
   "date": "2025-03-27",
   "projects": {
     "cda": {
-      "totalLinesAdded": 2801,
+      "totalLinesAdded": 2883,
       "totalLinesRemoved": 881,
-      "totalActiveTime": 582,
+      "totalActiveTime": 586,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/components/RequestEditModal/RequestEditModal.tsx": [
           {
@@ -5660,6 +5660,38 @@
             },
             "duration": 1,
             "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/components/RequestCard/UserView.test.tsx": [
+          {
+            "timestamp": "2025-03-27T20:13:25.059Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/components/RequestCard/UserView.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 43,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/components/RequestView/RequestView.scss": [
+          {
+            "timestamp": "2025-03-27T20:14:41.327Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/components/RequestView/RequestView.scss",
+            "fileType": ".scss",
+            "linesAdded": 39,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "scss"
           }
         ]
       },
