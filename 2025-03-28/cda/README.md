@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 7260                                          |
-| **Lines Removed** (➖) | 1359                                        |
-| **Net Change** (↕)    | 5901                |
-| **Active Time** (⌚)   | 495 minutes |
+| **Lines Added** (➕)   | 7423                                          |
+| **Lines Removed** (➖) | 1367                                        |
+| **Net Change** (↕)    | 6056                |
+| **Active Time** (⌚)   | 500 minutes |
 
 
 ## Modified Files
@@ -27,6 +27,7 @@
 - **fragment-masking.ts** (+67, -0)
 - **gql.ts** (+76, -0)
 - **RequestEditModal.test.tsx** (+83, -0)
+- **RequestEditModal.tsx** (+163, -8)
 
 ## Visualizations
 
@@ -36,7 +37,7 @@
 pie showData
 title Lines changed by file type
 ".scss" : 1141
-".tsx" : 2137
+".tsx" : 2308
 ".ts" : 5341
 ```
 
@@ -52,8 +53,8 @@ title Coding activity by hour (count of changes)
 "14h" : 83
 "15h" : 43
 "16h" : 16
-"17h" : 1
+"17h" : 6
 ```
 
 
-> **Last Updated:** 28/03/2025, 17:33:43
+> **Last Updated:** 28/03/2025, 17:38:43
