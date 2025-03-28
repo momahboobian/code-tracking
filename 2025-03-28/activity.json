@@ -2,9 +2,9 @@
   "date": "2025-03-28",
   "projects": {
     "cda": {
-      "totalLinesAdded": 1497,
-      "totalLinesRemoved": 802,
-      "totalActiveTime": 338,
+      "totalLinesAdded": 1507,
+      "totalLinesRemoved": 808,
+      "totalActiveTime": 347,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/components/RequestCard/UserView.scss": [
           {
@@ -3635,6 +3635,118 @@
             "fileType": ".scss",
             "linesAdded": 0,
             "linesRemoved": 4,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2025-03-28T14:26:28.674Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/App.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2025-03-28T14:26:57.130Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/App.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2025-03-28T14:27:01.604Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/App.scss",
+            "fileType": ".scss",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2025-03-28T14:27:35.835Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/App.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2025-03-28T14:27:38.458Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/App.scss",
+            "fileType": ".scss",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2025-03-28T14:27:40.746Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/App.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2025-03-28T14:27:47.145Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/App.scss",
+            "fileType": ".scss",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2025-03-28T14:27:58.129Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/App.scss",
+            "fileType": ".scss",
+            "linesAdded": 2,
+            "linesRemoved": 0,
             "projectName": "cda",
             "content": {
               "added": [],
