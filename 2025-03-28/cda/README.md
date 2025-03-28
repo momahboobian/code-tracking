@@ -4,16 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 704                                          |
-| **Lines Removed** (➖) | 229                                        |
-| **Net Change** (↕)    | 475                |
-| **Active Time** (⌚)   | 77 minutes |
+| **Lines Added** (➕)   | 740                                          |
+| **Lines Removed** (➖) | 257                                        |
+| **Net Change** (↕)    | 483                |
+| **Active Time** (⌚)   | 89 minutes |
 
 
 ## Modified Files
 - **UserView.scss** (+123, -56)
 - **RequestView.scss** (+39, -0)
-- **UserView.tsx** (+357, -173)
+- **UserView.tsx** (+393, -201)
 - **RequestView.tsx** (+185, -0)
 
 ## Visualizations
@@ -24,7 +24,7 @@
 pie showData
 title Lines changed by file type
 ".scss" : 218
-".tsx" : 715
+".tsx" : 779
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -33,8 +33,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "10h" : 35
-"11h" : 24
+"11h" : 33
 ```
 
 
-> **Last Updated:** 28/03/2025, 11:20:30
+> **Last Updated:** 28/03/2025, 11:25:30
