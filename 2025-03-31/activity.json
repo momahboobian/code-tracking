@@ -2,9 +2,9 @@
   "date": "2025-03-31",
   "projects": {
     "cda": {
-      "totalLinesAdded": 7300,
+      "totalLinesAdded": 7303,
       "totalLinesRemoved": 1230,
-      "totalActiveTime": 423,
+      "totalActiveTime": 425,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/components/RequestCard/UserView.test.tsx": [
           {
@@ -3207,6 +3207,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2025-03-31T21:11:47.047Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/components/RequestForm/RequestForm.scss",
+            "fileType": ".scss",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "scss"
           }
         ],
