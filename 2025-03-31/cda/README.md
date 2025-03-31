@@ -4,25 +4,33 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1929                                          |
-| **Lines Removed** (➖) | 737                                        |
-| **Net Change** (↕)    | 1192                |
-| **Active Time** (⌚)   | 213 minutes |
+| **Lines Added** (➕)   | 6844                                          |
+| **Lines Removed** (➖) | 862                                        |
+| **Net Change** (↕)    | 5982                |
+| **Active Time** (⌚)   | 216 minutes |
 
 
 ## Modified Files
 - **UserView.test.tsx** (+125, -0)
 - **duty-request.js** (+98, -0)
-- **App.tsx** (+67, -9)
-- **NewRequest.tsx** (+27, -4)
-- **RequestForm.tsx** (+196, -50)
-- **RequestForm.scss** (+259, -177)
+- **App.tsx** (+70, -9)
+- **NewRequest.tsx** (+27, -6)
+- **RequestForm.tsx** (+220, -50)
+- **RequestForm.scss** (+346, -177)
 - **UserView.tsx** (+203, -7)
-- **App.scss** (+330, -175)
+- **App.scss** (+330, -298)
 - **UserView.scss** (+13, -1)
 - **request.test.ts** (+228, -65)
-- **RequestForm.test.tsx** (+91, -13)
+- **RequestForm.test.tsx** (+104, -13)
 - **queries.ts** (+292, -236)
+- **index.ts** (+3, -0)
+- **gql.ts** (+62, -0)
+- **RequestView.test.tsx** (+67, -0)
+- **Home.tsx** (+43, -0)
+- **mutations.ts** (+82, -0)
+- **graphql.ts** (+4431, -0)
+- **queries.ts** (+68, -0)
+- **types.ts** (+32, -0)
 
 ## Visualizations
 
@@ -31,10 +39,10 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 792
+".tsx" : 944
 ".js" : 98
-".scss" : 955
-".ts" : 821
+".scss" : 1165
+".ts" : 5499
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -47,8 +55,8 @@ title Coding activity by hour (count of changes)
 "13h" : 30
 "14h" : 12
 "15h" : 78
-"16h" : 20
+"16h" : 35
 ```
 
 
-> **Last Updated:** 31/03/2025, 16:17:47
+> **Last Updated:** 31/03/2025, 16:27:47
