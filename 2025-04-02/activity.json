@@ -2,7 +2,7 @@
   "date": "2025-04-02",
   "projects": {
     "cda": {
-      "totalLinesAdded": 2430,
+      "totalLinesAdded": 2432,
       "totalLinesRemoved": 1113,
       "totalActiveTime": 590,
       "files": {
@@ -987,6 +987,20 @@
               "removed": []
             },
             "duration": 5,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-02T18:27:07.255Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/components/TimePicker/TimePicker.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ],
