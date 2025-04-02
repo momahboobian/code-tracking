@@ -2,9 +2,9 @@
   "date": "2025-04-02",
   "projects": {
     "cda": {
-      "totalLinesAdded": 1400,
+      "totalLinesAdded": 1401,
       "totalLinesRemoved": 424,
-      "totalActiveTime": 391,
+      "totalActiveTime": 392,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/components/TimePicker/TimePickerList.tsx": [
           {
@@ -4191,6 +4191,20 @@
           },
           {
             "timestamp": "2025-04-02T13:00:52.225Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/components/TimePicker/TimePicker.scss",
+            "fileType": ".scss",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2025-04-02T13:01:04.341Z",
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/components/TimePicker/TimePicker.scss",
             "fileType": ".scss",
             "linesAdded": 1,
