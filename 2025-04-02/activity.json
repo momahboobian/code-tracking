@@ -2,9 +2,9 @@
   "date": "2025-04-02",
   "projects": {
     "cda": {
-      "totalLinesAdded": 1479,
-      "totalLinesRemoved": 424,
-      "totalActiveTime": 392,
+      "totalLinesAdded": 1503,
+      "totalLinesRemoved": 425,
+      "totalActiveTime": 401,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/components/TimePicker/TimePickerList.tsx": [
           {
@@ -4216,6 +4216,48 @@
             },
             "duration": 1,
             "language": "scss"
+          },
+          {
+            "timestamp": "2025-04-02T13:57:50.775Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/components/TimePicker/TimePicker.scss",
+            "fileType": ".scss",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2025-04-02T13:57:53.318Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/components/TimePicker/TimePicker.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2025-04-02T13:57:58.768Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/components/TimePicker/TimePicker.scss",
+            "fileType": ".scss",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/components/RequestForm/RequestForm.scss": [
@@ -4247,6 +4289,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-02T14:00:41.933Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/components/RequestForm/RequestForm.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 22,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "tsx"
           }
         ]
