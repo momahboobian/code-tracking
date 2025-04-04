@@ -1,0 +1,61 @@
+{
+  "date": "2025-04-04",
+  "projects": {
+    "cda": {
+      "totalLinesAdded": 500,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/App.tsx": [
+          {
+            "timestamp": "2025-04-04T10:51:57.059Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 499,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-04T10:52:02.965Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "tsx": 1
+      },
+      "changeFrequency": {
+        "11": 1
+      },
+      "topFiles": [
+        "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/App.tsx"
+      ],
+      "averageChangeSize": 250
+    }
+  },
+  "totalActiveTime": 1,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    11
+  ],
+  "mostUsedLanguages": [
+    "tsx"
+  ]
+}
