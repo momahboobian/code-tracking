@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 5634,
-      "totalLinesRemoved": 448,
-      "totalActiveTime": 384,
+      "totalLinesRemoved": 456,
+      "totalActiveTime": 391,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/atoms/HelperModal/HelperModal.tsx": [
           {
@@ -2940,6 +2940,20 @@
             },
             "duration": 2,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-08T17:08:44.526Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/atoms/DetailsField/DetailsField.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/organisms/DetailsGrid/DetailsGrid.tsx": [
@@ -3999,6 +4013,48 @@
               "removed": []
             },
             "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-08T17:08:26.933Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/molecules/PoolPositionAmountsPanel/PoolPositionAmountsPanel.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-08T17:08:31.205Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/molecules/PoolPositionAmountsPanel/PoolPositionAmountsPanel.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-08T17:08:37.814Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/molecules/PoolPositionAmountsPanel/PoolPositionAmountsPanel.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "tsx"
           }
         ]
