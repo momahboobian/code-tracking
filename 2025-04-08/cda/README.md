@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 5704                                          |
+| **Lines Added** (➕)   | 5908                                          |
 | **Lines Removed** (➖) | 489                                        |
-| **Net Change** (↕)    | 5215                |
-| **Active Time** (⌚)   | 446 minutes |
+| **Net Change** (↕)    | 5419                |
+| **Active Time** (⌚)   | 451 minutes |
 
 
 ## Modified Files
@@ -28,6 +28,8 @@
 - **PoolPositions.tsx** (+934, -1)
 - **PoolPosition.tsx** (+608, -0)
 - **PoolPositionAmountsPanel.tsx** (+220, -18)
+- **PoolEvents.tsx** (+75, -0)
+- **PoolEvent.tsx** (+129, -0)
 
 ## Visualizations
 
@@ -36,7 +38,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 5281
+".tsx" : 5485
 ".json" : 74
 ".scss" : 838
 ```
@@ -55,8 +57,8 @@ title Coding activity by hour (count of changes)
 "15h" : 24
 "16h" : 44
 "17h" : 37
-"18h" : 43
+"18h" : 48
 ```
 
 
-> **Last Updated:** 08/04/2025, 18:50:12
+> **Last Updated:** 08/04/2025, 19:00:12
