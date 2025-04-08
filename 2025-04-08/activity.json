@@ -1,0 +1,47 @@
+{
+  "date": "2025-04-08",
+  "projects": {
+    "cda": {
+      "totalLinesAdded": 107,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/atoms/HelperModal/HelperModal.tsx": [
+          {
+            "timestamp": "2025-04-08T08:50:59.440Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/atoms/HelperModal/HelperModal.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 107,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "tsx": 0
+      },
+      "changeFrequency": {
+        "9": 0
+      },
+      "topFiles": [
+        "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/atoms/HelperModal/HelperModal.tsx"
+      ],
+      "averageChangeSize": 107
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    9
+  ],
+  "mostUsedLanguages": [
+    "tsx"
+  ]
+}
