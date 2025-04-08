@@ -4,17 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 5652                                          |
-| **Lines Removed** (➖) | 458                                        |
-| **Net Change** (↕)    | 5194                |
-| **Active Time** (⌚)   | 406 minutes |
+| **Lines Added** (➕)   | 5664                                          |
+| **Lines Removed** (➖) | 462                                        |
+| **Net Change** (↕)    | 5202                |
+| **Active Time** (⌚)   | 413 minutes |
 
 
 ## Modified Files
 - **HelperModal.tsx** (+841, -237)
 - **settings.json** (+74, -0)
 - **InitiativeDetails.tsx** (+583, -0)
-- **App.scss** (+302, -53)
+- **App.scss** (+314, -57)
 - **DetailsField.tsx** (+187, -12)
 - **DetailsGrid.tsx** (+47, -0)
 - **ReinvestmentDetail.tsx** (+496, -0)
@@ -38,7 +38,7 @@ pie showData
 title Lines changed by file type
 ".tsx" : 5275
 ".json" : 74
-".scss" : 761
+".scss" : 777
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -55,8 +55,8 @@ title Coding activity by hour (count of changes)
 "15h" : 24
 "16h" : 44
 "17h" : 37
-"18h" : 19
+"18h" : 24
 ```
 
 
-> **Last Updated:** 08/04/2025, 18:20:12
+> **Last Updated:** 08/04/2025, 18:25:12
