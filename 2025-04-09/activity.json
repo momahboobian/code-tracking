@@ -2,7 +2,7 @@
   "date": "2025-04-09",
   "projects": {
     "cda": {
-      "totalLinesAdded": 6583,
+      "totalLinesAdded": 7013,
       "totalLinesRemoved": 849,
       "totalActiveTime": 233,
       "files": {
@@ -2404,6 +2404,22 @@
             },
             "duration": 2,
             "language": "scss"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/containers/RequestLetter/RequestLetter.tsx": [
+          {
+            "timestamp": "2025-04-09T12:46:20.022Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/containers/RequestLetter/RequestLetter.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 430,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
           }
         ]
       },
