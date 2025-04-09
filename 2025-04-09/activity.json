@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 73,
-      "totalLinesRemoved": 24,
-      "totalActiveTime": 53,
+      "totalLinesRemoved": 29,
+      "totalActiveTime": 54,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/atoms/HelperModal/HelperModal.tsx": [
           {
@@ -439,6 +439,20 @@
             "fileType": ".ts",
             "linesAdded": 0,
             "linesRemoved": 4,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-04-09T08:15:32.999Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/types.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 5,
             "projectName": "cda",
             "content": {
               "added": [],
