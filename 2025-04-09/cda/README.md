@@ -4,33 +4,33 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 6441                                          |
-| **Lines Removed** (➖) | 565                                        |
-| **Net Change** (↕)    | 5876                |
+| **Lines Added** (➕)   | 6583                                          |
+| **Lines Removed** (➖) | 849                                        |
+| **Net Change** (↕)    | 5734                |
 | **Active Time** (⌚)   | 233 minutes |
 
 
 ## Modified Files
 - **HelperModal.tsx** (+555, -6)
-- **App.scss** (+652, -354)
-- **DetailsField.tsx** (+189, -15)
+- **App.scss** (+652, -496)
+- **DetailsField.tsx** (+189, -24)
 - **types.d.ts** (+17, -9)
 - **settings.json** (+75, -0)
 - **App.tsx** (+510, -10)
-- **PoolPositionAmountsPanel.tsx** (+210, -8)
-- **Panel.tsx** (+45, -13)
-- **CostDetails.scss** (+25, -2)
-- **PoolDetails.scss** (+36, -2)
-- **PoolEvent.scss** (+63, -1)
-- **PoolPosition.tsx** (+606, -56)
-- **PoolPositions.tsx** (+933, -86)
-- **PoolDetails.tsx** (+394, -0)
-- **CostDetails.tsx** (+289, -0)
+- **PoolPositionAmountsPanel.tsx** (+210, -14)
+- **Panel.tsx** (+45, -21)
+- **CostDetails.scss** (+25, -4)
+- **PoolDetails.scss** (+36, -4)
+- **PoolEvent.scss** (+63, -2)
+- **PoolPosition.tsx** (+662, -56)
+- **PoolPositions.tsx** (+1019, -86)
+- **PoolDetails.tsx** (+394, -4)
+- **CostDetails.tsx** (+289, -1)
 - **CostActuals.tsx** (+122, -0)
-- **ReinvestmentDetail.tsx** (+525, -0)
-- **InitiativeDetails.tsx** (+652, -0)
-- **PoolEvent.tsx** (+129, -0)
-- **PoolEvents.tsx** (+75, -0)
+- **ReinvestmentDetail.tsx** (+525, -30)
+- **InitiativeDetails.tsx** (+652, -72)
+- **PoolEvent.tsx** (+129, -6)
+- **PoolEvents.tsx** (+75, -1)
 - **Home.tsx** (+58, -2)
 - **StackedBarChart.tsx** (+197, -0)
 - **StackedBarChart.scss** (+13, -1)
@@ -43,8 +43,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 5685
-".scss" : 1220
+".tsx" : 5964
+".scss" : 1367
 ".ts" : 26
 ".json" : 75
 ```
@@ -59,8 +59,8 @@ title Coding activity by hour (count of changes)
 "10h" : 17
 "11h" : 45
 "12h" : 31
-"13h" : 24
+"13h" : 39
 ```
 
 
-> **Last Updated:** 09/04/2025, 13:35:07
+> **Last Updated:** 09/04/2025, 13:40:07

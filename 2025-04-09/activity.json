@@ -2,8 +2,8 @@
   "date": "2025-04-09",
   "projects": {
     "cda": {
-      "totalLinesAdded": 6441,
-      "totalLinesRemoved": 565,
+      "totalLinesAdded": 6583,
+      "totalLinesRemoved": 849,
       "totalActiveTime": 233,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/atoms/HelperModal/HelperModal.tsx": [
@@ -1198,6 +1198,20 @@
             },
             "duration": 2,
             "language": "scss"
+          },
+          {
+            "timestamp": "2025-04-09T12:37:57.446Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/App.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 142,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "scss"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/atoms/DetailsField/DetailsField.tsx": [
@@ -1297,6 +1311,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-09T12:37:57.455Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/atoms/DetailsField/DetailsField.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 9,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ],
@@ -1586,6 +1614,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-09T12:37:57.467Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/molecules/PoolPositionAmountsPanel/PoolPositionAmountsPanel.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 6,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/atoms/Panel/Panel.tsx": [
@@ -1686,6 +1728,20 @@
             },
             "duration": 0,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-09T12:37:57.477Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/atoms/Panel/Panel.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 8,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/containers/CostDetails/CostDetails.scss": [
@@ -1729,6 +1785,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2025-04-09T12:37:57.480Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/containers/CostDetails/CostDetails.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "scss"
           }
         ],
@@ -1774,6 +1844,20 @@
             },
             "duration": 1,
             "language": "scss"
+          },
+          {
+            "timestamp": "2025-04-09T12:37:57.482Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/containers/PoolDetails/PoolDetails.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "scss"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/organisms/PoolEvent/PoolEvent.scss": [
@@ -1818,6 +1902,20 @@
             },
             "duration": 1,
             "language": "scss"
+          },
+          {
+            "timestamp": "2025-04-09T12:37:57.479Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/organisms/PoolEvent/PoolEvent.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "scss"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/containers/PoolPosition/PoolPosition.tsx": [
@@ -1847,6 +1945,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-09T12:37:57.465Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/containers/PoolPosition/PoolPosition.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 56,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ],
@@ -1878,6 +1990,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-09T12:37:57.462Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/containers/PoolPositions/PoolPositions.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 86,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/containers/PoolDetails/PoolDetails.tsx": [
@@ -1908,6 +2034,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-09T12:37:57.460Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/containers/PoolDetails/PoolDetails.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/containers/CostDetails/CostDetails.tsx": [
@@ -1937,6 +2077,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-09T12:37:57.452Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/containers/CostDetails/CostDetails.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ],
@@ -1984,6 +2138,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-09T12:37:57.450Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/containers/ReinvestmentDetail/ReinvestmentDetail.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 30,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/containers/InitiativeDetails/InitiativeDetails.tsx": [
@@ -2013,6 +2181,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-09T12:37:57.443Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/containers/InitiativeDetails/InitiativeDetails.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 72,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ],
@@ -2044,6 +2226,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-09T12:37:57.475Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/organisms/PoolEvent/PoolEvent.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 6,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/organisms/PoolEvents/PoolEvents.tsx": [
@@ -2073,6 +2269,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-09T12:37:57.472Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/organisms/PoolEvents/PoolEvents.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ],
