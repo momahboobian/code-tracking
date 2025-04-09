@@ -4,38 +4,39 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 7015                                          |
-| **Lines Removed** (➖) | 850                                        |
-| **Net Change** (↕)    | 6165                |
-| **Active Time** (⌚)   | 238 minutes |
+| **Lines Added** (➕)   | 8177                                          |
+| **Lines Removed** (➖) | 994                                        |
+| **Net Change** (↕)    | 7183                |
+| **Active Time** (⌚)   | 253 minutes |
 
 
 ## Modified Files
 - **HelperModal.tsx** (+555, -6)
-- **App.scss** (+652, -496)
-- **DetailsField.tsx** (+189, -24)
+- **App.scss** (+794, -496)
+- **DetailsField.tsx** (+198, -24)
 - **types.d.ts** (+17, -9)
 - **settings.json** (+75, -0)
-- **App.tsx** (+511, -11)
-- **PoolPositionAmountsPanel.tsx** (+210, -14)
-- **Panel.tsx** (+45, -21)
+- **App.tsx** (+512, -12)
+- **PoolPositionAmountsPanel.tsx** (+216, -14)
+- **Panel.tsx** (+53, -21)
 - **CostDetails.scss** (+25, -4)
 - **PoolDetails.scss** (+36, -4)
 - **PoolEvent.scss** (+63, -2)
-- **PoolPosition.tsx** (+662, -56)
-- **PoolPositions.tsx** (+1019, -86)
-- **PoolDetails.tsx** (+394, -4)
-- **CostDetails.tsx** (+289, -1)
+- **PoolPosition.tsx** (+662, -112)
+- **PoolPositions.tsx** (+1019, -172)
+- **PoolDetails.tsx** (+398, -4)
+- **CostDetails.tsx** (+290, -1)
 - **CostActuals.tsx** (+122, -0)
-- **ReinvestmentDetail.tsx** (+525, -30)
-- **InitiativeDetails.tsx** (+652, -72)
-- **PoolEvent.tsx** (+129, -6)
-- **PoolEvents.tsx** (+75, -1)
+- **ReinvestmentDetail.tsx** (+555, -30)
+- **InitiativeDetails.tsx** (+724, -72)
+- **PoolEvent.tsx** (+135, -6)
+- **PoolEvents.tsx** (+76, -1)
 - **Home.tsx** (+58, -2)
 - **StackedBarChart.tsx** (+197, -0)
 - **StackedBarChart.scss** (+13, -1)
 - **DetailsGrid.scss** (+71, -0)
-- **RequestLetter.tsx** (+431, -0)
+- **RequestLetter.tsx** (+431, -1)
+- **RequestLetter.test.tsx** (+882, -0)
 
 ## Visualizations
 
@@ -44,8 +45,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 6397
-".scss" : 1367
+".tsx" : 7561
+".scss" : 1509
 ".ts" : 26
 ".json" : 75
 ```
@@ -61,8 +62,8 @@ title Coding activity by hour (count of changes)
 "11h" : 45
 "12h" : 31
 "13h" : 41
-"14h" : 2
+"14h" : 18
 ```
 
 
-> **Last Updated:** 09/04/2025, 14:20:07
+> **Last Updated:** 09/04/2025, 14:30:07
