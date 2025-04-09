@@ -2,9 +2,9 @@
   "date": "2025-04-09",
   "projects": {
     "cda": {
-      "totalLinesAdded": 667,
+      "totalLinesAdded": 1369,
       "totalLinesRemoved": 37,
-      "totalActiveTime": 73,
+      "totalActiveTime": 79,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/atoms/HelperModal/HelperModal.tsx": [
           {
@@ -644,6 +644,52 @@
             },
             "duration": 1,
             "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/App.tsx": [
+          {
+            "timestamp": "2025-04-09T09:21:16.541Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 499,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-09T09:21:17.245Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/molecules/PoolPositionAmountsPanel/PoolPositionAmountsPanel.tsx": [
+          {
+            "timestamp": "2025-04-09T09:23:36.482Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/molecules/PoolPositionAmountsPanel/PoolPositionAmountsPanel.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 202,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "tsx"
           }
         ]
       },
