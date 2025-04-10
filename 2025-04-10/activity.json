@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 3138,
-      "totalLinesRemoved": 664,
-      "totalActiveTime": 271,
+      "totalLinesRemoved": 671,
+      "totalActiveTime": 274,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/atoms/HelperModal/HelperModal.tsx": [
           {
@@ -2817,6 +2817,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-10T16:29:52.049Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/organisms/InitiativeForecasts/InitiativeForecasts.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 7,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "tsx"
           }
         ]
