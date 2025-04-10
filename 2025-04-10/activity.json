@@ -2,7 +2,7 @@
   "date": "2025-04-10",
   "projects": {
     "cda": {
-      "totalLinesAdded": 1808,
+      "totalLinesAdded": 1890,
       "totalLinesRemoved": 366,
       "totalActiveTime": 186,
       "files": {
@@ -2015,6 +2015,22 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/organisms/CostActuals/CostActuals.test.tsx": [
+          {
+            "timestamp": "2025-04-10T14:23:17.895Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/organisms/CostActuals/CostActuals.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 82,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ]
