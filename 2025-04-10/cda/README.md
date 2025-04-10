@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3336                                          |
-| **Lines Removed** (➖) | 849                                        |
-| **Net Change** (↕)    | 2487                |
-| **Active Time** (⌚)   | 311 minutes |
+| **Lines Added** (➕)   | 3352                                          |
+| **Lines Removed** (➖) | 869                                        |
+| **Net Change** (↕)    | 2483                |
+| **Active Time** (⌚)   | 319 minutes |
 
 
 ## Modified Files
@@ -17,7 +17,7 @@
 - **App.scss** (+217, -0)
 - **App.tsx** (+1000, -0)
 - **CostActuals.test.tsx** (+167, -3)
-- **InitiativeForecasts.test.tsx** (+369, -57)
+- **InitiativeForecasts.test.tsx** (+385, -77)
 
 ## Visualizations
 
@@ -26,7 +26,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 3685
+".tsx" : 3721
 ".scss" : 500
 ```
 
@@ -42,8 +42,8 @@ title Coding activity by hour (count of changes)
 "15h" : 23
 "16h" : 16
 "17h" : 33
-"18h" : 7
+"18h" : 10
 ```
 
 
-> **Last Updated:** 10/04/2025, 18:17:13
+> **Last Updated:** 10/04/2025, 18:22:13
