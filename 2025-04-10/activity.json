@@ -2,7 +2,7 @@
   "date": "2025-04-10",
   "projects": {
     "cda": {
-      "totalLinesAdded": 3138,
+      "totalLinesAdded": 3149,
       "totalLinesRemoved": 671,
       "totalActiveTime": 274,
       "files": {
@@ -2831,6 +2831,20 @@
               "removed": []
             },
             "duration": 3,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-10T16:35:20.252Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/organisms/InitiativeForecasts/InitiativeForecasts.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ]
