@@ -1,0 +1,75 @@
+{
+  "date": "2025-04-23",
+  "projects": {
+    "cda": {
+      "totalLinesAdded": 90,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 2,
+      "files": {
+        "/Users/momahboobian/Library/Application Support/Code/User/settings.json": [
+          {
+            "timestamp": "2025-04-23T15:16:54.197Z",
+            "fileName": "/Users/momahboobian/Library/Application Support/Code/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 75,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-04-23T15:16:54.260Z",
+            "fileName": "/Users/momahboobian/Library/Application Support/Code/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 14,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-04-23T15:17:03.931Z",
+            "fileName": "/Users/momahboobian/Library/Application Support/Code/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 2
+      },
+      "changeFrequency": {
+        "16": 2
+      },
+      "topFiles": [
+        "/Users/momahboobian/Library/Application Support/Code/User/settings.json"
+      ],
+      "averageChangeSize": 30
+    }
+  },
+  "totalActiveTime": 2,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    16
+  ],
+  "mostUsedLanguages": [
+    "json"
+  ]
+}
