@@ -106,7 +106,7 @@
     },
     "pdf-analysis-app": {
       "totalLinesAdded": 230,
-      "totalLinesRemoved": 1,
+      "totalLinesRemoved": 20,
       "totalActiveTime": 3,
       "files": {
         "/Users/momahboobian/Library/Application Support/Code/User/settings.json": [
@@ -164,6 +164,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-04-23T15:53:44.585Z",
+            "fileName": "/Users/momahboobian/Library/Application Support/Code/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 19,
+            "projectName": "pdf-analysis-app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "json"
           }
         ]
