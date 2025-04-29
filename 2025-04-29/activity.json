@@ -1,0 +1,47 @@
+{
+  "date": "2025-04-29",
+  "projects": {
+    "cda": {
+      "totalLinesAdded": 63,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/components/ProfilePhoto/ProfilePhoto.tsx": [
+          {
+            "timestamp": "2025-04-29T09:22:55.551Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/components/ProfilePhoto/ProfilePhoto.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 63,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "tsx": 0
+      },
+      "changeFrequency": {
+        "10": 0
+      },
+      "topFiles": [
+        "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/components/ProfilePhoto/ProfilePhoto.tsx"
+      ],
+      "averageChangeSize": 63
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    10
+  ],
+  "mostUsedLanguages": [
+    "tsx"
+  ]
+}
