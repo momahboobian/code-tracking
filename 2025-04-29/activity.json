@@ -2,13 +2,27 @@
   "date": "2025-04-29",
   "projects": {
     "cda": {
-      "totalLinesAdded": 103,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 1,
+      "totalLinesAdded": 188,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 3,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/components/ProfilePhoto/ProfilePhoto.tsx": [
           {
             "timestamp": "2025-04-29T09:22:55.551Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/components/ProfilePhoto/ProfilePhoto.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 63,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-29T09:43:18.889Z",
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/components/ProfilePhoto/ProfilePhoto.tsx",
             "fileType": ".tsx",
             "linesAdded": 63,
@@ -50,6 +64,36 @@
             },
             "duration": 1,
             "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/tsconfig.json": [
+          {
+            "timestamp": "2025-04-29T09:44:11.338Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/tsconfig.json",
+            "fileType": ".json",
+            "linesAdded": 22,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-04-29T09:44:12.926Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/tsconfig.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ]
       },
