@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 22850                                          |
-| **Lines Removed** (➖) | 423                                        |
-| **Net Change** (↕)    | 22427                |
-| **Active Time** (⌚)   | 243 minutes |
+| **Lines Added** (➕)   | 22875                                          |
+| **Lines Removed** (➖) | 443                                        |
+| **Net Change** (↕)    | 22432                |
+| **Active Time** (⌚)   | 249 minutes |
 
 
 ## Modified Files
@@ -15,7 +15,7 @@
 - **types.d.ts** (+94, -37)
 - **tsconfig.json** (+26, -4)
 - **index.ts** (+3, -0)
-- **AdminView.tsx** (+411, -196)
+- **AdminView.tsx** (+412, -196)
 - **App.tsx** (+61, -0)
 - **declarations.d.ts** (+96, -58)
 - **Admin.tsx** (+180, -15)
@@ -30,9 +30,10 @@
 - **ProfilePanel.scss** (+92, -0)
 - **ProfilePanel.test.tsx** (+130, -83)
 - **AdminView.test.tsx** (+64, -7)
-- **AdminView.scss** (+39, -0)
+- **AdminView.scss** (+39, -19)
 - **RequestEditModal.tsx** (+166, -0)
-- **App.scss** (+155, -0)
+- **App.scss** (+155, -1)
+- **UserView.scss** (+24, -0)
 
 ## Visualizations
 
@@ -41,10 +42,10 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 1612
+".tsx" : 1613
 ".ts" : 362
 ".json" : 158
-".scss" : 380
+".scss" : 424
 ".lock" : 20761
 ```
 
@@ -57,8 +58,8 @@ title Coding activity by hour (count of changes)
 "11h" : 51
 "12h" : 40
 "13h" : 33
-"14h" : 22
+"14h" : 27
 ```
 
 
-> **Last Updated:** 29/04/2025, 14:21:30
+> **Last Updated:** 29/04/2025, 14:26:30
