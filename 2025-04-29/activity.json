@@ -2,9 +2,9 @@
   "date": "2025-04-29",
   "projects": {
     "cda": {
-      "totalLinesAdded": 22282,
-      "totalLinesRemoved": 208,
-      "totalActiveTime": 144,
+      "totalLinesAdded": 22300,
+      "totalLinesRemoved": 224,
+      "totalActiveTime": 150,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/components/ProfilePhoto/ProfilePhoto.tsx": [
           {
@@ -1076,6 +1076,20 @@
             },
             "duration": 5,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-29T11:41:34.098Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/components/ProfilePanel/ProfilePanel.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/src/components/ProfilePanel/ProfilePanel.scss": [
@@ -1457,6 +1471,62 @@
           },
           {
             "timestamp": "2025-04-29T11:39:54.113Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/components/ProfilePanel/ProfilePanel.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-29T11:42:02.924Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/components/ProfilePanel/ProfilePanel.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 17,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-29T11:42:10.341Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/components/ProfilePanel/ProfilePanel.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 8,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-29T11:42:22.440Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/components/ProfilePanel/ProfilePanel.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 7,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-29T11:42:41.025Z",
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/components/ProfilePanel/ProfilePanel.test.tsx",
             "fileType": ".tsx",
             "linesAdded": 0,
