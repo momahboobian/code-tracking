@@ -2,9 +2,9 @@
   "date": "2025-05-01",
   "projects": {
     "cda": {
-      "totalLinesAdded": 1635,
+      "totalLinesAdded": 1661,
       "totalLinesRemoved": 522,
-      "totalActiveTime": 212,
+      "totalActiveTime": 214,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/utils/hooks/useRequestModal.ts": [
           {
@@ -1988,6 +1988,50 @@
             },
             "duration": 1,
             "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/components/UserView/UserView.scss": [
+          {
+            "timestamp": "2025-05-01T15:57:20.377Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/components/UserView/UserView.scss",
+            "fileType": ".scss",
+            "linesAdded": 24,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2025-05-01T15:58:09.180Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/components/UserView/UserView.scss",
+            "fileType": ".scss",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2025-05-01T15:58:27.773Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/components/UserView/UserView.scss",
+            "fileType": ".scss",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
           }
         ]
       },
