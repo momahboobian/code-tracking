@@ -4,14 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 36                                          |
+| **Lines Added** (➕)   | 129                                          |
 | **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 36                |
-| **Active Time** (⌚)   | 1 minute |
+| **Net Change** (↕)    | 129                |
+| **Active Time** (⌚)   | 3 minutes |
 
 
 ## Modified Files
 - **useRequestModal.ts** (+36, -0)
+- **useDutyRequestTable.ts** (+93, -0)
 
 ## Visualizations
 
@@ -20,7 +21,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 36
+".ts" : 129
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -28,8 +29,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"10h" : 2
+"10h" : 5
 ```
 
 
-> **Last Updated:** 01/05/2025, 10:19:09
+> **Last Updated:** 01/05/2025, 10:24:09
