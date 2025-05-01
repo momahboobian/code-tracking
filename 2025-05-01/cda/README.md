@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1589                                          |
-| **Lines Removed** (➖) | 431                                        |
-| **Net Change** (↕)    | 1158                |
-| **Active Time** (⌚)   | 200 minutes |
+| **Lines Added** (➕)   | 1629                                          |
+| **Lines Removed** (➖) | 435                                        |
+| **Net Change** (↕)    | 1194                |
+| **Active Time** (⌚)   | 209 minutes |
 
 
 ## Modified Files
@@ -15,13 +15,14 @@
 - **useDutyRequestTable.ts** (+93, -40)
 - **types.ts** (+65, -0)
 - **Admin.tsx** (+163, -0)
-- **AdminView.tsx** (+398, -256)
+- **AdminView.tsx** (+412, -260)
 - **ProfilePanel.tsx** (+140, -1)
 - **ProfilePanel.scss** (+92, -1)
 - **App.scss** (+173, -20)
 - **AdminView.scss** (+36, -0)
 - **AdminView.test.tsx** (+89, -37)
 - **UserView.tsx** (+304, -76)
+- **accessibility.ts** (+26, -0)
 
 ## Visualizations
 
@@ -30,8 +31,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 234
-".tsx" : 1464
+".ts" : 260
+".tsx" : 1482
 ".scss" : 322
 ```
 
@@ -44,8 +45,8 @@ title Coding activity by hour (count of changes)
 "11h" : 54
 "12h" : 17
 "13h" : 5
-"14h" : 20
+"14h" : 28
 ```
 
 
-> **Last Updated:** 01/05/2025, 14:44:09
+> **Last Updated:** 01/05/2025, 14:59:09
