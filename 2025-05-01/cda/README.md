@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 667                                          |
-| **Lines Removed** (➖) | 100                                        |
-| **Net Change** (↕)    | 567                |
-| **Active Time** (⌚)   | 46 minutes |
+| **Lines Added** (➕)   | 799                                          |
+| **Lines Removed** (➖) | 106                                        |
+| **Net Change** (↕)    | 693                |
+| **Active Time** (⌚)   | 56 minutes |
 
 
 ## Modified Files
@@ -15,7 +15,8 @@
 - **useDutyRequestTable.ts** (+93, -40)
 - **types.ts** (+65, -0)
 - **Admin.tsx** (+163, -0)
-- **AdminView.tsx** (+310, -60)
+- **AdminView.tsx** (+313, -66)
+- **ProfilePanel.tsx** (+129, -0)
 
 ## Visualizations
 
@@ -25,7 +26,7 @@
 pie showData
 title Lines changed by file type
 ".ts" : 234
-".tsx" : 533
+".tsx" : 671
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -34,7 +35,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "10h" : 30
+"11h" : 6
 ```
 
 
-> **Last Updated:** 01/05/2025, 10:59:09
+> **Last Updated:** 01/05/2025, 11:04:09
