@@ -4,21 +4,22 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 898                                          |
-| **Lines Removed** (➖) | 454                                        |
-| **Net Change** (↕)    | 444                |
-| **Active Time** (⌚)   | 120 minutes |
+| **Lines Added** (➕)   | 925                                          |
+| **Lines Removed** (➖) | 455                                        |
+| **Net Change** (↕)    | 470                |
+| **Active Time** (⌚)   | 130 minutes |
 
 
 ## Modified Files
 - **App.tsx** (+61, -3)
-- **Admin.tsx** (+303, -251)
+- **Admin.tsx** (+305, -252)
 - **UserView.scss** (+18, -6)
 - **index.js** (+58, -0)
 - **summaryStats.ts** (+299, -189)
 - **SummarySection.scss** (+24, -5)
 - **.env** (+39, -0)
 - **Home.tsx** (+96, -0)
+- **Admin.scss** (+25, -0)
 
 ## Visualizations
 
@@ -27,8 +28,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 714
-".scss" : 53
+".tsx" : 717
+".scss" : 78
 ".js" : 58
 ".ts" : 488
 "unknown" : 39
@@ -42,7 +43,8 @@ title Coding activity by hour (count of changes)
 "10h" : 8
 "12h" : 39
 "13h" : 27
+"14h" : 7
 ```
 
 
-> **Last Updated:** 02/05/2025, 14:01:50
+> **Last Updated:** 02/05/2025, 14:06:50
