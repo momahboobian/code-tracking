@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 744,
-      "totalLinesRemoved": 387,
-      "totalActiveTime": 82,
+      "totalLinesRemoved": 424,
+      "totalActiveTime": 91,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/App.tsx": [
           {
@@ -609,6 +609,62 @@
             "fileType": ".ts",
             "linesAdded": 0,
             "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-02T12:27:17.499Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/utils/summaryStats.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-02T12:28:20.178Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/utils/summaryStats.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-02T12:29:31.869Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/utils/summaryStats.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-02T12:30:26.318Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/utils/summaryStats.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 29,
             "projectName": "cda",
             "content": {
               "added": [],
