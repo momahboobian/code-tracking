@@ -883,9 +883,9 @@
       "averageChangeSize": 14
     },
     "samplePdf": {
-      "totalLinesAdded": 1841,
+      "totalLinesAdded": 1932,
       "totalLinesRemoved": 395,
-      "totalActiveTime": 88,
+      "totalActiveTime": 89,
       "files": {
         "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/actions/single.py": [
           {
@@ -1923,6 +1923,36 @@
             "fileName": "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/processing/processing_workflow.py",
             "fileType": ".py",
             "linesAdded": 162,
+            "linesRemoved": 0,
+            "projectName": "samplePdf",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/database/database_utils.py": [
+          {
+            "timestamp": "2025-05-06T17:38:17.220Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/database/database_utils.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "samplePdf",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-05-06T17:38:28.564Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/database/database_utils.py",
+            "fileType": ".py",
+            "linesAdded": 90,
             "linesRemoved": 0,
             "projectName": "samplePdf",
             "content": {
