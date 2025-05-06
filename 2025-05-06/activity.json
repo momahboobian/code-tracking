@@ -2,9 +2,9 @@
   "date": "2025-05-06",
   "projects": {
     "cda": {
-      "totalLinesAdded": 13663,
-      "totalLinesRemoved": 24,
-      "totalActiveTime": 18,
+      "totalLinesAdded": 13709,
+      "totalLinesRemoved": 76,
+      "totalActiveTime": 27,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/components/SummaryMetric/SummaryMetric.tsx": [
           {
@@ -138,6 +138,76 @@
             },
             "duration": 0,
             "language": "lock"
+          },
+          {
+            "timestamp": "2025-05-06T11:17:45.369Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/yarn.lock",
+            "fileType": ".lock",
+            "linesAdded": 0,
+            "linesRemoved": 38,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "lock"
+          },
+          {
+            "timestamp": "2025-05-06T11:17:48.809Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/yarn.lock",
+            "fileType": ".lock",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "lock"
+          },
+          {
+            "timestamp": "2025-05-06T11:17:51.499Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/yarn.lock",
+            "fileType": ".lock",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "lock"
+          },
+          {
+            "timestamp": "2025-05-06T11:17:54.304Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/yarn.lock",
+            "fileType": ".lock",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "lock"
+          },
+          {
+            "timestamp": "2025-05-06T11:17:57.015Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/yarn.lock",
+            "fileType": ".lock",
+            "linesAdded": 0,
+            "linesRemoved": 14,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "lock"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/package.json": [
@@ -176,6 +246,36 @@
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/src/App.tsx",
             "fileType": ".tsx",
             "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/src/components/ButtonNav/ButtonNav.test.tsx": [
+          {
+            "timestamp": "2025-05-06T11:21:46.932Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/src/components/ButtonNav/ButtonNav.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 22,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-06T11:21:54.002Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/src/components/ButtonNav/ButtonNav.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
             "linesRemoved": 0,
             "projectName": "cda",
             "content": {
