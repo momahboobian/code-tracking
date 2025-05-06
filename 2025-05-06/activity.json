@@ -883,7 +883,7 @@
       "averageChangeSize": 14
     },
     "samplePdf": {
-      "totalLinesAdded": 1014,
+      "totalLinesAdded": 1017,
       "totalLinesRemoved": 148,
       "totalActiveTime": 38,
       "files": {
@@ -1158,6 +1158,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-05-06T16:48:26.215Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/app.py",
+            "fileType": ".py",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "samplePdf",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "py"
           }
         ],
