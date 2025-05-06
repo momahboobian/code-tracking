@@ -2,9 +2,9 @@
   "date": "2025-05-06",
   "projects": {
     "cda": {
-      "totalLinesAdded": 13798,
+      "totalLinesAdded": 14559,
       "totalLinesRemoved": 108,
-      "totalActiveTime": 60,
+      "totalActiveTime": 67,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/components/SummaryMetric/SummaryMetric.tsx": [
           {
@@ -668,6 +668,86 @@
             },
             "duration": 2,
             "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/src/index.tsx": [
+          {
+            "timestamp": "2025-05-06T14:49:38.986Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/src/index.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 18,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/src/components/Duty/Duty.tsx": [
+          {
+            "timestamp": "2025-05-06T14:49:42.775Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/src/components/Duty/Duty.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 118,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/src/containers/Home/AllocateTestingHome/AllocateTestingHome.tsx": [
+          {
+            "timestamp": "2025-05-06T14:49:46.232Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/src/containers/Home/AllocateTestingHome/AllocateTestingHome.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 71,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/src/components/MonthlyViewRow/MonthlyViewRow.tsx": [
+          {
+            "timestamp": "2025-05-06T14:49:49.695Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/src/components/MonthlyViewRow/MonthlyViewRow.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 140,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/src/containers/Home/Home/Home.tsx": [
+          {
+            "timestamp": "2025-05-06T14:49:54.590Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/src/containers/Home/Home/Home.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 414,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ]
       },

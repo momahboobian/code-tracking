@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 13798                                          |
+| **Lines Added** (➕)   | 14559                                          |
 | **Lines Removed** (➖) | 108                                        |
-| **Net Change** (↕)    | 13690                |
-| **Active Time** (⌚)   | 60 minutes |
+| **Net Change** (↕)    | 14451                |
+| **Active Time** (⌚)   | 67 minutes |
 
 
 ## Modified Files
@@ -21,6 +21,11 @@
 - **jest.config.ts** (+15, -0)
 - **tsconfig.json** (+25, -1)
 - **setupTests.ts** (+12, -6)
+- **index.tsx** (+18, -0)
+- **Duty.tsx** (+118, -0)
+- **AllocateTestingHome.tsx** (+71, -0)
+- **MonthlyViewRow.tsx** (+140, -0)
+- **Home.tsx** (+414, -0)
 
 ## Visualizations
 
@@ -29,7 +34,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 419
+".tsx" : 1180
 ".scss" : 80
 ".lock" : 13261
 ".json" : 113
@@ -47,8 +52,8 @@ title Coding activity by hour (count of changes)
 "12h" : 15
 "13h" : 7
 "14h" : 11
-"15h" : 3
+"15h" : 8
 ```
 
 
-> **Last Updated:** 06/05/2025, 15:47:27
+> **Last Updated:** 06/05/2025, 15:52:27
