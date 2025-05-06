@@ -883,9 +883,9 @@
       "averageChangeSize": 14
     },
     "samplePdf": {
-      "totalLinesAdded": 1049,
-      "totalLinesRemoved": 150,
-      "totalActiveTime": 52,
+      "totalLinesAdded": 1082,
+      "totalLinesRemoved": 152,
+      "totalActiveTime": 61,
       "files": {
         "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/actions/single.py": [
           {
@@ -1052,6 +1052,90 @@
             "fileType": ".py",
             "linesAdded": 1,
             "linesRemoved": 0,
+            "projectName": "samplePdf",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-05-06T16:55:46.639Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/routes/file_upload.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "samplePdf",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-05-06T16:57:19.583Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/routes/file_upload.py",
+            "fileType": ".py",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "samplePdf",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-05-06T16:57:39.736Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/routes/file_upload.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "samplePdf",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-05-06T16:57:52.966Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/routes/file_upload.py",
+            "fileType": ".py",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "samplePdf",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-05-06T16:57:57.270Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/routes/file_upload.py",
+            "fileType": ".py",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "samplePdf",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-05-06T16:58:11.287Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/routes/file_upload.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "samplePdf",
             "content": {
               "added": [],
@@ -1611,6 +1695,22 @@
             },
             "duration": 1,
             "language": "py"
+          }
+        ],
+        "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/logs/app.log": [
+          {
+            "timestamp": "2025-05-06T16:59:26.417Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/logs/app.log",
+            "fileType": ".log",
+            "linesAdded": 21,
+            "linesRemoved": 0,
+            "projectName": "samplePdf",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "log"
           }
         ]
       },
