@@ -883,9 +883,9 @@
       "averageChangeSize": 14
     },
     "samplePdf": {
-      "totalLinesAdded": 2093,
+      "totalLinesAdded": 2166,
       "totalLinesRemoved": 399,
-      "totalActiveTime": 102,
+      "totalActiveTime": 106,
       "files": {
         "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/actions/single.py": [
           {
@@ -2047,6 +2047,34 @@
             },
             "duration": 2,
             "language": "py"
+          },
+          {
+            "timestamp": "2025-05-06T17:59:36.988Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/pdf_extraction/extract_site_totals.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "samplePdf",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-05-06T18:00:26.650Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/pdf_extraction/extract_site_totals.py",
+            "fileType": ".py",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "samplePdf",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
           }
         ],
         "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/pdf_extraction/__init__.py": [
@@ -2069,6 +2097,50 @@
             "fileName": "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/pdf_extraction/__init__.py",
             "fileType": ".py",
             "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "samplePdf",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-05-06T17:59:03.002Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/pdf_extraction/__init__.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "samplePdf",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/pdf_extraction/pdf_parsers.py": [
+          {
+            "timestamp": "2025-05-06T17:58:10.883Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/pdf_extraction/pdf_parsers.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "samplePdf",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-05-06T17:58:19.723Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/pdf_extraction/pdf_parsers.py",
+            "fileType": ".py",
+            "linesAdded": 66,
             "linesRemoved": 0,
             "projectName": "samplePdf",
             "content": {
