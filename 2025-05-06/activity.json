@@ -883,9 +883,9 @@
       "averageChangeSize": 14
     },
     "samplePdf": {
-      "totalLinesAdded": 961,
+      "totalLinesAdded": 989,
       "totalLinesRemoved": 146,
-      "totalActiveTime": 24,
+      "totalActiveTime": 32,
       "files": {
         "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/actions/single.py": [
           {
@@ -983,6 +983,118 @@
             "fileName": "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/app.py",
             "fileType": ".py",
             "linesAdded": 29,
+            "linesRemoved": 0,
+            "projectName": "samplePdf",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-05-06T16:36:02.947Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/app.py",
+            "fileType": ".py",
+            "linesAdded": 17,
+            "linesRemoved": 0,
+            "projectName": "samplePdf",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-05-06T16:36:16.974Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/app.py",
+            "fileType": ".py",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "samplePdf",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-05-06T16:36:37.017Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/app.py",
+            "fileType": ".py",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "samplePdf",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-05-06T16:36:47.219Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/app.py",
+            "fileType": ".py",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "samplePdf",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-05-06T16:37:44.521Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/app.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "samplePdf",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-05-06T16:39:16.678Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/app.py",
+            "fileType": ".py",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "samplePdf",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-05-06T16:39:41.431Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/app.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "samplePdf",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-05-06T16:40:26.570Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/app.py",
+            "fileType": ".py",
+            "linesAdded": 1,
             "linesRemoved": 0,
             "projectName": "samplePdf",
             "content": {
