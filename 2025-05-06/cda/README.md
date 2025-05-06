@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 13713                                          |
+| **Lines Added** (➕)   | 13752                                          |
 | **Lines Removed** (➖) | 81                                        |
-| **Net Change** (↕)    | 13632                |
-| **Active Time** (⌚)   | 34 minutes |
+| **Net Change** (↕)    | 13671                |
+| **Active Time** (⌚)   | 38 minutes |
 
 
 ## Modified Files
@@ -18,6 +18,8 @@
 - **package.json** (+71, -0)
 - **App.tsx** (+234, -0)
 - **ButtonNav.test.tsx** (+27, -5)
+- **jest.config.ts** (+15, -0)
+- **tsconfig.json** (+24, -0)
 
 ## Visualizations
 
@@ -29,7 +31,8 @@ title Lines changed by file type
 ".tsx" : 419
 ".scss" : 80
 ".lock" : 13224
-".json" : 71
+".json" : 95
+".ts" : 15
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -41,7 +44,8 @@ title Coding activity by hour (count of changes)
 "10h" : 1
 "11h" : 1
 "12h" : 15
+"13h" : 3
 ```
 
 
-> **Last Updated:** 06/05/2025, 12:37:27
+> **Last Updated:** 06/05/2025, 13:42:27
