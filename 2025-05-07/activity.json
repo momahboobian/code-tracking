@@ -444,9 +444,9 @@
       "averageChangeSize": 42.25
     },
     "cda": {
-      "totalLinesAdded": 100639,
+      "totalLinesAdded": 100640,
       "totalLinesRemoved": 67,
-      "totalActiveTime": 199,
+      "totalActiveTime": 201,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/package.json": [
           {
@@ -1649,6 +1649,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-05-07T15:06:53.764Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/package.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "json"
           }
         ],
