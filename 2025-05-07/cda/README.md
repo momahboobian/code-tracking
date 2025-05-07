@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 14370                                          |
-| **Lines Removed** (➖) | 16                                        |
-| **Net Change** (↕)    | 14354                |
-| **Active Time** (⌚)   | 27 minutes |
+| **Lines Added** (➕)   | 14601                                          |
+| **Lines Removed** (➖) | 21                                        |
+| **Net Change** (↕)    | 14580                |
+| **Active Time** (⌚)   | 30 minutes |
 
 
 ## Modified Files
@@ -21,11 +21,11 @@
 - **NewGroup.test.tsx** (+229, -0)
 - **NewAlert.test.tsx** (+195, -0)
 - **AlertEntry.tsx** (+41, -0)
-- **Home.tsx** (+96, -0)
+- **Home.tsx** (+192, -0)
 - **GroupList.tsx** (+82, -0)
 - **GroupList.test.tsx** (+128, -0)
 - **Alert.tsx** (+121, -0)
-- **NewAlert.tsx** (+140, -10)
+- **NewAlert.tsx** (+275, -15)
 - **gql.ts** (+128, -0)
 
 ## Visualizations
@@ -37,7 +37,7 @@ pie showData
 title Lines changed by file type
 ".json" : 75
 ".ts" : 132
-".tsx" : 1125
+".tsx" : 1361
 ".lock" : 13054
 ```
 
@@ -47,8 +47,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "09h" : 25
-"10h" : 1
+"10h" : 5
 ```
 
 
-> **Last Updated:** 07/05/2025, 10:02:29
+> **Last Updated:** 07/05/2025, 10:08:20
