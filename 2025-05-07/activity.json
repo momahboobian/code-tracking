@@ -2,7 +2,7 @@
   "date": "2025-05-07",
   "projects": {
     "samplePdf": {
-      "totalLinesAdded": 750,
+      "totalLinesAdded": 800,
       "totalLinesRemoved": 28,
       "totalActiveTime": 18,
       "files": {
@@ -237,6 +237,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "log"
+          },
+          {
+            "timestamp": "2025-05-07T11:57:42.872Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/logs/app.log",
+            "fileType": ".log",
+            "linesAdded": 50,
+            "linesRemoved": 0,
+            "projectName": "samplePdf",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "log"
           }
         ]
