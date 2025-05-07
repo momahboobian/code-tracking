@@ -5,8 +5,8 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 1383                                          |
-| **Lines Removed** (➖) | 158                                        |
-| **Net Change** (↕)    | 1225                |
+| **Lines Removed** (➖) | 175                                        |
+| **Net Change** (↕)    | 1208                |
 | **Active Time** (⌚)   | 67 minutes |
 
 
@@ -20,7 +20,7 @@
 - **schema.py** (+15, -6)
 - **processing_workflow.py** (+269, -66)
 - **extract_site_totals.py** (+75, -1)
-- **extract_invoice_data.py** (+146, -45)
+- **extract_invoice_data.py** (+146, -62)
 
 ## Visualizations
 
@@ -29,7 +29,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".py" : 931
+".py" : 948
 ".log" : 610
 ```
 
@@ -45,8 +45,8 @@ title Coding activity by hour (count of changes)
 "13h" : 12
 "19h" : 2
 "20h" : 29
-"21h" : 1
+"21h" : 2
 ```
 
 
-> **Last Updated:** 07/05/2025, 21:01:56
+> **Last Updated:** 07/05/2025, 21:06:56

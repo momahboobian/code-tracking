@@ -3,7 +3,7 @@
   "projects": {
     "samplePdf": {
       "totalLinesAdded": 1383,
-      "totalLinesRemoved": 158,
+      "totalLinesRemoved": 175,
       "totalActiveTime": 67,
       "files": {
         "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/utilsssss/extractSiteNames.py": [
@@ -877,6 +877,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-05-07T20:05:42.666Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/pdf_extraction/extract_invoice_data.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 17,
+            "projectName": "samplePdf",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "py"
           }
         ]
