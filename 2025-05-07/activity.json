@@ -444,9 +444,9 @@
       "averageChangeSize": 42.25
     },
     "cda": {
-      "totalLinesAdded": 101559,
+      "totalLinesAdded": 101645,
       "totalLinesRemoved": 828,
-      "totalActiveTime": 226,
+      "totalActiveTime": 230,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/package.json": [
           {
@@ -2949,6 +2949,48 @@
               "removed": []
             },
             "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-05-07T15:43:58.989Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/containers/MyProfile/MyProfile.test.js",
+            "fileType": ".js",
+            "linesAdded": 72,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-05-07T15:44:25.288Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/containers/MyProfile/MyProfile.test.js",
+            "fileType": ".js",
+            "linesAdded": 13,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-05-07T15:46:26.638Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/containers/MyProfile/MyProfile.test.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "js"
           }
         ],
