@@ -3,7 +3,7 @@
   "projects": {
     "samplePdf": {
       "totalLinesAdded": 1224,
-      "totalLinesRemoved": 106,
+      "totalLinesRemoved": 107,
       "totalActiveTime": 45,
       "files": {
         "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/utilsssss/extractSiteNames.py": [
@@ -621,6 +621,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-05-07T19:46:14.030Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/processing/processing_workflow.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "samplePdf",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "py"
           }
         ],
