@@ -212,9 +212,9 @@
       "averageChangeSize": 42.25
     },
     "cda": {
-      "totalLinesAdded": 70,
+      "totalLinesAdded": 13979,
       "totalLinesRemoved": 5,
-      "totalActiveTime": 6,
+      "totalActiveTime": 10,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/package.json": [
           {
@@ -306,6 +306,164 @@
             },
             "duration": 2,
             "language": "json"
+          },
+          {
+            "timestamp": "2025-05-07T08:41:41.754Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/package.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/App.tsx": [
+          {
+            "timestamp": "2025-05-07T08:37:57.082Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 65,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/index.tsx": [
+          {
+            "timestamp": "2025-05-07T08:37:57.080Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/index.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 18,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/yarn.lock": [
+          {
+            "timestamp": "2025-05-07T08:37:57.081Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/yarn.lock",
+            "fileType": ".lock",
+            "linesAdded": 13054,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "lock"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/NewGroup/NewGroup.test.tsx": [
+          {
+            "timestamp": "2025-05-07T08:37:57.085Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/NewGroup/NewGroup.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 229,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/NewAlert/NewAlert.test.tsx": [
+          {
+            "timestamp": "2025-05-07T08:37:57.084Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/NewAlert/NewAlert.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 195,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/components/AlertEntry/AlertEntry.tsx": [
+          {
+            "timestamp": "2025-05-07T08:37:57.092Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/components/AlertEntry/AlertEntry.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 41,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/Home/Home.tsx": [
+          {
+            "timestamp": "2025-05-07T08:37:57.089Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/Home/Home.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 96,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/components/GroupList/GroupList.tsx": [
+          {
+            "timestamp": "2025-05-07T08:37:57.096Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/components/GroupList/GroupList.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 82,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/components/GroupList/GroupList.test.tsx": [
+          {
+            "timestamp": "2025-05-07T08:37:57.097Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/components/GroupList/GroupList.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 128,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
           }
         ]
       },
