@@ -444,9 +444,9 @@
       "averageChangeSize": 42.25
     },
     "cda": {
-      "totalLinesAdded": 57020,
+      "totalLinesAdded": 57122,
       "totalLinesRemoved": 45,
-      "totalActiveTime": 87,
+      "totalActiveTime": 89,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/package.json": [
           {
@@ -1630,6 +1630,52 @@
             },
             "duration": 1,
             "language": "lock"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/it-kit/package.json": [
+          {
+            "timestamp": "2025-05-07T13:14:47.611Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/it-kit/package.json",
+            "fileType": ".json",
+            "linesAdded": 73,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/it-kit/src/setupTests.js": [
+          {
+            "timestamp": "2025-05-07T13:15:41.726Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/it-kit/src/setupTests.js",
+            "fileType": ".js",
+            "linesAdded": 25,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-05-07T13:15:51.021Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/it-kit/src/setupTests.js",
+            "fileType": ".js",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
           }
         ]
       },
