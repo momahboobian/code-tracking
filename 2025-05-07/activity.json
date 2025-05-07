@@ -256,7 +256,7 @@
       "averageChangeSize": 42.25
     },
     "cda": {
-      "totalLinesAdded": 28783,
+      "totalLinesAdded": 28789,
       "totalLinesRemoved": 31,
       "totalActiveTime": 47,
       "files": {
@@ -1026,6 +1026,22 @@
             },
             "duration": 1,
             "language": "lock"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/src/setupTests.ts": [
+          {
+            "timestamp": "2025-05-07T11:10:35.713Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/src/setupTests.ts",
+            "fileType": ".ts",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
           }
         ]
       },
