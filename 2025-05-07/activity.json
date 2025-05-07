@@ -444,9 +444,9 @@
       "averageChangeSize": 42.25
     },
     "cda": {
-      "totalLinesAdded": 103191,
+      "totalLinesAdded": 104237,
       "totalLinesRemoved": 828,
-      "totalActiveTime": 246,
+      "totalActiveTime": 261,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/package.json": [
           {
@@ -2976,6 +2976,20 @@
             },
             "duration": 1,
             "language": "js"
+          },
+          {
+            "timestamp": "2025-05-07T16:22:28.285Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/App.js",
+            "fileType": ".js",
+            "linesAdded": 180,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "js"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/containers/MyProfile/MyProfile.test.js": [
@@ -3146,11 +3160,53 @@
             },
             "duration": 3,
             "language": "js"
+          },
+          {
+            "timestamp": "2025-05-07T16:22:28.290Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/containers/MyProfile/MyProfile.test.js",
+            "fileType": ".js",
+            "linesAdded": 389,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-05-07T16:23:56.875Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/containers/MyProfile/MyProfile.test.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "js"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/components/MyFeedbackPanel/MyFeedbackPanel.test.js": [
           {
             "timestamp": "2025-05-07T15:28:57.405Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/components/MyFeedbackPanel/MyFeedbackPanel.test.js",
+            "fileType": ".js",
+            "linesAdded": 426,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-05-07T16:22:28.289Z",
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/components/MyFeedbackPanel/MyFeedbackPanel.test.js",
             "fileType": ".js",
             "linesAdded": 426,
@@ -3191,6 +3247,34 @@
               "removed": []
             },
             "duration": 3,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-05-07T16:22:28.286Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/components/MyFeedbackModal/MyFeedbackModal.test.js",
+            "fileType": ".js",
+            "linesAdded": 49,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-05-07T16:24:19.587Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/components/MyFeedbackModal/MyFeedbackModal.test.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "js"
           }
         ],
