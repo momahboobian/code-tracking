@@ -444,9 +444,9 @@
       "averageChangeSize": 42.25
     },
     "cda": {
-      "totalLinesAdded": 101950,
+      "totalLinesAdded": 103191,
       "totalLinesRemoved": 828,
-      "totalActiveTime": 234,
+      "totalActiveTime": 246,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/package.json": [
           {
@@ -2692,11 +2692,39 @@
             },
             "duration": 3,
             "language": "js"
+          },
+          {
+            "timestamp": "2025-05-07T16:19:00.453Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/components/MyCpfPanel/JobDescription/JobDescription.test.js",
+            "fileType": ".js",
+            "linesAdded": 24,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/components/SearchResults/SearchResults.test.js": [
           {
             "timestamp": "2025-05-07T14:38:22.556Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/components/SearchResults/SearchResults.test.js",
+            "fileType": ".js",
+            "linesAdded": 66,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-05-07T16:19:12.488Z",
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/components/SearchResults/SearchResults.test.js",
             "fileType": ".js",
             "linesAdded": 66,
@@ -2724,11 +2752,39 @@
             },
             "duration": 1,
             "language": "jsx"
+          },
+          {
+            "timestamp": "2025-05-07T16:19:52.718Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/containers/SkillType/SkillType.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 137,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/containers/MyProfile/MyProfile.jsx": [
           {
             "timestamp": "2025-05-07T14:38:36.014Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/containers/MyProfile/MyProfile.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 609,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-05-07T16:19:15.901Z",
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/containers/MyProfile/MyProfile.jsx",
             "fileType": ".jsx",
             "linesAdded": 609,
@@ -2756,11 +2812,39 @@
             },
             "duration": 1,
             "language": "js"
+          },
+          {
+            "timestamp": "2025-05-07T16:19:03.267Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/components/MyCpfPanel/ToggleSalaryDisplay/ToggleSalaryDisplay.test.js",
+            "fileType": ".js",
+            "linesAdded": 26,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/containers/Search/Search.test.js": [
           {
             "timestamp": "2025-05-07T14:38:51.075Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/containers/Search/Search.test.js",
+            "fileType": ".js",
+            "linesAdded": 54,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-05-07T16:19:28.430Z",
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/containers/Search/Search.test.js",
             "fileType": ".js",
             "linesAdded": 54,
@@ -2788,6 +2872,20 @@
             },
             "duration": 1,
             "language": "js"
+          },
+          {
+            "timestamp": "2025-05-07T16:18:56.749Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/components/MyCpfPanel/JobBand/JobBand.test.js",
+            "fileType": ".js",
+            "linesAdded": 40,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/components/MyCpfPanel/MyCpfPanel.test.js": [
@@ -2804,11 +2902,39 @@
             },
             "duration": 1,
             "language": "js"
+          },
+          {
+            "timestamp": "2025-05-07T16:18:52.684Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/components/MyCpfPanel/MyCpfPanel.test.js",
+            "fileType": ".js",
+            "linesAdded": 210,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "js"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/containers/Search/Search.jsx": [
           {
             "timestamp": "2025-05-07T14:39:56.333Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/containers/Search/Search.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 75,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-05-07T16:19:25.031Z",
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/containers/Search/Search.jsx",
             "fileType": ".jsx",
             "linesAdded": 75,
