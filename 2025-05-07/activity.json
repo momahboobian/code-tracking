@@ -212,9 +212,9 @@
       "averageChangeSize": 42.25
     },
     "cda": {
-      "totalLinesAdded": 1,
-      "totalLinesRemoved": 1,
-      "totalActiveTime": 1,
+      "totalLinesAdded": 70,
+      "totalLinesRemoved": 5,
+      "totalActiveTime": 6,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/package.json": [
           {
@@ -243,6 +243,68 @@
               "removed": []
             },
             "duration": 1,
+            "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/tsconfig.json": [
+          {
+            "timestamp": "2025-05-07T08:29:03.025Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/tsconfig.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/setupTests.ts": [
+          {
+            "timestamp": "2025-05-07T08:30:58.947Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/setupTests.ts",
+            "fileType": ".ts",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-07T08:31:08.047Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/setupTests.ts",
+            "fileType": ".ts",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/package.json": [
+          {
+            "timestamp": "2025-05-07T08:32:28.069Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/package.json",
+            "fileType": ".json",
+            "linesAdded": 65,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "json"
           }
         ]
