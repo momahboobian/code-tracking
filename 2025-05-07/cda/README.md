@@ -4,14 +4,14 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 28789                                          |
+| **Lines Added** (➕)   | 42995                                          |
 | **Lines Removed** (➖) | 31                                        |
-| **Net Change** (↕)    | 28758                |
-| **Active Time** (⌚)   | 47 minutes |
+| **Net Change** (↕)    | 42964                |
+| **Active Time** (⌚)   | 55 minutes |
 
 
 ## Modified Files
-- **package.json** (+74, -3)
+- **package.json** (+145, -3)
 - **tsconfig.json** (+0, -4)
 - **setupTests.ts** (+4, -0)
 - **package.json** (+68, -1)
@@ -37,8 +37,14 @@
 - **Search.tsx** (+76, -0)
 - **Search.test.tsx** (+53, -0)
 - **SearchResults.test.tsx** (+65, -0)
-- **yarn.lock** (+13154, -7)
-- **setupTests.ts** (+6, -0)
+- **yarn.lock** (+26288, -7)
+- **setupTests.ts** (+12, -0)
+- **App.tsx** (+234, -0)
+- **index.tsx** (+18, -0)
+- **Duty.tsx** (+118, -0)
+- **MonthlyViewRow.tsx** (+140, -0)
+- **AllocateTestingHome.tsx** (+71, -0)
+- **Home.tsx** (+414, -0)
 
 ## Visualizations
 
@@ -47,10 +53,10 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".json" : 770
-".ts" : 144
-".tsx" : 1691
-".lock" : 26215
+".json" : 841
+".ts" : 150
+".tsx" : 2686
+".lock" : 39349
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -62,7 +68,8 @@ title Coding activity by hour (count of changes)
 "10h" : 13
 "11h" : 13
 "12h" : 1
+"13h" : 9
 ```
 
 
-> **Last Updated:** 07/05/2025, 12:13:20
+> **Last Updated:** 07/05/2025, 13:46:48
