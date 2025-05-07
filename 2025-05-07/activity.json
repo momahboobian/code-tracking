@@ -444,7 +444,7 @@
       "averageChangeSize": 42.25
     },
     "cda": {
-      "totalLinesAdded": 104237,
+      "totalLinesAdded": 104309,
       "totalLinesRemoved": 828,
       "totalActiveTime": 261,
       "files": {
@@ -3292,6 +3292,22 @@
             },
             "duration": 0,
             "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/components/MyFeedbackModal/MyFeedbackModel.jsx": [
+          {
+            "timestamp": "2025-05-07T16:35:48.708Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/components/MyFeedbackModal/MyFeedbackModel.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 72,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jsx"
           }
         ]
       },
