@@ -444,9 +444,9 @@
       "averageChangeSize": 42.25
     },
     "cda": {
-      "totalLinesAdded": 72879,
-      "totalLinesRemoved": 49,
-      "totalActiveTime": 131,
+      "totalLinesAdded": 85927,
+      "totalLinesRemoved": 63,
+      "totalActiveTime": 138,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/package.json": [
           {
@@ -2084,6 +2084,66 @@
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/stats-dashboard/setupTests.ts",
             "fileType": ".ts",
             "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/stats-dashboard/yarn.lock": [
+          {
+            "timestamp": "2025-05-07T13:52:08.984Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/stats-dashboard/yarn.lock",
+            "fileType": ".lock",
+            "linesAdded": 13034,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "lock"
+          },
+          {
+            "timestamp": "2025-05-07T13:53:02.612Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/stats-dashboard/yarn.lock",
+            "fileType": ".lock",
+            "linesAdded": 0,
+            "linesRemoved": 14,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "lock"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/stats-dashboard/src/setupTests.ts": [
+          {
+            "timestamp": "2025-05-07T13:55:24.678Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/stats-dashboard/src/setupTests.ts",
+            "fileType": ".ts",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-07T13:55:26.095Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/stats-dashboard/src/setupTests.ts",
+            "fileType": ".ts",
+            "linesAdded": 2,
             "linesRemoved": 0,
             "projectName": "cda",
             "content": {
