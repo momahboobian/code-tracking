@@ -444,9 +444,9 @@
       "averageChangeSize": 42.25
     },
     "cda": {
-      "totalLinesAdded": 85927,
-      "totalLinesRemoved": 63,
-      "totalActiveTime": 138,
+      "totalLinesAdded": 86031,
+      "totalLinesRemoved": 65,
+      "totalActiveTime": 148,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/package.json": [
           {
@@ -2152,6 +2152,92 @@
             },
             "duration": 1,
             "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/stats-dashboard/src/components/organisms/SelectApp/SelectApp.test.tsx": [
+          {
+            "timestamp": "2025-05-07T13:59:10.678Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/stats-dashboard/src/components/organisms/SelectApp/SelectApp.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 92,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-07T13:59:11.870Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/stats-dashboard/src/components/organisms/SelectApp/SelectApp.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-07T13:59:22.418Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/stats-dashboard/src/components/organisms/SelectApp/SelectApp.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-07T13:59:46.217Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/stats-dashboard/src/components/organisms/SelectApp/SelectApp.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-07T14:01:12.451Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/stats-dashboard/src/components/organisms/SelectApp/SelectApp.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-07T14:01:37.082Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/stats-dashboard/src/components/organisms/SelectApp/SelectApp.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ]
       },
