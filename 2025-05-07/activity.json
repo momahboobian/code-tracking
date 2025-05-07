@@ -210,6 +210,53 @@
         "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/app.py"
       ],
       "averageChangeSize": 42.25
+    },
+    "cda": {
+      "totalLinesAdded": 1,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 1,
+      "files": {
+        "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/package.json": [
+          {
+            "timestamp": "2025-05-07T08:22:13.422Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/package.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-05-07T08:22:21.562Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/package.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 1
+      },
+      "changeFrequency": {
+        "9": 1
+      },
+      "topFiles": [
+        "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/package.json"
+      ],
+      "averageChangeSize": 1
     }
   },
   "totalActiveTime": 3,
