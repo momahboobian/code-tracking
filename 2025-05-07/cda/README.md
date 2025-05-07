@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 100640                                          |
-| **Lines Removed** (➖) | 67                                        |
-| **Net Change** (↕)    | 100573                |
-| **Active Time** (⌚)   | 201 minutes |
+| **Lines Added** (➕)   | 100694                                          |
+| **Lines Removed** (➖) | 69                                        |
+| **Net Change** (↕)    | 100625                |
+| **Active Time** (⌚)   | 206 minutes |
 
 
 ## Modified Files
@@ -45,7 +45,7 @@
 - **MonthlyViewRow.tsx** (+140, -0)
 - **AllocateTestingHome.tsx** (+71, -0)
 - **Home.tsx** (+414, -0)
-- **package.json** (+66, -0)
+- **package.json** (+66, -2)
 - **App.tsx** (+58, -0)
 - **setupTests.ts** (+6, -0)
 - **RequestForm.test.tsx** (+163, -0)
@@ -93,7 +93,7 @@
 - **MyCpfPanel.test.js** (+210, -0)
 - **Search.jsx** (+75, -0)
 - **App.js** (+184, -0)
-- **MyProfile.test.js** (+389, -0)
+- **MyProfile.test.js** (+443, -0)
 
 ## Visualizations
 
@@ -102,11 +102,11 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".json" : 1565
+".json" : 1567
 ".ts" : 188
 ".tsx" : 4102
 ".lock" : 90311
-".js" : 2469
+".js" : 2523
 ".jsx" : 2072
 ```
 
@@ -122,8 +122,8 @@ title Coding activity by hour (count of changes)
 "13h" : 15
 "14h" : 50
 "15h" : 39
-"16h" : 2
+"16h" : 4
 ```
 
 
-> **Last Updated:** 07/05/2025, 16:11:48
+> **Last Updated:** 07/05/2025, 16:21:48
