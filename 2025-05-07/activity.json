@@ -212,7 +212,7 @@
       "averageChangeSize": 42.25
     },
     "cda": {
-      "totalLinesAdded": 15627,
+      "totalLinesAdded": 28761,
       "totalLinesRemoved": 22,
       "totalActiveTime": 37,
       "files": {
@@ -882,6 +882,22 @@
             },
             "duration": 1,
             "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/yarn.lock": [
+          {
+            "timestamp": "2025-05-07T10:23:08.127Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/yarn.lock",
+            "fileType": ".lock",
+            "linesAdded": 13134,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "lock"
           }
         ]
       },
