@@ -212,9 +212,9 @@
       "averageChangeSize": 42.25
     },
     "cda": {
-      "totalLinesAdded": 14601,
+      "totalLinesAdded": 14607,
       "totalLinesRemoved": 21,
-      "totalActiveTime": 30,
+      "totalActiveTime": 31,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/package.json": [
           {
@@ -658,6 +658,36 @@
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/gql-generated/high-risk/gql.ts",
             "fileType": ".ts",
             "linesAdded": 128,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/everywhere/src/setupTests.ts": [
+          {
+            "timestamp": "2025-05-07T09:10:25.327Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/everywhere/src/setupTests.ts",
+            "fileType": ".ts",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-07T09:10:26.007Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/everywhere/src/setupTests.ts",
+            "fileType": ".ts",
+            "linesAdded": 2,
             "linesRemoved": 0,
             "projectName": "cda",
             "content": {
