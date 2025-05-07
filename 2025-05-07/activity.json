@@ -212,7 +212,7 @@
       "averageChangeSize": 42.25
     },
     "cda": {
-      "totalLinesAdded": 14861,
+      "totalLinesAdded": 15043,
       "totalLinesRemoved": 21,
       "totalActiveTime": 31,
       "files": {
@@ -718,6 +718,22 @@
           {
             "timestamp": "2025-05-07T09:36:21.660Z",
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/node_modules/@bbc/ise-web-components/package.json",
+            "fileType": ".json",
+            "linesAdded": 182,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/package.json": [
+          {
+            "timestamp": "2025-05-07T09:43:00.447Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/package.json",
             "fileType": ".json",
             "linesAdded": 182,
             "linesRemoved": 0,
