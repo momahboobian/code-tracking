@@ -2,9 +2,9 @@
   "date": "2025-05-07",
   "projects": {
     "samplePdf": {
-      "totalLinesAdded": 1148,
-      "totalLinesRemoved": 95,
-      "totalActiveTime": 41,
+      "totalLinesAdded": 1224,
+      "totalLinesRemoved": 106,
+      "totalActiveTime": 45,
       "files": {
         "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/utilsssss/extractSiteNames.py": [
           {
@@ -295,6 +295,62 @@
               "removed": []
             },
             "duration": 2,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-05-07T19:34:17.672Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/pdf_extraction/pdf_parsers.py",
+            "fileType": ".py",
+            "linesAdded": 71,
+            "linesRemoved": 0,
+            "projectName": "samplePdf",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-05-07T19:34:23.713Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/pdf_extraction/pdf_parsers.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "samplePdf",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-05-07T19:36:21.917Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/pdf_extraction/pdf_parsers.py",
+            "fileType": ".py",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "samplePdf",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-05-07T19:36:47.521Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/pdf_extraction/pdf_parsers.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 10,
+            "projectName": "samplePdf",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "py"
           }
         ],
