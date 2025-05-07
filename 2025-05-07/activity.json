@@ -444,9 +444,9 @@
       "averageChangeSize": 42.25
     },
     "cda": {
-      "totalLinesAdded": 101074,
-      "totalLinesRemoved": 447,
-      "totalActiveTime": 212,
+      "totalLinesAdded": 101549,
+      "totalLinesRemoved": 825,
+      "totalActiveTime": 217,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/package.json": [
           {
@@ -2886,6 +2886,52 @@
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/containers/MyProfile/MyProfile.test.js",
             "fileType": ".js",
             "linesAdded": 378,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-05-07T15:30:04.890Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/containers/MyProfile/MyProfile.test.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 378,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/components/MyFeedbackPanel/MyFeedbackPanel.test.js": [
+          {
+            "timestamp": "2025-05-07T15:28:57.405Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/components/MyFeedbackPanel/MyFeedbackPanel.test.js",
+            "fileType": ".js",
+            "linesAdded": 426,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "js"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/components/MyFeedbackModal/MyFeedbackModal.test.js": [
+          {
+            "timestamp": "2025-05-07T15:29:17.787Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/components/MyFeedbackModal/MyFeedbackModal.test.js",
+            "fileType": ".js",
+            "linesAdded": 49,
             "linesRemoved": 0,
             "projectName": "cda",
             "content": {
