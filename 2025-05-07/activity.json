@@ -3,8 +3,8 @@
   "projects": {
     "samplePdf": {
       "totalLinesAdded": 1401,
-      "totalLinesRemoved": 175,
-      "totalActiveTime": 76,
+      "totalLinesRemoved": 202,
+      "totalActiveTime": 77,
       "files": {
         "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/utilsssss/extractSiteNames.py": [
           {
@@ -933,6 +933,34 @@
               "removed": []
             },
             "duration": 4,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-05-07T20:29:31.428Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/pdf_extraction/extract_invoice_data.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 26,
+            "projectName": "samplePdf",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-05-07T20:29:40.122Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/pdf_extraction/extract_invoice_data.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "samplePdf",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "py"
           }
         ]
