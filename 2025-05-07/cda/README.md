@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 98047                                          |
-| **Lines Removed** (➖) | 66                                        |
-| **Net Change** (↕)    | 97981                |
-| **Active Time** (⌚)   | 168 minutes |
+| **Lines Added** (➕)   | 98729                                          |
+| **Lines Removed** (➖) | 67                                        |
+| **Net Change** (↕)    | 98662                |
+| **Active Time** (⌚)   | 179 minutes |
 
 
 ## Modified Files
@@ -18,12 +18,12 @@
 - **App.tsx** (+65, -0)
 - **index.tsx** (+18, -0)
 - **yarn.lock** (+13054, -0)
-- **NewGroup.test.tsx** (+229, -0)
-- **NewAlert.test.tsx** (+195, -0)
-- **AlertEntry.tsx** (+41, -0)
+- **NewGroup.test.tsx** (+458, -0)
+- **NewAlert.test.tsx** (+390, -0)
+- **AlertEntry.tsx** (+82, -0)
 - **Home.tsx** (+192, -0)
-- **GroupList.tsx** (+82, -0)
-- **GroupList.test.tsx** (+128, -0)
+- **GroupList.tsx** (+164, -0)
+- **GroupList.test.tsx** (+257, -1)
 - **Alert.tsx** (+121, -0)
 - **NewAlert.tsx** (+275, -15)
 - **gql.ts** (+128, -0)
@@ -81,6 +81,7 @@
 - **yarn.lock** (+11602, -0)
 - **package.json** (+48, -0)
 - **setupTests.js** (+6, -0)
+- **setupTests.ts** (+6, -0)
 
 ## Visualizations
 
@@ -90,8 +91,8 @@
 pie showData
 title Lines changed by file type
 ".json" : 1470
-".ts" : 182
-".tsx" : 3425
+".ts" : 188
+".tsx" : 4102
 ".lock" : 90311
 ".js" : 1474
 ".jsx" : 1251
@@ -108,8 +109,8 @@ title Coding activity by hour (count of changes)
 "12h" : 1
 "13h" : 15
 "14h" : 50
-"15h" : 16
+"15h" : 25
 ```
 
 
-> **Last Updated:** 07/05/2025, 15:26:48
+> **Last Updated:** 07/05/2025, 15:31:48
