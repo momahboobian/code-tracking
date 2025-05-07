@@ -444,9 +444,9 @@
       "averageChangeSize": 42.25
     },
     "cda": {
-      "totalLinesAdded": 57218,
+      "totalLinesAdded": 59556,
       "totalLinesRemoved": 45,
-      "totalActiveTime": 95,
+      "totalActiveTime": 110,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/package.json": [
           {
@@ -1706,6 +1706,214 @@
             },
             "duration": 4,
             "language": "jsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/it-kit/src/components/MyAssetsResultsSection/index.js": [
+          {
+            "timestamp": "2025-05-07T13:22:39.901Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/it-kit/src/components/MyAssetsResultsSection/index.js",
+            "fileType": ".js",
+            "linesAdded": 35,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "js"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/it-kit/src/components/AssetList/index.js": [
+          {
+            "timestamp": "2025-05-07T13:22:49.186Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/it-kit/src/components/AssetList/index.js",
+            "fileType": ".js",
+            "linesAdded": 225,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/it-kit/src/components/MissingKit/MissingKit.jsx": [
+          {
+            "timestamp": "2025-05-07T13:22:54.988Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/it-kit/src/components/MissingKit/MissingKit.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 62,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/it-kit/src/components/KitMetaData/KitMetaDataModal/KitMetaDataModal.jsx": [
+          {
+            "timestamp": "2025-05-07T13:23:23.057Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/it-kit/src/components/KitMetaData/KitMetaDataModal/KitMetaDataModal.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 141,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/it-kit/src/components/ITCRequestsPanel/ITCRequestsPanel.test.js": [
+          {
+            "timestamp": "2025-05-07T13:23:41.312Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/it-kit/src/components/ITCRequestsPanel/ITCRequestsPanel.test.js",
+            "fileType": ".js",
+            "linesAdded": 483,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/it-kit/src/components/Search/Search.test.jsx": [
+          {
+            "timestamp": "2025-05-07T13:23:47.017Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/it-kit/src/components/Search/Search.test.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 241,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/it-kit/src/components/TeamsTabs/TeamsTabs.test.jsx": [
+          {
+            "timestamp": "2025-05-07T13:23:52.277Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/it-kit/src/components/TeamsTabs/TeamsTabs.test.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 260,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/it-kit/src/components/FlatAssetList/FlatAssetList.jsx": [
+          {
+            "timestamp": "2025-05-07T13:23:58.172Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/it-kit/src/components/FlatAssetList/FlatAssetList.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 152,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/it-kit/src/components/ITCRequestsPanel/ITCRequestsPanel.jsx": [
+          {
+            "timestamp": "2025-05-07T13:24:27.458Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/it-kit/src/components/ITCRequestsPanel/ITCRequestsPanel.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 198,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/it-kit/src/components/Search/index.js": [
+          {
+            "timestamp": "2025-05-07T13:24:33.104Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/it-kit/src/components/Search/index.js",
+            "fileType": ".js",
+            "linesAdded": 300,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/it-kit/src/components/ITCRequestSummary/ITCRequestSummary.test.js": [
+          {
+            "timestamp": "2025-05-07T13:25:11.479Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/it-kit/src/components/ITCRequestSummary/ITCRequestSummary.test.js",
+            "fileType": ".js",
+            "linesAdded": 47,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/it-kit/src/components/ITCRequestSummary/ITCRequestSummary.jsx": [
+          {
+            "timestamp": "2025-05-07T13:26:18.917Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/it-kit/src/components/ITCRequestSummary/ITCRequestSummary.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 102,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "jsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/it-kit/src/containers/Home/home.test.js": [
+          {
+            "timestamp": "2025-05-07T13:26:29.820Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/it-kit/src/containers/Home/home.test.js",
+            "fileType": ".js",
+            "linesAdded": 92,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
           }
         ]
       },
