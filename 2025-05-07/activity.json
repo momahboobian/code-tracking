@@ -444,9 +444,9 @@
       "averageChangeSize": 42.25
     },
     "cda": {
-      "totalLinesAdded": 101549,
-      "totalLinesRemoved": 825,
-      "totalActiveTime": 217,
+      "totalLinesAdded": 101559,
+      "totalLinesRemoved": 828,
+      "totalActiveTime": 226,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/package.json": [
           {
@@ -2908,6 +2908,48 @@
             },
             "duration": 1,
             "language": "js"
+          },
+          {
+            "timestamp": "2025-05-07T15:32:52.259Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/containers/MyProfile/MyProfile.test.js",
+            "fileType": ".js",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-05-07T15:36:24.908Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/containers/MyProfile/MyProfile.test.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-05-07T15:36:40.776Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/containers/MyProfile/MyProfile.test.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/components/MyFeedbackPanel/MyFeedbackPanel.test.js": [
@@ -2939,6 +2981,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-05-07T15:35:01.489Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/components/MyFeedbackModal/MyFeedbackModal.test.js",
+            "fileType": ".js",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "js"
           }
         ]
