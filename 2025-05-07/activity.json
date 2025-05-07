@@ -444,9 +444,9 @@
       "averageChangeSize": 42.25
     },
     "cda": {
-      "totalLinesAdded": 86094,
+      "totalLinesAdded": 97926,
       "totalLinesRemoved": 65,
-      "totalActiveTime": 154,
+      "totalActiveTime": 161,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/package.json": [
           {
@@ -2284,6 +2284,68 @@
             },
             "duration": 1,
             "language": "json"
+          },
+          {
+            "timestamp": "2025-05-07T14:07:07.472Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/buildings/package.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/buildings/src/components/BuildingProfile/index.js": [
+          {
+            "timestamp": "2025-05-07T14:09:32.244Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/buildings/src/components/BuildingProfile/index.js",
+            "fileType": ".js",
+            "linesAdded": 212,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "js"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/buildings/src/components/BackButton/index.js": [
+          {
+            "timestamp": "2025-05-07T14:09:53.387Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/buildings/src/components/BackButton/index.js",
+            "fileType": ".js",
+            "linesAdded": 17,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/buildings/yarn.lock": [
+          {
+            "timestamp": "2025-05-07T14:10:14.482Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/buildings/yarn.lock",
+            "fileType": ".lock",
+            "linesAdded": 11602,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "lock"
           }
         ]
       },
