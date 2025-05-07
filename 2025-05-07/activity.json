@@ -444,7 +444,7 @@
       "averageChangeSize": 42.25
     },
     "cda": {
-      "totalLinesAdded": 101645,
+      "totalLinesAdded": 101857,
       "totalLinesRemoved": 828,
       "totalActiveTime": 230,
       "files": {
@@ -3038,6 +3038,22 @@
             },
             "duration": 3,
             "language": "js"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/components/Preferences/PreferenceAboutMe/PreferenceAboutMe.tsx": [
+          {
+            "timestamp": "2025-05-07T16:01:13.586Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/components/Preferences/PreferenceAboutMe/PreferenceAboutMe.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 212,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
           }
         ]
       },
