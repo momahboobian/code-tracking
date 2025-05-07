@@ -444,9 +444,9 @@
       "averageChangeSize": 42.25
     },
     "cda": {
-      "totalLinesAdded": 57122,
+      "totalLinesAdded": 57218,
       "totalLinesRemoved": 45,
-      "totalActiveTime": 89,
+      "totalActiveTime": 95,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/package.json": [
           {
@@ -1646,6 +1646,20 @@
             },
             "duration": 0,
             "language": "json"
+          },
+          {
+            "timestamp": "2025-05-07T13:17:19.932Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/it-kit/package.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/it-kit/src/setupTests.js": [
@@ -1676,6 +1690,22 @@
             },
             "duration": 1,
             "language": "js"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/it-kit/src/components/ITCRequestStatusSummary/ITCRequestStatusSummary.jsx": [
+          {
+            "timestamp": "2025-05-07T13:21:09.192Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/it-kit/src/components/ITCRequestStatusSummary/ITCRequestStatusSummary.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 95,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "jsx"
           }
         ]
       },
