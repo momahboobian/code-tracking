@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 16856,
-      "totalLinesRemoved": 114,
-      "totalActiveTime": 141,
+      "totalLinesRemoved": 117,
+      "totalActiveTime": 145,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/containers/PoolPosition/PoolPosition.test.tsx": [
           {
@@ -307,6 +307,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-05-08T16:08:24.203Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/package.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "json"
           }
         ],
