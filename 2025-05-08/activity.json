@@ -2,9 +2,9 @@
   "date": "2025-05-08",
   "projects": {
     "cda": {
-      "totalLinesAdded": 319,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 2,
+      "totalLinesAdded": 320,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 5,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/containers/PoolPosition/PoolPosition.test.tsx": [
           {
@@ -45,6 +45,34 @@
             "fileType": ".jsx",
             "linesAdded": 72,
             "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-05-08T08:36:24.867Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/components/MyFeedbackModal/MyFeedbackModel.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-05-08T08:38:10.016Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/components/MyFeedbackModal/MyFeedbackModel.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "cda",
             "content": {
               "added": [],
