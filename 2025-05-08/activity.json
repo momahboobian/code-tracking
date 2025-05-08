@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 16254,
-      "totalLinesRemoved": 56,
-      "totalActiveTime": 64,
+      "totalLinesRemoved": 61,
+      "totalActiveTime": 67,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/containers/PoolPosition/PoolPosition.test.tsx": [
           {
@@ -99,6 +99,20 @@
             "fileType": ".js",
             "linesAdded": 2,
             "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-05-08T10:56:55.648Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/components/MyFeedbackModal/MyFeedbackModal.test.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 2,
             "projectName": "cda",
             "content": {
               "added": [],
@@ -237,6 +251,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-05-08T10:59:45.038Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/package.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "json"
           }
         ],
