@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 16504,
-      "totalLinesRemoved": 85,
-      "totalActiveTime": 95,
+      "totalLinesRemoved": 88,
+      "totalActiveTime": 97,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/containers/PoolPosition/PoolPosition.test.tsx": [
           {
@@ -725,6 +725,34 @@
             "fileType": ".tsx",
             "linesAdded": 7,
             "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-08T13:01:11.234Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/components/SummaryMetric/SummaryMetric.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-08T13:01:48.024Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/components/SummaryMetric/SummaryMetric.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "cda",
             "content": {
               "added": [],
