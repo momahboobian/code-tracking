@@ -3,7 +3,7 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 260,
-      "totalLinesRemoved": 1,
+      "totalLinesRemoved": 4,
       "totalActiveTime": 4,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/package.json": [
@@ -63,6 +63,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-09T09:11:30.207Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/utils/summaryStats.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "ts"
           }
         ],
