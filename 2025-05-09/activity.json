@@ -2,9 +2,9 @@
   "date": "2025-05-09",
   "projects": {
     "cda": {
-      "totalLinesAdded": 15112,
+      "totalLinesAdded": 15240,
       "totalLinesRemoved": 105,
-      "totalActiveTime": 73,
+      "totalActiveTime": 79,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/package.json": [
           {
@@ -904,6 +904,38 @@
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/it-kit/package.json",
             "fileType": ".json",
             "linesAdded": 74,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/stats-dashboard/package.json": [
+          {
+            "timestamp": "2025-05-09T14:58:04.019Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/stats-dashboard/package.json",
+            "fileType": ".json",
+            "linesAdded": 62,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/package.json": [
+          {
+            "timestamp": "2025-05-09T14:59:43.826Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/package.json",
+            "fileType": ".json",
+            "linesAdded": 66,
             "linesRemoved": 0,
             "projectName": "cda",
             "content": {
