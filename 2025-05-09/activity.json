@@ -2,7 +2,7 @@
   "date": "2025-05-09",
   "projects": {
     "cda": {
-      "totalLinesAdded": 531,
+      "totalLinesAdded": 535,
       "totalLinesRemoved": 4,
       "totalActiveTime": 12,
       "files": {
@@ -71,6 +71,20 @@
             "fileType": ".ts",
             "linesAdded": 0,
             "linesRemoved": 3,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-09T09:27:01.853Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/duty-request/src/utils/summaryStats.ts",
+            "fileType": ".ts",
+            "linesAdded": 4,
+            "linesRemoved": 0,
             "projectName": "cda",
             "content": {
               "added": [],
