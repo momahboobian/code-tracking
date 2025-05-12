@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 641                                          |
-| **Lines Removed** (➖) | 256                                        |
-| **Net Change** (↕)    | 385                |
-| **Active Time** (⌚)   | 141 minutes |
+| **Lines Added** (➕)   | 879                                          |
+| **Lines Removed** (➖) | 257                                        |
+| **Net Change** (↕)    | 622                |
+| **Active Time** (⌚)   | 148 minutes |
 
 
 ## Modified Files
@@ -23,7 +23,8 @@
 - **CasparClient.ts** (+26, -0)
 - **.eslintrc.json** (+14, -0)
 - **eslint.config.js** (+23, -0)
-- **MAIN.html** (+125, -28)
+- **MAIN.html** (+126, -29)
+- **package-lock.json** (+237, -0)
 
 ## Visualizations
 
@@ -32,11 +33,11 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".json" : 293
+".json" : 530
 ".js" : 34
 ".ts" : 241
 "unknown" : 58
-".html" : 271
+".html" : 273
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -47,8 +48,8 @@ title Coding activity by hour (count of changes)
 "19h" : 19
 "20h" : 25
 "21h" : 23
-"22h" : 24
+"22h" : 27
 ```
 
 
-> **Last Updated:** 12/05/2025, 22:38:14
+> **Last Updated:** 12/05/2025, 22:43:14
