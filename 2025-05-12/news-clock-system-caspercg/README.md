@@ -4,23 +4,24 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 460                                          |
-| **Lines Removed** (➖) | 149                                        |
-| **Net Change** (↕)    | 311                |
-| **Active Time** (⌚)   | 74 minutes |
+| **Lines Added** (➕)   | 474                                          |
+| **Lines Removed** (➖) | 209                                        |
+| **Net Change** (↕)    | 265                |
+| **Active Time** (⌚)   | 77 minutes |
 
 
 ## Modified Files
 - **package.json** (+21, -0)
 - **tsconfig.json** (+117, -103)
 - **clock-updater.js** (+11, -0)
-- **clock-updater.ts** (+100, -26)
+- **clock-updater.ts** (+100, -86)
 - **.gitignore** (+42, -16)
 - **index.html** (+57, -2)
 - **index.html** (+57, -2)
 - **config.ts** (+4, -0)
 - **ClockTicker.ts** (+25, -0)
 - **CasparClient.ts** (+26, -0)
+- **.eslintrc.json** (+14, -0)
 
 ## Visualizations
 
@@ -29,9 +30,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".json" : 241
+".json" : 255
 ".js" : 11
-".ts" : 181
+".ts" : 241
 "unknown" : 58
 ".html" : 118
 ```
@@ -43,8 +44,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "19h" : 19
 "20h" : 25
-"21h" : 6
+"21h" : 9
 ```
 
 
-> **Last Updated:** 12/05/2025, 21:08:14
+> **Last Updated:** 12/05/2025, 21:13:14
