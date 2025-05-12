@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 585                                          |
-| **Lines Removed** (➖) | 231                                        |
-| **Net Change** (↕)    | 354                |
-| **Active Time** (⌚)   | 116 minutes |
+| **Lines Added** (➕)   | 637                                          |
+| **Lines Removed** (➖) | 254                                        |
+| **Net Change** (↕)    | 383                |
+| **Active Time** (⌚)   | 129 minutes |
 
 
 ## Modified Files
@@ -23,7 +23,7 @@
 - **CasparClient.ts** (+26, -0)
 - **.eslintrc.json** (+14, -0)
 - **eslint.config.js** (+23, -0)
-- **MAIN.html** (+69, -3)
+- **MAIN.html** (+121, -26)
 
 ## Visualizations
 
@@ -36,7 +36,7 @@ title Lines changed by file type
 ".js" : 34
 ".ts" : 241
 "unknown" : 58
-".html" : 190
+".html" : 265
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -47,8 +47,8 @@ title Coding activity by hour (count of changes)
 "19h" : 19
 "20h" : 25
 "21h" : 23
-"22h" : 11
+"22h" : 20
 ```
 
 
-> **Last Updated:** 12/05/2025, 22:23:14
+> **Last Updated:** 12/05/2025, 22:28:14
