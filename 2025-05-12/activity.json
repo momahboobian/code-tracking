@@ -2014,9 +2014,9 @@
       "averageChangeSize": 31.11111111111111
     },
     "news-clock-system-caspercg": {
-      "totalLinesAdded": 500,
+      "totalLinesAdded": 556,
       "totalLinesRemoved": 209,
-      "totalActiveTime": 83,
+      "totalActiveTime": 90,
       "files": {
         "/Users/momahboobian/Downloads/SE_coding_task/news-clock-system-caspercg/package.json": [
           {
@@ -2059,6 +2059,20 @@
               "removed": []
             },
             "duration": 5,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-05-12T20:33:07.716Z",
+            "fileName": "/Users/momahboobian/Downloads/SE_coding_task/news-clock-system-caspercg/package.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "news-clock-system-caspercg",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "json"
           }
         ],
@@ -2824,6 +2838,22 @@
             },
             "duration": 1,
             "language": "js"
+          }
+        ],
+        "/Users/momahboobian/Downloads/SE_coding_task/news-clock-system-caspercg/public/main/MAIN.html": [
+          {
+            "timestamp": "2025-05-12T20:29:25.153Z",
+            "fileName": "/Users/momahboobian/Downloads/SE_coding_task/news-clock-system-caspercg/public/main/MAIN.html",
+            "fileType": ".html",
+            "linesAdded": 55,
+            "linesRemoved": 0,
+            "projectName": "news-clock-system-caspercg",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "html"
           }
         ]
       },
