@@ -2015,7 +2015,7 @@
     },
     "news-clock-system-caspercg": {
       "totalLinesAdded": 558,
-      "totalLinesRemoved": 209,
+      "totalLinesRemoved": 210,
       "totalActiveTime": 91,
       "files": {
         "/Users/momahboobian/Downloads/SE_coding_task/news-clock-system-caspercg/package.json": [
@@ -2073,6 +2073,20 @@
               "removed": []
             },
             "duration": 4,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-05-12T20:47:51.570Z",
+            "fileName": "/Users/momahboobian/Downloads/SE_coding_task/news-clock-system-caspercg/package.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "news-clock-system-caspercg",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "json"
           }
         ],
