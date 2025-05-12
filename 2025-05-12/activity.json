@@ -2014,9 +2014,9 @@
       "averageChangeSize": 31.11111111111111
     },
     "news-clock-system-caspercg": {
-      "totalLinesAdded": 566,
-      "totalLinesRemoved": 212,
-      "totalActiveTime": 99,
+      "totalLinesAdded": 567,
+      "totalLinesRemoved": 217,
+      "totalActiveTime": 103,
       "files": {
         "/Users/momahboobian/Downloads/SE_coding_task/news-clock-system-caspercg/package.json": [
           {
@@ -2115,6 +2115,20 @@
               "removed": []
             },
             "duration": 3,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-05-12T20:55:50.008Z",
+            "fileName": "/Users/momahboobian/Downloads/SE_coding_task/news-clock-system-caspercg/package.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "news-clock-system-caspercg",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "json"
           }
         ],
@@ -2215,6 +2229,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-05-12T20:54:33.115Z",
+            "fileName": "/Users/momahboobian/Downloads/SE_coding_task/news-clock-system-caspercg/tsconfig.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "news-clock-system-caspercg",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "json"
           }
         ],
