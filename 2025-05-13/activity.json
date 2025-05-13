@@ -3,7 +3,7 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 17809,
-      "totalLinesRemoved": 9,
+      "totalLinesRemoved": 10,
       "totalActiveTime": 40,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/package.json": [
@@ -373,6 +373,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-05-13T13:56:45.105Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/low-risk-schema/definitions/profile-hub.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "js"
           }
         ],
