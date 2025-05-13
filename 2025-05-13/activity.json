@@ -2,7 +2,7 @@
   "date": "2025-05-13",
   "projects": {
     "cda": {
-      "totalLinesAdded": 17874,
+      "totalLinesAdded": 17886,
       "totalLinesRemoved": 44,
       "totalActiveTime": 48,
       "files": {
@@ -614,6 +614,22 @@
             },
             "duration": 0,
             "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-db-migration/src/migrations/staff/views/20250513164733-create-profilehub-sub-skill-tags-view.js": [
+          {
+            "timestamp": "2025-05-13T16:48:12.014Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-db-migration/src/migrations/staff/views/20250513164733-create-profilehub-sub-skill-tags-view.js",
+            "fileType": ".js",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
           }
         ]
       },
