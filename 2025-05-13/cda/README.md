@@ -4,16 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 477                                          |
-| **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 477                |
-| **Active Time** (⌚)   | 6 minutes |
+| **Lines Added** (➕)   | 723                                          |
+| **Lines Removed** (➖) | 4                                        |
+| **Net Change** (↕)    | 719                |
+| **Active Time** (⌚)   | 11 minutes |
 
 
 ## Modified Files
 - **package.json** (+71, -0)
-- **App.js** (+184, -0)
+- **App.js** (+372, -4)
 - **SkillTopic.jsx** (+222, -0)
+- **SkillExplore.jsx** (+58, -0)
 
 ## Visualizations
 
@@ -23,8 +24,8 @@
 pie showData
 title Lines changed by file type
 ".json" : 71
-".js" : 184
-".jsx" : 222
+".js" : 376
+".jsx" : 280
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -33,8 +34,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "11h" : 4
-"13h" : 1
+"13h" : 5
 ```
 
 
-> **Last Updated:** 13/05/2025, 13:27:52
+> **Last Updated:** 13/05/2025, 13:32:52
