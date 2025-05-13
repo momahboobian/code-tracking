@@ -2,7 +2,7 @@
   "date": "2025-05-13",
   "projects": {
     "cda": {
-      "totalLinesAdded": 255,
+      "totalLinesAdded": 477,
       "totalLinesRemoved": 0,
       "totalActiveTime": 6,
       "files": {
@@ -64,6 +64,22 @@
             },
             "duration": 1,
             "language": "js"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/containers/SkillTopic/SkillTopic.jsx": [
+          {
+            "timestamp": "2025-05-13T12:27:35.286Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/containers/SkillTopic/SkillTopic.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 222,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jsx"
           }
         ]
       },
