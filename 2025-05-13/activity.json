@@ -2,7 +2,7 @@
   "date": "2025-05-13",
   "projects": {
     "cda": {
-      "totalLinesAdded": 17835,
+      "totalLinesAdded": 17844,
       "totalLinesRemoved": 10,
       "totalActiveTime": 42,
       "files": {
@@ -394,6 +394,20 @@
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/low-risk-schema/definitions/profile-hub.js",
             "fileType": ".js",
             "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-05-13T15:38:40.913Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/low-risk-schema/definitions/profile-hub.js",
+            "fileType": ".js",
+            "linesAdded": 9,
             "linesRemoved": 0,
             "projectName": "cda",
             "content": {
