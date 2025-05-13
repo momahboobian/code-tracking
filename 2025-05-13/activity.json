@@ -2,7 +2,7 @@
   "date": "2025-05-13",
   "projects": {
     "cda": {
-      "totalLinesAdded": 18017,
+      "totalLinesAdded": 18125,
       "totalLinesRemoved": 48,
       "totalActiveTime": 70,
       "files": {
@@ -809,6 +809,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-13T17:26:10.294Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/low-risk-schema/resolvers/profile-hub.ts",
+            "fileType": ".ts",
+            "linesAdded": 108,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "ts"
           }
         ],
