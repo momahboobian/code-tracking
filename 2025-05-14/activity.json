@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 9686,
-      "totalLinesRemoved": 576,
-      "totalActiveTime": 64,
+      "totalLinesRemoved": 579,
+      "totalActiveTime": 68,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/App.js": [
           {
@@ -809,6 +809,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-05-14T15:47:35.689Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/low-risk-schema/profileHub/subSkillTag-mutations.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "js"
           }
         ]
