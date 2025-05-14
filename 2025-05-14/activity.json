@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 9041,
-      "totalLinesRemoved": 360,
-      "totalActiveTime": 28,
+      "totalLinesRemoved": 361,
+      "totalActiveTime": 30,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/App.js": [
           {
@@ -469,6 +469,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-05-14T14:00:42.620Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-db-migration/src/migrations/staff/tables/20250514135407-create-profilehub-sub-skill-tag-to-person.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "js"
           }
         ]
