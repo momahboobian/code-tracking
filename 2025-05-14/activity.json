@@ -2,8 +2,8 @@
   "date": "2025-05-14",
   "projects": {
     "cda": {
-      "totalLinesAdded": 441,
-      "totalLinesRemoved": 251,
+      "totalLinesAdded": 8786,
+      "totalLinesRemoved": 278,
       "totalActiveTime": 3,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/App.js": [
@@ -36,6 +36,20 @@
             },
             "duration": 0,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-14T08:05:27.453Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/types/db/views.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 27,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/low-risk-schema/resolvers/profile-hub.ts": [
@@ -52,6 +66,20 @@
             },
             "duration": 0,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-14T08:05:27.456Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/low-risk-schema/resolvers/profile-hub.ts",
+            "fileType": ".ts",
+            "linesAdded": 225,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/low-risk-schema/definitions/profile-hub.js": [
@@ -61,6 +89,20 @@
             "fileType": ".js",
             "linesAdded": 0,
             "linesRemoved": 26,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-05-14T08:05:27.434Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/low-risk-schema/definitions/profile-hub.js",
+            "fileType": ".js",
+            "linesAdded": 26,
+            "linesRemoved": 0,
             "projectName": "cda",
             "content": {
               "added": [],
@@ -98,6 +140,22 @@
             },
             "duration": 1,
             "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/types/gql-generated/low-risk/resolvers-types.ts": [
+          {
+            "timestamp": "2025-05-14T08:05:27.448Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/types/gql-generated/low-risk/resolvers-types.ts",
+            "fileType": ".ts",
+            "linesAdded": 8094,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
           }
         ]
       },
