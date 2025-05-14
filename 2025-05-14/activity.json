@@ -2,9 +2,9 @@
   "date": "2025-05-14",
   "projects": {
     "cda": {
-      "totalLinesAdded": 9784,
-      "totalLinesRemoved": 598,
-      "totalActiveTime": 101,
+      "totalLinesAdded": 9786,
+      "totalLinesRemoved": 617,
+      "totalActiveTime": 108,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/App.js": [
           {
@@ -1047,6 +1047,34 @@
               "removed": []
             },
             "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-05-14T16:25:46.261Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/low-risk-schema/profileHub/subSkillTag-mutations.js",
+            "fileType": ".js",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-05-14T16:27:25.464Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/low-risk-schema/profileHub/subSkillTag-mutations.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 19,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "js"
           }
         ]

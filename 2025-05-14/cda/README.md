@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 9784                                          |
-| **Lines Removed** (➖) | 598                                        |
-| **Net Change** (↕)    | 9186                |
-| **Active Time** (⌚)   | 101 minutes |
+| **Lines Added** (➕)   | 9786                                          |
+| **Lines Removed** (➖) | 617                                        |
+| **Net Change** (↕)    | 9169                |
+| **Active Time** (⌚)   | 108 minutes |
 
 
 ## Modified Files
@@ -21,7 +21,7 @@
 - **.env** (+39, -0)
 - **20250514135407-create-profilehub-sub-skill-tag-to-person.js** (+23, -1)
 - **subSkillTag-queries.js** (+251, -0)
-- **subSkillTag-mutations.js** (+420, -217)
+- **subSkillTag-mutations.js** (+422, -236)
 
 ## Visualizations
 
@@ -30,7 +30,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".js" : 1156
+".js" : 1177
 ".ts" : 8857
 ".tsx" : 234
 ".json" : 96
@@ -49,8 +49,8 @@ title Coding activity by hour (count of changes)
 "14h" : 5
 "15h" : 11
 "16h" : 16
-"17h" : 14
+"17h" : 16
 ```
 
 
-> **Last Updated:** 14/05/2025, 17:24:47
+> **Last Updated:** 14/05/2025, 17:29:47
