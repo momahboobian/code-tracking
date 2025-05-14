@@ -2,9 +2,9 @@
   "date": "2025-05-14",
   "projects": {
     "cda": {
-      "totalLinesAdded": 10064,
-      "totalLinesRemoved": 734,
-      "totalActiveTime": 140,
+      "totalLinesAdded": 11121,
+      "totalLinesRemoved": 739,
+      "totalActiveTime": 145,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/App.js": [
           {
@@ -415,6 +415,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-14T17:13:48.459Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/low-risk-schema/resolvers/profile-hub.ts",
+            "fileType": ".ts",
+            "linesAdded": 1055,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "ts"
           }
         ],
@@ -1411,6 +1425,34 @@
               "removed": []
             },
             "duration": 2,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-05-14T17:12:28.591Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/low-risk-schema/profileHub/subSkillTag-mutations.js",
+            "fileType": ".js",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-05-14T17:12:52.486Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/low-risk-schema/profileHub/subSkillTag-mutations.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "js"
           }
         ]
