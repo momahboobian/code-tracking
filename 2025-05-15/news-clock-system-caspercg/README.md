@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 471                                          |
-| **Lines Removed** (➖) | 46                                        |
-| **Net Change** (↕)    | 425                |
-| **Active Time** (⌚)   | 22 minutes |
+| **Lines Added** (➕)   | 512                                          |
+| **Lines Removed** (➖) | 82                                        |
+| **Net Change** (↕)    | 430                |
+| **Active Time** (⌚)   | 32 minutes |
 
 
 ## Modified Files
@@ -15,7 +15,7 @@
 - **MAIN.html** (+140, -0)
 - **CasparClient.test.ts** (+37, -0)
 - **tsconfig.json** (+16, -0)
-- **CasparClient.test.ts** (+38, -1)
+- **CasparClient.test.ts** (+79, -37)
 - **package.json** (+24, -0)
 - **ClockTicker.ts** (+25, -0)
 - **jest.config.js** (+11, -4)
@@ -28,7 +28,7 @@
 pie showData
 title Lines changed by file type
 ".html" : 361
-".ts" : 101
+".ts" : 178
 ".json" : 40
 ".js" : 15
 ```
@@ -40,8 +40,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "11h" : 3
 "12h" : 14
-"17h" : 4
+"17h" : 10
 ```
 
 
-> **Last Updated:** 15/05/2025, 17:23:40
+> **Last Updated:** 15/05/2025, 17:28:40
