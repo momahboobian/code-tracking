@@ -2,9 +2,9 @@
   "date": "2025-05-15",
   "projects": {
     "news-clock-system-caspercg": {
-      "totalLinesAdded": 599,
-      "totalLinesRemoved": 138,
-      "totalActiveTime": 67,
+      "totalLinesAdded": 713,
+      "totalLinesRemoved": 196,
+      "totalActiveTime": 76,
       "files": {
         "/Users/momahboobian/Desktop/wavybg.html": [
           {
@@ -462,6 +462,48 @@
             },
             "duration": 1,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-15T16:59:15.068Z",
+            "fileName": "/Users/momahboobian/Downloads/SE_coding_task/news-clock-system-caspercg/__tests__/CasparClient.test.ts",
+            "fileType": ".ts",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "news-clock-system-caspercg",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-15T17:00:05.212Z",
+            "fileName": "/Users/momahboobian/Downloads/SE_coding_task/news-clock-system-caspercg/__tests__/CasparClient.test.ts",
+            "fileType": ".ts",
+            "linesAdded": 19,
+            "linesRemoved": 0,
+            "projectName": "news-clock-system-caspercg",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-15T17:00:08.519Z",
+            "fileName": "/Users/momahboobian/Downloads/SE_coding_task/news-clock-system-caspercg/__tests__/CasparClient.test.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "news-clock-system-caspercg",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ],
         "/Users/momahboobian/Downloads/SE_coding_task/news-clock-system-caspercg/package.json": [
@@ -687,6 +729,64 @@
             "fileType": ".ts",
             "linesAdded": 0,
             "linesRemoved": 5,
+            "projectName": "news-clock-system-caspercg",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Downloads/SE_coding_task/news-clock-system-caspercg/__tests__/CasparTicker.test.ts": [
+          {
+            "timestamp": "2025-05-15T17:01:16.724Z",
+            "fileName": "/Users/momahboobian/Downloads/SE_coding_task/news-clock-system-caspercg/__tests__/CasparTicker.test.ts",
+            "fileType": ".ts",
+            "linesAdded": 69,
+            "linesRemoved": 0,
+            "projectName": "news-clock-system-caspercg",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-15T17:01:17.444Z",
+            "fileName": "/Users/momahboobian/Downloads/SE_coding_task/news-clock-system-caspercg/__tests__/CasparTicker.test.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 45,
+            "projectName": "news-clock-system-caspercg",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-15T17:02:03.331Z",
+            "fileName": "/Users/momahboobian/Downloads/SE_coding_task/news-clock-system-caspercg/__tests__/CasparTicker.test.ts",
+            "fileType": ".ts",
+            "linesAdded": 21,
+            "linesRemoved": 0,
+            "projectName": "news-clock-system-caspercg",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-15T17:02:31.719Z",
+            "fileName": "/Users/momahboobian/Downloads/SE_coding_task/news-clock-system-caspercg/__tests__/CasparTicker.test.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 11,
             "projectName": "news-clock-system-caspercg",
             "content": {
               "added": [],
