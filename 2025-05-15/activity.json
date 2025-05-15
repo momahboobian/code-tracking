@@ -2,7 +2,7 @@
   "date": "2025-05-15",
   "projects": {
     "news-clock-system-caspercg": {
-      "totalLinesAdded": 180,
+      "totalLinesAdded": 277,
       "totalLinesRemoved": 41,
       "totalActiveTime": 2,
       "files": {
@@ -47,6 +47,22 @@
               "removed": []
             },
             "duration": 1,
+            "language": "html"
+          }
+        ],
+        "/Users/momahboobian/Downloads/SE_coding_task/news-clock-system-caspercg/public/main/MAIN.html": [
+          {
+            "timestamp": "2025-05-15T11:29:11.435Z",
+            "fileName": "/Users/momahboobian/Downloads/SE_coding_task/news-clock-system-caspercg/public/main/MAIN.html",
+            "fileType": ".html",
+            "linesAdded": 97,
+            "linesRemoved": 0,
+            "projectName": "news-clock-system-caspercg",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "html"
           }
         ]
