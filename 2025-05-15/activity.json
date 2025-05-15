@@ -2,9 +2,9 @@
   "date": "2025-05-15",
   "projects": {
     "news-clock-system-caspercg": {
-      "totalLinesAdded": 457,
-      "totalLinesRemoved": 41,
-      "totalActiveTime": 16,
+      "totalLinesAdded": 458,
+      "totalLinesRemoved": 42,
+      "totalActiveTime": 19,
       "files": {
         "/Users/momahboobian/Desktop/wavybg.html": [
           {
@@ -174,6 +174,34 @@
             "fileName": "/Users/momahboobian/Downloads/SE_coding_task/news-clock-system-caspercg/__tests__/CasparClient.test.ts",
             "fileType": ".ts",
             "linesAdded": 37,
+            "linesRemoved": 0,
+            "projectName": "news-clock-system-caspercg",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-15T11:57:23.300Z",
+            "fileName": "/Users/momahboobian/Downloads/SE_coding_task/news-clock-system-caspercg/__tests__/CasparClient.test.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "news-clock-system-caspercg",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-15T11:57:24.518Z",
+            "fileName": "/Users/momahboobian/Downloads/SE_coding_task/news-clock-system-caspercg/__tests__/CasparClient.test.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
             "linesRemoved": 0,
             "projectName": "news-clock-system-caspercg",
             "content": {
