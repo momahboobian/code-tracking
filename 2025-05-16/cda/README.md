@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 43710                                          |
-| **Lines Removed** (➖) | 726                                        |
-| **Net Change** (↕)    | 42984                |
-| **Active Time** (⌚)   | 285 minutes |
+| **Lines Added** (➕)   | 43712                                          |
+| **Lines Removed** (➖) | 783                                        |
+| **Net Change** (↕)    | 42929                |
+| **Active Time** (⌚)   | 293 minutes |
 
 
 ## Modified Files
@@ -37,7 +37,7 @@
 - **SubSkillOverview.scss** (+80, -4)
 - **SkillTopic.scss** (+151, -4)
 - **index.js** (+3, -0)
-- **SubSkillTopic.jsx** (+266, -52)
+- **SubSkillTopic.jsx** (+268, -109)
 - **SubSkillTopic.test.js** (+158, -0)
 
 ## Visualizations
@@ -51,7 +51,7 @@ title Lines changed by file type
 ".lock" : 13212
 ".js" : 2591
 ".json" : 98
-".jsx" : 1153
+".jsx" : 1212
 ".tsx" : 29
 ".scss" : 346
 ```
@@ -68,8 +68,8 @@ title Coding activity by hour (count of changes)
 "13h" : 33
 "14h" : 30
 "15h" : 30
-"17h" : 17
+"17h" : 19
 ```
 
 
-> **Last Updated:** 16/05/2025, 17:53:33
+> **Last Updated:** 16/05/2025, 17:58:33
