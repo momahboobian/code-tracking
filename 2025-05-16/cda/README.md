@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 43678                                          |
-| **Lines Removed** (➖) | 665                                        |
-| **Net Change** (↕)    | 43013                |
-| **Active Time** (⌚)   | 241 minutes |
+| **Lines Added** (➕)   | 43679                                          |
+| **Lines Removed** (➖) | 681                                        |
+| **Net Change** (↕)    | 42998                |
+| **Active Time** (⌚)   | 250 minutes |
 
 
 ## Modified Files
@@ -17,7 +17,7 @@
 - **yarn.lock** (+13212, -0)
 - **graphql.ts** (+4739, -0)
 - **queries.ts** (+444, -0)
-- **App.js** (+382, -9)
+- **App.js** (+383, -9)
 - **profile-hub.js** (+488, -69)
 - **mutations.js** (+711, -157)
 - **queries.js** (+557, -22)
@@ -37,7 +37,7 @@
 - **SubSkillOverview.scss** (+80, -4)
 - **SkillTopic.scss** (+151, -4)
 - **index.js** (+3, -0)
-- **SubSkillTopic.jsx** (+262, -0)
+- **SubSkillTopic.jsx** (+262, -16)
 - **SubSkillTopic.test.js** (+158, -0)
 
 ## Visualizations
@@ -49,9 +49,9 @@ pie showData
 title Lines changed by file type
 ".ts" : 27007
 ".lock" : 13212
-".js" : 2559
+".js" : 2560
 ".json" : 98
-".jsx" : 1092
+".jsx" : 1108
 ".tsx" : 29
 ".scss" : 346
 ```
@@ -67,8 +67,8 @@ title Coding activity by hour (count of changes)
 "12h" : 10
 "13h" : 33
 "14h" : 30
-"15h" : 27
+"15h" : 30
 ```
 
 
-> **Last Updated:** 16/05/2025, 15:43:33
+> **Last Updated:** 16/05/2025, 15:48:33
