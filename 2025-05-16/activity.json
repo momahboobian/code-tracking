@@ -2,9 +2,9 @@
   "date": "2025-05-16",
   "projects": {
     "cda": {
-      "totalLinesAdded": 28933,
-      "totalLinesRemoved": 85,
-      "totalActiveTime": 65,
+      "totalLinesAdded": 29023,
+      "totalLinesRemoved": 87,
+      "totalActiveTime": 75,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/low-risk-schema/resolvers/profile-hub.ts": [
           {
@@ -565,6 +565,66 @@
               "removed": []
             },
             "duration": 1,
+            "language": "scss"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/containers/SkillExplore/SkillExplore.jsx": [
+          {
+            "timestamp": "2025-05-16T10:05:25.156Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/containers/SkillExplore/SkillExplore.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 58,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-05-16T10:05:25.309Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/containers/SkillExplore/SkillExplore.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-05-16T10:05:36.167Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/containers/SkillExplore/SkillExplore.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/containers/SkillType/SkillType.scss": [
+          {
+            "timestamp": "2025-05-16T10:07:42.018Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/containers/SkillType/SkillType.scss",
+            "fileType": ".scss",
+            "linesAdded": 30,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "scss"
           }
         ]
