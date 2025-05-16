@@ -2,9 +2,9 @@
   "date": "2025-05-16",
   "projects": {
     "cda": {
-      "totalLinesAdded": 43255,
+      "totalLinesAdded": 43678,
       "totalLinesRemoved": 665,
-      "totalActiveTime": 239,
+      "totalActiveTime": 241,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/low-risk-schema/resolvers/profile-hub.ts": [
           {
@@ -2000,6 +2000,54 @@
             },
             "duration": 1,
             "language": "scss"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/containers/SubSkillTopic/index.js": [
+          {
+            "timestamp": "2025-05-16T14:39:16.778Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/containers/SubSkillTopic/index.js",
+            "fileType": ".js",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/containers/SubSkillTopic/SubSkillTopic.jsx": [
+          {
+            "timestamp": "2025-05-16T14:39:31.625Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/containers/SubSkillTopic/SubSkillTopic.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 262,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/containers/SubSkillTopic/SubSkillTopic.test.js": [
+          {
+            "timestamp": "2025-05-16T14:39:37.331Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/containers/SubSkillTopic/SubSkillTopic.test.js",
+            "fileType": ".js",
+            "linesAdded": 158,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
           }
         ]
       },
