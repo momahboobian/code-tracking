@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 43193,
-      "totalLinesRemoved": 611,
-      "totalActiveTime": 184,
+      "totalLinesRemoved": 615,
+      "totalActiveTime": 187,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/low-risk-schema/resolvers/profile-hub.ts": [
           {
@@ -1489,6 +1489,34 @@
             "fileType": ".scss",
             "linesAdded": 8,
             "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2025-05-16T13:38:56.964Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/containers/SkillTopic/SkillTopic.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2025-05-16T13:39:12.799Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/containers/SkillTopic/SkillTopic.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 2,
             "projectName": "cda",
             "content": {
               "added": [],
