@@ -2,9 +2,9 @@
   "date": "2025-05-16",
   "projects": {
     "cda": {
-      "totalLinesAdded": 43041,
-      "totalLinesRemoved": 609,
-      "totalActiveTime": 177,
+      "totalLinesAdded": 43042,
+      "totalLinesRemoved": 611,
+      "totalActiveTime": 181,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/low-risk-schema/resolvers/profile-hub.ts": [
           {
@@ -790,6 +790,34 @@
             },
             "duration": 1,
             "language": "scss"
+          },
+          {
+            "timestamp": "2025-05-16T13:29:55.673Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/components/SkillOverview/SkillOverview.scss",
+            "fileType": ".scss",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2025-05-16T13:30:05.759Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/components/SkillOverview/SkillOverview.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/containers/SkillExplore/SkillExplore.jsx": [
@@ -1259,6 +1287,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-05-16T13:28:52.148Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/containers/SkillTopic/SkillTopic.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "jsx"
           }
         ],
