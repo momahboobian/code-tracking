@@ -4,21 +4,21 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 42479                                          |
+| **Lines Added** (➕)   | 42854                                          |
 | **Lines Removed** (➖) | 560                                        |
-| **Net Change** (↕)    | 41919                |
-| **Active Time** (⌚)   | 134 minutes |
+| **Net Change** (↕)    | 42294                |
+| **Active Time** (⌚)   | 142 minutes |
 
 
 ## Modified Files
-- **profile-hub.ts** (+1830, -280)
+- **profile-hub.ts** (+2110, -280)
 - **gql.ts** (+130, -0)
 - **graphql.ts** (+6372, -0)
 - **yarn.lock** (+13212, -0)
 - **graphql.ts** (+4739, -0)
 - **queries.ts** (+444, -0)
 - **App.js** (+368, -4)
-- **profile-hub.js** (+453, -69)
+- **profile-hub.js** (+488, -69)
 - **mutations.js** (+709, -123)
 - **queries.js** (+557, -22)
 - **settings.json** (+98, -0)
@@ -30,8 +30,8 @@
 - **SkillType.scss** (+30, -0)
 - **SkillType.jsx** (+137, -0)
 - **SkillTopic.jsx** (+282, -60)
-- **views.ts** (+7799, -0)
-- **tables.ts** (+5073, -0)
+- **views.ts** (+7829, -0)
+- **tables.ts** (+5103, -0)
 
 ## Visualizations
 
@@ -40,9 +40,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 26667
+".ts" : 27007
 ".lock" : 13212
-".js" : 2305
+".js" : 2340
 ".json" : 98
 ".jsx" : 623
 ".tsx" : 29
@@ -58,8 +58,8 @@ title Coding activity by hour (count of changes)
 "10h" : 20
 "11h" : 6
 "12h" : 10
-"13h" : 20
+"13h" : 24
 ```
 
 
-> **Last Updated:** 16/05/2025, 13:23:33
+> **Last Updated:** 16/05/2025, 13:28:33
