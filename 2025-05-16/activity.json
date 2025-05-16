@@ -2,7 +2,7 @@
   "date": "2025-05-16",
   "projects": {
     "cda": {
-      "totalLinesAdded": 27858,
+      "totalLinesAdded": 28371,
       "totalLinesRemoved": 0,
       "totalActiveTime": 17,
       "files": {
@@ -245,6 +245,22 @@
               "removed": []
             },
             "duration": 1,
+            "language": "js"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/graphql/low-risk/queries.js": [
+          {
+            "timestamp": "2025-05-16T09:11:08.814Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/graphql/low-risk/queries.js",
+            "fileType": ".js",
+            "linesAdded": 513,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "js"
           }
         ]
