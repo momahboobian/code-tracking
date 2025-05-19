@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 14039                                          |
+| **Lines Added** (➕)   | 14421                                          |
 | **Lines Removed** (➖) | 1415                                        |
-| **Net Change** (↕)    | 12624                |
-| **Active Time** (⌚)   | 165 minutes |
+| **Net Change** (↕)    | 13006                |
+| **Active Time** (⌚)   | 166 minutes |
 
 
 ## Modified Files
@@ -30,6 +30,7 @@
 - **everywhere.ts** (+348, -0)
 - **yesalert.js** (+416, -0)
 - **20250519150006-ceate-everywhere-orgchart-teams.js** (+19, -0)
+- **create-users.sql** (+382, -0)
 
 ## Visualizations
 
@@ -45,6 +46,7 @@ title Lines changed by file type
 ".tsx" : 234
 ".scss" : 250
 ".lock" : 7712
+".sql" : 382
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -59,8 +61,8 @@ title Coding activity by hour (count of changes)
 "13h" : 16
 "14h" : 14
 "15h" : 15
-"16h" : 2
+"16h" : 4
 ```
 
 
-> **Last Updated:** 19/05/2025, 16:01:13
+> **Last Updated:** 19/05/2025, 16:41:13
