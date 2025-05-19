@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 14522,
-      "totalLinesRemoved": 1417,
-      "totalActiveTime": 185,
+      "totalLinesRemoved": 1435,
+      "totalActiveTime": 190,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/containers/SkillTopic/SkillTopic.jsx": [
           {
@@ -2103,6 +2103,20 @@
             "fileType": ".js",
             "linesAdded": 18,
             "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-05-19T17:16:34.663Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-db-migration/src/migrations/staff/views/20250519165653-create-everywhere-group-members.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 18,
             "projectName": "cda",
             "content": {
               "added": [],
