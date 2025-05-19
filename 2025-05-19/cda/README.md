@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 16012                                          |
-| **Lines Removed** (➖) | 1765                                        |
-| **Net Change** (↕)    | 14247                |
-| **Active Time** (⌚)   | 283 minutes |
+| **Lines Added** (➕)   | 16374                                          |
+| **Lines Removed** (➖) | 1773                                        |
+| **Net Change** (↕)    | 14601                |
+| **Active Time** (⌚)   | 293 minutes |
 
 
 ## Modified Files
@@ -27,7 +27,7 @@
 - **SubSkillTopic.scss** (+161, -5)
 - **SubSkillOverview.scss** (+80, -4)
 - **yarn.lock** (+7712, -0)
-- **everywhere.ts** (+1060, -0)
+- **everywhere.ts** (+1416, -6)
 - **yesalert.js** (+416, -0)
 - **20250519150006-ceate-everywhere-orgchart-teams.js** (+19, -0)
 - **create-users.sql** (+382, -0)
@@ -37,7 +37,7 @@
 - **20250519165653-create-everywhere-group-members.js** (+46, -20)
 - **everywhere.js** (+147, -55)
 - **everywhere.js** (+187, -11)
-- **everywhere.ts** (+444, -264)
+- **everywhere.ts** (+450, -266)
 
 ## Visualizations
 
@@ -49,7 +49,7 @@ title Lines changed by file type
 ".jsx" : 885
 ".json" : 104
 ".js" : 4267
-".ts" : 3943
+".ts" : 4313
 ".tsx" : 234
 ".scss" : 250
 ".lock" : 7712
@@ -73,8 +73,8 @@ title Coding activity by hour (count of changes)
 "18h" : 20
 "19h" : 13
 "21h" : 10
-"22h" : 19
+"22h" : 24
 ```
 
 
-> **Last Updated:** 19/05/2025, 22:44:01
+> **Last Updated:** 19/05/2025, 22:49:01
