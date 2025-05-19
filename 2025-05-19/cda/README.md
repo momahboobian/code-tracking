@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 14435                                          |
+| **Lines Added** (➕)   | 14455                                          |
 | **Lines Removed** (➖) | 1415                                        |
-| **Net Change** (↕)    | 13020                |
-| **Active Time** (⌚)   | 166 minutes |
+| **Net Change** (↕)    | 13040                |
+| **Active Time** (⌚)   | 167 minutes |
 
 
 ## Modified Files
@@ -32,6 +32,7 @@
 - **20250519150006-ceate-everywhere-orgchart-teams.js** (+19, -0)
 - **create-users.sql** (+382, -0)
 - **20250512092725-create-sap-code-owners-view.js** (+14, -0)
+- **20250519163939-create-everywhere-users-group.js** (+20, -0)
 
 ## Visualizations
 
@@ -42,7 +43,7 @@ pie showData
 title Lines changed by file type
 ".jsx" : 885
 ".json" : 104
-".js" : 3760
+".js" : 3780
 ".ts" : 2523
 ".tsx" : 234
 ".scss" : 250
@@ -63,7 +64,8 @@ title Coding activity by hour (count of changes)
 "14h" : 14
 "15h" : 15
 "16h" : 5
+"17h" : 2
 ```
 
 
-> **Last Updated:** 19/05/2025, 16:56:13
+> **Last Updated:** 19/05/2025, 17:41:13
