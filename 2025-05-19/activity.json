@@ -3,7 +3,7 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 2930,
-      "totalLinesRemoved": 321,
+      "totalLinesRemoved": 327,
       "totalActiveTime": 79,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/containers/SkillTopic/SkillTopic.jsx": [
@@ -739,6 +739,20 @@
             "fileType": ".js",
             "linesAdded": 12,
             "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-05-19T11:05:49.443Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/graphql/low-risk/mutations.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 6,
             "projectName": "cda",
             "content": {
               "added": [],
