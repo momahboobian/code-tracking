@@ -2,9 +2,9 @@
   "date": "2025-05-19",
   "projects": {
     "cda": {
-      "totalLinesAdded": 15749,
-      "totalLinesRemoved": 1511,
-      "totalActiveTime": 230,
+      "totalLinesAdded": 15782,
+      "totalLinesRemoved": 1528,
+      "totalActiveTime": 235,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/containers/SkillTopic/SkillTopic.jsx": [
           {
@@ -2479,6 +2479,48 @@
               "removed": []
             },
             "duration": 3,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-19T18:19:07.333Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/everywhere/everywhere.ts",
+            "fileType": ".ts",
+            "linesAdded": 33,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-19T18:20:12.770Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/everywhere/everywhere.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 12,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-19T18:20:26.755Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/everywhere/everywhere.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "ts"
           }
         ]
