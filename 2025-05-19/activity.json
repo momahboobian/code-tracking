@@ -2537,9 +2537,9 @@
       "averageChangeSize": 263
     },
     "news-clock-system-caspercg": {
-      "totalLinesAdded": 4,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 1,
+      "totalLinesAdded": 101,
+      "totalLinesRemoved": 68,
+      "totalActiveTime": 4,
       "files": {
         "/Users/momahboobian/Downloads/SE_coding_task/news-clock-system-caspercg/src/amcp.ts": [
           {
@@ -2568,6 +2568,50 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Downloads/SE_coding_task/news-clock-system-caspercg/__tests__/clock-updater.test.ts": [
+          {
+            "timestamp": "2025-05-19T20:02:00.134Z",
+            "fileName": "/Users/momahboobian/Downloads/SE_coding_task/news-clock-system-caspercg/__tests__/clock-updater.test.ts",
+            "fileType": ".ts",
+            "linesAdded": 69,
+            "linesRemoved": 0,
+            "projectName": "news-clock-system-caspercg",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-19T20:02:00.752Z",
+            "fileName": "/Users/momahboobian/Downloads/SE_coding_task/news-clock-system-caspercg/__tests__/clock-updater.test.ts",
+            "fileType": ".ts",
+            "linesAdded": 28,
+            "linesRemoved": 0,
+            "projectName": "news-clock-system-caspercg",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-19T20:03:40.973Z",
+            "fileName": "/Users/momahboobian/Downloads/SE_coding_task/news-clock-system-caspercg/__tests__/clock-updater.test.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 68,
+            "projectName": "news-clock-system-caspercg",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "ts"
           }
         ]
