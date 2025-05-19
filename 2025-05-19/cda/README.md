@@ -4,23 +4,25 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3316                                          |
-| **Lines Removed** (➖) | 402                                        |
-| **Net Change** (↕)    | 2914                |
+| **Lines Added** (➕)   | 4213                                          |
+| **Lines Removed** (➖) | 868                                        |
+| **Net Change** (↕)    | 3345                |
 | **Active Time** (⌚)   | 132 minutes |
 
 
 ## Modified Files
-- **SkillTopic.jsx** (+293, -24)
+- **SkillTopic.jsx** (+293, -71)
 - **settings.json** (+100, -4)
-- **SkillTopic.test.js** (+494, -289)
-- **App.js** (+190, -0)
+- **SkillTopic.test.js** (+494, -336)
+- **App.js** (+190, -10)
 - **SubSkillOverview.jsx** (+58, -3)
 - **SubSkillTopic.jsx** (+260, -30)
-- **mutations.js** (+603, -7)
-- **profile-hub.ts** (+1055, -0)
+- **mutations.js** (+603, -89)
+- **profile-hub.ts** (+1055, -280)
 - **SubSkillOverview.test.jsx** (+69, -4)
 - **SubSkillTopic.test.js** (+194, -41)
+- **queries.js** (+513, -0)
+- **profile-hub.js** (+384, -0)
 
 ## Visualizations
 
@@ -29,10 +31,10 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".jsx" : 741
+".jsx" : 788
 ".json" : 104
-".js" : 1818
-".ts" : 1055
+".js" : 2854
+".ts" : 1335
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -44,7 +46,8 @@ title Coding activity by hour (count of changes)
 "10h" : 24
 "11h" : 9
 "12h" : 34
+"13h" : 7
 ```
 
 
-> **Last Updated:** 19/05/2025, 12:51:13
+> **Last Updated:** 19/05/2025, 13:06:13
