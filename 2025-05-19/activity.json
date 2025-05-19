@@ -1978,6 +1978,53 @@
         "/Users/momahboobian/Downloads/SE_coding_task/news-clock-system-caspercg/src/amcp.ts"
       ],
       "averageChangeSize": 2
+    },
+    "cda-devops-infrastructure": {
+      "totalLinesAdded": 984,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "/Users/momahboobian/Documents/_BBC/cda-devops-infrastructure/scripts/sql/database bootstrap.sql": [
+          {
+            "timestamp": "2025-05-19T15:17:36.342Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda-devops-infrastructure/scripts/sql/database bootstrap.sql",
+            "fileType": ".sql",
+            "linesAdded": 983,
+            "linesRemoved": 0,
+            "projectName": "cda-devops-infrastructure",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "sql"
+          },
+          {
+            "timestamp": "2025-05-19T15:17:41.853Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda-devops-infrastructure/scripts/sql/database bootstrap.sql",
+            "fileType": ".sql",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda-devops-infrastructure",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sql"
+          }
+        ]
+      },
+      "languageStats": {
+        "sql": 1
+      },
+      "changeFrequency": {
+        "16": 1
+      },
+      "topFiles": [
+        "/Users/momahboobian/Documents/_BBC/cda-devops-infrastructure/scripts/sql/database bootstrap.sql"
+      ],
+      "averageChangeSize": 492
     }
   },
   "totalActiveTime": 0,
