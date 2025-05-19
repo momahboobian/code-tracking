@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 5143                                          |
-| **Lines Removed** (➖) | 868                                        |
-| **Net Change** (↕)    | 4275                |
-| **Active Time** (⌚)   | 139 minutes |
+| **Lines Added** (➕)   | 12941                                          |
+| **Lines Removed** (➖) | 877                                        |
+| **Net Change** (↕)    | 12064                |
+| **Active Time** (⌚)   | 153 minutes |
 
 
 ## Modified Files
@@ -24,7 +24,9 @@
 - **queries.js** (+550, -0)
 - **profile-hub.js** (+419, -0)
 - **App.tsx** (+234, -0)
-- **SubSkillTopic.scss** (+155, -0)
+- **SubSkillTopic.scss** (+161, -5)
+- **SubSkillOverview.scss** (+80, -4)
+- **yarn.lock** (+7712, -0)
 
 ## Visualizations
 
@@ -38,7 +40,8 @@ title Lines changed by file type
 ".js" : 3065
 ".ts" : 1615
 ".tsx" : 234
-".scss" : 155
+".scss" : 250
+".lock" : 7712
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -51,8 +54,8 @@ title Coding activity by hour (count of changes)
 "11h" : 9
 "12h" : 34
 "13h" : 16
-"14h" : 5
+"14h" : 14
 ```
 
 
-> **Last Updated:** 19/05/2025, 14:06:13
+> **Last Updated:** 19/05/2025, 14:11:13
