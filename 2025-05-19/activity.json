@@ -1,0 +1,47 @@
+{
+  "date": "2025-05-19",
+  "projects": {
+    "cda": {
+      "totalLinesAdded": 263,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/containers/SkillTopic/SkillTopic.jsx": [
+          {
+            "timestamp": "2025-05-19T08:25:09.184Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/containers/SkillTopic/SkillTopic.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 263,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "jsx": 0
+      },
+      "changeFrequency": {
+        "9": 0
+      },
+      "topFiles": [
+        "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/containers/SkillTopic/SkillTopic.jsx"
+      ],
+      "averageChangeSize": 263
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    9
+  ],
+  "mostUsedLanguages": [
+    "jsx"
+  ]
+}
