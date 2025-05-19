@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 15124                                          |
-| **Lines Removed** (➖) | 1501                                        |
-| **Net Change** (↕)    | 13623                |
-| **Active Time** (⌚)   | 219 minutes |
+| **Lines Added** (➕)   | 15657                                          |
+| **Lines Removed** (➖) | 1503                                        |
+| **Net Change** (↕)    | 14154                |
+| **Active Time** (⌚)   | 224 minutes |
 
 
 ## Modified Files
@@ -27,7 +27,7 @@
 - **SubSkillTopic.scss** (+161, -5)
 - **SubSkillOverview.scss** (+80, -4)
 - **yarn.lock** (+7712, -0)
-- **everywhere.ts** (+704, -0)
+- **everywhere.ts** (+1060, -0)
 - **yesalert.js** (+416, -0)
 - **20250519150006-ceate-everywhere-orgchart-teams.js** (+19, -0)
 - **create-users.sql** (+382, -0)
@@ -36,7 +36,8 @@
 - **20250519164426-create-everywhere-users-group-memeber.js** (+21, -0)
 - **20250519165653-create-everywhere-group-members.js** (+46, -20)
 - **everywhere.js** (+147, -55)
-- **everywhere.js** (+99, -11)
+- **everywhere.js** (+187, -11)
+- **everywhere.ts** (+89, -2)
 
 ## Visualizations
 
@@ -47,8 +48,8 @@ pie showData
 title Lines changed by file type
 ".jsx" : 885
 ".json" : 104
-".js" : 4179
-".ts" : 2879
+".js" : 4267
+".ts" : 3326
 ".tsx" : 234
 ".scss" : 250
 ".lock" : 7712
@@ -70,7 +71,8 @@ title Coding activity by hour (count of changes)
 "16h" : 5
 "17h" : 6
 "18h" : 20
+"19h" : 5
 ```
 
 
-> **Last Updated:** 19/05/2025, 19:01:13
+> **Last Updated:** 19/05/2025, 19:12:14
