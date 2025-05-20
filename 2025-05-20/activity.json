@@ -2,7 +2,7 @@
   "date": "2025-05-20",
   "projects": {
     "cda": {
-      "totalLinesAdded": 52089,
+      "totalLinesAdded": 52094,
       "totalLinesRemoved": 1297,
       "totalActiveTime": 231,
       "files": {
@@ -1087,6 +1087,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-20T15:10:05.811Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/high-risk-schema/resolvers/everywhere.ts",
+            "fileType": ".ts",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "ts"
           }
         ],
