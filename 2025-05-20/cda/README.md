@@ -4,25 +4,26 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 19137                                          |
-| **Lines Removed** (➖) | 310                                        |
-| **Net Change** (↕)    | 18827                |
-| **Active Time** (⌚)   | 142 minutes |
+| **Lines Added** (➕)   | 27343                                          |
+| **Lines Removed** (➖) | 321                                        |
+| **Net Change** (↕)    | 27022                |
+| **Active Time** (⌚)   | 150 minutes |
 
 
 ## Modified Files
 - **everywher.test.ts** (+109, -2)
 - **everywhere.ts** (+100, -8)
-- **everywhere.ts** (+285, -85)
+- **everywhere.ts** (+293, -85)
 - **everywhere.js** (+110, -92)
 - **everywhere.test.js** (+187, -117)
 - **clear_view_views.ts** (+2892, -0)
 - **sap_tables.ts** (+837, -0)
 - **yarn.lock** (+3499, -0)
-- **everywhere.js** (+103, -6)
+- **everywhere.js** (+103, -17)
 - **.env** (+39, -0)
 - **index.js** (+35, -0)
-- **resolvers-types.ts** (+10941, -0)
+- **resolvers-types.ts** (+10960, -0)
+- **resolvers-types.ts** (+8179, -0)
 
 ## Visualizations
 
@@ -31,8 +32,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 15259
-".js" : 650
+".ts" : 23465
+".js" : 661
 ".lock" : 3499
 "unknown" : 39
 ```
@@ -44,8 +45,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "10h" : 20
 "11h" : 21
-"12h" : 39
+"12h" : 44
 ```
 
 
-> **Last Updated:** 20/05/2025, 12:47:17
+> **Last Updated:** 20/05/2025, 12:52:17
