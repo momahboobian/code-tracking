@@ -2,7 +2,7 @@
   "date": "2025-05-20",
   "projects": {
     "cda": {
-      "totalLinesAdded": 36673,
+      "totalLinesAdded": 36688,
       "totalLinesRemoved": 353,
       "totalActiveTime": 181,
       "files": {
@@ -1577,6 +1577,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-05-20T13:29:32.689Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-db-migration/src/migrations/staff/tables/20250520125819-alter-everywhere-users-group-memeber.js",
+            "fileType": ".js",
+            "linesAdded": 15,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "js"
           }
         ]
