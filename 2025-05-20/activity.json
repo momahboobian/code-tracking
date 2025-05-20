@@ -2,9 +2,9 @@
   "date": "2025-05-20",
   "projects": {
     "cda": {
-      "totalLinesAdded": 36740,
+      "totalLinesAdded": 45324,
       "totalLinesRemoved": 382,
-      "totalActiveTime": 201,
+      "totalActiveTime": 204,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/everywhere/everywher.test.ts": [
           {
@@ -1180,6 +1180,20 @@
             },
             "duration": 1,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-20T14:27:08.059Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/types/db/sap_tables.ts",
+            "fileType": ".ts",
+            "linesAdded": 872,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-opensearch-create-ingest-file/yarn.lock": [
@@ -1431,6 +1445,20 @@
               "removed": []
             },
             "duration": 3,
+            "language": "lock"
+          },
+          {
+            "timestamp": "2025-05-20T14:26:17.070Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/yarn.lock",
+            "fileType": ".lock",
+            "linesAdded": 7712,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "lock"
           }
         ],
