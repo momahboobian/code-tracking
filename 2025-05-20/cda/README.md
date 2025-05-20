@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 48913                                          |
-| **Lines Removed** (➖) | 382                                        |
-| **Net Change** (↕)    | 48531                |
-| **Active Time** (⌚)   | 209 minutes |
+| **Lines Added** (➕)   | 52088                                          |
+| **Lines Removed** (➖) | 622                                        |
+| **Net Change** (↕)    | 51466                |
+| **Active Time** (⌚)   | 216 minutes |
 
 
 ## Modified Files
@@ -30,6 +30,10 @@
 - **20250520125819-alter-everywhere-users-group-memeber.js** (+61, -48)
 - **20250520134506-aler-everywhere-users-group-memeber.js** (+17, -0)
 - **20250520134624-alter-everywhere-group-members.js** (+24, -0)
+- **yesalert-mutations.js** (+836, -0)
+- **everywhere-mutations.js** (+836, -0)
+- **everywhere-mutations.ts** (+836, -0)
+- **everywhere-queries.ts** (+667, -240)
 
 ## Visualizations
 
@@ -38,8 +42,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 25844
-".js" : 951
+".ts" : 27587
+".js" : 2623
 ".lock" : 22422
 "unknown" : 78
 ```
@@ -54,8 +58,8 @@ title Coding activity by hour (count of changes)
 "12h" : 47
 "13h" : 9
 "14h" : 21
-"15h" : 11
+"15h" : 17
 ```
 
 
-> **Last Updated:** 20/05/2025, 15:45:33
+> **Last Updated:** 20/05/2025, 15:50:33
