@@ -2,7 +2,7 @@
   "date": "2025-05-20",
   "projects": {
     "cda": {
-      "totalLinesAdded": 35057,
+      "totalLinesAdded": 36201,
       "totalLinesRemoved": 321,
       "totalActiveTime": 156,
       "files": {
@@ -1264,6 +1264,22 @@
             },
             "duration": 3,
             "language": "lock"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/types/db/sap_views.ts": [
+          {
+            "timestamp": "2025-05-20T12:05:52.813Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/types/db/sap_views.ts",
+            "fileType": ".ts",
+            "linesAdded": 1144,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
           }
         ]
       },
