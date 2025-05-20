@@ -2,9 +2,9 @@
   "date": "2025-05-20",
   "projects": {
     "cda": {
-      "totalLinesAdded": 4468,
-      "totalLinesRemoved": 211,
-      "totalActiveTime": 33,
+      "totalLinesAdded": 7967,
+      "totalLinesRemoved": 218,
+      "totalActiveTime": 38,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/everywhere/everywher.test.ts": [
           {
@@ -119,6 +119,20 @@
               "removed": []
             },
             "duration": 3,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-20T09:39:29.463Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/everywhere/everywhere.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 7,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "ts"
           }
         ],
@@ -256,6 +270,22 @@
             },
             "duration": 1,
             "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-opensearch-create-ingest-file/yarn.lock": [
+          {
+            "timestamp": "2025-05-20T09:38:11.688Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-opensearch-create-ingest-file/yarn.lock",
+            "fileType": ".lock",
+            "linesAdded": 3499,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "lock"
           }
         ]
       },
