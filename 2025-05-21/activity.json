@@ -2,9 +2,9 @@
   "date": "2025-05-21",
   "projects": {
     "cda": {
-      "totalLinesAdded": 11306,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 1,
+      "totalLinesAdded": 11730,
+      "totalLinesRemoved": 4,
+      "totalActiveTime": 8,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/high-risk-schema/definitions/everywhere.js": [
           {
@@ -44,6 +44,52 @@
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/types/gql-generated/high-risk/resolvers-types.ts",
             "fileType": ".ts",
             "linesAdded": 10997,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/everywhere/everywhere.ts": [
+          {
+            "timestamp": "2025-05-21T22:52:40.165Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/everywhere/everywhere.ts",
+            "fileType": ".ts",
+            "linesAdded": 117,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-21T22:52:42.597Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/everywhere/everywhere.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/high-risk-schema/everywhere/everywhere-mutations.ts": [
+          {
+            "timestamp": "2025-05-21T22:53:27.286Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/high-risk-schema/everywhere/everywhere-mutations.ts",
+            "fileType": ".ts",
+            "linesAdded": 307,
             "linesRemoved": 0,
             "projectName": "cda",
             "content": {
