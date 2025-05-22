@@ -5,16 +5,16 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 17163                                          |
-| **Lines Removed** (➖) | 4                                        |
-| **Net Change** (↕)    | 17159                |
-| **Active Time** (⌚)   | 18 minutes |
+| **Lines Removed** (➖) | 8                                        |
+| **Net Change** (↕)    | 17155                |
+| **Active Time** (⌚)   | 19 minutes |
 
 
 ## Modified Files
 - **yarn.lock** (+15424, -0)
-- **everywhere-queries.ts** (+296, -0)
+- **everywhere-queries.ts** (+296, -2)
 - **yesalert-queries.js** (+667, -0)
-- **everywhere.ts** (+229, -4)
+- **everywhere.ts** (+229, -6)
 - **yesalert.js** (+52, -0)
 - **everywhere.ts** (+113, -0)
 - **create-users.sql** (+382, -0)
@@ -27,7 +27,7 @@
 pie showData
 title Lines changed by file type
 ".lock" : 15424
-".ts" : 642
+".ts" : 646
 ".js" : 719
 ".sql" : 382
 ```
@@ -40,8 +40,8 @@ title Coding activity by hour (count of changes)
 "00h" : 1
 "09h" : 1
 "10h" : 3
-"11h" : 8
+"11h" : 10
 ```
 
 
-> **Last Updated:** 22/05/2025, 11:21:15
+> **Last Updated:** 22/05/2025, 11:26:15

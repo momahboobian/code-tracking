@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 17163,
-      "totalLinesRemoved": 4,
-      "totalActiveTime": 18,
+      "totalLinesRemoved": 8,
+      "totalActiveTime": 19,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/yarn.lock": [
           {
@@ -63,6 +63,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-22T10:24:12.385Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/high-risk-schema/everywhere/everywhere-queries.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "ts"
           }
         ],
@@ -145,6 +159,20 @@
             "fileType": ".ts",
             "linesAdded": 4,
             "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-22T10:24:00.556Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/high-risk-schema/resolvers/everywhere.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 2,
             "projectName": "cda",
             "content": {
               "added": [],
