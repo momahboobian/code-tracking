@@ -2,9 +2,9 @@
   "date": "2025-05-22",
   "projects": {
     "cda": {
-      "totalLinesAdded": 28381,
-      "totalLinesRemoved": 34,
-      "totalActiveTime": 56,
+      "totalLinesAdded": 28666,
+      "totalLinesRemoved": 36,
+      "totalActiveTime": 58,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/yarn.lock": [
           {
@@ -596,6 +596,50 @@
             },
             "duration": 1,
             "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/low-risk-schema/profileHub/subSkillTag-mutations.js": [
+          {
+            "timestamp": "2025-05-22T13:56:21.139Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/low-risk-schema/profileHub/subSkillTag-mutations.js",
+            "fileType": ".js",
+            "linesAdded": 283,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-05-22T13:56:51.678Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/low-risk-schema/profileHub/subSkillTag-mutations.js",
+            "fileType": ".js",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-05-22T13:57:10.930Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/low-risk-schema/profileHub/subSkillTag-mutations.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
           }
         ]
       },
