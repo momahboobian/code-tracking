@@ -2,9 +2,9 @@
   "date": "2025-05-27",
   "projects": {
     "cda": {
-      "totalLinesAdded": 14277,
+      "totalLinesAdded": 14288,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 10,
+      "totalActiveTime": 20,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-db-migration/src/migrations/staff/views/20250523085459-create-everywhere-rota-pattern-views.js": [
           {
@@ -98,6 +98,20 @@
             },
             "duration": 1,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-27T09:54:07.494Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/low-risk-schema/resolvers/everywhere.ts",
+            "fileType": ".ts",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/low-risk-schema/definitions/everywhere.js": [
@@ -127,6 +141,34 @@
               "removed": []
             },
             "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-05-27T09:50:03.980Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/low-risk-schema/definitions/everywhere.js",
+            "fileType": ".js",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-05-27T09:52:15.627Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/low-risk-schema/definitions/everywhere.js",
+            "fileType": ".js",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "js"
           }
         ]
