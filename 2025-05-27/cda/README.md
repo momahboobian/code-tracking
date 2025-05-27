@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 26384                                          |
-| **Lines Removed** (➖) | 14                                        |
+| **Lines Added** (➕)   | 26399                                          |
+| **Lines Removed** (➖) | 29                                        |
 | **Net Change** (↕)    | 26370                |
-| **Active Time** (⌚)   | 51 minutes |
+| **Active Time** (⌚)   | 57 minutes |
 
 
 ## Modified Files
@@ -15,7 +15,7 @@
 - **clear_view_controlled_tables.ts** (+596, -0)
 - **tables.ts** (+5288, -0)
 - **views.ts** (+8060, -0)
-- **everywhere.ts** (+268, -2)
+- **everywhere.ts** (+283, -17)
 - **everywhere.js** (+124, -0)
 - **everywhere-locations-queries.js** (+140, -12)
 - **resolvers-types.ts** (+8379, -0)
@@ -29,7 +29,7 @@
 pie showData
 title Lines changed by file type
 ".js" : 306
-".ts" : 22593
+".ts" : 22623
 ".lock" : 3499
 ```
 
@@ -39,8 +39,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "10h" : 13
-"11h" : 13
+"11h" : 15
 ```
 
 
-> **Last Updated:** 27/05/2025, 11:54:24
+> **Last Updated:** 27/05/2025, 11:59:24
