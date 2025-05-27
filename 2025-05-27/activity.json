@@ -2,9 +2,9 @@
   "date": "2025-05-27",
   "projects": {
     "cda": {
-      "totalLinesAdded": 35928,
+      "totalLinesAdded": 36259,
       "totalLinesRemoved": 602,
-      "totalActiveTime": 185,
+      "totalActiveTime": 190,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-db-migration/src/migrations/staff/views/20250523085459-create-everywhere-rota-pattern-views.js": [
           {
@@ -1106,6 +1106,34 @@
             },
             "duration": 2,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-27T17:14:15.945Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/low-risk-schema/resolvers/everywhere.ts",
+            "fileType": ".ts",
+            "linesAdded": 296,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-27T17:14:16.828Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/low-risk-schema/resolvers/everywhere.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/low-risk-schema/definitions/everywhere.js": [
@@ -1629,6 +1657,20 @@
               "removed": []
             },
             "duration": 3,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-27T17:11:20.560Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/low-risk-schema/everywhere/everywhere-queries.ts",
+            "fileType": ".ts",
+            "linesAdded": 34,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "ts"
           }
         ],
