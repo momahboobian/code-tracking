@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 26687                                          |
-| **Lines Removed** (➖) | 138                                        |
-| **Net Change** (↕)    | 26549                |
-| **Active Time** (⌚)   | 144 minutes |
+| **Lines Added** (➕)   | 34406                                          |
+| **Lines Removed** (➖) | 151                                        |
+| **Net Change** (↕)    | 34255                |
+| **Active Time** (⌚)   | 153 minutes |
 
 
 ## Modified Files
@@ -15,13 +15,14 @@
 - **clear_view_controlled_tables.ts** (+596, -0)
 - **tables.ts** (+5288, -0)
 - **views.ts** (+8060, -0)
-- **everywhere.ts** (+415, -118)
+- **everywhere.ts** (+415, -119)
 - **everywhere.js** (+124, -0)
 - **everywhere-locations-queries.js** (+140, -12)
 - **resolvers-types.ts** (+8379, -0)
 - **yarn.lock** (+3499, -0)
 - **settings.json** (+98, -0)
-- **everywhere.js** (+58, -8)
+- **everywhere.js** (+65, -20)
+- **yarn.lock** (+7712, -0)
 
 ## Visualizations
 
@@ -30,9 +31,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".js" : 372
-".ts" : 22856
-".lock" : 3499
+".js" : 391
+".ts" : 22857
+".lock" : 11211
 ".json" : 98
 ```
 
@@ -47,8 +48,8 @@ title Coding activity by hour (count of changes)
 "13h" : 9
 "15h" : 2
 "16h" : 15
-"17h" : 19
+"17h" : 24
 ```
 
 
-> **Last Updated:** 27/05/2025, 17:34:24
+> **Last Updated:** 27/05/2025, 17:39:24
