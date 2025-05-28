@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 769                                          |
+| **Lines Added** (➕)   | 9267                                          |
 | **Lines Removed** (➖) | 11                                        |
-| **Net Change** (↕)    | 758                |
-| **Active Time** (⌚)   | 8 minutes |
+| **Net Change** (↕)    | 9256                |
+| **Active Time** (⌚)   | 10 minutes |
 
 
 ## Modified Files
@@ -15,6 +15,8 @@
 - **everywhere.js** (+124, -0)
 - **everywhere-mutations.ts** (+301, -7)
 - **everywhere.js** (+45, -0)
+- **resolvers-types.ts** (+8379, -0)
+- **everywhere.test.js** (+119, -0)
 
 ## Visualizations
 
@@ -23,8 +25,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 611
-".js" : 169
+".ts" : 8990
+".js" : 288
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -33,8 +35,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "09h" : 7
-"10h" : 1
+"10h" : 3
 ```
 
 
-> **Last Updated:** 28/05/2025, 10:12:47
+> **Last Updated:** 28/05/2025, 10:17:47

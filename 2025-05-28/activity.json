@@ -2,9 +2,9 @@
   "date": "2025-05-28",
   "projects": {
     "cda": {
-      "totalLinesAdded": 769,
+      "totalLinesAdded": 9267,
       "totalLinesRemoved": 11,
-      "totalActiveTime": 8,
+      "totalActiveTime": 10,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/low-risk-schema/resolvers/everywhere.ts": [
           {
@@ -123,6 +123,38 @@
               "removed": []
             },
             "duration": 0,
+            "language": "js"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/types/gql-generated/low-risk/resolvers-types.ts": [
+          {
+            "timestamp": "2025-05-28T09:14:21.479Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/types/gql-generated/low-risk/resolvers-types.ts",
+            "fileType": ".ts",
+            "linesAdded": 8379,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-transformers/tests/everywhere.test.js": [
+          {
+            "timestamp": "2025-05-28T09:15:40.454Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-transformers/tests/everywhere.test.js",
+            "fileType": ".js",
+            "linesAdded": 119,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "js"
           }
         ]
