@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 11452                                          |
-| **Lines Removed** (➖) | 810                                        |
-| **Net Change** (↕)    | 10642                |
-| **Active Time** (⌚)   | 151 minutes |
+| **Lines Added** (➕)   | 11519                                          |
+| **Lines Removed** (➖) | 814                                        |
+| **Net Change** (↕)    | 10705                |
+| **Active Time** (⌚)   | 156 minutes |
 
 
 ## Modified Files
@@ -16,11 +16,12 @@
 - **everywhere.js** (+183, -4)
 - **resolvers-types.ts** (+8443, -0)
 - **settings.json** (+196, -0)
-- **group.ts** (+97, -73)
+- **group.ts** (+97, -77)
 - **rotaPattern.ts** (+113, -73)
 - **activityFeed.ts** (+89, -45)
 - **rotaPattern.test.ts** (+120, -63)
 - **everywhere.test.ts** (+119, -52)
+- **group.test.ts** (+67, -0)
 
 ## Visualizations
 
@@ -30,7 +31,7 @@
 pie showData
 title Lines changed by file type
 ".js" : 531
-".ts" : 11535
+".ts" : 11606
 ".json" : 196
 ```
 
@@ -44,8 +45,8 @@ title Coding activity by hour (count of changes)
 "11h" : 20
 "12h" : 29
 "13h" : 33
-"14h" : 8
+"14h" : 10
 ```
 
 
-> **Last Updated:** 29/05/2025, 14:14:44
+> **Last Updated:** 29/05/2025, 14:19:44
