@@ -5,8 +5,8 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 11424                                          |
-| **Lines Removed** (➖) | 797                                        |
-| **Net Change** (↕)    | 10627                |
+| **Lines Removed** (➖) | 799                                        |
+| **Net Change** (↕)    | 10625                |
 | **Active Time** (⌚)   | 143 minutes |
 
 
@@ -16,7 +16,7 @@
 - **everywhere.js** (+183, -4)
 - **resolvers-types.ts** (+8443, -0)
 - **settings.json** (+196, -0)
-- **group.ts** (+93, -71)
+- **group.ts** (+93, -73)
 - **rotaPattern.ts** (+89, -62)
 - **activityFeed.ts** (+89, -45)
 - **rotaPattern.test.ts** (+120, -63)
@@ -30,7 +30,7 @@
 pie showData
 title Lines changed by file type
 ".js" : 531
-".ts" : 11494
+".ts" : 11496
 ".json" : 196
 ```
 
@@ -44,8 +44,8 @@ title Coding activity by hour (count of changes)
 "11h" : 20
 "12h" : 29
 "13h" : 33
-"14h" : 2
+"14h" : 3
 ```
 
 
-> **Last Updated:** 29/05/2025, 14:04:44
+> **Last Updated:** 29/05/2025, 14:09:44
