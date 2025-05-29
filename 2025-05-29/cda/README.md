@@ -4,15 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 20587                                          |
-| **Lines Removed** (➖) | 1204                                        |
-| **Net Change** (↕)    | 19383                |
-| **Active Time** (⌚)   | 190 minutes |
+| **Lines Added** (➕)   | 20882                                          |
+| **Lines Removed** (➖) | 1294                                        |
+| **Net Change** (↕)    | 19588                |
+| **Active Time** (⌚)   | 197 minutes |
 
 
 ## Modified Files
 - **everywhere.js** (+487, -15)
-- **everywhere.ts** (+2461, -844)
+- **everywhere.ts** (+2465, -844)
 - **everywhere.js** (+183, -4)
 - **resolvers-types.ts** (+8443, -0)
 - **settings.json** (+196, -0)
@@ -27,6 +27,7 @@
 - **index.js** (+35, -1)
 - **everywhere.ts** (+115, -0)
 - **yarn.lock** (+7712, -0)
+- **everywhere-queries.ts** (+291, -90)
 
 ## Visualizations
 
@@ -36,7 +37,7 @@
 pie showData
 title Lines changed by file type
 ".js" : 725
-".ts" : 13158
+".ts" : 13543
 ".json" : 196
 ".lock" : 7712
 ```
@@ -53,8 +54,8 @@ title Coding activity by hour (count of changes)
 "13h" : 33
 "14h" : 24
 "15h" : 7
-"16h" : 1
+"16h" : 6
 ```
 
 
-> **Last Updated:** 29/05/2025, 16:04:44
+> **Last Updated:** 29/05/2025, 16:29:44
