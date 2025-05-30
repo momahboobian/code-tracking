@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 8992,
-      "totalLinesRemoved": 424,
-      "totalActiveTime": 95,
+      "totalLinesRemoved": 429,
+      "totalActiveTime": 99,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/low-risk-schema/resolvers/everywhere.ts": [
           {
@@ -903,6 +903,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-30T12:45:12.524Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/transformers/everywhere/activityFeed.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "ts"
           }
         ]
