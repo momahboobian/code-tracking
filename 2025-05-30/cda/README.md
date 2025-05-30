@@ -4,15 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 63                                          |
-| **Lines Removed** (➖) | 45                                        |
-| **Net Change** (↕)    | 18                |
-| **Active Time** (⌚)   | 36 minutes |
+| **Lines Added** (➕)   | 123                                          |
+| **Lines Removed** (➖) | 79                                        |
+| **Net Change** (↕)    | 44                |
+| **Active Time** (⌚)   | 43 minutes |
 
 
 ## Modified Files
 - **everywhere.ts** (+56, -43)
 - **everywhere-queries.ts** (+7, -2)
+- **everywhere.ts** (+52, -26)
+- **yarn.lock** (+8, -8)
 
 ## Visualizations
 
@@ -21,7 +23,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 108
+".ts" : 186
+".lock" : 16
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -33,8 +36,8 @@ title Coding activity by hour (count of changes)
 "09h" : 10
 "10h" : 2
 "11h" : 9
-"12h" : 1
+"12h" : 7
 ```
 
 
-> **Last Updated:** 30/05/2025, 12:35:37
+> **Last Updated:** 30/05/2025, 12:51:26
