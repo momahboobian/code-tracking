@@ -1,0 +1,47 @@
+{
+  "date": "2025-06-02",
+  "projects": {
+    "cda": {
+      "totalLinesAdded": 39,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/momahboobian/Documents/_BBC/cda/.env": [
+          {
+            "timestamp": "2025-06-02T08:35:51.030Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/.env",
+            "fileType": "unknown",
+            "linesAdded": 39,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
+          }
+        ]
+      },
+      "languageStats": {
+        "unknown": 0
+      },
+      "changeFrequency": {
+        "9": 0
+      },
+      "topFiles": [
+        "/Users/momahboobian/Documents/_BBC/cda/.env"
+      ],
+      "averageChangeSize": 39
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    9
+  ],
+  "mostUsedLanguages": [
+    "unknown"
+  ]
+}
