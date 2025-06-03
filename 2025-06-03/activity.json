@@ -2,7 +2,7 @@
   "date": "2025-06-03",
   "projects": {
     "cda": {
-      "totalLinesAdded": 360,
+      "totalLinesAdded": 365,
       "totalLinesRemoved": 336,
       "totalActiveTime": 24,
       "files": {
@@ -205,6 +205,20 @@
               "removed": []
             },
             "duration": 5,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-06-03T09:03:03.992Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/components/SkillTagModal/SkillTagModal.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "jsx"
           }
         ]
