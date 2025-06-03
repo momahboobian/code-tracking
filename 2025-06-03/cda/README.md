@@ -4,16 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2235                                          |
-| **Lines Removed** (➖) | 966                                        |
-| **Net Change** (↕)    | 1269                |
-| **Active Time** (⌚)   | 328 minutes |
+| **Lines Added** (➕)   | 2261                                          |
+| **Lines Removed** (➖) | 989                                        |
+| **Net Change** (↕)    | 1272                |
+| **Active Time** (⌚)   | 340 minutes |
 
 
 ## Modified Files
 - **MarkdownEditor.scss** (+8, -0)
 - **SkillTagModal.scss** (+65, -8)
-- **SkillTagModal.jsx** (+1046, -950)
+- **SkillTagModal.jsx** (+1072, -973)
 - **PreferenceSkillTags.tsx** (+170, -2)
 - **SubSkillOverview.jsx** (+55, -0)
 - **mutations.js** (+604, -6)
@@ -28,7 +28,7 @@
 pie showData
 title Lines changed by file type
 ".scss" : 81
-".jsx" : 2338
+".jsx" : 2387
 ".tsx" : 172
 ".js" : 610
 ```
@@ -47,8 +47,8 @@ title Coding activity by hour (count of changes)
 "16h" : 21
 "17h" : 13
 "18h" : 22
-"20h" : 14
+"20h" : 23
 ```
 
 
-> **Last Updated:** 03/06/2025, 20:44:26
+> **Last Updated:** 03/06/2025, 20:49:26
