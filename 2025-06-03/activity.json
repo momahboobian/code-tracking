@@ -2,9 +2,9 @@
   "date": "2025-06-03",
   "projects": {
     "cda": {
-      "totalLinesAdded": 1706,
-      "totalLinesRemoved": 595,
-      "totalActiveTime": 254,
+      "totalLinesAdded": 1839,
+      "totalLinesRemoved": 731,
+      "totalActiveTime": 261,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/components/MarkdownEditor/MarkdownEditor.scss": [
           {
@@ -2082,6 +2082,48 @@
             },
             "duration": 3,
             "language": "jsx"
+          },
+          {
+            "timestamp": "2025-06-03T15:54:55.013Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/components/SkillTagModal/SkillTagModal.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 132,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-06-03T15:55:03.791Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/components/SkillTagModal/SkillTagModal.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 132,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-06-03T15:55:34.397Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/components/SkillTagModal/SkillTagModal.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/components/Preferences/PreferenceSkillTags/PreferenceSkillTags.tsx": [
@@ -2241,6 +2283,34 @@
               "removed": []
             },
             "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-06-03T15:57:15.012Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/graphql/low-risk/mutations.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-06-03T15:57:27.754Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/graphql/low-risk/mutations.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "js"
           }
         ]
