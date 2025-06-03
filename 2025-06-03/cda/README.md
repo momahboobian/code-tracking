@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1966                                          |
+| **Lines Added** (➕)   | 2199                                          |
 | **Lines Removed** (➖) | 947                                        |
-| **Net Change** (↕)    | 1019                |
-| **Active Time** (⌚)   | 317 minutes |
+| **Net Change** (↕)    | 1252                |
+| **Active Time** (⌚)   | 321 minutes |
 
 
 ## Modified Files
@@ -18,6 +18,7 @@
 - **SubSkillOverview.jsx** (+55, -0)
 - **mutations.js** (+604, -6)
 - **SkillOverview.jsx** (+54, -0)
+- **SubSkillTopic.jsx** (+233, -0)
 
 ## Visualizations
 
@@ -27,7 +28,7 @@
 pie showData
 title Lines changed by file type
 ".scss" : 81
-".jsx" : 2050
+".jsx" : 2283
 ".tsx" : 172
 ".js" : 610
 ```
@@ -46,8 +47,8 @@ title Coding activity by hour (count of changes)
 "16h" : 21
 "17h" : 13
 "18h" : 22
-"20h" : 6
+"20h" : 7
 ```
 
 
-> **Last Updated:** 03/06/2025, 20:34:26
+> **Last Updated:** 03/06/2025, 20:39:26
