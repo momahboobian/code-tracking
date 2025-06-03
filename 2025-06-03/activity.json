@@ -2,9 +2,9 @@
   "date": "2025-06-03",
   "projects": {
     "cda": {
-      "totalLinesAdded": 391,
-      "totalLinesRemoved": 348,
-      "totalActiveTime": 35,
+      "totalLinesAdded": 411,
+      "totalLinesRemoved": 350,
+      "totalActiveTime": 39,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/components/MarkdownEditor/MarkdownEditor.scss": [
           {
@@ -289,6 +289,48 @@
               "removed": []
             },
             "duration": 5,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-06-03T09:20:46.634Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/components/SkillTagModal/SkillTagModal.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 19,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-06-03T09:21:08.602Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/components/SkillTagModal/SkillTagModal.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-06-03T09:24:01.827Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/components/SkillTagModal/SkillTagModal.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "jsx"
           }
         ]
