@@ -5,13 +5,13 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 244                                          |
-| **Lines Removed** (➖) | 195                                        |
-| **Net Change** (↕)    | 49                |
-| **Active Time** (⌚)   | 89 minutes |
+| **Lines Removed** (➖) | 196                                        |
+| **Net Change** (↕)    | 48                |
+| **Active Time** (⌚)   | 93 minutes |
 
 
 ## Modified Files
-- **SkillTagModal.jsx** (+232, -184)
+- **SkillTagModal.jsx** (+232, -185)
 - **SkillTagModal.scss** (+0, -4)
 - **SubSkillOverview.jsx** (+12, -7)
 
@@ -22,7 +22,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".jsx" : 435
+".jsx" : 436
 ".scss" : 4
 ```
 
@@ -35,8 +35,8 @@ title Coding activity by hour (count of changes)
 "10h" : 10
 "11h" : 15
 "12h" : 24
-"13h" : 6
+"13h" : 7
 ```
 
 
-> **Last Updated:** 04/06/2025, 13:09:28
+> **Last Updated:** 04/06/2025, 13:14:28
