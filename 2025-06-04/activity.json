@@ -3,7 +3,7 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 245,
-      "totalLinesRemoved": 226,
+      "totalLinesRemoved": 227,
       "totalActiveTime": 101,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/components/SkillTagModal/SkillTagModal.jsx": [
@@ -965,6 +965,20 @@
               "removed": []
             },
             "duration": 4,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-06-04T12:50:41.999Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/components/Preferences/PreferenceSkillTags/PreferenceSkillTags.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ]
