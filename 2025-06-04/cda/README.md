@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 245                                          |
-| **Lines Removed** (➖) | 227                                        |
-| **Net Change** (↕)    | 18                |
-| **Active Time** (⌚)   | 101 minutes |
+| **Lines Added** (➕)   | 270                                          |
+| **Lines Removed** (➖) | 228                                        |
+| **Net Change** (↕)    | 42                |
+| **Active Time** (⌚)   | 109 minutes |
 
 
 ## Modified Files
@@ -15,7 +15,7 @@
 - **SkillTagModal.scss** (+0, -4)
 - **SubSkillOverview.jsx** (+12, -7)
 - **mutations.js** (+0, -4)
-- **PreferenceSkillTags.tsx** (+1, -1)
+- **PreferenceSkillTags.tsx** (+26, -2)
 
 ## Visualizations
 
@@ -27,7 +27,7 @@ title Lines changed by file type
 ".jsx" : 462
 ".scss" : 4
 ".js" : 4
-".tsx" : 2
+".tsx" : 28
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -40,7 +40,8 @@ title Coding activity by hour (count of changes)
 "11h" : 15
 "12h" : 24
 "13h" : 14
+"14h" : 6
 ```
 
 
-> **Last Updated:** 04/06/2025, 13:54:28
+> **Last Updated:** 04/06/2025, 14:04:28
