@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 15348                                          |
-| **Lines Removed** (➖) | 8695                                        |
-| **Net Change** (↕)    | 6653                |
-| **Active Time** (⌚)   | 147 minutes |
+| **Lines Added** (➕)   | 21753                                          |
+| **Lines Removed** (➖) | 8699                                        |
+| **Net Change** (↕)    | 13054                |
+| **Active Time** (⌚)   | 154 minutes |
 
 
 ## Modified Files
@@ -20,6 +20,11 @@
 - **SubSkillTopic.jsx** (+1, -1)
 - **profile-hub.ts** (+1120, -27)
 - **queries.js** (+550, -0)
+- **gql.ts** (+82, -0)
+- **graphql.ts** (+5992, -0)
+- **App.js** (+0, -4)
+- **SkillTag.test.tsx** (+47, -0)
+- **PreferenceSkillTags.test.tsx** (+284, -0)
 
 ## Visualizations
 
@@ -30,9 +35,9 @@ pie showData
 title Lines changed by file type
 ".jsx" : 464
 ".scss" : 4
-".js" : 554
-".tsx" : 152
-".ts" : 22869
+".js" : 558
+".tsx" : 483
+".ts" : 28943
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -47,8 +52,8 @@ title Coding activity by hour (count of changes)
 "13h" : 14
 "14h" : 21
 "15h" : 10
-"16h" : 2
+"16h" : 10
 ```
 
 
-> **Last Updated:** 04/06/2025, 16:04:28
+> **Last Updated:** 04/06/2025, 16:14:28
