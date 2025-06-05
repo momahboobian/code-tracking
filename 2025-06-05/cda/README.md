@@ -5,9 +5,9 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 18269                                          |
-| **Lines Removed** (➖) | 1144                                        |
-| **Net Change** (↕)    | 17125                |
-| **Active Time** (⌚)   | 266 minutes |
+| **Lines Removed** (➖) | 1647                                        |
+| **Net Change** (↕)    | 16622                |
+| **Active Time** (⌚)   | 267 minutes |
 
 
 ## Modified Files
@@ -17,7 +17,7 @@
 - **PreferenceSkillTags.tsx** (+212, -66)
 - **mutations.js** (+674, -80)
 - **SkillTagModal.scss** (+57, -32)
-- **SkillTopic.jsx** (+347, -65)
+- **SkillTopic.jsx** (+347, -335)
 - **App.js** (+190, -10)
 - **queries.js** (+550, -37)
 - **MarkdownEditor.scss** (+8, -0)
@@ -32,7 +32,7 @@
 - **gql.ts** (+278, -0)
 - **subSkillTag-mutations.js** (+283, -0)
 - **.env** (+39, -0)
-- **SubSkillTopic.jsx** (+255, -8)
+- **SubSkillTopic.jsx** (+255, -241)
 - **SkillUsersList.tsx** (+103, -1)
 - **SkillOverview.jsx** (+66, -12)
 - **SkillOverview.test.jsx** (+50, -0)
@@ -57,7 +57,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".jsx" : 3302
+".jsx" : 3805
 ".ts" : 12200
 ".tsx" : 708
 ".js" : 2582
@@ -80,8 +80,8 @@ title Coding activity by hour (count of changes)
 "16h" : 39
 "17h" : 37
 "18h" : 23
-"19h" : 16
+"19h" : 18
 ```
 
 
-> **Last Updated:** 05/06/2025, 19:11:17
+> **Last Updated:** 05/06/2025, 19:16:17
