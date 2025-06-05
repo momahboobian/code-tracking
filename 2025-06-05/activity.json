@@ -2,9 +2,9 @@
   "date": "2025-06-05",
   "projects": {
     "cda": {
-      "totalLinesAdded": 4,
-      "totalLinesRemoved": 3,
-      "totalActiveTime": 5,
+      "totalLinesAdded": 5,
+      "totalLinesRemoved": 6,
+      "totalActiveTime": 10,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/components/SkillTagModal/SkillTagModal.jsx": [
           {
@@ -89,6 +89,62 @@
               "removed": []
             },
             "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-06-05T09:39:42.939Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/components/SkillTagModal/SkillTagModal.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-06-05T09:39:56.168Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/components/SkillTagModal/SkillTagModal.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-06-05T09:40:25.603Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/components/SkillTagModal/SkillTagModal.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-06-05T09:42:14.772Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/components/SkillTagModal/SkillTagModal.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "jsx"
           }
         ]
