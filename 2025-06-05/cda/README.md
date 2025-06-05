@@ -5,9 +5,9 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 17230                                          |
-| **Lines Removed** (➖) | 1041                                        |
-| **Net Change** (↕)    | 16189                |
-| **Active Time** (⌚)   | 222 minutes |
+| **Lines Removed** (➖) | 1068                                        |
+| **Net Change** (↕)    | 16162                |
+| **Active Time** (⌚)   | 225 minutes |
 
 
 ## Modified Files
@@ -43,7 +43,7 @@
 - **SkillType.jsx** (+144, -5)
 - **TagOverview.scss** (+83, -0)
 - **TagOverview.test.jsx** (+123, -19)
-- **SkillTagModal.test.js** (+287, -31)
+- **SkillTagModal.test.js** (+287, -58)
 
 ## Visualizations
 
@@ -55,7 +55,7 @@ title Lines changed by file type
 ".jsx" : 2620
 ".ts" : 12200
 ".tsx" : 708
-".js" : 2303
+".js" : 2330
 ".scss" : 327
 ".json" : 74
 "unknown" : 39
@@ -74,8 +74,8 @@ title Coding activity by hour (count of changes)
 "15h" : 8
 "16h" : 39
 "17h" : 37
-"18h" : 9
+"18h" : 10
 ```
 
 
-> **Last Updated:** 05/06/2025, 18:16:17
+> **Last Updated:** 05/06/2025, 18:21:17
