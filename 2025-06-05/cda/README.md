@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 16052                                          |
-| **Lines Removed** (➖) | 736                                        |
-| **Net Change** (↕)    | 15316                |
-| **Active Time** (⌚)   | 90 minutes |
+| **Lines Added** (➕)   | 16108                                          |
+| **Lines Removed** (➖) | 738                                        |
+| **Net Change** (↕)    | 15370                |
+| **Active Time** (⌚)   | 92 minutes |
 
 
 ## Modified Files
@@ -34,6 +34,7 @@
 - **.env** (+39, -0)
 - **SubSkillTopic.jsx** (+235, -7)
 - **SkillUsersList.tsx** (+103, -1)
+- **SkillOverview.jsx** (+56, -2)
 
 ## Visualizations
 
@@ -42,7 +43,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".jsx" : 1558
+".jsx" : 1616
 ".ts" : 12200
 ".tsx" : 706
 ".js" : 1982
@@ -62,7 +63,8 @@ title Coding activity by hour (count of changes)
 "13h" : 7
 "14h" : 1
 "15h" : 8
+"16h" : 3
 ```
 
 
-> **Last Updated:** 05/06/2025, 15:51:17
+> **Last Updated:** 05/06/2025, 16:16:17
