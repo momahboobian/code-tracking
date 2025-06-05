@@ -2,9 +2,9 @@
   "date": "2025-06-05",
   "projects": {
     "cda": {
-      "totalLinesAdded": 17735,
-      "totalLinesRemoved": 1090,
-      "totalActiveTime": 236,
+      "totalLinesAdded": 18019,
+      "totalLinesRemoved": 1092,
+      "totalActiveTime": 242,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/components/SkillTagModal/SkillTagModal.jsx": [
           {
@@ -1103,6 +1103,20 @@
             "fileType": ".jsx",
             "linesAdded": 0,
             "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-06-05T17:47:54.633Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/containers/SkillTopic/SkillTopic.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 11,
+            "linesRemoved": 0,
             "projectName": "cda",
             "content": {
               "added": [],
@@ -2539,6 +2553,36 @@
               "removed": []
             },
             "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-06-05T17:46:36.381Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/containers/TagTopic/TagTopic.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "jsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/components/TagTopic/TagTopic.jsx": [
+          {
+            "timestamp": "2025-06-05T17:49:36.177Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/components/TagTopic/TagTopic.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 273,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "jsx"
           }
         ]
