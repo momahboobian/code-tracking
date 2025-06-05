@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 18674                                          |
-| **Lines Removed** (➖) | 1651                                        |
-| **Net Change** (↕)    | 17023                |
-| **Active Time** (⌚)   | 290 minutes |
+| **Lines Added** (➕)   | 18874                                          |
+| **Lines Removed** (➖) | 1870                                        |
+| **Net Change** (↕)    | 17004                |
+| **Active Time** (⌚)   | 296 minutes |
 
 
 ## Modified Files
@@ -21,7 +21,7 @@
 - **App.js** (+190, -10)
 - **queries.js** (+550, -37)
 - **MarkdownEditor.scss** (+8, -0)
-- **SkillTopic.test.js** (+158, -0)
+- **SkillTopic.test.js** (+205, -136)
 - **SkillTag.test.tsx** (+45, -0)
 - **PreferenceSkillTags.test.tsx** (+281, -0)
 - **SkillTopic.scss** (+147, -0)
@@ -51,6 +51,7 @@
 - **TagTopic.scss** (+172, -9)
 - **TagTopic.test.js** (+305, -2)
 - **settings.json** (+100, -2)
+- **SubSkillTopic.test.js** (+153, -83)
 
 ## Visualizations
 
@@ -62,7 +63,7 @@ title Lines changed by file type
 ".jsx" : 3805
 ".ts" : 12200
 ".tsx" : 708
-".js" : 2889
+".js" : 3308
 ".scss" : 508
 ".json" : 176
 "unknown" : 39
@@ -82,8 +83,8 @@ title Coding activity by hour (count of changes)
 "16h" : 39
 "17h" : 37
 "18h" : 23
-"19h" : 32
+"19h" : 37
 ```
 
 
-> **Last Updated:** 05/06/2025, 19:31:17
+> **Last Updated:** 05/06/2025, 19:36:17
