@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 19024,
-      "totalLinesRemoved": 2148,
-      "totalActiveTime": 315,
+      "totalLinesRemoved": 2289,
+      "totalActiveTime": 321,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/components/SkillTagModal/SkillTagModal.jsx": [
           {
@@ -3239,6 +3239,62 @@
             "fileType": ".js",
             "linesAdded": 0,
             "linesRemoved": 3,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-06-05T18:51:31.520Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/components/TagTopic/TagTopic.test.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-06-05T18:54:24.504Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/components/TagTopic/TagTopic.test.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 108,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-06-05T18:55:02.241Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/components/TagTopic/TagTopic.test.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-06-05T18:55:33.527Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/components/TagTopic/TagTopic.test.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 25,
             "projectName": "cda",
             "content": {
               "added": [],
