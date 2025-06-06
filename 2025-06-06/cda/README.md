@@ -4,16 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 156                                          |
-| **Lines Removed** (➖) | 35                                        |
-| **Net Change** (↕)    | 121                |
-| **Active Time** (⌚)   | 29 minutes |
+| **Lines Added** (➕)   | 251                                          |
+| **Lines Removed** (➖) | 83                                        |
+| **Net Change** (↕)    | 168                |
+| **Active Time** (⌚)   | 38 minutes |
 
 
 ## Modified Files
 - **TagTopic.jsx** (+0, -2)
 - **SkillTagModal.scss** (+32, -0)
-- **PreferenceSkillTags.tsx** (+121, -33)
+- **PreferenceSkillTags.tsx** (+216, -81)
 - **TagOverview.jsx** (+3, -0)
 
 ## Visualizations
@@ -25,7 +25,7 @@ pie showData
 title Lines changed by file type
 ".jsx" : 5
 ".scss" : 32
-".tsx" : 154
+".tsx" : 297
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -34,8 +34,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "09h" : 9
-"10h" : 8
+"10h" : 13
 ```
 
 
-> **Last Updated:** 06/06/2025, 10:22:18
+> **Last Updated:** 06/06/2025, 10:27:18
