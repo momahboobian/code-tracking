@@ -4,9 +4,9 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 92                                          |
+| **Lines Added** (➕)   | 95                                          |
 | **Lines Removed** (➖) | 11                                        |
-| **Net Change** (↕)    | 81                |
+| **Net Change** (↕)    | 84                |
 | **Active Time** (⌚)   | 17 minutes |
 
 
@@ -14,6 +14,7 @@
 - **TagTopic.jsx** (+0, -2)
 - **SkillTagModal.scss** (+32, -0)
 - **PreferenceSkillTags.tsx** (+60, -9)
+- **TagOverview.jsx** (+3, -0)
 
 ## Visualizations
 
@@ -22,7 +23,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".jsx" : 2
+".jsx" : 5
 ".scss" : 32
 ".tsx" : 69
 ```
@@ -33,7 +34,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "09h" : 9
+"10h" : 1
 ```
 
 
-> **Last Updated:** 06/06/2025, 10:02:18
+> **Last Updated:** 06/06/2025, 10:07:18
