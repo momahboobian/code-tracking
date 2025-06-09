@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 689,
-      "totalLinesRemoved": 4,
-      "totalActiveTime": 4,
+      "totalLinesRemoved": 66,
+      "totalActiveTime": 9,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-opensearch-create-ingest-file/package.json": [
           {
@@ -109,6 +109,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-06-09T11:42:32.822Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/low-risk-schema/allocate/service/getAllocateDuties.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 62,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "ts"
           }
         ]
