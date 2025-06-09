@@ -2,9 +2,9 @@
   "date": "2025-06-09",
   "projects": {
     "cda": {
-      "totalLinesAdded": 304,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 2,
+      "totalLinesAdded": 689,
+      "totalLinesRemoved": 4,
+      "totalActiveTime": 4,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-opensearch-create-ingest-file/package.json": [
           {
@@ -50,6 +50,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-06-09T11:36:11.767Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/src/App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/.env": [
@@ -80,6 +94,22 @@
             },
             "duration": 1,
             "language": "unknown"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/low-risk-schema/allocate/service/getAllocateDuties.ts": [
+          {
+            "timestamp": "2025-06-09T11:37:50.524Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/low-risk-schema/allocate/service/getAllocateDuties.ts",
+            "fileType": ".ts",
+            "linesAdded": 385,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
           }
         ]
       },
