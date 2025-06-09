@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 12111,
-      "totalLinesRemoved": 655,
-      "totalActiveTime": 44,
+      "totalLinesRemoved": 694,
+      "totalActiveTime": 45,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-opensearch-create-ingest-file/package.json": [
           {
@@ -505,6 +505,20 @@
             "fileType": ".ts",
             "linesAdded": 4,
             "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-06-09T14:59:02.182Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/low-risk-schema/profileHub/skillTag-admin-mutations.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 39,
             "projectName": "cda",
             "content": {
               "added": [],
