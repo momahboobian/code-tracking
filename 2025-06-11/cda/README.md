@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 11833                                          |
-| **Lines Removed** (➖) | 52                                        |
-| **Net Change** (↕)    | 11781                |
-| **Active Time** (⌚)   | 40 minutes |
+| **Lines Added** (➕)   | 12342                                          |
+| **Lines Removed** (➖) | 80                                        |
+| **Net Change** (↕)    | 12262                |
+| **Active Time** (⌚)   | 49 minutes |
 
 
 ## Modified Files
@@ -16,10 +16,13 @@
 - **views.ts** (+8223, -0)
 - **SkillTagFavourites.ts** (+44, -0)
 - **getAllocateDuties.ts** (+385, -0)
-- **App.tsx** (+560, -11)
+- **App.tsx** (+561, -11)
 - **RouteWrapper.tsx** (+213, -0)
 - **clear-view-queries.ts** (+629, -10)
-- **HelperModal.tsx** (+505, -8)
+- **HelperModal.tsx** (+505, -24)
+- **index.ts** (+3, -0)
+- **index.ts** (+3, -0)
+- **HelperGlossary.tsx** (+502, -12)
 
 ## Visualizations
 
@@ -28,8 +31,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 10588
-".tsx" : 1297
+".ts" : 10594
+".tsx" : 1828
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -41,8 +44,8 @@ title Coding activity by hour (count of changes)
 "13h" : 4
 "14h" : 11
 "17h" : 4
-"18h" : 11
+"18h" : 18
 ```
 
 
-> **Last Updated:** 11/06/2025, 18:44:48
+> **Last Updated:** 11/06/2025, 18:49:48
