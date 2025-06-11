@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 12365                                          |
-| **Lines Removed** (➖) | 532                                        |
-| **Net Change** (↕)    | 11833                |
-| **Active Time** (⌚)   | 58 minutes |
+| **Lines Added** (➕)   | 12453                                          |
+| **Lines Removed** (➖) | 542                                        |
+| **Net Change** (↕)    | 11911                |
+| **Active Time** (⌚)   | 65 minutes |
 
 
 ## Modified Files
@@ -16,13 +16,13 @@
 - **views.ts** (+8223, -0)
 - **SkillTagFavourites.ts** (+44, -0)
 - **getAllocateDuties.ts** (+385, -0)
-- **App.tsx** (+561, -11)
+- **App.tsx** (+561, -15)
 - **RouteWrapper.tsx** (+213, -0)
 - **clear-view-queries.ts** (+629, -10)
 - **HelperModal.tsx** (+505, -24)
 - **index.ts** (+3, -0)
 - **index.ts** (+3, -0)
-- **HelperGlossary.tsx** (+525, -464)
+- **HelperGlossary.tsx** (+613, -470)
 
 ## Visualizations
 
@@ -32,7 +32,7 @@
 pie showData
 title Lines changed by file type
 ".ts" : 10594
-".tsx" : 2303
+".tsx" : 2401
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -44,8 +44,8 @@ title Coding activity by hour (count of changes)
 "13h" : 4
 "14h" : 11
 "17h" : 4
-"18h" : 22
+"18h" : 29
 ```
 
 
-> **Last Updated:** 11/06/2025, 18:54:48
+> **Last Updated:** 11/06/2025, 18:59:48
