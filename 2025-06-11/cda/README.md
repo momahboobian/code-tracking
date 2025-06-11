@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 12342                                          |
-| **Lines Removed** (➖) | 80                                        |
-| **Net Change** (↕)    | 12262                |
-| **Active Time** (⌚)   | 49 minutes |
+| **Lines Added** (➕)   | 12365                                          |
+| **Lines Removed** (➖) | 532                                        |
+| **Net Change** (↕)    | 11833                |
+| **Active Time** (⌚)   | 58 minutes |
 
 
 ## Modified Files
@@ -22,7 +22,7 @@
 - **HelperModal.tsx** (+505, -24)
 - **index.ts** (+3, -0)
 - **index.ts** (+3, -0)
-- **HelperGlossary.tsx** (+502, -12)
+- **HelperGlossary.tsx** (+525, -464)
 
 ## Visualizations
 
@@ -32,7 +32,7 @@
 pie showData
 title Lines changed by file type
 ".ts" : 10594
-".tsx" : 1828
+".tsx" : 2303
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -44,8 +44,8 @@ title Coding activity by hour (count of changes)
 "13h" : 4
 "14h" : 11
 "17h" : 4
-"18h" : 18
+"18h" : 22
 ```
 
 
-> **Last Updated:** 11/06/2025, 18:49:48
+> **Last Updated:** 11/06/2025, 18:54:48
