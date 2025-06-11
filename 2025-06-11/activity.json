@@ -2,9 +2,9 @@
   "date": "2025-06-11",
   "projects": {
     "cda": {
-      "totalLinesAdded": 10695,
+      "totalLinesAdded": 10699,
       "totalLinesRemoved": 30,
-      "totalActiveTime": 22,
+      "totalActiveTime": 25,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/low-risk-schema/profileHub/skillTag-admin-mutations.ts": [
           {
@@ -295,6 +295,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-06-11T13:31:36.570Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "tsx"
           }
         ],
