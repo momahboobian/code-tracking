@@ -1,0 +1,143 @@
+{
+  "date": "2025-06-11",
+  "projects": {
+    "cda": {
+      "totalLinesAdded": 9926,
+      "totalLinesRemoved": 23,
+      "totalActiveTime": 3,
+      "files": {
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/low-risk-schema/profileHub/skillTag-admin-mutations.ts": [
+          {
+            "timestamp": "2025-06-11T11:00:44.303Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/low-risk-schema/profileHub/skillTag-admin-mutations.ts",
+            "fileType": ".ts",
+            "linesAdded": 261,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/low-risk-schema/resolvers/profile-hub.ts": [
+          {
+            "timestamp": "2025-06-11T11:00:44.301Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/low-risk-schema/resolvers/profile-hub.ts",
+            "fileType": ".ts",
+            "linesAdded": 1013,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-06-11T11:00:47.338Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/low-risk-schema/resolvers/profile-hub.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 23,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/types/db/views.ts": [
+          {
+            "timestamp": "2025-06-11T11:00:44.308Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/types/db/views.ts",
+            "fileType": ".ts",
+            "linesAdded": 8204,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-06-11T11:00:49.272Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/types/db/views.ts",
+            "fileType": ".ts",
+            "linesAdded": 19,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/profile-hub/SkillTagFavourites.ts": [
+          {
+            "timestamp": "2025-06-11T11:00:44.311Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/profile-hub/SkillTagFavourites.ts",
+            "fileType": ".ts",
+            "linesAdded": 44,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/low-risk-schema/allocate/service/getAllocateDuties.ts": [
+          {
+            "timestamp": "2025-06-11T11:00:49.269Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/low-risk-schema/allocate/service/getAllocateDuties.ts",
+            "fileType": ".ts",
+            "linesAdded": 385,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ]
+      },
+      "languageStats": {
+        "ts": 3
+      },
+      "changeFrequency": {
+        "12": 3
+      },
+      "topFiles": [
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/low-risk-schema/resolvers/profile-hub.ts",
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/types/db/views.ts",
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/low-risk-schema/profileHub/skillTag-admin-mutations.ts",
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/profile-hub/SkillTagFavourites.ts",
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/low-risk-schema/allocate/service/getAllocateDuties.ts"
+      ],
+      "averageChangeSize": 1421.2857142857142
+    }
+  },
+  "totalActiveTime": 5,
+  "totalProjects": 1,
+  "totalFiles": 5,
+  "mostActiveHours": [
+    12
+  ],
+  "mostUsedLanguages": [
+    "ts"
+  ]
+}
