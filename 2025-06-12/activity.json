@@ -2,7 +2,7 @@
   "date": "2025-06-12",
   "projects": {
     "cda": {
-      "totalLinesAdded": 1891,
+      "totalLinesAdded": 1893,
       "totalLinesRemoved": 214,
       "totalActiveTime": 226,
       "files": {
@@ -1867,6 +1867,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-06-12T16:42:22.225Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/atoms/HelperGlossary/HelperGlossary.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ],
