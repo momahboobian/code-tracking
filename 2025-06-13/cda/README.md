@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2746                                          |
-| **Lines Removed** (➖) | 713                                        |
-| **Net Change** (↕)    | 2033                |
-| **Active Time** (⌚)   | 206 minutes |
+| **Lines Added** (➕)   | 2835                                          |
+| **Lines Removed** (➖) | 714                                        |
+| **Net Change** (↕)    | 2121                |
+| **Active Time** (⌚)   | 215 minutes |
 
 
 ## Modified Files
@@ -21,8 +21,10 @@
 - **EditableTextInput.scss** (+54, -19)
 - **config.ts** (+118, -1)
 - **Panel.tsx** (+32, -0)
-- **App.scss** (+374, -154)
+- **App.scss** (+375, -154)
 - **HelperModal,scss** (+2, -0)
+- **DetailsField.scss** (+38, -0)
+- **PoolPosition.scss** (+50, -1)
 
 ## Visualizations
 
@@ -32,7 +34,7 @@
 pie showData
 title Lines changed by file type
 ".tsx" : 2737
-".scss" : 601
+".scss" : 691
 ".ts" : 119
 "unknown" : 2
 ```
@@ -49,8 +51,8 @@ title Coding activity by hour (count of changes)
 "13h" : 22
 "14h" : 11
 "15h" : 10
-"16h" : 11
+"16h" : 18
 ```
 
 
-> **Last Updated:** 13/06/2025, 16:32:43
+> **Last Updated:** 13/06/2025, 16:37:43
