@@ -2,9 +2,9 @@
   "date": "2025-06-13",
   "projects": {
     "cda": {
-      "totalLinesAdded": 1429,
-      "totalLinesRemoved": 205,
-      "totalActiveTime": 54,
+      "totalLinesAdded": 1579,
+      "totalLinesRemoved": 212,
+      "totalActiveTime": 60,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/containers/PoolPosition/PoolPosition.tsx": [
           {
@@ -456,6 +456,20 @@
             },
             "duration": 4,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-06-13T10:17:52.528Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/atoms/HelperGlossary/HelperGlossary.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 7,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/containers/Permissions/Permissions.tsx": [
@@ -471,6 +485,22 @@
               "removed": []
             },
             "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/organisms/InitiativeForecasts/InitiativeForecasts.tsx": [
+          {
+            "timestamp": "2025-06-13T10:21:01.248Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/organisms/InitiativeForecasts/InitiativeForecasts.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 150,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "tsx"
           }
         ]
