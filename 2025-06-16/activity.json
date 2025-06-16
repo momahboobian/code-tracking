@@ -2,7 +2,7 @@
   "date": "2025-06-16",
   "projects": {
     "cda": {
-      "totalLinesAdded": 3041,
+      "totalLinesAdded": 3522,
       "totalLinesRemoved": 40,
       "totalActiveTime": 77,
       "files": {
@@ -790,6 +790,22 @@
             },
             "duration": 1,
             "language": "js"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/atoms/HelperModal/HelperModal.tsx": [
+          {
+            "timestamp": "2025-06-16T15:00:51.892Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/atoms/HelperModal/HelperModal.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 481,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
           }
         ]
       },
