@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2608                                          |
-| **Lines Removed** (➖) | 36                                        |
-| **Net Change** (↕)    | 2572                |
-| **Active Time** (⌚)   | 61 minutes |
+| **Lines Added** (➕)   | 2982                                          |
+| **Lines Removed** (➖) | 39                                        |
+| **Net Change** (↕)    | 2943                |
+| **Active Time** (⌚)   | 69 minutes |
 
 
 ## Modified Files
@@ -22,6 +22,8 @@
 - **App.tsx** (+546, -0)
 - **20250616132159-update-initiative-status-data.js** (+25, -0)
 - **20250616130140-update-initiative-class-data.js** (+21, -0)
+- **Initiatives.tsx** (+126, -0)
+- **InitiativesFiltersAndTable.tsx** (+248, -3)
 
 ## Visualizations
 
@@ -30,7 +32,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 2482
+".tsx" : 2859
 ".scss" : 64
 ".js" : 98
 ```
@@ -42,8 +44,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "09h" : 7
 "10h" : 29
-"14h" : 9
+"14h" : 12
 ```
 
 
-> **Last Updated:** 16/06/2025, 14:40:08
+> **Last Updated:** 16/06/2025, 14:45:08
