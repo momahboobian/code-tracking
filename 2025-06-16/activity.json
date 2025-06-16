@@ -2,9 +2,9 @@
   "date": "2025-06-16",
   "projects": {
     "cda": {
-      "totalLinesAdded": 1987,
-      "totalLinesRemoved": 28,
-      "totalActiveTime": 48,
+      "totalLinesAdded": 2004,
+      "totalLinesRemoved": 30,
+      "totalActiveTime": 49,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/containers/InitiativeDetails/InitiativeDetails.tsx": [
           {
@@ -522,6 +522,36 @@
             },
             "duration": 2,
             "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-db-migration/src/migrations/clear-view/tables/20250616130140-update-initiative-class.js": [
+          {
+            "timestamp": "2025-06-16T13:01:52.857Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-db-migration/src/migrations/clear-view/tables/20250616130140-update-initiative-class.js",
+            "fileType": ".js",
+            "linesAdded": 17,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-06-16T13:02:02.526Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-db-migration/src/migrations/clear-view/tables/20250616130140-update-initiative-class.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
           }
         ]
       },
