@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3857                                          |
-| **Lines Removed** (➖) | 345                                        |
-| **Net Change** (↕)    | 3512                |
-| **Active Time** (⌚)   | 123 minutes |
+| **Lines Added** (➕)   | 3859                                          |
+| **Lines Removed** (➖) | 371                                        |
+| **Net Change** (↕)    | 3488                |
+| **Active Time** (⌚)   | 137 minutes |
 
 
 ## Modified Files
@@ -16,7 +16,7 @@
 - **Panel.scss** (+18, -8)
 - **Panel.tsx** (+33, -0)
 - **20240430205550-insert-initiative-class.js** (+15, -0)
-- **HelperGlossary.tsx** (+570, -295)
+- **HelperGlossary.tsx** (+572, -321)
 - **EditableTextInput.tsx** (+130, -0)
 - **20250616130140-update-initiative-class.js** (+29, -8)
 - **App.tsx** (+546, -0)
@@ -35,7 +35,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 3962
+".tsx" : 3990
 ".scss" : 64
 ".js" : 176
 ```
@@ -50,8 +50,8 @@ title Coding activity by hour (count of changes)
 "14h" : 13
 "15h" : 5
 "16h" : 19
-"17h" : 15
+"17h" : 25
 ```
 
 
-> **Last Updated:** 16/06/2025, 17:45:08
+> **Last Updated:** 16/06/2025, 17:50:08
