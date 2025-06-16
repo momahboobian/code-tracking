@@ -2,7 +2,7 @@
   "date": "2025-06-16",
   "projects": {
     "cda": {
-      "totalLinesAdded": 1608,
+      "totalLinesAdded": 1623,
       "totalLinesRemoved": 19,
       "totalActiveTime": 29,
       "files": {
@@ -362,6 +362,22 @@
             },
             "duration": 1,
             "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-db-migration/src/migrations/clear-view/tables/20240430205550-insert-initiative-class.js": [
+          {
+            "timestamp": "2025-06-16T09:29:31.349Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-db-migration/src/migrations/clear-view/tables/20240430205550-insert-initiative-class.js",
+            "fileType": ".js",
+            "linesAdded": 15,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
           }
         ]
       },
