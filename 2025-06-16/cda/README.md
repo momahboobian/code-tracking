@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3522                                          |
-| **Lines Removed** (➖) | 40                                        |
-| **Net Change** (↕)    | 3482                |
-| **Active Time** (⌚)   | 77 minutes |
+| **Lines Added** (➕)   | 3523                                          |
+| **Lines Removed** (➖) | 60                                        |
+| **Net Change** (↕)    | 3463                |
+| **Active Time** (⌚)   | 80 minutes |
 
 
 ## Modified Files
@@ -16,7 +16,7 @@
 - **Panel.scss** (+18, -8)
 - **Panel.tsx** (+33, -0)
 - **20240430205550-insert-initiative-class.js** (+15, -0)
-- **HelperGlossary.tsx** (+245, -10)
+- **HelperGlossary.tsx** (+246, -10)
 - **EditableTextInput.tsx** (+120, -0)
 - **20250616130140-update-initiative-class.js** (+29, -8)
 - **App.tsx** (+546, -0)
@@ -25,7 +25,7 @@
 - **Initiatives.tsx** (+126, -0)
 - **InitiativesFiltersAndTable.tsx** (+248, -3)
 - **20250616132159-update-initiative-type-data.js** (+25, -0)
-- **20250616145042-update-initiative-savings-categories-data.js** (+33, -0)
+- **20250616145042-update-initiative-savings-categories-data.js** (+33, -20)
 - **HelperModal.tsx** (+481, -0)
 
 ## Visualizations
@@ -35,9 +35,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 3342
+".tsx" : 3343
 ".scss" : 64
-".js" : 156
+".js" : 176
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -49,8 +49,8 @@ title Coding activity by hour (count of changes)
 "10h" : 29
 "14h" : 13
 "15h" : 5
-"16h" : 1
+"16h" : 3
 ```
 
 
-> **Last Updated:** 16/06/2025, 16:05:08
+> **Last Updated:** 16/06/2025, 16:15:08
