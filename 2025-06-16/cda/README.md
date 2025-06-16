@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2982                                          |
+| **Lines Added** (➕)   | 3007                                          |
 | **Lines Removed** (➖) | 39                                        |
-| **Net Change** (↕)    | 2943                |
-| **Active Time** (⌚)   | 69 minutes |
+| **Net Change** (↕)    | 2968                |
+| **Active Time** (⌚)   | 72 minutes |
 
 
 ## Modified Files
@@ -24,6 +24,7 @@
 - **20250616130140-update-initiative-class-data.js** (+21, -0)
 - **Initiatives.tsx** (+126, -0)
 - **InitiativesFiltersAndTable.tsx** (+248, -3)
+- **20250616132159-update-initiative-type-data.js** (+25, -0)
 
 ## Visualizations
 
@@ -34,7 +35,7 @@ pie showData
 title Lines changed by file type
 ".tsx" : 2859
 ".scss" : 64
-".js" : 98
+".js" : 123
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -44,8 +45,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "09h" : 7
 "10h" : 29
-"14h" : 12
+"14h" : 13
 ```
 
 
-> **Last Updated:** 16/06/2025, 14:45:08
+> **Last Updated:** 16/06/2025, 14:50:08
