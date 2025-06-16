@@ -2,9 +2,9 @@
   "date": "2025-06-16",
   "projects": {
     "cda": {
-      "totalLinesAdded": 2562,
+      "totalLinesAdded": 2587,
       "totalLinesRemoved": 36,
-      "totalActiveTime": 60,
+      "totalActiveTime": 61,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/containers/InitiativeDetails/InitiativeDetails.tsx": [
           {
@@ -610,6 +610,36 @@
             },
             "duration": 4,
             "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-db-migration/src/migrations/clear-view/tables/20250616132159-update-initiative-status-data.js": [
+          {
+            "timestamp": "2025-06-16T13:29:50.289Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-db-migration/src/migrations/clear-view/tables/20250616132159-update-initiative-status-data.js",
+            "fileType": ".js",
+            "linesAdded": 17,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-06-16T13:30:02.782Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-db-migration/src/migrations/clear-view/tables/20250616132159-update-initiative-status-data.js",
+            "fileType": ".js",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
           }
         ]
       },
