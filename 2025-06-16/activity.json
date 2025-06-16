@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 3566,
-      "totalLinesRemoved": 62,
-      "totalActiveTime": 95,
+      "totalLinesRemoved": 79,
+      "totalActiveTime": 96,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/containers/InitiativeDetails/InitiativeDetails.tsx": [
           {
@@ -681,6 +681,34 @@
             "fileType": ".tsx",
             "linesAdded": 1,
             "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-06-16T15:59:15.334Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/containers/HelperGlossary/HelperGlossary.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 15,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-06-16T15:59:23.407Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/containers/HelperGlossary/HelperGlossary.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
             "projectName": "cda",
             "content": {
               "added": [],
