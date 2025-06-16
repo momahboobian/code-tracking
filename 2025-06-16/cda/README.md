@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3859                                          |
-| **Lines Removed** (➖) | 371                                        |
-| **Net Change** (↕)    | 3488                |
-| **Active Time** (⌚)   | 137 minutes |
+| **Lines Added** (➕)   | 4362                                          |
+| **Lines Removed** (➖) | 372                                        |
+| **Net Change** (↕)    | 3990                |
+| **Active Time** (⌚)   | 144 minutes |
 
 
 ## Modified Files
@@ -27,6 +27,7 @@
 - **20250616132159-update-initiative-type-data.js** (+25, -0)
 - **20250616145042-update-initiative-savings-categories-data.js** (+33, -20)
 - **HelperModal.tsx** (+481, -0)
+- **PoolDetails.tsx** (+503, -1)
 
 ## Visualizations
 
@@ -35,7 +36,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 3990
+".tsx" : 4494
 ".scss" : 64
 ".js" : 176
 ```
@@ -50,8 +51,8 @@ title Coding activity by hour (count of changes)
 "14h" : 13
 "15h" : 5
 "16h" : 19
-"17h" : 25
+"17h" : 28
 ```
 
 
-> **Last Updated:** 16/06/2025, 17:50:08
+> **Last Updated:** 16/06/2025, 17:55:08
