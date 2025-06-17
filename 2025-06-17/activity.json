@@ -2,7 +2,7 @@
   "date": "2025-06-17",
   "projects": {
     "cda": {
-      "totalLinesAdded": 1,
+      "totalLinesAdded": 126,
       "totalLinesRemoved": 0,
       "totalActiveTime": 0,
       "files": {
@@ -12,6 +12,22 @@
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/containers/HelperGlossary/HelperGlossary.tsx",
             "fileType": ".tsx",
             "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/organisms/InitiativeHeadcountForecasts/InitiativeHeadcountForecasts.tsx": [
+          {
+            "timestamp": "2025-06-17T09:39:00.478Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/organisms/InitiativeHeadcountForecasts/InitiativeHeadcountForecasts.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 125,
             "linesRemoved": 0,
             "projectName": "cda",
             "content": {
