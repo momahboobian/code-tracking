@@ -2,7 +2,7 @@
   "date": "2025-06-17",
   "projects": {
     "cda": {
-      "totalLinesAdded": 23567,
+      "totalLinesAdded": 23990,
       "totalLinesRemoved": 737,
       "totalActiveTime": 225,
       "files": {
@@ -2306,6 +2306,22 @@
             },
             "duration": 1,
             "language": "js"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/high-risk-schema/resolvers/clear-view-mutations.ts": [
+          {
+            "timestamp": "2025-06-17T20:50:28.609Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/high-risk-schema/resolvers/clear-view-mutations.ts",
+            "fileType": ".ts",
+            "linesAdded": 423,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
           }
         ]
       },
