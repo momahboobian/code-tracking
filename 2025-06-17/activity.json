@@ -2,7 +2,7 @@
   "date": "2025-06-17",
   "projects": {
     "cda": {
-      "totalLinesAdded": 40118,
+      "totalLinesAdded": 40119,
       "totalLinesRemoved": 739,
       "totalActiveTime": 253,
       "files": {
@@ -2425,6 +2425,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-06-17T21:45:08.212Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/high-risk-schema/resolvers/clear-view-queries.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "ts"
           }
         ],
