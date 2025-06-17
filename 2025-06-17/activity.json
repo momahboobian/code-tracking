@@ -2,9 +2,9 @@
   "date": "2025-06-17",
   "projects": {
     "cda": {
-      "totalLinesAdded": 640,
+      "totalLinesAdded": 808,
       "totalLinesRemoved": 409,
-      "totalActiveTime": 102,
+      "totalActiveTime": 108,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/containers/HelperGlossary/HelperGlossary.tsx": [
           {
@@ -960,6 +960,52 @@
             },
             "duration": 0,
             "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/molecules/PositionDetails/PositionDetails.tsx": [
+          {
+            "timestamp": "2025-06-17T11:12:35.467Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/molecules/PositionDetails/PositionDetails.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 83,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/organisms/PoolEvent/PoolEvent.scss": [
+          {
+            "timestamp": "2025-06-17T11:13:21.518Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/organisms/PoolEvent/PoolEvent.scss",
+            "fileType": ".scss",
+            "linesAdded": 84,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2025-06-17T11:13:23.894Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/organisms/PoolEvent/PoolEvent.scss",
+            "fileType": ".scss",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
           }
         ]
       },
