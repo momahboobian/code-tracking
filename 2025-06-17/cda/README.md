@@ -4,17 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 808                                          |
-| **Lines Removed** (➖) | 409                                        |
+| **Lines Added** (➕)   | 810                                          |
+| **Lines Removed** (➖) | 411                                        |
 | **Net Change** (↕)    | 399                |
-| **Active Time** (⌚)   | 108 minutes |
+| **Active Time** (⌚)   | 114 minutes |
 
 
 ## Modified Files
 - **HelperGlossary.tsx** (+515, -409)
 - **InitiativeHeadcountForecasts.tsx** (+125, -0)
 - **PositionDetails.tsx** (+83, -0)
-- **PoolEvent.scss** (+85, -0)
+- **PoolEvent.scss** (+87, -2)
 
 ## Visualizations
 
@@ -24,7 +24,7 @@
 pie showData
 title Lines changed by file type
 ".tsx" : 1132
-".scss" : 85
+".scss" : 89
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -34,8 +34,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "10h" : 5
 "11h" : 53
-"12h" : 13
+"12h" : 17
 ```
 
 
-> **Last Updated:** 17/06/2025, 12:15:09
+> **Last Updated:** 17/06/2025, 12:20:09
