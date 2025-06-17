@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 2122,
-      "totalLinesRemoved": 693,
-      "totalActiveTime": 167,
+      "totalLinesRemoved": 695,
+      "totalActiveTime": 171,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/containers/HelperGlossary/HelperGlossary.tsx": [
           {
@@ -1719,6 +1719,20 @@
             "fileType": ".js",
             "linesAdded": 29,
             "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-06-17T13:24:33.275Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-db-migration/src/migrations/clear-view/tables/20250617122856-create-helper-tool-tip-table.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 2,
             "projectName": "cda",
             "content": {
               "added": [],
