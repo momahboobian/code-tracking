@@ -5,9 +5,9 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 42697                                          |
-| **Lines Removed** (➖) | 5783                                        |
-| **Net Change** (↕)    | 36914                |
-| **Active Time** (⌚)   | 263 minutes |
+| **Lines Removed** (➖) | 5804                                        |
+| **Net Change** (↕)    | 36893                |
+| **Active Time** (⌚)   | 264 minutes |
 
 
 ## Modified Files
@@ -30,7 +30,7 @@
 - **DetailsField.tsx** (+225, -0)
 - **20250617142022-helper-text-views.js** (+22, -10)
 - **tables.ts** (+5422, -0)
-- **views.ts** (+8243, -0)
+- **views.ts** (+8243, -20)
 - **clear_view_tables.ts** (+929, -0)
 - **clear_view_views.ts** (+3050, -0)
 - **EftTotals.test.tsx** (+56, -0)
@@ -38,7 +38,7 @@
 - **clear-view-mutations.ts** (+424, -1)
 - **clear-view-queries.js** (+471, -0)
 - **clear-view-mutations.js** (+552, -0)
-- **clear-view-queries.ts** (+624, -0)
+- **clear-view-queries.ts** (+624, -1)
 - **resolvers-types.ts** (+16256, -5044)
 - **ClearView.ts** (+339, -1)
 - **SystemService.ts** (+424, -0)
@@ -52,7 +52,7 @@ pie showData
 title Lines changed by file type
 ".tsx" : 4676
 ".scss" : 385
-".ts" : 41276
+".ts" : 41297
 ".js" : 2143
 ```
 
@@ -70,7 +70,8 @@ title Coding activity by hour (count of changes)
 "16h" : 1
 "21h" : 6
 "22h" : 23
+"23h" : 2
 ```
 
 
-> **Last Updated:** 17/06/2025, 23:01:49
+> **Last Updated:** 17/06/2025, 23:11:49
