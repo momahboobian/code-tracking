@@ -2,9 +2,9 @@
   "date": "2025-06-17",
   "projects": {
     "cda": {
-      "totalLinesAdded": 2122,
-      "totalLinesRemoved": 695,
-      "totalActiveTime": 171,
+      "totalLinesAdded": 2129,
+      "totalLinesRemoved": 702,
+      "totalActiveTime": 174,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/containers/HelperGlossary/HelperGlossary.tsx": [
           {
@@ -1623,6 +1623,34 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-06-17T13:30:26.263Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/stringConfig.ts",
+            "fileType": ".ts",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-06-17T13:32:34.479Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/stringConfig.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 7,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "ts"
           }
         ],
