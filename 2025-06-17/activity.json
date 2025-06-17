@@ -2,9 +2,9 @@
   "date": "2025-06-17",
   "projects": {
     "cda": {
-      "totalLinesAdded": 42657,
-      "totalLinesRemoved": 5781,
-      "totalActiveTime": 261,
+      "totalLinesAdded": 42697,
+      "totalLinesRemoved": 5783,
+      "totalActiveTime": 263,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/containers/HelperGlossary/HelperGlossary.tsx": [
           {
@@ -2170,6 +2170,20 @@
             },
             "duration": 0,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-06-17T21:59:26.307Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/types/db/tables.ts",
+            "fileType": ".ts",
+            "linesAdded": 20,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/types/db/views.ts": [
@@ -2178,6 +2192,20 @@
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/types/db/views.ts",
             "fileType": ".ts",
             "linesAdded": 8223,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-06-17T21:59:26.392Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/types/db/views.ts",
+            "fileType": ".ts",
+            "linesAdded": 20,
             "linesRemoved": 0,
             "projectName": "cda",
             "content": {
@@ -2511,6 +2539,20 @@
               "removed": []
             },
             "duration": 3,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-06-17T21:59:44.737Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/types/gql-generated/high-risk/resolvers-types.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "ts"
           }
         ],
