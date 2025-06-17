@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 4908                                          |
+| **Lines Added** (➕)   | 22512                                          |
 | **Lines Removed** (➖) | 733                                        |
-| **Net Change** (↕)    | 4175                |
-| **Active Time** (⌚)   | 218 minutes |
+| **Net Change** (↕)    | 21779                |
+| **Active Time** (⌚)   | 221 minutes |
 
 
 ## Modified Files
@@ -29,6 +29,10 @@
 - **InitiativesFiltersAndTable.tsx** (+248, -0)
 - **DetailsField.tsx** (+225, -0)
 - **20250617142022-helper-text-views.js** (+22, -10)
+- **tables.ts** (+5402, -0)
+- **views.ts** (+8223, -0)
+- **clear_view_tables.ts** (+929, -0)
+- **clear_view_views.ts** (+3050, -0)
 
 ## Visualizations
 
@@ -39,7 +43,7 @@ pie showData
 title Lines changed by file type
 ".tsx" : 4620
 ".scss" : 385
-".ts" : 519
+".ts" : 18123
 ".js" : 117
 ```
 
@@ -53,8 +57,8 @@ title Coding activity by hour (count of changes)
 "12h" : 57
 "13h" : 5
 "14h" : 11
-"15h" : 20
+"15h" : 24
 ```
 
 
-> **Last Updated:** 17/06/2025, 15:22:54
+> **Last Updated:** 17/06/2025, 15:32:54
