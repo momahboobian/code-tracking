@@ -4,21 +4,21 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3804                                          |
+| **Lines Added** (➕)   | 4368                                          |
 | **Lines Removed** (➖) | 952                                        |
-| **Net Change** (↕)    | 2852                |
-| **Active Time** (⌚)   | 223 minutes |
+| **Net Change** (↕)    | 3416                |
+| **Active Time** (⌚)   | 229 minutes |
 
 
 ## Modified Files
-- **clear-view-mutations.js** (+39, -32)
+- **clear-view-mutations.js** (+598, -32)
 - **clear-view-queries.ts** (+717, -70)
 - **clear-view-mutations.ts** (+552, -91)
 - **resolvers-types.ts** (+142, -109)
 - **ClearView.ts** (+29, -24)
 - **HelperTextService.ts** (+137, -31)
 - **clear-view-types.js** (+1059, -62)
-- **clear-view-queries.js** (+530, -48)
+- **clear-view-queries.js** (+535, -48)
 - **SystemService.ts** (+56, -56)
 - **clear_view_views.ts** (+80, -80)
 - **App.tsx** (+36, -36)
@@ -40,7 +40,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".js" : 1820
+".js" : 2384
 ".ts" : 2214
 ".tsx" : 202
 ".scss" : 520
@@ -55,8 +55,8 @@ title Coding activity by hour (count of changes)
 "09h" : 55
 "10h" : 59
 "11h" : 7
-"12h" : 7
+"12h" : 9
 ```
 
 
-> **Last Updated:** 18/06/2025, 12:27:19
+> **Last Updated:** 18/06/2025, 12:32:19
