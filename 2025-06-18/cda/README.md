@@ -4,31 +4,33 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 604                                          |
-| **Lines Removed** (➖) | 422                                        |
-| **Net Change** (↕)    | 182                |
-| **Active Time** (⌚)   | 140 minutes |
+| **Lines Added** (➕)   | 1187                                          |
+| **Lines Removed** (➖) | 931                                        |
+| **Net Change** (↕)    | 256                |
+| **Active Time** (⌚)   | 205 minutes |
 
 
 ## Modified Files
-- **clear-view-mutations.js** (+23, -16)
-- **clear-view-queries.ts** (+50, -38)
-- **clear-view-mutations.ts** (+58, -39)
-- **resolvers-types.ts** (+33, -0)
-- **ClearView.ts** (+19, -14)
+- **clear-view-mutations.js** (+39, -32)
+- **clear-view-queries.ts** (+82, -70)
+- **clear-view-mutations.ts** (+96, -77)
+- **resolvers-types.ts** (+142, -109)
+- **ClearView.ts** (+29, -24)
 - **HelperTextService.ts** (+137, -31)
-- **clear-view-types.js** (+30, -30)
-- **clear-view-queries.js** (+24, -24)
-- **SystemService.ts** (+28, -28)
-- **clear_view_views.ts** (+40, -40)
-- **App.tsx** (+18, -18)
-- **Panel.tsx** (+2, -2)
-- **DetailsField.tsx** (+8, -8)
-- **PoolEvent.scss** (+23, -23)
-- **InitiativesFiltersAndTable.tsx** (+3, -3)
-- **App.scss** (+77, -77)
-- **PoolPositionAmountsPanel.scss** (+30, -30)
-- **RouteWrapper.tsx** (+1, -1)
+- **clear-view-types.js** (+60, -60)
+- **clear-view-queries.js** (+48, -48)
+- **SystemService.ts** (+56, -56)
+- **clear_view_views.ts** (+80, -80)
+- **App.tsx** (+36, -36)
+- **Panel.tsx** (+4, -4)
+- **DetailsField.tsx** (+16, -16)
+- **PoolEvent.scss** (+46, -46)
+- **InitiativesFiltersAndTable.tsx** (+6, -6)
+- **App.scss** (+154, -154)
+- **PoolPositionAmountsPanel.scss** (+60, -60)
+- **RouteWrapper.tsx** (+2, -2)
+- **DetailsToolTip.tsx** (+74, -0)
+- **clear_view_tables.ts** (+20, -20)
 
 ## Visualizations
 
@@ -37,10 +39,10 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".js" : 147
-".ts" : 555
-".tsx" : 64
-".scss" : 260
+".js" : 287
+".ts" : 1109
+".tsx" : 202
+".scss" : 520
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -50,7 +52,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "00h" : 40
 "09h" : 55
+"10h" : 59
 ```
 
 
-> **Last Updated:** 18/06/2025, 09:41:07
+> **Last Updated:** 18/06/2025, 10:46:07
