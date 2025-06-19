@@ -4,16 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 63983                                          |
+| **Lines Added** (➕)   | 64874                                          |
 | **Lines Removed** (➖) | 11794                                        |
-| **Net Change** (↕)    | 52189                |
+| **Net Change** (↕)    | 53080                |
 | **Active Time** (⌚)   | 336 minutes |
 
 
 ## Modified Files
 - **clear-view-types.js** (+1005, -36)
 - **HelperTextService.ts** (+302, -98)
-- **clear-view-queries.ts** (+650, -15)
+- **clear-view-queries.ts** (+678, -15)
 - **clear-view-mutations.ts** (+896, -452)
 - **resolvers-types.ts** (+32873, -10274)
 - **InitiativeService.ts** (+561, -0)
@@ -29,10 +29,12 @@
 - **clear-view-mutations.js** (+559, -0)
 - **index.ts** (+69, -0)
 - **clear_view_tables.ts** (+921, -0)
-- **clear_view_views.ts** (+3042, -0)
+- **clear_view_views.ts** (+3123, -0)
 - **SystemService.ts** (+425, -13)
 - **MockSystemService.ts** (+192, -17)
 - **MockView.ts** (+47, -0)
+- **DetailsField.tsx** (+227, -0)
+- **App.tsx** (+555, -0)
 
 ## Visualizations
 
@@ -42,7 +44,8 @@
 pie showData
 title Lines changed by file type
 ".js" : 2191
-".ts" : 73586
+".ts" : 73695
+".tsx" : 782
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -61,8 +64,8 @@ title Coding activity by hour (count of changes)
 "19h" : 2
 "20h" : 13
 "21h" : 12
-"22h" : 16
+"22h" : 20
 ```
 
 
-> **Last Updated:** 19/06/2025, 22:31:45
+> **Last Updated:** 19/06/2025, 22:41:45
