@@ -2,9 +2,9 @@
   "date": "2025-06-19",
   "projects": {
     "cda": {
-      "totalLinesAdded": 44104,
-      "totalLinesRemoved": 10846,
-      "totalActiveTime": 110,
+      "totalLinesAdded": 44106,
+      "totalLinesRemoved": 10848,
+      "totalActiveTime": 116,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/high-risk-schema/definitions/clear-view-types.js": [
           {
@@ -463,6 +463,34 @@
             "fileType": ".ts",
             "linesAdded": 4,
             "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-06-19T12:25:46.848Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/clear-view/HelperTextService.ts",
+            "fileType": ".ts",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-06-19T12:26:05.103Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/clear-view/HelperTextService.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 2,
             "projectName": "cda",
             "content": {
               "added": [],
