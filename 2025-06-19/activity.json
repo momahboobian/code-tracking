@@ -2,7 +2,7 @@
   "date": "2025-06-19",
   "projects": {
     "cda": {
-      "totalLinesAdded": 44889,
+      "totalLinesAdded": 44893,
       "totalLinesRemoved": 11585,
       "totalActiveTime": 136,
       "files": {
@@ -1289,6 +1289,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-06-19T12:50:07.137Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/unit/services/clear-view/HelperTextService.test.ts",
+            "fileType": ".ts",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "ts"
           }
         ]
