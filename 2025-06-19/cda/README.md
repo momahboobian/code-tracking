@@ -4,15 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 58016                                          |
+| **Lines Added** (➕)   | 61983                                          |
 | **Lines Removed** (➖) | 11636                                        |
-| **Net Change** (↕)    | 46380                |
-| **Active Time** (⌚)   | 184 minutes |
+| **Net Change** (↕)    | 50347                |
+| **Active Time** (⌚)   | 192 minutes |
 
 
 ## Modified Files
 - **clear-view-types.js** (+1005, -36)
-- **HelperTextService.ts** (+292, -91)
+- **HelperTextService.ts** (+296, -91)
 - **clear-view-queries.ts** (+1, -1)
 - **clear-view-mutations.ts** (+452, -450)
 - **resolvers-types.ts** (+32872, -10274)
@@ -28,6 +28,8 @@
 - **20250619151034-insert-data-to-helper-text-table.js** (+33, -0)
 - **clear-view-mutations.js** (+559, -0)
 - **index.ts** (+69, -0)
+- **clear_view_tables.ts** (+921, -0)
+- **clear_view_views.ts** (+3042, -0)
 
 ## Visualizations
 
@@ -37,7 +39,7 @@
 pie showData
 title Lines changed by file type
 ".js" : 2191
-".ts" : 67461
+".ts" : 71428
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -50,8 +52,8 @@ title Coding activity by hour (count of changes)
 "12h" : 28
 "13h" : 38
 "14h" : 5
-"16h" : 16
+"16h" : 20
 ```
 
 
-> **Last Updated:** 19/06/2025, 16:40:42
+> **Last Updated:** 19/06/2025, 16:45:42
