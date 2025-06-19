@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 61983,
-      "totalLinesRemoved": 11636,
-      "totalActiveTime": 192,
+      "totalLinesRemoved": 11639,
+      "totalActiveTime": 197,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/high-risk-schema/definitions/clear-view-types.js": [
           {
@@ -665,6 +665,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-06-19T15:48:10.684Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/clear-view/HelperTextService.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "ts"
           }
         ],
