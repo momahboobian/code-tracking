@@ -4,15 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 109                                          |
-| **Lines Removed** (➖) | 36                                        |
-| **Net Change** (↕)    | 73                |
-| **Active Time** (⌚)   | 4 minutes |
+| **Lines Added** (➕)   | 124                                          |
+| **Lines Removed** (➖) | 52                                        |
+| **Net Change** (↕)    | 72                |
+| **Active Time** (⌚)   | 13 minutes |
 
 
 ## Modified Files
 - **clear-view-types.js** (+3, -36)
-- **HelperTextService.ts** (+106, -0)
+- **HelperTextService.ts** (+120, -15)
+- **clear-view-queries.ts** (+1, -1)
 
 ## Visualizations
 
@@ -22,7 +23,7 @@
 pie showData
 title Lines changed by file type
 ".js" : 39
-".ts" : 106
+".ts" : 137
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -30,8 +31,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"10h" : 6
+"10h" : 13
 ```
 
 
-> **Last Updated:** 19/06/2025, 10:53:21
+> **Last Updated:** 19/06/2025, 10:58:21
