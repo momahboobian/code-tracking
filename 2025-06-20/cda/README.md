@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 27212                                          |
-| **Lines Removed** (➖) | 73                                        |
-| **Net Change** (↕)    | 27139                |
-| **Active Time** (⌚)   | 107 minutes |
+| **Lines Added** (➕)   | 27533                                          |
+| **Lines Removed** (➖) | 141                                        |
+| **Net Change** (↕)    | 27392                |
+| **Active Time** (⌚)   | 114 minutes |
 
 
 ## Modified Files
@@ -24,14 +24,14 @@
 - **ClearView.ts** (+345, -1)
 - **clear_view_views.ts** (+3030, -0)
 - **graphql.ts** (+7044, -0)
-- **resolvers-types.ts** (+11182, -0)
+- **resolvers-types.ts** (+11435, -0)
 - **App.tsx** (+556, -1)
 - **helperText.ts** (+36, -0)
 - **helperText.ts** (+69, -29)
 - **HelperTextService.test.ts** (+194, -2)
 - **errors.test.ts** (+29, -0)
 - **20250617122856-create-helper-text-table.js** (+17, -0)
-- **helperText.ts** (+78, -9)
+- **helperText.ts** (+146, -77)
 
 ## Visualizations
 
@@ -40,7 +40,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 24710
+".ts" : 25099
 ".js" : 2018
 ".tsx" : 557
 ```
@@ -53,8 +53,8 @@ title Coding activity by hour (count of changes)
 "09h" : 6
 "10h" : 18
 "11h" : 20
-"12h" : 30
+"12h" : 33
 ```
 
 
-> **Last Updated:** 20/06/2025, 12:53:06
+> **Last Updated:** 20/06/2025, 12:58:06
