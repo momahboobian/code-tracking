@@ -2,7 +2,7 @@
   "date": "2025-06-23",
   "projects": {
     "cda": {
-      "totalLinesAdded": 12492,
+      "totalLinesAdded": 12756,
       "totalLinesRemoved": 70,
       "totalActiveTime": 109,
       "files": {
@@ -1088,6 +1088,22 @@
             },
             "duration": 1,
             "language": "js"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/graphql/high-risk/queries/system.ts": [
+          {
+            "timestamp": "2025-06-23T13:54:08.469Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/graphql/high-risk/queries/system.ts",
+            "fileType": ".ts",
+            "linesAdded": 264,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
           }
         ]
       },
