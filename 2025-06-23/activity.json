@@ -2,7 +2,7 @@
   "date": "2025-06-23",
   "projects": {
     "cda": {
-      "totalLinesAdded": 7822,
+      "totalLinesAdded": 9708,
       "totalLinesRemoved": 0,
       "totalActiveTime": 4,
       "files": {
@@ -78,6 +78,22 @@
             },
             "duration": 1,
             "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/high-risk-schema/clear-view/initiatives.ts": [
+          {
+            "timestamp": "2025-06-23T09:47:22.479Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/high-risk-schema/clear-view/initiatives.ts",
+            "fileType": ".ts",
+            "linesAdded": 1886,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
           }
         ]
       },
