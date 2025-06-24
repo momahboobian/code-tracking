@@ -2,9 +2,9 @@
   "date": "2025-06-24",
   "projects": {
     "cda": {
-      "totalLinesAdded": 6200,
+      "totalLinesAdded": 6434,
       "totalLinesRemoved": 1390,
-      "totalActiveTime": 327,
+      "totalActiveTime": 328,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/clear-view/SystemService.ts": [
           {
@@ -2848,6 +2848,36 @@
             },
             "duration": 0,
             "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/src/App.tsx": [
+          {
+            "timestamp": "2025-06-24T15:44:30.594Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/src/App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 230,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-06-24T15:44:43.047Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/src/App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ]
       },
