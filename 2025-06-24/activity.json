@@ -2,9 +2,9 @@
   "date": "2025-06-24",
   "projects": {
     "cda": {
-      "totalLinesAdded": 5005,
+      "totalLinesAdded": 5058,
       "totalLinesRemoved": 403,
-      "totalActiveTime": 325,
+      "totalActiveTime": 327,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/clear-view/SystemService.ts": [
           {
@@ -2722,6 +2722,34 @@
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/unit/services/clear-view/SystemService.test.ts",
             "fileType": ".ts",
             "linesAdded": 28,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-06-24T15:11:46.957Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/unit/services/clear-view/SystemService.test.ts",
+            "fileType": ".ts",
+            "linesAdded": 26,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-06-24T15:12:01.522Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/unit/services/clear-view/SystemService.test.ts",
+            "fileType": ".ts",
+            "linesAdded": 27,
             "linesRemoved": 0,
             "projectName": "cda",
             "content": {
