@@ -2,9 +2,9 @@
   "date": "2025-06-24",
   "projects": {
     "cda": {
-      "totalLinesAdded": 4229,
+      "totalLinesAdded": 4253,
       "totalLinesRemoved": 399,
-      "totalActiveTime": 302,
+      "totalActiveTime": 307,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/clear-view/SystemService.ts": [
           {
@@ -2470,6 +2470,48 @@
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/unit/services/clear-view/SystemService.test.ts",
             "fileType": ".ts",
             "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-06-24T14:52:43.965Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/unit/services/clear-view/SystemService.test.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-06-24T14:53:32.209Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/unit/services/clear-view/SystemService.test.ts",
+            "fileType": ".ts",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-06-24T14:54:47.007Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/unit/services/clear-view/SystemService.test.ts",
+            "fileType": ".ts",
+            "linesAdded": 21,
             "linesRemoved": 0,
             "projectName": "cda",
             "content": {
