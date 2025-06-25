@@ -281,6 +281,39 @@
         "/Users/momahboobian/Library/Application Support/Code/User/settings.json"
       ],
       "averageChangeSize": 52.5
+    },
+    "samplePdf": {
+      "totalLinesAdded": 83,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/app.py": [
+          {
+            "timestamp": "2025-06-25T20:35:31.820Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/app.py",
+            "fileType": ".py",
+            "linesAdded": 83,
+            "linesRemoved": 0,
+            "projectName": "samplePdf",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          }
+        ]
+      },
+      "languageStats": {
+        "py": 0
+      },
+      "changeFrequency": {
+        "21": 0
+      },
+      "topFiles": [
+        "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/app.py"
+      ],
+      "averageChangeSize": 83
     }
   },
   "totalActiveTime": 1,
