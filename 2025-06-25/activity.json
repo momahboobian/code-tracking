@@ -283,9 +283,9 @@
       "averageChangeSize": 52.5
     },
     "samplePdf": {
-      "totalLinesAdded": 293,
-      "totalLinesRemoved": 6,
-      "totalActiveTime": 13,
+      "totalLinesAdded": 380,
+      "totalLinesRemoved": 8,
+      "totalActiveTime": 22,
       "files": {
         "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/app.py": [
           {
@@ -343,6 +343,20 @@
             },
             "duration": 2,
             "language": "py"
+          },
+          {
+            "timestamp": "2025-06-25T20:44:33.452Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/app.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "samplePdf",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "py"
           }
         ],
         "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/processing/processing_workflow.py": [
@@ -358,6 +372,36 @@
               "removed": []
             },
             "duration": 5,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-06-25T20:44:33.450Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/processing/processing_workflow.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "samplePdf",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "py"
+          }
+        ],
+        "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/processing/file_upload.py": [
+          {
+            "timestamp": "2025-06-25T20:44:33.453Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/processing/file_upload.py",
+            "fileType": ".py",
+            "linesAdded": 87,
+            "linesRemoved": 0,
+            "projectName": "samplePdf",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "py"
           }
         ]
