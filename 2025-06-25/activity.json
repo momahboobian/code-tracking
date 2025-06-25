@@ -283,9 +283,9 @@
       "averageChangeSize": 52.5
     },
     "samplePdf": {
-      "totalLinesAdded": 477,
-      "totalLinesRemoved": 8,
-      "totalActiveTime": 25,
+      "totalLinesAdded": 551,
+      "totalLinesRemoved": 22,
+      "totalActiveTime": 32,
       "files": {
         "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/app.py": [
           {
@@ -446,6 +446,36 @@
               "removed": []
             },
             "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-06-25T21:04:25.723Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/db/schema.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 14,
+            "projectName": "samplePdf",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
+          }
+        ],
+        "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/pdf_extraction/extract_site_totals.py": [
+          {
+            "timestamp": "2025-06-25T21:08:38.985Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/_Python/samplePdf/pdf_extraction/extract_site_totals.py",
+            "fileType": ".py",
+            "linesAdded": 74,
+            "linesRemoved": 0,
+            "projectName": "samplePdf",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "py"
           }
         ]
