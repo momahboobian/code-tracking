@@ -2,7 +2,7 @@
   "date": "2025-06-26",
   "projects": {
     "cda": {
-      "totalLinesAdded": 32852,
+      "totalLinesAdded": 32858,
       "totalLinesRemoved": 4208,
       "totalActiveTime": 343,
       "files": {
@@ -2983,6 +2983,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-06-26T20:12:13.562Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/clear-view/AdminService.ts",
+            "fileType": ".ts",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "ts"
           }
         ],
