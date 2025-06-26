@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 31515                                          |
-| **Lines Removed** (➖) | 3847                                        |
-| **Net Change** (↕)    | 27668                |
-| **Active Time** (⌚)   | 269 minutes |
+| **Lines Added** (➕)   | 31568                                          |
+| **Lines Removed** (➖) | 3870                                        |
+| **Net Change** (↕)    | 27698                |
+| **Active Time** (⌚)   | 276 minutes |
 
 
 ## Modified Files
@@ -16,14 +16,14 @@
 - **SystemService.ts** (+724, -302)
 - **clear-view-mutations.ts** (+610, -16)
 - **clear-view-queries.js** (+500, -0)
-- **resolvers-types.ts** (+14506, -2677)
+- **resolvers-types.ts** (+14552, -2677)
 - **index.ts** (+79, -0)
 - **resolvers-types.ts** (+9038, -0)
 - **clear-view-types.js** (+1076, -0)
 - **HelperTextService.test.ts** (+194, -0)
 - **helperText.ts** (+199, -9)
-- **clear-view-mutations.js** (+680, -2)
-- **AdminService.ts** (+259, -10)
+- **clear-view-mutations.js** (+680, -25)
+- **AdminService.ts** (+266, -10)
 - **HelperTextService.ts** (+94, -1)
 - **SystemService.test.ts** (+1691, -730)
 - **AdminService.test.ts** (+779, -13)
@@ -35,8 +35,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 33104
-".js" : 2258
+".ts" : 33157
+".js" : 2281
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -52,8 +52,8 @@ title Coding activity by hour (count of changes)
 "15h" : 6
 "16h" : 24
 "18h" : 15
-"19h" : 17
+"19h" : 20
 ```
 
 
-> **Last Updated:** 26/06/2025, 19:27:57
+> **Last Updated:** 26/06/2025, 19:32:57
