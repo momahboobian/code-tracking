@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 31394,
-      "totalLinesRemoved": 3827,
-      "totalActiveTime": 226,
+      "totalLinesRemoved": 3830,
+      "totalActiveTime": 229,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/high-risk-schema/clear-view/system.ts": [
           {
@@ -2165,6 +2165,20 @@
             "fileType": ".ts",
             "linesAdded": 5,
             "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-06-26T17:39:04.783Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/clear-view/AdminService.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 3,
             "projectName": "cda",
             "content": {
               "added": [],
