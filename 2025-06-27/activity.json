@@ -2,7 +2,7 @@
   "date": "2025-06-27",
   "projects": {
     "cda": {
-      "totalLinesAdded": 1797,
+      "totalLinesAdded": 2260,
       "totalLinesRemoved": 1912,
       "totalActiveTime": 73,
       "files": {
@@ -745,6 +745,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-06-27T12:40:25.356Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/high-risk-schema/clear-view/admin-mutations.ts",
+            "fileType": ".ts",
+            "linesAdded": 463,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "ts"
           }
         ]
