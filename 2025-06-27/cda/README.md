@@ -4,15 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 16791                                          |
-| **Lines Removed** (➖) | 1998                                        |
-| **Net Change** (↕)    | 14793                |
-| **Active Time** (⌚)   | 111 minutes |
+| **Lines Added** (➕)   | 17053                                          |
+| **Lines Removed** (➖) | 2037                                        |
+| **Net Change** (↕)    | 15016                |
+| **Active Time** (⌚)   | 122 minutes |
 
 
 ## Modified Files
 - **system.ts** (+401, -802)
-- **AdminService.ts** (+261, -2)
+- **AdminService.ts** (+521, -19)
 - **MockSystemService.ts** (+0, -97)
 - **MockAdminService.ts** (+284, -154)
 - **AdminService.test.ts** (+88, -32)
@@ -21,7 +21,7 @@
 - **index.ts** (+81, -0)
 - **resolvers-types.ts** (+11847, -0)
 - **clear-view-types.js** (+1140, -0)
-- **clear-view-mutations.ts** (+1168, -0)
+- **clear-view-mutations.ts** (+1170, -22)
 
 ## Visualizations
 
@@ -30,7 +30,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 17649
+".ts" : 17950
 ".js" : 1140
 ```
 
@@ -43,8 +43,8 @@ title Coding activity by hour (count of changes)
 "10h" : 3
 "12h" : 10
 "13h" : 33
-"14h" : 6
+"14h" : 12
 ```
 
 
-> **Last Updated:** 27/06/2025, 14:43:33
+> **Last Updated:** 27/06/2025, 14:48:33
