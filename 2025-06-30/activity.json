@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 28865,
-      "totalLinesRemoved": 2445,
-      "totalActiveTime": 366,
+      "totalLinesRemoved": 2454,
+      "totalActiveTime": 367,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/src/App.tsx": [
           {
@@ -2543,6 +2543,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-06-30T18:05:37.919Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/containers/HelperGlossary/HelperGlossary.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 9,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "tsx"
           }
         ],
