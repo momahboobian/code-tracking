@@ -4,15 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 14623                                          |
-| **Lines Removed** (➖) | 8                                        |
-| **Net Change** (↕)    | 14615                |
-| **Active Time** (⌚)   | 25 minutes |
+| **Lines Added** (➕)   | 14624                                          |
+| **Lines Removed** (➖) | 12                                        |
+| **Net Change** (↕)    | 14612                |
+| **Active Time** (⌚)   | 31 minutes |
 
 
 ## Modified Files
 - **App.tsx** (+234, -4)
-- **clear-view-queries.js** (+500, -4)
+- **clear-view-queries.js** (+501, -4)
 - **resolvers-types.ts** (+11848, -0)
 - **AllocateMonth.test.tsx** (+34, -0)
 - **MonthlyViewRow.scss** (+140, -0)
@@ -20,7 +20,7 @@
 - **gql.ts** (+136, -0)
 - **Home.tsx** (+415, -0)
 - **queries.ts** (+530, -0)
-- **clear-view-queries.ts** (+683, -0)
+- **clear-view-queries.ts** (+683, -4)
 
 ## Visualizations
 
@@ -30,8 +30,8 @@
 pie showData
 title Lines changed by file type
 ".tsx" : 687
-".js" : 504
-".ts" : 13300
+".js" : 505
+".ts" : 13304
 ".scss" : 140
 ```
 
@@ -41,8 +41,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "09h" : 2
-"11h" : 16
+"11h" : 18
 ```
 
 
-> **Last Updated:** 30/06/2025, 11:35:23
+> **Last Updated:** 30/06/2025, 11:40:23
