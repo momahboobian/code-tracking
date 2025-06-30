@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 28852                                          |
-| **Lines Removed** (➖) | 2000                                        |
-| **Net Change** (↕)    | 26852                |
-| **Active Time** (⌚)   | 359 minutes |
+| **Lines Added** (➕)   | 28865                                          |
+| **Lines Removed** (➖) | 2445                                        |
+| **Net Change** (↕)    | 26420                |
+| **Active Time** (⌚)   | 366 minutes |
 
 
 ## Modified Files
@@ -27,7 +27,7 @@
 - **gql.ts** (+724, -0)
 - **graphql.ts** (+7698, -0)
 - **App.tsx** (+576, -0)
-- **HelperGlossary.tsx** (+1813, -946)
+- **HelperGlossary.tsx** (+1826, -1391)
 - **admin.ts** (+337, -147)
 - **helperText.ts** (+36, -34)
 - **admin.ts** (+59, -4)
@@ -43,7 +43,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 4472
+".tsx" : 4930
 ".js" : 511
 ".ts" : 25656
 ".scss" : 213
@@ -63,8 +63,8 @@ title Coding activity by hour (count of changes)
 "16h" : 18
 "17h" : 27
 "18h" : 47
-"19h" : 1
+"19h" : 4
 ```
 
 
-> **Last Updated:** 30/06/2025, 19:00:24
+> **Last Updated:** 30/06/2025, 19:05:24
