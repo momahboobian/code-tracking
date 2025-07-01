@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 8619                                          |
-| **Lines Removed** (➖) | 1710                                        |
-| **Net Change** (↕)    | 6909                |
-| **Active Time** (⌚)   | 368 minutes |
+| **Lines Added** (➕)   | 8634                                          |
+| **Lines Removed** (➖) | 1720                                        |
+| **Net Change** (↕)    | 6914                |
+| **Active Time** (⌚)   | 373 minutes |
 
 
 ## Modified Files
@@ -36,7 +36,7 @@
 - **PoolEvent.tsx** (+139, -0)
 - **PoolPositionAmountsPanel.tsx** (+228, -0)
 - **CostActuals.tsx** (+130, -0)
-- **helperTextTransform.ts** (+494, -341)
+- **helperTextTransform.ts** (+509, -351)
 - **okay the one you have provided is not wo.ts** (+102, -0)
 
 ## Visualizations
@@ -46,7 +46,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 3575
+".ts" : 3600
 ".tsx" : 6754
 ```
 
@@ -65,7 +65,8 @@ title Coding activity by hour (count of changes)
 "16h" : 16
 "17h" : 33
 "18h" : 19
+"19h" : 4
 ```
 
 
-> **Last Updated:** 01/07/2025, 19:00:57
+> **Last Updated:** 01/07/2025, 19:05:57
