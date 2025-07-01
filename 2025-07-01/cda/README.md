@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 7820                                          |
-| **Lines Removed** (➖) | 1181                                        |
-| **Net Change** (↕)    | 6639                |
-| **Active Time** (⌚)   | 295 minutes |
+| **Lines Added** (➕)   | 7827                                          |
+| **Lines Removed** (➖) | 1183                                        |
+| **Net Change** (↕)    | 6644                |
+| **Active Time** (⌚)   | 300 minutes |
 
 
 ## Modified Files
@@ -15,7 +15,7 @@
 - **index.ts** (+3, -0)
 - **HelperAdmin.tsx** (+467, -2)
 - **index.ts** (+3, -0)
-- **AdminHelper.tsx** (+995, -540)
+- **AdminHelper.tsx** (+1002, -540)
 - **buildGlossaryPannels.ts** (+356, -45)
 - **gql.ts** (+54, -0)
 - **ast.d.ts** (+539, -0)
@@ -29,7 +29,7 @@
 - **helperPanels.test.ts** (+132, -27)
 - **helperPanels.ts** (+318, -0)
 - **HelperTextProvider.tsx** (+16, -0)
-- **HelperModal.tsx** (+586, -529)
+- **HelperModal.tsx** (+586, -531)
 - **DetailsField.tsx** (+257, -0)
 - **Panel.tsx** (+34, -0)
 - **CreateInitiative.tsx** (+832, -0)
@@ -45,7 +45,7 @@
 pie showData
 title Lines changed by file type
 ".ts" : 2594
-".tsx" : 6407
+".tsx" : 6416
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -61,8 +61,8 @@ title Coding activity by hour (count of changes)
 "14h" : 27
 "15h" : 31
 "16h" : 16
-"17h" : 12
+"17h" : 14
 ```
 
 
-> **Last Updated:** 01/07/2025, 17:20:57
+> **Last Updated:** 01/07/2025, 17:25:57
