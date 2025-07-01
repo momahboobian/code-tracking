@@ -2,9 +2,9 @@
   "date": "2025-07-01",
   "projects": {
     "cda": {
-      "totalLinesAdded": 3120,
-      "totalLinesRemoved": 588,
-      "totalActiveTime": 154,
+      "totalLinesAdded": 3130,
+      "totalLinesRemoved": 597,
+      "totalActiveTime": 164,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/containers/HelperGlossary/index.ts": [
           {
@@ -1517,6 +1517,118 @@
             "fileType": ".ts",
             "linesAdded": 1,
             "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-07-01T10:56:04.226Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/utils/hooks/helperPanels.test.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-07-01T10:56:21.562Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/utils/hooks/helperPanels.test.ts",
+            "fileType": ".ts",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-07-01T10:56:25.630Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/utils/hooks/helperPanels.test.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-07-01T10:56:38.817Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/utils/hooks/helperPanels.test.ts",
+            "fileType": ".ts",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-07-01T10:56:46.706Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/utils/hooks/helperPanels.test.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-07-01T10:56:51.365Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/utils/hooks/helperPanels.test.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-07-01T10:57:00.430Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/utils/hooks/helperPanels.test.ts",
+            "fileType": ".ts",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-07-01T10:57:05.545Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/utils/hooks/helperPanels.test.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 3,
             "projectName": "cda",
             "content": {
               "added": [],
