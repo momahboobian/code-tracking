@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 4556                                          |
+| **Lines Added** (➕)   | 4874                                          |
 | **Lines Removed** (➖) | 603                                        |
-| **Net Change** (↕)    | 3953                |
-| **Active Time** (⌚)   | 167 minutes |
+| **Net Change** (↕)    | 4271                |
+| **Active Time** (⌚)   | 168 minutes |
 
 
 ## Modified Files
@@ -22,7 +22,7 @@
 - **buildGlossaryPanels.ts** (+317, -0)
 - **GroupMembersView.tsx** (+220, -0)
 - **helperPanels.test.ts** (+130, -32)
-- **helperPanels.ts** (+317, -0)
+- **helperPanels.ts** (+635, -0)
 - **App.tsx** (+576, -0)
 - **InitiativeDetails.tsx** (+776, -6)
 - **DetailsToolTip.tsx** (+74, -0)
@@ -34,7 +34,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 1799
+".ts" : 2117
 ".tsx" : 3360
 ```
 
@@ -47,8 +47,8 @@ title Coding activity by hour (count of changes)
 "10h" : 62
 "11h" : 36
 "12h" : 4
-"13h" : 1
+"13h" : 3
 ```
 
 
-> **Last Updated:** 01/07/2025, 13:25:56
+> **Last Updated:** 01/07/2025, 13:30:56
