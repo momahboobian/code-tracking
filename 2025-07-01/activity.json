@@ -2,7 +2,7 @@
   "date": "2025-07-01",
   "projects": {
     "cda": {
-      "totalLinesAdded": 7687,
+      "totalLinesAdded": 7696,
       "totalLinesRemoved": 1077,
       "totalActiveTime": 222,
       "files": {
@@ -1856,6 +1856,20 @@
             },
             "duration": 2,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-07-01T14:05:21.158Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/utils/helperPanels.test.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/utils/helperPanels.ts": [
@@ -2127,6 +2141,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-07-01T13:56:45.501Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/atoms/HelperModal/HelperModal.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ],
