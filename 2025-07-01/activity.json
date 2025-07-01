@@ -2,9 +2,9 @@
   "date": "2025-07-01",
   "projects": {
     "cda": {
-      "totalLinesAdded": 7729,
-      "totalLinesRemoved": 1097,
-      "totalActiveTime": 251,
+      "totalLinesAdded": 7737,
+      "totalLinesRemoved": 1112,
+      "totalActiveTime": 258,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/containers/HelperGlossary/index.ts": [
           {
@@ -2136,6 +2136,48 @@
             },
             "duration": 1,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-07-01T14:31:07.099Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/utils/helperPanels.test.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-07-01T14:31:13.493Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/utils/helperPanels.test.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-07-01T14:32:52.152Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/utils/helperPanels.test.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/utils/helperPanels.ts": [
@@ -2421,6 +2463,34 @@
               "removed": []
             },
             "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-07-01T14:34:11.307Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/atoms/HelperModal/HelperModal.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 8,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-07-01T14:35:05.984Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/atoms/HelperModal/HelperModal.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "tsx"
           }
         ],
