@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 4764                                          |
-| **Lines Removed** (➖) | 203                                        |
+| **Lines Added** (➕)   | 4770                                          |
+| **Lines Removed** (➖) | 209                                        |
 | **Net Change** (↕)    | 4561                |
-| **Active Time** (⌚)   | 88 minutes |
+| **Active Time** (⌚)   | 91 minutes |
 
 
 ## Modified Files
@@ -16,7 +16,7 @@
 - **helperTextTransform.ts** (+260, -102)
 - **InitiativeDetails.tsx** (+794, -12)
 - **general.ts** (+441, -0)
-- **helperText.ts** (+174, -38)
+- **helperText.ts** (+180, -44)
 - **DetailsField.tsx** (+267, -7)
 - **HelperModal.tsx** (+126, -35)
 - **DetailsToolTip.tsx** (+74, -0)
@@ -33,7 +33,7 @@
 pie showData
 title Lines changed by file type
 ".tsx" : 3952
-".ts" : 1015
+".ts" : 1027
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -45,8 +45,8 @@ title Coding activity by hour (count of changes)
 "10h" : 13
 "11h" : 16
 "12h" : 19
-"14h" : 8
+"14h" : 10
 ```
 
 
-> **Last Updated:** 02/07/2025, 14:25:16
+> **Last Updated:** 02/07/2025, 14:30:16
