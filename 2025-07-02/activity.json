@@ -2,9 +2,9 @@
   "date": "2025-07-02",
   "projects": {
     "cda": {
-      "totalLinesAdded": 3312,
-      "totalLinesRemoved": 149,
-      "totalActiveTime": 40,
+      "totalLinesAdded": 3442,
+      "totalLinesRemoved": 152,
+      "totalActiveTime": 46,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/App.tsx": [
           {
@@ -451,6 +451,80 @@
               "removed": []
             },
             "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-07-02T11:04:45.479Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/atoms/DetailsField/DetailsField.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-07-02T11:05:43.591Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/atoms/DetailsField/DetailsField.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/atoms/HelperModal/HelperModal.tsx": [
+          {
+            "timestamp": "2025-07-02T11:05:49.559Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/atoms/HelperModal/HelperModal.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 55,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-07-02T11:06:10.929Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/atoms/HelperModal/HelperModal.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/atoms/DetailsToolTip/DetailsToolTip.tsx": [
+          {
+            "timestamp": "2025-07-02T11:08:18.526Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/atoms/DetailsToolTip/DetailsToolTip.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 74,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "tsx"
           }
         ]
