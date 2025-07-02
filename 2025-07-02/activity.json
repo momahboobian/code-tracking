@@ -2,9 +2,9 @@
   "date": "2025-07-02",
   "projects": {
     "cda": {
-      "totalLinesAdded": 6596,
-      "totalLinesRemoved": 556,
-      "totalActiveTime": 145,
+      "totalLinesAdded": 6609,
+      "totalLinesRemoved": 697,
+      "totalActiveTime": 148,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/App.tsx": [
           {
@@ -219,6 +219,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-07-02T14:32:59.377Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/utils/helperTextTransform.ts",
+            "fileType": ".ts",
+            "linesAdded": 13,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "ts"
           }
         ],
@@ -863,6 +877,48 @@
             "fileType": ".ts",
             "linesAdded": 1,
             "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-07-02T14:31:18.793Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/utils/helperText.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 27,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-07-02T14:31:55.722Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/utils/helperText.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 102,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-07-02T14:32:11.594Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/utils/helperText.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 12,
             "projectName": "cda",
             "content": {
               "added": [],
