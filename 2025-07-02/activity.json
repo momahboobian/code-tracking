@@ -2,9 +2,9 @@
   "date": "2025-07-02",
   "projects": {
     "cda": {
-      "totalLinesAdded": 6788,
-      "totalLinesRemoved": 732,
-      "totalActiveTime": 184,
+      "totalLinesAdded": 6792,
+      "totalLinesRemoved": 736,
+      "totalActiveTime": 189,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/App.tsx": [
           {
@@ -1497,6 +1497,34 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-07-02T16:27:17.869Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/molecules/PoolPositionAmountsPanel/PoolPositionAmountsPanel.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-07-02T16:28:22.141Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/molecules/PoolPositionAmountsPanel/PoolPositionAmountsPanel.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "tsx"
           }
         ],
