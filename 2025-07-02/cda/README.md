@@ -4,17 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 5035                                          |
-| **Lines Removed** (➖) | 539                                        |
+| **Lines Added** (➕)   | 5043                                          |
+| **Lines Removed** (➖) | 547                                        |
 | **Net Change** (↕)    | 4496                |
-| **Active Time** (⌚)   | 124 minutes |
+| **Active Time** (⌚)   | 134 minutes |
 
 
 ## Modified Files
 - **App.tsx** (+1152, -1)
 - **AdminHelper.tsx** (+482, -269)
 - **helperTextTransform.ts** (+260, -102)
-- **InitiativeDetails.tsx** (+802, -17)
+- **InitiativeDetails.tsx** (+810, -25)
 - **general.ts** (+441, -0)
 - **helperText.ts** (+198, -56)
 - **DetailsField.tsx** (+267, -7)
@@ -32,7 +32,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 4517
+".tsx" : 4533
 ".ts" : 1057
 ```
 
@@ -45,8 +45,9 @@ title Coding activity by hour (count of changes)
 "10h" : 13
 "11h" : 16
 "12h" : 19
-"14h" : 31
+"14h" : 33
+"15h" : 3
 ```
 
 
-> **Last Updated:** 02/07/2025, 14:55:16
+> **Last Updated:** 02/07/2025, 15:05:16
