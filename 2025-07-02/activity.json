@@ -2,7 +2,7 @@
   "date": "2025-07-02",
   "projects": {
     "cda": {
-      "totalLinesAdded": 3026,
+      "totalLinesAdded": 3283,
       "totalLinesRemoved": 143,
       "totalActiveTime": 22,
       "files": {
@@ -226,6 +226,22 @@
             },
             "duration": 1,
             "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/atoms/DetailsField/DetailsField.tsx": [
+          {
+            "timestamp": "2025-07-02T10:01:36.108Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/atoms/DetailsField/DetailsField.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 257,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
           }
         ]
       },
