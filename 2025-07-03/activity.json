@@ -2,9 +2,9 @@
   "date": "2025-07-03",
   "projects": {
     "cda": {
-      "totalLinesAdded": 936,
-      "totalLinesRemoved": 15,
-      "totalActiveTime": 21,
+      "totalLinesAdded": 1143,
+      "totalLinesRemoved": 35,
+      "totalActiveTime": 42,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/organisms/PoolEvents/PoolEvents.tsx": [
           {
@@ -234,6 +234,250 @@
             },
             "duration": 2,
             "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/organisms/DetailsGrid/DetailsGrid.scss": [
+          {
+            "timestamp": "2025-07-03T10:13:56.047Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/organisms/DetailsGrid/DetailsGrid.scss",
+            "fileType": ".scss",
+            "linesAdded": 70,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2025-07-03T10:14:34.001Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/organisms/DetailsGrid/DetailsGrid.scss",
+            "fileType": ".scss",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2025-07-03T10:14:38.042Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/organisms/DetailsGrid/DetailsGrid.scss",
+            "fileType": ".scss",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2025-07-03T10:15:00.919Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/organisms/DetailsGrid/DetailsGrid.scss",
+            "fileType": ".scss",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2025-07-03T10:15:08.976Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/organisms/DetailsGrid/DetailsGrid.scss",
+            "fileType": ".scss",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2025-07-03T10:15:17.367Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/organisms/DetailsGrid/DetailsGrid.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2025-07-03T10:15:39.131Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/organisms/DetailsGrid/DetailsGrid.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 10,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/atoms/DetailsToolTip/DetailsToolTip.scss": [
+          {
+            "timestamp": "2025-07-03T10:14:46.161Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/atoms/DetailsToolTip/DetailsToolTip.scss",
+            "fileType": ".scss",
+            "linesAdded": 72,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2025-07-03T10:14:46.735Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/atoms/DetailsToolTip/DetailsToolTip.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2025-07-03T10:16:47.373Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/atoms/DetailsToolTip/DetailsToolTip.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2025-07-03T10:16:53.316Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/atoms/DetailsToolTip/DetailsToolTip.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2025-07-03T10:17:06.551Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/atoms/DetailsToolTip/DetailsToolTip.scss",
+            "fileType": ".scss",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2025-07-03T10:17:09.597Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/atoms/DetailsToolTip/DetailsToolTip.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/atoms/DetailsField/DetailsField.scss": [
+          {
+            "timestamp": "2025-07-03T10:15:46.472Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/atoms/DetailsField/DetailsField.scss",
+            "fileType": ".scss",
+            "linesAdded": 41,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2025-07-03T10:15:48.093Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/atoms/DetailsField/DetailsField.scss",
+            "fileType": ".scss",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2025-07-03T10:15:52.226Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/atoms/DetailsField/DetailsField.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2025-07-03T10:17:33.212Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/atoms/DetailsField/DetailsField.scss",
+            "fileType": ".scss",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
           }
         ]
       },
