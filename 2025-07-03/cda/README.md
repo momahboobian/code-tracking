@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 8956                                          |
-| **Lines Removed** (➖) | 316                                        |
-| **Net Change** (↕)    | 8640                |
-| **Active Time** (⌚)   | 346 minutes |
+| **Lines Added** (➕)   | 9169                                          |
+| **Lines Removed** (➖) | 318                                        |
+| **Net Change** (↕)    | 8851                |
+| **Active Time** (⌚)   | 352 minutes |
 
 
 ## Modified Files
@@ -30,7 +30,7 @@
 - **CostDetails.tsx** (+341, -3)
 - **helperTextTransform.ts** (+185, -7)
 - **types.ts** (+137, -6)
-- **ReinvestmentDetail.tsx** (+594, -1)
+- **ReinvestmentDetail.tsx** (+594, -2)
 - **CreateInitiative.tsx** (+890, -53)
 - **PoolEvent.tsx** (+161, -1)
 - **InitiativeHeadcountForecasts.tsx** (+129, -4)
@@ -41,6 +41,7 @@
 - **helperPanels.ts** (+364, -0)
 - **PoolPosition.scss** (+117, -42)
 - **EftTotals.tsx** (+132, -3)
+- **AdminHelper.tsx** (+213, -1)
 
 ## Visualizations
 
@@ -49,7 +50,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 7829
+".tsx" : 8044
 ".scss" : 744
 ".ts" : 699
 ```
@@ -68,8 +69,8 @@ title Coding activity by hour (count of changes)
 "15h" : 11
 "16h" : 35
 "17h" : 30
-"18h" : 46
+"18h" : 49
 ```
 
 
-> **Last Updated:** 03/07/2025, 18:42:52
+> **Last Updated:** 03/07/2025, 18:47:52
