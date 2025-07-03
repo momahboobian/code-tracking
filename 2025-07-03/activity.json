@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 4132,
-      "totalLinesRemoved": 102,
-      "totalActiveTime": 133,
+      "totalLinesRemoved": 107,
+      "totalActiveTime": 135,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/organisms/PoolEvents/PoolEvents.tsx": [
           {
@@ -915,6 +915,20 @@
               "removed": []
             },
             "duration": 3,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-07-03T13:34:36.529Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/containers/PoolDetails/PoolDetails.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "tsx"
           }
         ],
