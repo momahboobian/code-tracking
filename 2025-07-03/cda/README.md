@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 9169                                          |
-| **Lines Removed** (➖) | 318                                        |
-| **Net Change** (↕)    | 8851                |
-| **Active Time** (⌚)   | 352 minutes |
+| **Lines Added** (➕)   | 9274                                          |
+| **Lines Removed** (➖) | 338                                        |
+| **Net Change** (↕)    | 8936                |
+| **Active Time** (⌚)   | 353 minutes |
 
 
 ## Modified Files
@@ -38,10 +38,11 @@
 - **CommonTable.scss** (+90, -0)
 - **PoolPosition.tsx** (+617, -0)
 - **PositionDetails.tsx** (+104, -0)
-- **helperPanels.ts** (+364, -0)
+- **helperPanels.ts** (+364, -20)
 - **PoolPosition.scss** (+117, -42)
 - **EftTotals.tsx** (+132, -3)
 - **AdminHelper.tsx** (+213, -1)
+- **helperPanels.test.ts** (+105, -0)
 
 ## Visualizations
 
@@ -52,7 +53,7 @@ pie showData
 title Lines changed by file type
 ".tsx" : 8044
 ".scss" : 744
-".ts" : 699
+".ts" : 824
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -69,8 +70,8 @@ title Coding activity by hour (count of changes)
 "15h" : 11
 "16h" : 35
 "17h" : 30
-"18h" : 49
+"18h" : 51
 ```
 
 
-> **Last Updated:** 03/07/2025, 18:47:52
+> **Last Updated:** 03/07/2025, 18:57:52
