@@ -2,9 +2,9 @@
   "date": "2025-07-03",
   "projects": {
     "cda": {
-      "totalLinesAdded": 8570,
-      "totalLinesRemoved": 249,
-      "totalActiveTime": 292,
+      "totalLinesAdded": 8592,
+      "totalLinesRemoved": 271,
+      "totalActiveTime": 293,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/organisms/PoolEvents/PoolEvents.tsx": [
           {
@@ -975,6 +975,34 @@
             "fileType": ".scss",
             "linesAdded": 0,
             "linesRemoved": 8,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2025-07-03T17:12:07.118Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/atoms/DetailsField/DetailsField.scss",
+            "fileType": ".scss",
+            "linesAdded": 22,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2025-07-03T17:12:27.217Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/atoms/DetailsField/DetailsField.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 22,
             "projectName": "cda",
             "content": {
               "added": [],

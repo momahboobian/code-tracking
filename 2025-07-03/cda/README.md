@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 8570                                          |
-| **Lines Removed** (➖) | 249                                        |
+| **Lines Added** (➕)   | 8592                                          |
+| **Lines Removed** (➖) | 271                                        |
 | **Net Change** (↕)    | 8321                |
-| **Active Time** (⌚)   | 292 minutes |
+| **Active Time** (⌚)   | 293 minutes |
 
 
 ## Modified Files
@@ -16,7 +16,7 @@
 - **Panel.tsx** (+34, -11)
 - **DetailsGrid.scss** (+161, -11)
 - **DetailsToolTip.scss** (+77, -10)
-- **DetailsField.scss** (+103, -11)
+- **DetailsField.scss** (+125, -33)
 - **Panel.scss** (+10, -0)
 - **PoolDetails.tsx** (+1080, -16)
 - **CostActuals.tsx** (+158, -10)
@@ -48,7 +48,7 @@
 pie showData
 title Lines changed by file type
 ".tsx" : 7647
-".scss" : 473
+".scss" : 517
 ".ts" : 699
 ```
 
@@ -66,8 +66,8 @@ title Coding activity by hour (count of changes)
 "15h" : 11
 "16h" : 35
 "17h" : 30
-"18h" : 9
+"18h" : 11
 ```
 
 
-> **Last Updated:** 03/07/2025, 18:07:52
+> **Last Updated:** 03/07/2025, 18:12:52
