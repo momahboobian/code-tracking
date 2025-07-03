@@ -2,7 +2,7 @@
   "date": "2025-07-03",
   "projects": {
     "cda": {
-      "totalLinesAdded": 7045,
+      "totalLinesAdded": 7049,
       "totalLinesRemoved": 200,
       "totalActiveTime": 214,
       "files": {
@@ -2273,6 +2273,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-07-03T15:47:46.470Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/organisms/PoolEvent/PoolEvent.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ]
