@@ -2,9 +2,9 @@
   "date": "2025-07-04",
   "projects": {
     "cda": {
-      "totalLinesAdded": 4646,
-      "totalLinesRemoved": 523,
-      "totalActiveTime": 107,
+      "totalLinesAdded": 5302,
+      "totalLinesRemoved": 545,
+      "totalActiveTime": 118,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/utils/helperPanels.ts": [
           {
@@ -347,6 +347,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-07-04T14:47:21.360Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/containers/AdminHelper/AdminHelper.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 213,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "tsx"
           }
         ],
@@ -1265,6 +1279,138 @@
             "fileType": ".tsx",
             "linesAdded": 0,
             "linesRemoved": 8,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/organisms/CostActuals/CostActuals.tsx": [
+          {
+            "timestamp": "2025-07-04T14:42:42.512Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/organisms/CostActuals/CostActuals.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 148,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-07-04T14:42:52.032Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/organisms/CostActuals/CostActuals.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 7,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-07-04T14:43:48.703Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/organisms/CostActuals/CostActuals.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/organisms/EftTotals/EftTotals.tsx": [
+          {
+            "timestamp": "2025-07-04T14:44:44.987Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/organisms/EftTotals/EftTotals.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 129,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-07-04T14:44:47.691Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/organisms/EftTotals/EftTotals.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-07-04T14:45:00.258Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/organisms/EftTotals/EftTotals.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-07-04T14:45:24.768Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/organisms/EftTotals/EftTotals.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/organisms/PoolEvent/PoolEvent.tsx": [
+          {
+            "timestamp": "2025-07-04T14:45:58.371Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/organisms/PoolEvent/PoolEvent.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 160,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-07-04T14:46:21.045Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/organisms/PoolEvent/PoolEvent.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 7,
             "projectName": "cda",
             "content": {
               "added": [],
