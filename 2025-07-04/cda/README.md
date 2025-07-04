@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3918                                          |
-| **Lines Removed** (➖) | 493                                        |
-| **Net Change** (↕)    | 3425                |
-| **Active Time** (⌚)   | 72 minutes |
+| **Lines Added** (➕)   | 4166                                          |
+| **Lines Removed** (➖) | 499                                        |
+| **Net Change** (↕)    | 3667                |
+| **Active Time** (⌚)   | 76 minutes |
 
 
 ## Modified Files
@@ -25,6 +25,7 @@
 - **PoolPosition.scss** (+75, -0)
 - **DetailsField.scss** (+57, -8)
 - **ReinvestmentDetail.tsx** (+594, -4)
+- **PoolPositionAmountsPanel.tsx** (+248, -6)
 
 ## Visualizations
 
@@ -34,7 +35,7 @@
 pie showData
 title Lines changed by file type
 ".ts" : 595
-".tsx" : 3452
+".tsx" : 3706
 ".json" : 109
 ".scss" : 255
 ```
@@ -47,7 +48,8 @@ title Coding activity by hour (count of changes)
 "09h" : 16
 "10h" : 16
 "11h" : 32
+"15h" : 4
 ```
 
 
-> **Last Updated:** 04/07/2025, 11:54:17
+> **Last Updated:** 04/07/2025, 15:22:28
