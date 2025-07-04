@@ -2,9 +2,9 @@
   "date": "2025-07-04",
   "projects": {
     "cda": {
-      "totalLinesAdded": 585,
-      "totalLinesRemoved": 26,
-      "totalActiveTime": 6,
+      "totalLinesAdded": 923,
+      "totalLinesRemoved": 184,
+      "totalActiveTime": 7,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/utils/helperPanels.ts": [
           {
@@ -80,6 +80,20 @@
             },
             "duration": 1,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-07-04T08:33:44.152Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/utils/helperTextTransform.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 158,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/containers/AdminHelper/AdminHelper.tsx": [
@@ -88,6 +102,22 @@
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/containers/AdminHelper/AdminHelper.tsx",
             "fileType": ".tsx",
             "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/containers/CostDetails/CostDetails.tsx": [
+          {
+            "timestamp": "2025-07-04T08:34:24.788Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/containers/CostDetails/CostDetails.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 338,
             "linesRemoved": 0,
             "projectName": "cda",
             "content": {
