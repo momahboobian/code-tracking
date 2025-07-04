@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 23724                                          |
-| **Lines Removed** (➖) | 564                                        |
-| **Net Change** (↕)    | 23160                |
-| **Active Time** (⌚)   | 146 minutes |
+| **Lines Added** (➕)   | 23782                                          |
+| **Lines Removed** (➖) | 566                                        |
+| **Net Change** (↕)    | 23216                |
+| **Active Time** (⌚)   | 153 minutes |
 
 
 ## Modified Files
@@ -35,7 +35,8 @@
 - **InitiativeDetails.tsx** (+788, -6)
 - **mockData.ts** (+15693, -1)
 - **CreateInitiative.test.tsx** (+367, -0)
-- **ReinvestmentDetail.test.tsx** (+443, -0)
+- **ReinvestmentDetail.test.tsx** (+443, -2)
+- **EftTotals.test.tsx** (+58, -0)
 
 ## Visualizations
 
@@ -45,7 +46,7 @@
 pie showData
 title Lines changed by file type
 ".ts" : 16289
-".tsx" : 7635
+".tsx" : 7695
 ".json" : 109
 ".scss" : 255
 ```
@@ -59,8 +60,8 @@ title Coding activity by hour (count of changes)
 "10h" : 16
 "11h" : 32
 "15h" : 43
-"16h" : 16
+"16h" : 21
 ```
 
 
-> **Last Updated:** 04/07/2025, 16:32:28
+> **Last Updated:** 04/07/2025, 16:42:28
