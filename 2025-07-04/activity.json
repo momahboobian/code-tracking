@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 1142,
-      "totalLinesRemoved": 401,
-      "totalActiveTime": 14,
+      "totalLinesRemoved": 403,
+      "totalActiveTime": 18,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/utils/helperPanels.ts": [
           {
@@ -165,6 +165,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-07-04T08:51:14.732Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/containers/AdminHelper/AdminHelper.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "tsx"
           }
         ],
