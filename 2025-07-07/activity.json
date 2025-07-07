@@ -2,7 +2,7 @@
   "date": "2025-07-07",
   "projects": {
     "cda": {
-      "totalLinesAdded": 35554,
+      "totalLinesAdded": 35556,
       "totalLinesRemoved": 213,
       "totalActiveTime": 98,
       "files": {
@@ -1001,6 +1001,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-07-07T14:09:25.690Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/containers/CreateInitiative/CreateInitiative.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ]
