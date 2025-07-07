@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 17400,
-      "totalLinesRemoved": 138,
-      "totalActiveTime": 53,
+      "totalLinesRemoved": 156,
+      "totalActiveTime": 54,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/App.tsx": [
           {
@@ -535,6 +535,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-07-07T10:43:38.775Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/organisms/InitiativeHeadcountForecasts/InitiativeHeadcountForecast.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 18,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "tsx"
           }
         ]
