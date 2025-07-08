@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 5116                                          |
-| **Lines Removed** (➖) | 401                                        |
-| **Net Change** (↕)    | 4715                |
-| **Active Time** (⌚)   | 219 minutes |
+| **Lines Added** (➕)   | 5277                                          |
+| **Lines Removed** (➖) | 462                                        |
+| **Net Change** (↕)    | 4815                |
+| **Active Time** (⌚)   | 238 minutes |
 
 
 ## Modified Files
@@ -16,11 +16,11 @@
 - **AdminHelper.tsx** (+1, -1)
 - **RouteWrapper.tsx** (+215, -1)
 - **helperPanels.ts** (+327, -12)
-- **DetailsToolTip.scss** (+186, -49)
+- **DetailsToolTip.scss** (+212, -105)
 - **EditableTextInput.scss** (+46, -10)
 - **CommonTable.scss** (+90, -1)
 - **EditableTextInput.tsx** (+137, -9)
-- **Panel.tsx** (+23, -0)
+- **Panel.tsx** (+46, -0)
 - **UserProvider.tsx** (+196, -2)
 - **InitiativeHeadcountForecastsTable.tsx** (+163, -9)
 - **PoolDetails.tsx** (+543, -12)
@@ -32,13 +32,14 @@
 - **EftTotals.test.tsx** (+78, -0)
 - **HelperSection.tsx** (+64, -0)
 - **PoolEvent.scss** (+110, -25)
-- **HelperModal.scss** (+72, -16)
+- **HelperModal.scss** (+110, -21)
 - **HelperModal.tsx** (+98, -2)
 - **DetailsField.scss** (+75, -33)
 - **Panel.scss** (+57, -12)
 - **PoolPosition.scss** (+101, -28)
 - **PoolPositionAmountsPanel.scss** (+117, -89)
 - **DetailsGrid.scss** (+85, -0)
+- **DetailsToolTip.tsx** (+74, -0)
 
 ## Visualizations
 
@@ -47,9 +48,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 3976
+".tsx" : 4073
 ".ts" : 339
-".scss" : 1202
+".scss" : 1327
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -61,8 +62,9 @@ title Coding activity by hour (count of changes)
 "12h" : 3
 "15h" : 46
 "16h" : 30
-"17h" : 66
+"17h" : 82
+"18h" : 1
 ```
 
 
-> **Last Updated:** 08/07/2025, 17:45:42
+> **Last Updated:** 08/07/2025, 18:00:42
