@@ -4,15 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 5732                                          |
-| **Lines Removed** (➖) | 494                                        |
-| **Net Change** (↕)    | 5238                |
-| **Active Time** (⌚)   | 254 minutes |
+| **Lines Added** (➕)   | 6089                                          |
+| **Lines Removed** (➖) | 497                                        |
+| **Net Change** (↕)    | 5592                |
+| **Active Time** (⌚)   | 262 minutes |
 
 
 ## Modified Files
 - **App.tsx** (+603, -28)
-- **PoolPositionAmountsPanel.tsx** (+285, -41)
+- **PoolPositionAmountsPanel.tsx** (+529, -41)
 - **AdminHelper.tsx** (+1, -1)
 - **RouteWrapper.tsx** (+215, -1)
 - **helperPanels.ts** (+327, -12)
@@ -37,8 +37,8 @@
 - **DetailsField.scss** (+75, -33)
 - **Panel.scss** (+57, -12)
 - **PoolPosition.scss** (+174, -28)
-- **PoolPositionAmountsPanel.scss** (+117, -89)
-- **DetailsGrid.scss** (+85, -0)
+- **PoolPositionAmountsPanel.scss** (+145, -92)
+- **DetailsGrid.scss** (+170, -0)
 - **DetailsToolTip.tsx** (+74, -0)
 
 ## Visualizations
@@ -48,9 +48,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 4231
+".tsx" : 4475
 ".ts" : 339
-".scss" : 1656
+".scss" : 1772
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -63,8 +63,8 @@ title Coding activity by hour (count of changes)
 "15h" : 46
 "16h" : 30
 "17h" : 82
-"18h" : 14
+"18h" : 18
 ```
 
 
-> **Last Updated:** 08/07/2025, 18:13:21
+> **Last Updated:** 08/07/2025, 18:18:21
