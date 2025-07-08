@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 4757                                          |
-| **Lines Removed** (➖) | 374                                        |
-| **Net Change** (↕)    | 4383                |
-| **Active Time** (⌚)   | 191 minutes |
+| **Lines Added** (➕)   | 4904                                          |
+| **Lines Removed** (➖) | 390                                        |
+| **Net Change** (↕)    | 4514                |
+| **Active Time** (⌚)   | 204 minutes |
 
 
 ## Modified Files
@@ -16,7 +16,7 @@
 - **AdminHelper.tsx** (+1, -1)
 - **RouteWrapper.tsx** (+215, -1)
 - **helperPanels.ts** (+327, -12)
-- **DetailsToolTip.scss** (+83, -42)
+- **DetailsToolTip.scss** (+173, -44)
 - **EditableTextInput.scss** (+46, -10)
 - **CommonTable.scss** (+90, -1)
 - **EditableTextInput.tsx** (+137, -9)
@@ -32,10 +32,10 @@
 - **EftTotals.test.tsx** (+78, -0)
 - **HelperSection.tsx** (+64, -0)
 - **PoolEvent.scss** (+110, -25)
-- **HelperModal.scss** (+39, -6)
+- **HelperModal.scss** (+72, -16)
 - **HelperModal.tsx** (+49, -0)
 - **DetailsField.scss** (+75, -33)
-- **Panel.scss** (+28, -4)
+- **Panel.scss** (+52, -8)
 - **PoolPosition.scss** (+101, -28)
 - **PoolPositionAmountsPanel.scss** (+117, -89)
 - **DetailsGrid.scss** (+85, -0)
@@ -49,7 +49,7 @@ pie showData
 title Lines changed by file type
 ".tsx" : 3780
 ".ts" : 339
-".scss" : 1012
+".scss" : 1175
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -61,8 +61,8 @@ title Coding activity by hour (count of changes)
 "12h" : 3
 "15h" : 46
 "16h" : 30
-"17h" : 40
+"17h" : 52
 ```
 
 
-> **Last Updated:** 08/07/2025, 17:35:04
+> **Last Updated:** 08/07/2025, 17:40:42
