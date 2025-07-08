@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 7103                                          |
-| **Lines Removed** (➖) | 501                                        |
-| **Net Change** (↕)    | 6602                |
-| **Active Time** (⌚)   | 278 minutes |
+| **Lines Added** (➕)   | 7780                                          |
+| **Lines Removed** (➖) | 502                                        |
+| **Net Change** (↕)    | 7278                |
+| **Active Time** (⌚)   | 282 minutes |
 
 
 ## Modified Files
@@ -23,16 +23,16 @@
 - **Panel.tsx** (+46, -0)
 - **UserProvider.tsx** (+196, -2)
 - **InitiativeHeadcountForecastsTable.tsx** (+320, -9)
-- **PoolDetails.tsx** (+543, -12)
+- **PoolDetails.tsx** (+1075, -12)
 - **InitiativeDetails.tsx** (+782, -6)
 - **PoolEvent.tsx** (+311, -0)
 - **EftTotals.tsx** (+121, -9)
-- **CostActuals.tsx** (+292, -3)
+- **CostActuals.tsx** (+437, -3)
 - **PositionDetails.tsx** (+96, -3)
 - **EftTotals.test.tsx** (+78, -0)
 - **HelperSection.tsx** (+64, -0)
 - **PoolEvent.scss** (+199, -52)
-- **HelperModal.scss** (+184, -29)
+- **HelperModal.scss** (+184, -30)
 - **HelperModal.tsx** (+98, -2)
 - **DetailsField.scss** (+75, -33)
 - **Panel.scss** (+57, -12)
@@ -49,9 +49,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 5469
+".tsx" : 6146
 ".ts" : 339
-".scss" : 1796
+".scss" : 1797
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -64,8 +64,8 @@ title Coding activity by hour (count of changes)
 "15h" : 46
 "16h" : 30
 "17h" : 82
-"18h" : 28
+"18h" : 32
 ```
 
 
-> **Last Updated:** 08/07/2025, 18:28:21
+> **Last Updated:** 08/07/2025, 18:33:21
