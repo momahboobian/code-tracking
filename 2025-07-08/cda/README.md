@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 7792                                          |
+| **Lines Added** (➕)   | 7989                                          |
 | **Lines Removed** (➖) | 518                                        |
-| **Net Change** (↕)    | 7274                |
-| **Active Time** (⌚)   | 289 minutes |
+| **Net Change** (↕)    | 7471                |
+| **Active Time** (⌚)   | 304 minutes |
 
 
 ## Modified Files
@@ -20,7 +20,7 @@
 - **EditableTextInput.scss** (+46, -10)
 - **CommonTable.scss** (+90, -1)
 - **EditableTextInput.tsx** (+137, -9)
-- **Panel.tsx** (+46, -0)
+- **Panel.tsx** (+69, -0)
 - **UserProvider.tsx** (+196, -2)
 - **InitiativeHeadcountForecastsTable.tsx** (+320, -9)
 - **PoolDetails.tsx** (+1075, -12)
@@ -30,12 +30,12 @@
 - **CostActuals.tsx** (+437, -3)
 - **PositionDetails.tsx** (+96, -3)
 - **EftTotals.test.tsx** (+78, -0)
-- **HelperSection.tsx** (+64, -0)
+- **HelperSection.tsx** (+128, -0)
 - **PoolEvent.scss** (+199, -52)
 - **HelperModal.scss** (+184, -30)
-- **HelperModal.tsx** (+98, -2)
-- **DetailsField.scss** (+75, -33)
-- **Panel.scss** (+57, -12)
+- **HelperModal.tsx** (+145, -2)
+- **DetailsField.scss** (+117, -33)
+- **Panel.scss** (+78, -12)
 - **PoolPosition.scss** (+176, -39)
 - **PoolPositionAmountsPanel.scss** (+155, -97)
 - **DetailsGrid.scss** (+170, -0)
@@ -49,9 +49,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 6146
+".tsx" : 6280
 ".ts" : 339
-".scss" : 1825
+".scss" : 1888
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -64,8 +64,8 @@ title Coding activity by hour (count of changes)
 "15h" : 46
 "16h" : 30
 "17h" : 82
-"18h" : 38
+"18h" : 43
 ```
 
 
-> **Last Updated:** 08/07/2025, 18:43:21
+> **Last Updated:** 08/07/2025, 18:48:21
