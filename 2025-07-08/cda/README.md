@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 6258                                          |
-| **Lines Removed** (➖) | 497                                        |
-| **Net Change** (↕)    | 5761                |
-| **Active Time** (⌚)   | 270 minutes |
+| **Lines Added** (➕)   | 7103                                          |
+| **Lines Removed** (➖) | 501                                        |
+| **Net Change** (↕)    | 6602                |
+| **Active Time** (⌚)   | 278 minutes |
 
 
 ## Modified Files
@@ -32,7 +32,7 @@
 - **EftTotals.test.tsx** (+78, -0)
 - **HelperSection.tsx** (+64, -0)
 - **PoolEvent.scss** (+199, -52)
-- **HelperModal.scss** (+176, -25)
+- **HelperModal.scss** (+184, -29)
 - **HelperModal.tsx** (+98, -2)
 - **DetailsField.scss** (+75, -33)
 - **Panel.scss** (+57, -12)
@@ -40,6 +40,7 @@
 - **PoolPositionAmountsPanel.scss** (+145, -92)
 - **DetailsGrid.scss** (+170, -0)
 - **DetailsToolTip.tsx** (+74, -0)
+- **CreateInitiative.tsx** (+837, -0)
 
 ## Visualizations
 
@@ -48,9 +49,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 4632
+".tsx" : 5469
 ".ts" : 339
-".scss" : 1784
+".scss" : 1796
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -63,8 +64,8 @@ title Coding activity by hour (count of changes)
 "15h" : 46
 "16h" : 30
 "17h" : 82
-"18h" : 23
+"18h" : 28
 ```
 
 
-> **Last Updated:** 08/07/2025, 18:23:21
+> **Last Updated:** 08/07/2025, 18:28:21
