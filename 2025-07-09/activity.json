@@ -2,7 +2,7 @@
   "date": "2025-07-09",
   "projects": {
     "cda": {
-      "totalLinesAdded": 9843,
+      "totalLinesAdded": 9948,
       "totalLinesRemoved": 19,
       "totalActiveTime": 22,
       "files": {
@@ -228,6 +228,22 @@
             },
             "duration": 0,
             "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Library/Application Support/Code/User/settings.json": [
+          {
+            "timestamp": "2025-07-09T10:18:46.962Z",
+            "fileName": "/Users/momahboobian/Library/Application Support/Code/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 105,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
           }
         ]
       },
