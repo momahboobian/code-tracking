@@ -2,9 +2,9 @@
   "date": "2025-07-09",
   "projects": {
     "cda": {
-      "totalLinesAdded": 11346,
-      "totalLinesRemoved": 100,
-      "totalActiveTime": 79,
+      "totalLinesAdded": 11431,
+      "totalLinesRemoved": 115,
+      "totalActiveTime": 84,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/containers/PoolPosition/PoolPosition.tsx": [
           {
@@ -850,6 +850,36 @@
             },
             "duration": 0,
             "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/organisms/DetailsGrid/DetailsGrid.scss": [
+          {
+            "timestamp": "2025-07-09T12:07:46.520Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/organisms/DetailsGrid/DetailsGrid.scss",
+            "fileType": ".scss",
+            "linesAdded": 85,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2025-07-09T12:07:47.041Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/organisms/DetailsGrid/DetailsGrid.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 15,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
           }
         ]
       },
