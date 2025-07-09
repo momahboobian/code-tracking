@@ -5,16 +5,16 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 9948                                          |
-| **Lines Removed** (➖) | 19                                        |
-| **Net Change** (↕)    | 9929                |
-| **Active Time** (⌚)   | 22 minutes |
+| **Lines Removed** (➖) | 54                                        |
+| **Net Change** (↕)    | 9894                |
+| **Active Time** (⌚)   | 25 minutes |
 
 
 ## Modified Files
 - **PoolPosition.tsx** (+617, -0)
 - **AdminHelper.tsx** (+245, -18)
 - **HelperSection.tsx** (+60, -0)
-- **helperPanels.ts** (+356, -1)
+- **helperPanels.ts** (+356, -36)
 - **ReinvestmentDetail.test.tsx** (+441, -0)
 - **CreateInitiative.test.tsx** (+365, -0)
 - **graphql.ts** (+7759, -0)
@@ -28,7 +28,7 @@
 pie showData
 title Lines changed by file type
 ".tsx" : 1746
-".ts" : 8116
+".ts" : 8151
 ".json" : 105
 ```
 
@@ -39,8 +39,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "09h" : 1
 "10h" : 10
-"11h" : 5
+"11h" : 7
 ```
 
 
-> **Last Updated:** 09/07/2025, 11:19:49
+> **Last Updated:** 09/07/2025, 11:24:49
