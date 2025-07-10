@@ -2,9 +2,9 @@
   "date": "2025-07-10",
   "projects": {
     "cda": {
-      "totalLinesAdded": 99,
+      "totalLinesAdded": 388,
       "totalLinesRemoved": 6,
-      "totalActiveTime": 12,
+      "totalActiveTime": 17,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/molecules/CommonTable/CommonTable.scss": [
           {
@@ -153,6 +153,68 @@
             "fileType": ".scss",
             "linesAdded": 0,
             "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/molecules/InitiativeHeadcountForecastsTable/InitiativeHeadcountForecastsTable.tsx": [
+          {
+            "timestamp": "2025-07-10T09:01:12.744Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/molecules/InitiativeHeadcountForecastsTable/InitiativeHeadcountForecastsTable.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 157,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/organisms/InitiativeHeadcountForecasts/InitiativeHeadcountForecasts.tsx": [
+          {
+            "timestamp": "2025-07-10T09:01:30.382Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/organisms/InitiativeHeadcountForecasts/InitiativeHeadcountForecasts.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 125,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/organisms/InitiativeForecasts/InitiativeForecasts.scss": [
+          {
+            "timestamp": "2025-07-10T09:04:00.115Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/organisms/InitiativeForecasts/InitiativeForecasts.scss",
+            "fileType": ".scss",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2025-07-10T09:04:21.708Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/organisms/InitiativeForecasts/InitiativeForecasts.scss",
+            "fileType": ".scss",
+            "linesAdded": 1,
+            "linesRemoved": 0,
             "projectName": "cda",
             "content": {
               "added": [],
