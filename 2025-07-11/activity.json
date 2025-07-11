@@ -2,7 +2,7 @@
   "date": "2025-07-11",
   "projects": {
     "cda": {
-      "totalLinesAdded": 1014,
+      "totalLinesAdded": 1123,
       "totalLinesRemoved": 284,
       "totalActiveTime": 45,
       "files": {
@@ -439,6 +439,22 @@
             "fileType": ".ts",
             "linesAdded": 0,
             "linesRemoved": 6,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/utils/helperPanels.test.ts": [
+          {
+            "timestamp": "2025-07-11T14:38:58.637Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/utils/helperPanels.test.ts",
+            "fileType": ".ts",
+            "linesAdded": 109,
+            "linesRemoved": 0,
             "projectName": "cda",
             "content": {
               "added": [],
