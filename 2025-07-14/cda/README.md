@@ -4,15 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 12235                                          |
-| **Lines Removed** (➖) | 384                                        |
-| **Net Change** (↕)    | 11851                |
-| **Active Time** (⌚)   | 192 minutes |
+| **Lines Added** (➕)   | 12281                                          |
+| **Lines Removed** (➖) | 456                                        |
+| **Net Change** (↕)    | 11825                |
+| **Active Time** (⌚)   | 197 minutes |
 
 
 ## Modified Files
 - **helperText.ts** (+31, -0)
-- **AdminHelper.tsx** (+1108, -38)
+- **AdminHelper.tsx** (+1154, -110)
 - **helperPanels.ts** (+1975, -229)
 - **types.ts** (+131, -0)
 - **graphql.ts** (+7759, -0)
@@ -30,7 +30,7 @@
 pie showData
 title Lines changed by file type
 ".ts" : 10581
-".tsx" : 1951
+".tsx" : 2069
 ".json" : 87
 ```
 
@@ -46,8 +46,8 @@ title Coding activity by hour (count of changes)
 "14h" : 19
 "15h" : 1
 "16h" : 34
-"17h" : 1
+"17h" : 6
 ```
 
 
-> **Last Updated:** 14/07/2025, 17:02:12
+> **Last Updated:** 14/07/2025, 17:12:12
