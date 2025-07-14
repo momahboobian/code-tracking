@@ -2,9 +2,9 @@
   "date": "2025-07-14",
   "projects": {
     "cda": {
-      "totalLinesAdded": 8590,
+      "totalLinesAdded": 8718,
       "totalLinesRemoved": 14,
-      "totalActiveTime": 49,
+      "totalActiveTime": 62,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/utils/helperText.ts": [
           {
@@ -332,6 +332,48 @@
             },
             "duration": 1,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-07-14T10:54:38.694Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/utils/helperPanels.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-07-14T10:54:51.947Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/utils/helperPanels.ts",
+            "fileType": ".ts",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-07-14T10:57:16.611Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/utils/helperPanels.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "ts"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/types.ts": [
@@ -364,6 +406,22 @@
             },
             "duration": 5,
             "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/atoms/EditableTextInput/EditableTextInput.tsx": [
+          {
+            "timestamp": "2025-07-14T11:00:17.031Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/atoms/EditableTextInput/EditableTextInput.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 117,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "tsx"
           }
         ]
       },
