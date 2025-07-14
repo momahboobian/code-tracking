@@ -2,7 +2,7 @@
   "date": "2025-07-14",
   "projects": {
     "cda": {
-      "totalLinesAdded": 12189,
+      "totalLinesAdded": 12235,
       "totalLinesRemoved": 384,
       "totalActiveTime": 192,
       "files": {
@@ -427,6 +427,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-07-14T16:00:03.327Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/containers/AdminHelper/AdminHelper.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 46,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ],
