@@ -2,9 +2,9 @@
   "date": "2025-07-28",
   "projects": {
     "cda": {
-      "totalLinesAdded": 11660,
-      "totalLinesRemoved": 19,
-      "totalActiveTime": 54,
+      "totalLinesAdded": 14037,
+      "totalLinesRemoved": 22,
+      "totalActiveTime": 63,
       "files": {
         "/Users/momahboobian/Library/Application Support/Code/User/settings.json": [
           {
@@ -482,6 +482,62 @@
             },
             "duration": 0,
             "language": "json"
+          },
+          {
+            "timestamp": "2025-07-28T12:41:36.581Z",
+            "fileName": "/Users/momahboobian/Library/Application Support/Code/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 40,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-28T12:41:36.643Z",
+            "fileName": "/Users/momahboobian/Library/Application Support/Code/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-28T12:42:08.284Z",
+            "fileName": "/Users/momahboobian/Library/Application Support/Code/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-28T12:42:21.531Z",
+            "fileName": "/Users/momahboobian/Library/Application Support/Code/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/App.tsx": [
@@ -567,6 +623,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-07-28T12:40:57.340Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 587,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ],
@@ -824,6 +894,20 @@
             },
             "duration": 1,
             "language": "js"
+          },
+          {
+            "timestamp": "2025-07-28T12:43:22.220Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/high-risk-schema/definitions/clear-view-types.js",
+            "fileType": ".js",
+            "linesAdded": 1234,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "js"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/high-risk-schema/definitions/clear-view-queries.js": [
@@ -846,6 +930,34 @@
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/high-risk-schema/definitions/clear-view-queries.js",
             "fileType": ".js",
             "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-28T12:44:24.539Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/high-risk-schema/definitions/clear-view-queries.js",
+            "fileType": ".js",
+            "linesAdded": 508,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-28T12:44:50.545Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/high-risk-schema/definitions/clear-view-queries.js",
+            "fileType": ".js",
+            "linesAdded": 7,
             "linesRemoved": 0,
             "projectName": "cda",
             "content": {
