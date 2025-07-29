@@ -4,22 +4,22 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 21162                                          |
-| **Lines Removed** (➖) | 182                                        |
-| **Net Change** (↕)    | 20980                |
-| **Active Time** (⌚)   | 260 minutes |
+| **Lines Added** (➕)   | 34624                                          |
+| **Lines Removed** (➖) | 184                                        |
+| **Net Change** (↕)    | 34440                |
+| **Active Time** (⌚)   | 268 minutes |
 
 
 ## Modified Files
-- **Comment.ts** (+607, -137)
+- **Comment.ts** (+607, -139)
 - **sap_views.ts** (+1149, -4)
 - **clear-view-mutations.js** (+1359, -1)
 - **clear-view-types.js** (+2476, -0)
 - **CostService.ts** (+372, -0)
-- **resolvers-types.ts** (+12203, -0)
+- **resolvers-types.ts** (+24406, -0)
 - **settings.json** (+43, -2)
-- **clear-view-queries.js** (+520, -0)
-- **clear-view-queries.ts** (+739, -0)
+- **clear-view-queries.js** (+1040, -0)
+- **clear-view-queries.ts** (+1478, -0)
 - **ClearView.ts** (+1105, -38)
 - **clear-view-mutations.ts** (+589, -0)
 
@@ -30,8 +30,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 16943
-".js" : 4356
+".ts" : 29887
+".js" : 4876
 ".json" : 45
 ```
 
@@ -49,9 +49,9 @@ title Coding activity by hour (count of changes)
 "14h" : 11
 "15h" : 17
 "16h" : 17
-"17h" : 12
+"17h" : 16
 "23h" : 1
 ```
 
 
-> **Last Updated:** 29/07/2025, 17:32:50
+> **Last Updated:** 29/07/2025, 17:37:50
