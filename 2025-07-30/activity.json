@@ -2,9 +2,9 @@
   "date": "2025-07-30",
   "projects": {
     "cda": {
-      "totalLinesAdded": 3820,
-      "totalLinesRemoved": 29,
-      "totalActiveTime": 41,
+      "totalLinesAdded": 12322,
+      "totalLinesRemoved": 31,
+      "totalActiveTime": 46,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/index.ts": [
           {
@@ -19,6 +19,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-07-30T12:13:57.465Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/index.ts",
+            "fileType": ".ts",
+            "linesAdded": 343,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "ts"
           }
         ],
@@ -43,6 +57,20 @@
             "fileType": ".ts",
             "linesAdded": 0,
             "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-07-30T12:15:52.314Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/high-risk-schema/resolvers/clear-view-queries.ts",
+            "fileType": ".ts",
+            "linesAdded": 738,
+            "linesRemoved": 0,
             "projectName": "cda",
             "content": {
               "added": [],
@@ -163,6 +191,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-07-30T12:15:05.566Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/high-risk-schema/resolvers/clear-view-mutations.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "ts"
           }
         ],
@@ -522,6 +564,38 @@
             },
             "duration": 0,
             "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/yarn.lock": [
+          {
+            "timestamp": "2025-07-30T12:13:23.497Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/yarn.lock",
+            "fileType": ".lock",
+            "linesAdded": 4105,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "lock"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-aws/yarn.lock": [
+          {
+            "timestamp": "2025-07-30T12:13:51.252Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-aws/yarn.lock",
+            "fileType": ".lock",
+            "linesAdded": 3316,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "lock"
           }
         ]
       },
