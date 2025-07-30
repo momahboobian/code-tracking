@@ -2,7 +2,7 @@
   "date": "2025-07-30",
   "projects": {
     "cda": {
-      "totalLinesAdded": 2950,
+      "totalLinesAdded": 2965,
       "totalLinesRemoved": 2,
       "totalActiveTime": 3,
       "files": {
@@ -112,6 +112,22 @@
             },
             "duration": 0,
             "language": "js"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/utils/clear-view/errors.ts": [
+          {
+            "timestamp": "2025-07-30T09:36:30.240Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/utils/clear-view/errors.ts",
+            "fileType": ".ts",
+            "linesAdded": 15,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
           }
         ]
       },
