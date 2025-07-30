@@ -2,7 +2,7 @@
   "date": "2025-07-30",
   "projects": {
     "cda": {
-      "totalLinesAdded": 1712,
+      "totalLinesAdded": 2950,
       "totalLinesRemoved": 2,
       "totalActiveTime": 3,
       "files": {
@@ -96,6 +96,22 @@
             },
             "duration": 0,
             "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/high-risk-schema/definitions/clear-view-types.js": [
+          {
+            "timestamp": "2025-07-30T08:59:57.037Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/high-risk-schema/definitions/clear-view-types.js",
+            "fileType": ".js",
+            "linesAdded": 1238,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
           }
         ]
       },
