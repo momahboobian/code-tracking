@@ -4,15 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1841                                          |
-| **Lines Removed** (➖) | 595                                        |
-| **Net Change** (↕)    | 1246                |
-| **Active Time** (⌚)   | 131 minutes |
+| **Lines Added** (➕)   | 1859                                          |
+| **Lines Removed** (➖) | 640                                        |
+| **Net Change** (↕)    | 1219                |
+| **Active Time** (⌚)   | 139 minutes |
 
 
 ## Modified Files
 - **CommentService.test.ts** (+438, -89)
-- **comments.ts** (+849, -505)
+- **comments.ts** (+867, -550)
 - **admin-mutations.ts** (+411, -0)
 - **integration-tests.test.ts** (+143, -1)
 
@@ -23,7 +23,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 2436
+".ts" : 2499
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -37,8 +37,8 @@ title Coding activity by hour (count of changes)
 "14h" : 5
 "15h" : 21
 "16h" : 12
-"17h" : 11
+"17h" : 20
 ```
 
 
-> **Last Updated:** 07/08/2025, 17:16:40
+> **Last Updated:** 07/08/2025, 17:26:40
