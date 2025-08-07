@@ -2,9 +2,9 @@
   "date": "2025-08-07",
   "projects": {
     "cda": {
-      "totalLinesAdded": 387,
-      "totalLinesRemoved": 61,
-      "totalActiveTime": 37,
+      "totalLinesAdded": 400,
+      "totalLinesRemoved": 88,
+      "totalActiveTime": 43,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/unit/services/clear-view/CommentService.test.ts": [
           {
@@ -320,6 +320,48 @@
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/unit/services/clear-view/CommentService.test.ts",
             "fileType": ".ts",
             "linesAdded": 57,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-07T12:17:19.752Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/unit/services/clear-view/CommentService.test.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 13,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-07T12:19:01.774Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/unit/services/clear-view/CommentService.test.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 14,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-07T12:19:33.724Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/unit/services/clear-view/CommentService.test.ts",
+            "fileType": ".ts",
+            "linesAdded": 13,
             "linesRemoved": 0,
             "projectName": "cda",
             "content": {
