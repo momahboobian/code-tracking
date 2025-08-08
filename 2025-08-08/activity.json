@@ -2,7 +2,7 @@
   "date": "2025-08-08",
   "projects": {
     "cda": {
-      "totalLinesAdded": 8,
+      "totalLinesAdded": 10,
       "totalLinesRemoved": 0,
       "totalActiveTime": 6,
       "files": {
@@ -47,6 +47,20 @@
               "removed": []
             },
             "duration": 5,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-08T09:16:32.550Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/high-risk-schema/clear-view/comments.ts",
+            "fileType": ".ts",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "ts"
           }
         ]
