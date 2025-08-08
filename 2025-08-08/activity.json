@@ -2,9 +2,9 @@
   "date": "2025-08-08",
   "projects": {
     "cda": {
-      "totalLinesAdded": 4458,
+      "totalLinesAdded": 4532,
       "totalLinesRemoved": 211,
-      "totalActiveTime": 49,
+      "totalActiveTime": 50,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/high-risk-schema/clear-view/comments.ts": [
           {
@@ -549,6 +549,36 @@
               "removed": []
             },
             "duration": 3,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/utils/clear-view/comment.ts": [
+          {
+            "timestamp": "2025-08-08T16:14:41.682Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/utils/clear-view/comment.ts",
+            "fileType": ".ts",
+            "linesAdded": 42,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-08T16:15:17.021Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/utils/clear-view/comment.ts",
+            "fileType": ".ts",
+            "linesAdded": 32,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "ts"
           }
         ]
