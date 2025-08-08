@@ -2,8 +2,8 @@
   "date": "2025-08-08",
   "projects": {
     "cda": {
-      "totalLinesAdded": 556,
-      "totalLinesRemoved": 198,
+      "totalLinesAdded": 2356,
+      "totalLinesRemoved": 201,
       "totalActiveTime": 31,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/high-risk-schema/clear-view/comments.ts": [
@@ -266,6 +266,52 @@
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/ClearView.ts",
             "fileType": ".ts",
             "linesAdded": 349,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-08T09:55:45.212Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/ClearView.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/clear-view/AdminService.ts": [
+          {
+            "timestamp": "2025-08-08T09:55:45.211Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/clear-view/AdminService.ts",
+            "fileType": ".ts",
+            "linesAdded": 242,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/setup.ts": [
+          {
+            "timestamp": "2025-08-08T09:55:45.214Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/setup.ts",
+            "fileType": ".ts",
+            "linesAdded": 1558,
             "linesRemoved": 0,
             "projectName": "cda",
             "content": {
