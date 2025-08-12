@@ -2,7 +2,7 @@
   "date": "2025-08-12",
   "projects": {
     "cda": {
-      "totalLinesAdded": 487,
+      "totalLinesAdded": 488,
       "totalLinesRemoved": 4,
       "totalActiveTime": 50,
       "files": {
@@ -509,6 +509,20 @@
               "removed": []
             },
             "duration": 3,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-12T10:04:31.236Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-db-migration/src/migrations/clear-view/views/20250812095548-replace-target-comments-view.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "js"
           }
         ]
