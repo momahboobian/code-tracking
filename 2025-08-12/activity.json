@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 32864,
-      "totalLinesRemoved": 4,
-      "totalActiveTime": 95,
+      "totalLinesRemoved": 7,
+      "totalActiveTime": 96,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-db-migration/src/migrations/clear-view/views/20250812085624-replace-initiative-comments-view.js": [
           {
@@ -523,6 +523,34 @@
               "removed": []
             },
             "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-12T11:25:07.200Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-db-migration/src/migrations/clear-view/views/20250812095548-replace-target-comments-view.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-12T11:25:10.828Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-db-migration/src/migrations/clear-view/views/20250812095548-replace-target-comments-view.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "js"
           }
         ],
