@@ -4,15 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 34419                                          |
-| **Lines Removed** (➖) | 150                                        |
-| **Net Change** (↕)    | 34269                |
-| **Active Time** (⌚)   | 171 minutes |
+| **Lines Added** (➕)   | 34450                                          |
+| **Lines Removed** (➖) | 151                                        |
+| **Net Change** (↕)    | 34299                |
+| **Active Time** (⌚)   | 173 minutes |
 
 
 ## Modified Files
 - **20250812085624-replace-initiative-comments-view.js** (+30, -0)
-- **20250812090949-replace-cost-comments-view.js** (+33, -2)
+- **20250812090949-replace-cost-comments-view.js** (+64, -3)
 - **20250812091650-replace-reinvestment-comments-view.js** (+33, -2)
 - **20250812091806-replace-pool-comments-view.js** (+31, -0)
 - **20250530164520-snapshot-reinvestments.js** (+53, -0)
@@ -42,7 +42,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".js" : 3049
+".js" : 3081
 ".ts" : 19379
 ".lock" : 12137
 ".svg" : 4
@@ -58,8 +58,8 @@ title Coding activity by hour (count of changes)
 "11h" : 13
 "12h" : 5
 "13h" : 22
-"14h" : 28
+"14h" : 30
 ```
 
 
-> **Last Updated:** 12/08/2025, 14:41:22
+> **Last Updated:** 12/08/2025, 14:46:33
