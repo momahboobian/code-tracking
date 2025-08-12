@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 34249,
-      "totalLinesRemoved": 65,
-      "totalActiveTime": 137,
+      "totalLinesRemoved": 71,
+      "totalActiveTime": 140,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-db-migration/src/migrations/clear-view/views/20250812085624-replace-initiative-comments-view.js": [
           {
@@ -1113,6 +1113,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-12T13:17:19.347Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/clear-view/Comment.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 6,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "ts"
           }
         ]
