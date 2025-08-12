@@ -4,16 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 34450                                          |
-| **Lines Removed** (➖) | 151                                        |
-| **Net Change** (↕)    | 34299                |
-| **Active Time** (⌚)   | 173 minutes |
+| **Lines Added** (➕)   | 39421                                          |
+| **Lines Removed** (➖) | 152                                        |
+| **Net Change** (↕)    | 39269                |
+| **Active Time** (⌚)   | 183 minutes |
 
 
 ## Modified Files
 - **20250812085624-replace-initiative-comments-view.js** (+30, -0)
 - **20250812090949-replace-cost-comments-view.js** (+64, -3)
-- **20250812091650-replace-reinvestment-comments-view.js** (+33, -2)
+- **20250812091650-replace-reinvestment-comments-view.js** (+64, -3)
 - **20250812091806-replace-pool-comments-view.js** (+31, -0)
 - **20250530164520-snapshot-reinvestments.js** (+53, -0)
 - **20250812094852-replace-pool-position-comments-view.js** (+32, -0)
@@ -23,17 +23,17 @@
 - **clear-view-queries.ts** (+739, -0)
 - **clear-view-mutations.js** (+678, -0)
 - **clear-view-mutations.ts** (+587, -0)
-- **clear-view-types.js** (+1290, -65)
+- **clear-view-types.js** (+2531, -65)
 - **clear-view-queries.js** (+521, -0)
 - **resolvers-types.ts** (+12217, -0)
 - **ClearView.ts** (+346, -0)
 - **integration-tests.test.ts** (+145, -1)
 - **yarn.lock** (+3320, -0)
 - **yarn.lock** (+8816, -1)
-- **clear_view_views.ts** (+3567, -38)
+- **clear_view_views.ts** (+7096, -38)
 - **sap_views.ts** (+1163, -0)
-- **clear-view-tables.drawio.svg** (+4, -0)
-- **Comment.ts** (+196, -37)
+- **clear-view-tables.drawio.svg** (+8, -0)
+- **Comment.ts** (+362, -37)
 
 ## Visualizations
 
@@ -42,10 +42,10 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".js" : 3081
-".ts" : 19379
+".js" : 4354
+".ts" : 23074
 ".lock" : 12137
-".svg" : 4
+".svg" : 8
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -58,8 +58,8 @@ title Coding activity by hour (count of changes)
 "11h" : 13
 "12h" : 5
 "13h" : 22
-"14h" : 30
+"14h" : 36
 ```
 
 
-> **Last Updated:** 12/08/2025, 14:46:33
+> **Last Updated:** 12/08/2025, 14:51:33
