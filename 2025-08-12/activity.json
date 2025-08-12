@@ -2,7 +2,7 @@
   "date": "2025-08-12",
   "projects": {
     "cda": {
-      "totalLinesAdded": 34027,
+      "totalLinesAdded": 34031,
       "totalLinesRemoved": 11,
       "totalActiveTime": 102,
       "files": {
@@ -774,6 +774,22 @@
             },
             "duration": 5,
             "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/docs/architecture/database-diagrams/clear-view-tables.drawio.svg": [
+          {
+            "timestamp": "2025-08-12T11:52:53.439Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/docs/architecture/database-diagrams/clear-view-tables.drawio.svg",
+            "fileType": ".svg",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "svg"
           }
         ]
       },
