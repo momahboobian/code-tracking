@@ -3,7 +3,7 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 8388,
-      "totalLinesRemoved": 37,
+      "totalLinesRemoved": 38,
       "totalActiveTime": 56,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/graphql/high-risk/queries/comments.ts": [
@@ -581,6 +581,20 @@
             "fileType": ".ts",
             "linesAdded": 162,
             "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-13T11:32:00.919Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/clear-view/Comment.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "cda",
             "content": {
               "added": [],
