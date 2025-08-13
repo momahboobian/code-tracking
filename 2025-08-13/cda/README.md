@@ -4,32 +4,32 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 44242                                          |
-| **Lines Removed** (➖) | 381                                        |
-| **Net Change** (↕)    | 43861                |
-| **Active Time** (⌚)   | 164 minutes |
+| **Lines Added** (➕)   | 44546                                          |
+| **Lines Removed** (➖) | 576                                        |
+| **Net Change** (↕)    | 43970                |
+| **Active Time** (⌚)   | 179 minutes |
 
 
 ## Modified Files
 - **comments.ts** (+58, -4)
 - **AdminHelper.tsx** (+299, -21)
-- **graphql.ts** (+8049, -0)
+- **graphql.ts** (+8132, -176)
 - **comments.ts** (+80, -12)
 - **Comment.ts** (+224, -48)
 - **graphql.ts** (+5167, -36)
 - **gql.ts** (+820, -0)
-- **pools.ts** (+445, -8)
-- **clear-view-mutations.js** (+679, -20)
-- **clear-view-types.js** (+1245, -18)
-- **yarn.lock** (+8817, -1)
-- **clear-view-queries.js** (+521, -19)
-- **resolvers-types.ts** (+12332, -141)
-- **clear-view-mutations.ts** (+589, -22)
-- **clear-view-queries.ts** (+755, -16)
-- **ClearView.ts** (+353, -10)
-- **index.ts** (+343, -1)
-- **integration-tests.test.ts** (+146, -1)
-- **yarn.lock** (+3320, -3)
+- **pools.ts** (+449, -8)
+- **clear-view-mutations.js** (+698, -20)
+- **clear-view-types.js** (+1261, -18)
+- **yarn.lock** (+8817, -2)
+- **clear-view-queries.js** (+540, -19)
+- **resolvers-types.ts** (+12469, -141)
+- **clear-view-mutations.ts** (+609, -22)
+- **clear-view-queries.ts** (+755, -32)
+- **ClearView.ts** (+356, -10)
+- **index.ts** (+343, -2)
+- **integration-tests.test.ts** (+146, -2)
+- **yarn.lock** (+3323, -3)
 
 ## Visualizations
 
@@ -38,10 +38,10 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 29660
+".ts" : 30101
 ".tsx" : 320
-".js" : 2502
-".lock" : 12141
+".js" : 2556
+".lock" : 12145
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -53,8 +53,8 @@ title Coding activity by hour (count of changes)
 "11h" : 34
 "12h" : 16
 "13h" : 17
-"14h" : 48
+"14h" : 63
 ```
 
 
-> **Last Updated:** 13/08/2025, 14:29:22
+> **Last Updated:** 13/08/2025, 14:34:22
