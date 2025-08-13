@@ -2,7 +2,7 @@
   "date": "2025-08-13",
   "projects": {
     "cda": {
-      "totalLinesAdded": 8213,
+      "totalLinesAdded": 8217,
       "totalLinesRemoved": 36,
       "totalActiveTime": 48,
       "files": {
@@ -459,6 +459,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-13T10:39:18.652Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/graphql/high-risk/mutations/comments.ts",
+            "fileType": ".ts",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "ts"
           }
         ]
