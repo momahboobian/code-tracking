@@ -2,7 +2,7 @@
   "date": "2025-08-13",
   "projects": {
     "cda": {
-      "totalLinesAdded": 14670,
+      "totalLinesAdded": 15111,
       "totalLinesRemoved": 94,
       "totalActiveTime": 97,
       "files": {
@@ -1039,6 +1039,22 @@
               "removed": []
             },
             "duration": 2,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/graphql/high-risk/queries/pools.ts": [
+          {
+            "timestamp": "2025-08-13T13:03:41.057Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/graphql/high-risk/queries/pools.ts",
+            "fileType": ".ts",
+            "linesAdded": 441,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "ts"
           }
         ]
