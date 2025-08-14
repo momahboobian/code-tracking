@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 88058                                          |
-| **Lines Removed** (➖) | 109                                        |
-| **Net Change** (↕)    | 87949                |
-| **Active Time** (⌚)   | 42 minutes |
+| **Lines Added** (➕)   | 88337                                          |
+| **Lines Removed** (➖) | 110                                        |
+| **Net Change** (↕)    | 88227                |
+| **Active Time** (⌚)   | 46 minutes |
 
 
 ## Modified Files
@@ -25,6 +25,7 @@
 - **ClearView.ts** (+686, -0)
 - **yarn.lock** (+6634, -0)
 - **graphql.ts** (+8039, -0)
+- **AdminHelper.tsx** (+279, -1)
 
 ## Visualizations
 
@@ -36,6 +37,7 @@ title Lines changed by file type
 ".ts" : 58528
 ".js" : 5373
 ".lock" : 24266
+".tsx" : 280
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -45,8 +47,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "10h" : 3
 "11h" : 4
-"13h" : 28
+"13h" : 31
 ```
 
 
-> **Last Updated:** 14/08/2025, 13:50:33
+> **Last Updated:** 14/08/2025, 13:55:33
