@@ -2,7 +2,7 @@
   "date": "2025-08-14",
   "projects": {
     "cda": {
-      "totalLinesAdded": 90143,
+      "totalLinesAdded": 91990,
       "totalLinesRemoved": 115,
       "totalActiveTime": 62,
       "files": {
@@ -106,6 +106,20 @@
             },
             "duration": 1,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-14T17:11:19.221Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/high-risk-schema/resolvers/clear-view-queries.ts",
+            "fileType": ".ts",
+            "linesAdded": 739,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/types/gql-generated/low-risk/resolvers-types.ts": [
@@ -207,6 +221,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-14T17:11:19.223Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/high-risk-schema/definitions/clear-view-queries.js",
+            "fileType": ".js",
+            "linesAdded": 521,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "js"
           }
         ],
@@ -341,6 +369,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-14T17:11:19.219Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/high-risk-schema/resolvers/clear-view-mutations.ts",
+            "fileType": ".ts",
+            "linesAdded": 587,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "ts"
           }
         ],
