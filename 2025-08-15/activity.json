@@ -1,0 +1,61 @@
+{
+  "date": "2025-08-15",
+  "projects": {
+    "cda": {
+      "totalLinesAdded": 521,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 1,
+      "files": {
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/high-risk-schema/definitions/clear-view-queries.js": [
+          {
+            "timestamp": "2025-08-15T11:13:23.275Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/high-risk-schema/definitions/clear-view-queries.js",
+            "fileType": ".js",
+            "linesAdded": 521,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-15T11:14:00.370Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/high-risk-schema/definitions/clear-view-queries.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ]
+      },
+      "languageStats": {
+        "js": 1
+      },
+      "changeFrequency": {
+        "12": 1
+      },
+      "topFiles": [
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/high-risk-schema/definitions/clear-view-queries.js"
+      ],
+      "averageChangeSize": 261
+    }
+  },
+  "totalActiveTime": 1,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    12
+  ],
+  "mostUsedLanguages": [
+    "js"
+  ]
+}
