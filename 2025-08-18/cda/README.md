@@ -4,18 +4,18 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 41077                                          |
+| **Lines Added** (➕)   | 41402                                          |
 | **Lines Removed** (➖) | 1015                                        |
-| **Net Change** (↕)    | 40062                |
-| **Active Time** (⌚)   | 209 minutes |
+| **Net Change** (↕)    | 40387                |
+| **Active Time** (⌚)   | 212 minutes |
 
 
 ## Modified Files
 - **comments.ts** (+194, -23)
 - **.env** (+41, -0)
 - **CommentService.test.ts** (+598, -359)
-- **CommentService.ts** (+362, -50)
-- **comment.ts** (+141, -23)
+- **CommentService.ts** (+520, -50)
+- **comment.ts** (+267, -23)
 - **clear-view-mutations.ts** (+631, -64)
 - **ClearView.ts** (+363, -13)
 - **clear-view-queries.ts** (+779, -44)
@@ -31,6 +31,7 @@
 - **package.json** (+65, -1)
 - **resolvers-types.ts** (+15174, -177)
 - **comments.ts** (+54, -22)
+- **comment.ts** (+41, -0)
 
 ## Visualizations
 
@@ -39,7 +40,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 27968
+".ts" : 28293
 "unknown" : 41
 ".js" : 1386
 ".lock" : 12444
@@ -58,8 +59,8 @@ title Coding activity by hour (count of changes)
 "13h" : 11
 "14h" : 75
 "15h" : 16
-"17h" : 13
+"17h" : 16
 ```
 
 
-> **Last Updated:** 18/08/2025, 17:37:46
+> **Last Updated:** 18/08/2025, 17:55:31
