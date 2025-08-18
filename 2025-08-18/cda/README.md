@@ -4,27 +4,32 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 24479                                          |
-| **Lines Removed** (➖) | 318                                        |
-| **Net Change** (↕)    | 24161                |
-| **Active Time** (⌚)   | 89 minutes |
+| **Lines Added** (➕)   | 37668                                          |
+| **Lines Removed** (➖) | 671                                        |
+| **Net Change** (↕)    | 36997                |
+| **Active Time** (⌚)   | 138 minutes |
 
 
 ## Modified Files
-- **comments.ts** (+194, -9)
+- **comments.ts** (+194, -23)
 - **.env** (+41, -0)
-- **CommentService.test.ts** (+598, -198)
+- **CommentService.test.ts** (+598, -359)
 - **CommentService.ts** (+193, -35)
 - **comment.ts** (+90, -16)
-- **clear-view-mutations.ts** (+607, -20)
-- **ClearView.ts** (+349, -3)
-- **clear-view-queries.ts** (+755, -16)
-- **clear-view-queries.js** (+540, -19)
-- **yarn.lock** (+8816, -1)
-- **clear-view-mutations.js** (+678, -0)
-- **index.ts** (+342, -1)
-- **yarn.lock** (+3320, -0)
-- **graphql.ts** (+7956, -0)
+- **clear-view-mutations.ts** (+631, -40)
+- **ClearView.ts** (+356, -6)
+- **clear-view-queries.ts** (+767, -32)
+- **clear-view-queries.js** (+557, -38)
+- **yarn.lock** (+8817, -11)
+- **clear-view-mutations.js** (+698, -19)
+- **index.ts** (+345, -2)
+- **yarn.lock** (+3323, -7)
+- **graphql.ts** (+8039, -83)
+- **TargetService.ts** (+402, -0)
+- **package.json** (+67, -0)
+- **package.json** (+108, -0)
+- **package.json** (+64, -0)
+- **resolvers-types.ts** (+12378, -0)
 
 ## Visualizations
 
@@ -33,10 +38,11 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 11382
+".ts" : 24589
 "unknown" : 41
-".js" : 1237
-".lock" : 12137
+".js" : 1312
+".lock" : 12158
+".json" : 239
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -49,8 +55,8 @@ title Coding activity by hour (count of changes)
 "11h" : 12
 "12h" : 12
 "13h" : 11
-"14h" : 30
+"14h" : 60
 ```
 
 
-> **Last Updated:** 18/08/2025, 14:44:26
+> **Last Updated:** 18/08/2025, 14:49:26
