@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 28583                                          |
-| **Lines Removed** (➖) | 540                                        |
-| **Net Change** (↕)    | 28043                |
-| **Active Time** (⌚)   | 206 minutes |
+| **Lines Added** (➕)   | 29220                                          |
+| **Lines Removed** (➖) | 567                                        |
+| **Net Change** (↕)    | 28653                |
+| **Active Time** (⌚)   | 212 minutes |
 
 
 ## Modified Files
@@ -37,7 +37,8 @@
 - **CommentItem.test.tsx** (+184, -138)
 - **AddComment.test.tsx** (+59, -0)
 - **CommentItemList.test.tsx** (+56, -0)
-- **ReinvestmentDetail.tsx** (+621, -4)
+- **ReinvestmentDetail.tsx** (+621, -31)
+- **PoolDetails.tsx** (+637, -0)
 
 ## Visualizations
 
@@ -50,7 +51,7 @@ title Lines changed by file type
 ".lock" : 3946
 ".json" : 31
 "unknown" : 41
-".tsx" : 2690
+".tsx" : 3354
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -64,8 +65,8 @@ title Coding activity by hour (count of changes)
 "13h" : 32
 "14h" : 15
 "15h" : 23
-"16h" : 1
+"16h" : 8
 ```
 
 
-> **Last Updated:** 19/08/2025, 16:02:09
+> **Last Updated:** 19/08/2025, 16:12:09
