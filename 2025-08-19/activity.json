@@ -2,9 +2,9 @@
   "date": "2025-08-19",
   "projects": {
     "cda": {
-      "totalLinesAdded": 18129,
+      "totalLinesAdded": 18910,
       "totalLinesRemoved": 357,
-      "totalActiveTime": 88,
+      "totalActiveTime": 91,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/clear-view/CommentService.ts": [
           {
@@ -785,6 +785,22 @@
               "removed": []
             },
             "duration": 4,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/feedback/src/containers/Details/Details.tsx": [
+          {
+            "timestamp": "2025-08-19T12:02:54.162Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/feedback/src/containers/Details/Details.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 781,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "tsx"
           }
         ]
