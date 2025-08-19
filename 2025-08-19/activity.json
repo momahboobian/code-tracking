@@ -2,9 +2,9 @@
   "date": "2025-08-19",
   "projects": {
     "cda": {
-      "totalLinesAdded": 4617,
+      "totalLinesAdded": 17832,
       "totalLinesRemoved": 357,
-      "totalActiveTime": 77,
+      "totalActiveTime": 82,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/clear-view/CommentService.ts": [
           {
@@ -674,6 +674,70 @@
             },
             "duration": 1,
             "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/graphql/high-risk/mutations/comments.ts": [
+          {
+            "timestamp": "2025-08-19T11:29:35.541Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/graphql/high-risk/mutations/comments.ts",
+            "fileType": ".ts",
+            "linesAdded": 68,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/graphql/high-risk/queries/comments.ts": [
+          {
+            "timestamp": "2025-08-19T11:29:36.902Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/graphql/high-risk/queries/comments.ts",
+            "fileType": ".ts",
+            "linesAdded": 32,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/types/gql-generated/high-risk/resolvers-types.ts": [
+          {
+            "timestamp": "2025-08-19T11:29:46.011Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/types/gql-generated/high-risk/resolvers-types.ts",
+            "fileType": ".ts",
+            "linesAdded": 12380,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/high-risk-schema/resolvers/clear-view-queries.ts": [
+          {
+            "timestamp": "2025-08-19T11:32:02.374Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/high-risk-schema/resolvers/clear-view-queries.ts",
+            "fileType": ".ts",
+            "linesAdded": 735,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "ts"
           }
         ]
       },
