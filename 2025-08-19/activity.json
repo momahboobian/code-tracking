@@ -2,7 +2,7 @@
   "date": "2025-08-19",
   "projects": {
     "cda": {
-      "totalLinesAdded": 28581,
+      "totalLinesAdded": 28583,
       "totalLinesRemoved": 540,
       "totalActiveTime": 206,
       "files": {
@@ -1779,6 +1779,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-19T15:01:21.817Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/containers/ReinvestmentDetail/ReinvestmentDetail.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ]
