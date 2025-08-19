@@ -2,7 +2,7 @@
   "date": "2025-08-19",
   "projects": {
     "cda": {
-      "totalLinesAdded": 18910,
+      "totalLinesAdded": 18985,
       "totalLinesRemoved": 357,
       "totalActiveTime": 91,
       "files": {
@@ -801,6 +801,22 @@
               "removed": []
             },
             "duration": 3,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/feedback/src/components/CommentItemList/CommentItemList.tsx": [
+          {
+            "timestamp": "2025-08-19T12:08:50.821Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/feedback/src/components/CommentItemList/CommentItemList.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 75,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ]
