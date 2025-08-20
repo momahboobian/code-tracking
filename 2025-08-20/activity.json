@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 1230,
-      "totalLinesRemoved": 73,
-      "totalActiveTime": 78,
+      "totalLinesRemoved": 81,
+      "totalActiveTime": 84,
       "files": {
         "/Users/momahboobian/Library/Application Support/Code/User/settings.json": [
           {
@@ -712,6 +712,34 @@
             },
             "duration": 3,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-20T15:27:54.628Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/molecules/CommentItemList/CommentItemList.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-20T15:29:09.696Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/molecules/CommentItemList/CommentItemList.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/molecules/CommentItemList/CommentItemList.scss": [
@@ -757,6 +785,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-20T15:29:12.697Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/containers/PoolDetails/PoolDetails.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "tsx"
           }
         ]
