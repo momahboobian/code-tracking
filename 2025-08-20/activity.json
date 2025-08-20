@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 382,
-      "totalLinesRemoved": 15,
-      "totalActiveTime": 9,
+      "totalLinesRemoved": 19,
+      "totalActiveTime": 13,
       "files": {
         "/Users/momahboobian/Library/Application Support/Code/User/settings.json": [
           {
@@ -91,6 +91,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-20T09:09:03.392Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/atoms/CommentItem/CommentItem.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "tsx"
           }
         ],
