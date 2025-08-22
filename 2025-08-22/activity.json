@@ -2,9 +2,9 @@
   "date": "2025-08-22",
   "projects": {
     "cda": {
-      "totalLinesAdded": 144411,
-      "totalLinesRemoved": 87646,
-      "totalActiveTime": 107,
+      "totalLinesAdded": 167257,
+      "totalLinesRemoved": 109640,
+      "totalActiveTime": 128,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/high-risk-schema/resolvers/clear-view-queries.ts": [
           {
@@ -562,6 +562,62 @@
             },
             "duration": 1,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-22T10:15:33.685Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/gql-generated/high-risk/gql.ts",
+            "fileType": ".ts",
+            "linesAdded": 796,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-22T10:16:13.271Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/gql-generated/high-risk/gql.ts",
+            "fileType": ".ts",
+            "linesAdded": 24,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-22T10:16:37.762Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/gql-generated/high-risk/gql.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 24,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-22T10:19:09.778Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/gql-generated/high-risk/gql.ts",
+            "fileType": ".ts",
+            "linesAdded": 24,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/high-risk-schema/resolvers/clear-view-mutations.ts": [
@@ -958,6 +1014,146 @@
             },
             "duration": 2,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-22T10:15:33.662Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/gql-generated/high-risk/graphql.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 12,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-22T10:16:10.480Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/gql-generated/high-risk/graphql.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 6,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-22T10:16:13.295Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/gql-generated/high-risk/graphql.ts",
+            "fileType": ".ts",
+            "linesAdded": 18,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-22T10:16:37.740Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/gql-generated/high-risk/graphql.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 12,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-22T10:16:59.427Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/gql-generated/high-risk/graphql.ts",
+            "fileType": ".ts",
+            "linesAdded": 19543,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-22T10:17:19.591Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/gql-generated/high-risk/graphql.ts",
+            "fileType": ".ts",
+            "linesAdded": 828,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-22T10:17:46.098Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/gql-generated/high-risk/graphql.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 828,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-22T10:17:53.395Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/gql-generated/high-risk/graphql.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1582,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-22T10:18:13.465Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/gql-generated/high-risk/graphql.ts",
+            "fileType": ".ts",
+            "linesAdded": 1537,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-22T10:20:11.288Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/gql-generated/high-risk/graphql.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 19486,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/types/gql-generated/low-risk/resolvers-types.ts": [
@@ -1027,6 +1223,62 @@
             "fileType": ".ts",
             "linesAdded": 54,
             "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-22T10:15:33.742Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/graphql/high-risk/queries/comments.ts",
+            "fileType": ".ts",
+            "linesAdded": 54,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-22T10:16:13.320Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/graphql/high-risk/queries/comments.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 22,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-22T10:16:37.775Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/graphql/high-risk/queries/comments.ts",
+            "fileType": ".ts",
+            "linesAdded": 22,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-22T10:17:19.622Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/graphql/high-risk/queries/comments.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 22,
             "projectName": "cda",
             "content": {
               "added": [],
