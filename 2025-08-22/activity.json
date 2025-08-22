@@ -2,9 +2,9 @@
   "date": "2025-08-22",
   "projects": {
     "cda": {
-      "totalLinesAdded": 174273,
-      "totalLinesRemoved": 109980,
-      "totalActiveTime": 404,
+      "totalLinesAdded": 174285,
+      "totalLinesRemoved": 109985,
+      "totalActiveTime": 415,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/high-risk-schema/resolvers/clear-view-queries.ts": [
           {
@@ -4073,6 +4073,90 @@
               "removed": []
             },
             "duration": 0,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2025-08-22T15:31:02.917Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/atoms/CommentItem/CommentItem.scss",
+            "fileType": ".scss",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2025-08-22T15:32:22.923Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/atoms/CommentItem/CommentItem.scss",
+            "fileType": ".scss",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2025-08-22T15:34:12.314Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/atoms/CommentItem/CommentItem.scss",
+            "fileType": ".scss",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2025-08-22T15:34:23.969Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/atoms/CommentItem/CommentItem.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2025-08-22T15:34:28.010Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/atoms/CommentItem/CommentItem.scss",
+            "fileType": ".scss",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2025-08-22T15:34:35.723Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/atoms/CommentItem/CommentItem.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "scss"
           }
         ],
