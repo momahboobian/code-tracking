@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 173878,
-      "totalLinesRemoved": 109773,
-      "totalActiveTime": 290,
+      "totalLinesRemoved": 109815,
+      "totalActiveTime": 297,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/high-risk-schema/resolvers/clear-view-queries.ts": [
           {
@@ -2232,6 +2232,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-22T13:21:50.601Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/atoms/CommentItem/CommentItem.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 24,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "tsx"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/containers/AuditTrail/AuditTrail.tsx": [
@@ -2989,6 +3003,34 @@
             "fileType": ".scss",
             "linesAdded": 0,
             "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2025-08-22T13:22:22.761Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/atoms/CommentItem/CommentItem.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 10,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2025-08-22T13:24:28.108Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/atoms/CommentItem/CommentItem.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 8,
             "projectName": "cda",
             "content": {
               "added": [],
