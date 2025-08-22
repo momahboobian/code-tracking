@@ -2,7 +2,7 @@
   "date": "2025-08-22",
   "projects": {
     "cda": {
-      "totalLinesAdded": 174108,
+      "totalLinesAdded": 174240,
       "totalLinesRemoved": 109953,
       "totalActiveTime": 354,
       "files": {
@@ -3626,6 +3626,22 @@
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/node_modules/@bbc/ise-web-components/dist/styles/variables/_colors.scss",
             "fileType": ".scss",
             "linesAdded": 137,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "scss"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/feedback/src/components/CommentItem/CommentItem.scss": [
+          {
+            "timestamp": "2025-08-22T14:24:23.174Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/feedback/src/components/CommentItem/CommentItem.scss",
+            "fileType": ".scss",
+            "linesAdded": 132,
             "linesRemoved": 0,
             "projectName": "cda",
             "content": {
