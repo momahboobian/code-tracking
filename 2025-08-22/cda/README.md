@@ -5,9 +5,9 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 174317                                          |
-| **Lines Removed** (➖) | 110011                                        |
-| **Net Change** (↕)    | 64306                |
-| **Active Time** (⌚)   | 434 minutes |
+| **Lines Removed** (➖) | 110016                                        |
+| **Net Change** (↕)    | 64301                |
+| **Active Time** (⌚)   | 435 minutes |
 
 
 ## Modified Files
@@ -25,7 +25,7 @@
 - **AddComment.tsx** (+73, -0)
 - **config.ts** (+246, -0)
 - **graphql.ts** (+10362, -0)
-- **CommentItem.tsx** (+564, -146)
+- **CommentItem.tsx** (+564, -151)
 - **AuditTrail.tsx** (+345, -0)
 - **FieldsResults.tsx** (+52, -0)
 - **EditEntry.tsx** (+144, -0)
@@ -44,7 +44,7 @@
 pie showData
 title Lines changed by file type
 ".ts" : 281227
-".tsx" : 2044
+".tsx" : 2049
 ".scss" : 1057
 ```
 
@@ -61,7 +61,8 @@ title Coding activity by hour (count of changes)
 "14h" : 38
 "15h" : 27
 "16h" : 43
+"17h" : 2
 ```
 
 
-> **Last Updated:** 22/08/2025, 16:50:14
+> **Last Updated:** 22/08/2025, 17:10:14
