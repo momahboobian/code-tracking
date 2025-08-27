@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 15317                                          |
-| **Lines Removed** (➖) | 222                                        |
-| **Net Change** (↕)    | 15095                |
-| **Active Time** (⌚)   | 32 minutes |
+| **Lines Added** (➕)   | 16037                                          |
+| **Lines Removed** (➖) | 257                                        |
+| **Net Change** (↕)    | 15780                |
+| **Active Time** (⌚)   | 41 minutes |
 
 
 ## Modified Files
@@ -16,8 +16,9 @@
 - **graphql.ts** (+8272, -108)
 - **graphql.ts** (+5237, -56)
 - **CommentItem.scss** (+132, -0)
-- **CommentItemList.tsx** (+300, -0)
+- **CommentItemList.tsx** (+303, -5)
 - **CommentItem.tsx** (+464, -6)
+- **PoolDetails.tsx** (+717, -30)
 
 ## Visualizations
 
@@ -28,7 +29,7 @@ pie showData
 title Lines changed by file type
 ".ts" : 14637
 ".scss" : 132
-".tsx" : 770
+".tsx" : 1525
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -38,8 +39,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "10h" : 21
 "12h" : 5
-"15h" : 2
+"15h" : 8
 ```
 
 
-> **Last Updated:** 27/08/2025, 15:23:00
+> **Last Updated:** 27/08/2025, 15:28:00
