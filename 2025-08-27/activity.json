@@ -2,9 +2,9 @@
   "date": "2025-08-27",
   "projects": {
     "cda": {
-      "totalLinesAdded": 16066,
+      "totalLinesAdded": 16086,
       "totalLinesRemoved": 263,
-      "totalActiveTime": 47,
+      "totalActiveTime": 51,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/graphql/high-risk/mutations/comments.ts": [
           {
@@ -393,6 +393,34 @@
               "removed": []
             },
             "duration": 3,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-27T14:34:14.954Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/molecules/CommentItemList/CommentItemList.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 18,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-27T14:35:08.521Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/molecules/CommentItemList/CommentItemList.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "tsx"
           }
         ],
