@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 18635,
-      "totalLinesRemoved": 627,
-      "totalActiveTime": 302,
+      "totalLinesRemoved": 632,
+      "totalActiveTime": 303,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/graphql/high-risk/mutations/comments.ts": [
           {
@@ -2863,6 +2863,20 @@
             "fileType": ".scss",
             "linesAdded": 0,
             "linesRemoved": 6,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2025-08-27T18:38:05.925Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/molecules/CommentItem/CommentItem.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 5,
             "projectName": "cda",
             "content": {
               "added": [],
