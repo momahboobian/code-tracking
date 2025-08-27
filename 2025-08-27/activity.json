@@ -2,9 +2,9 @@
   "date": "2025-08-27",
   "projects": {
     "cda": {
-      "totalLinesAdded": 17042,
-      "totalLinesRemoved": 470,
-      "totalActiveTime": 199,
+      "totalLinesAdded": 17100,
+      "totalLinesRemoved": 473,
+      "totalActiveTime": 203,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/graphql/high-risk/mutations/comments.ts": [
           {
@@ -1011,6 +1011,62 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-27T16:55:35.521Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/atoms/CommentItem/CommentItem.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-27T16:55:56.782Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/atoms/CommentItem/CommentItem.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-27T16:56:15.106Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/atoms/CommentItem/CommentItem.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-27T16:57:31.465Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/atoms/CommentItem/CommentItem.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 46,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "tsx"
           }
         ],
