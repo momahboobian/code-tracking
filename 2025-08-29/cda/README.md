@@ -5,8 +5,8 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 13578                                          |
-| **Lines Removed** (➖) | 19                                        |
-| **Net Change** (↕)    | 13559                |
+| **Lines Removed** (➖) | 57                                        |
+| **Net Change** (↕)    | 13521                |
 | **Active Time** (⌚)   | 15 minutes |
 
 
@@ -17,6 +17,7 @@
 - **AddComment.test.tsx** (+79, -15)
 - **AddComment.tsx** (+75, -0)
 - **CostDetails.tsx** (+1, -4)
+- **PoolDetails.tsx** (+0, -38)
 
 ## Visualizations
 
@@ -27,7 +28,7 @@ pie showData
 title Lines changed by file type
 ".ts" : 13345
 ".json" : 78
-".tsx" : 174
+".tsx" : 212
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -36,7 +37,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "09h" : 13
+"10h" : 1
 ```
 
 
-> **Last Updated:** 29/08/2025, 10:02:04
+> **Last Updated:** 29/08/2025, 10:07:04
