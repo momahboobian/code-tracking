@@ -2,7 +2,7 @@
   "date": "2025-08-29",
   "projects": {
     "cda": {
-      "totalLinesAdded": 14348,
+      "totalLinesAdded": 14717,
       "totalLinesRemoved": 125,
       "totalActiveTime": 70,
       "files": {
@@ -205,6 +205,20 @@
             "fileType": ".tsx",
             "linesAdded": 0,
             "linesRemoved": 2,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-29T13:09:55.909Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/containers/CostDetails/CostDetails.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 369,
+            "linesRemoved": 0,
             "projectName": "cda",
             "content": {
               "added": [],
