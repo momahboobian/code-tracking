@@ -2,9 +2,9 @@
   "date": "2025-08-29",
   "projects": {
     "cda": {
-      "totalLinesAdded": 16171,
-      "totalLinesRemoved": 428,
-      "totalActiveTime": 151,
+      "totalLinesAdded": 16175,
+      "totalLinesRemoved": 431,
+      "totalActiveTime": 155,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/gql-generated/low-risk/graphql.ts": [
           {
@@ -1425,6 +1425,48 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-29T16:31:37.949Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/molecules/CommentItemList/CommentItemList.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-29T16:31:59.916Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/molecules/CommentItemList/CommentItemList.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-29T16:34:06.754Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/molecules/CommentItemList/CommentItemList.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "tsx"
           }
         ],
