@@ -3,7 +3,7 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 13578,
-      "totalLinesRemoved": 6,
+      "totalLinesRemoved": 19,
       "totalActiveTime": 15,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/gql-generated/low-risk/graphql.ts": [
@@ -95,6 +95,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-29T08:58:26.169Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/atoms/AddComment/AddComment.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 13,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ],
