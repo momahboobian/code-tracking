@@ -2,9 +2,9 @@
   "date": "2025-08-29",
   "projects": {
     "cda": {
-      "totalLinesAdded": 14333,
+      "totalLinesAdded": 14348,
       "totalLinesRemoved": 125,
-      "totalActiveTime": 65,
+      "totalActiveTime": 70,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/gql-generated/low-risk/graphql.ts": [
           {
@@ -795,6 +795,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-29T13:04:02.496Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/molecules/CommentItemList/CommentItemList.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 15,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "tsx"
           }
         ]
