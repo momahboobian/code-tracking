@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 15769,
-      "totalLinesRemoved": 197,
-      "totalActiveTime": 120,
+      "totalLinesRemoved": 208,
+      "totalActiveTime": 122,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/gql-generated/low-risk/graphql.ts": [
           {
@@ -253,6 +253,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-29T14:06:40.808Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/containers/CostDetails/CostDetails.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 11,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "tsx"
           }
         ],
