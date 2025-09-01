@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 1636,
-      "totalLinesRemoved": 91,
-      "totalActiveTime": 35,
+      "totalLinesRemoved": 93,
+      "totalActiveTime": 40,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/molecules/CommentItem/CommentItem.tsx": [
           {
@@ -293,6 +293,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-09-01T09:21:16.013Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/molecules/CommentItemList/CommentItemList.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "tsx"
           }
         ],
