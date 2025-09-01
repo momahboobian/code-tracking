@@ -2,9 +2,9 @@
   "date": "2025-09-01",
   "projects": {
     "cda": {
-      "totalLinesAdded": 5419,
+      "totalLinesAdded": 6038,
       "totalLinesRemoved": 460,
-      "totalActiveTime": 186,
+      "totalActiveTime": 187,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/components/molecules/CommentItem/CommentItem.tsx": [
           {
@@ -1838,6 +1838,36 @@
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/containers/InitiativeDetails/InitiativeDetails.tsx",
             "fileType": ".tsx",
             "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/containers/PoolDetails/PoolDetails.tsx": [
+          {
+            "timestamp": "2025-09-01T15:17:49.211Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/containers/PoolDetails/PoolDetails.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 613,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-09-01T15:17:52.752Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/containers/PoolDetails/PoolDetails.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 6,
             "linesRemoved": 0,
             "projectName": "cda",
             "content": {
