@@ -4,17 +4,21 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 604                                          |
-| **Lines Removed** (➖) | 22                                        |
-| **Net Change** (↕)    | 582                |
-| **Active Time** (⌚)   | 32 minutes |
+| **Lines Added** (➕)   | 626                                          |
+| **Lines Removed** (➖) | 64                                        |
+| **Net Change** (↕)    | 562                |
+| **Active Time** (⌚)   | 42 minutes |
 
 
 ## Modified Files
 - **comments.ts** (+170, -0)
-- **InitiativeDetails.tsx** (+6, -4)
-- **CommentItemList.tsx** (+259, -7)
-- **CommentService.ts** (+169, -11)
+- **InitiativeDetails.tsx** (+19, -18)
+- **CommentItemList.tsx** (+261, -9)
+- **CommentService.ts** (+176, -18)
+- **TargetDetails.tsx** (+0, -3)
+- **PoolDetails.tsx** (+0, -3)
+- **PoolPosition.tsx** (+0, -7)
+- **ReinvestmentDetail.tsx** (+0, -6)
 
 ## Visualizations
 
@@ -23,8 +27,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 350
-".tsx" : 276
+".ts" : 364
+".tsx" : 326
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -33,8 +37,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "09h" : 10
-"10h" : 20
+"10h" : 33
 ```
 
 
-> **Last Updated:** 02/09/2025, 10:34:18
+> **Last Updated:** 02/09/2025, 10:49:18
