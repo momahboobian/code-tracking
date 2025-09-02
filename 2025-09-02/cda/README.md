@@ -4,21 +4,21 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 10121                                          |
-| **Lines Removed** (➖) | 336                                        |
-| **Net Change** (↕)    | 9785                |
-| **Active Time** (⌚)   | 247 minutes |
+| **Lines Added** (➕)   | 10135                                          |
+| **Lines Removed** (➖) | 369                                        |
+| **Net Change** (↕)    | 9766                |
+| **Active Time** (⌚)   | 259 minutes |
 
 
 ## Modified Files
 - **comments.ts** (+361, -24)
-- **InitiativeDetails.tsx** (+1610, -55)
-- **CommentItemList.tsx** (+865, -112)
+- **InitiativeDetails.tsx** (+1610, -64)
+- **CommentItemList.tsx** (+879, -112)
 - **CommentService.ts** (+369, -47)
-- **TargetDetails.tsx** (+874, -18)
-- **PoolDetails.tsx** (+1246, -18)
-- **PoolPosition.tsx** (+1366, -34)
-- **ReinvestmentDetail.tsx** (+1202, -23)
+- **TargetDetails.tsx** (+874, -23)
+- **PoolDetails.tsx** (+1246, -23)
+- **PoolPosition.tsx** (+1366, -43)
+- **ReinvestmentDetail.tsx** (+1202, -28)
 - **CommentService.test.ts** (+327, -1)
 - **CostDetails.tsx** (+685, -1)
 - **App.tsx** (+587, -1)
@@ -34,7 +34,7 @@
 pie showData
 title Lines changed by file type
 ".ts" : 1129
-".tsx" : 8697
+".tsx" : 8744
 ".js" : 494
 ".scss" : 59
 ".json" : 78
@@ -52,8 +52,8 @@ title Coding activity by hour (count of changes)
 "13h" : 31
 "14h" : 2
 "15h" : 19
-"16h" : 48
+"16h" : 54
 ```
 
 
-> **Last Updated:** 02/09/2025, 16:46:43
+> **Last Updated:** 02/09/2025, 16:51:43
