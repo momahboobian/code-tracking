@@ -2,7 +2,7 @@
   "date": "2025-09-03",
   "projects": {
     "cda": {
-      "totalLinesAdded": 31498,
+      "totalLinesAdded": 31512,
       "totalLinesRemoved": 71,
       "totalActiveTime": 57,
       "files": {
@@ -667,6 +667,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-09-03T14:24:46.497Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-table-types/src/types/views.ts",
+            "fileType": ".ts",
+            "linesAdded": 14,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "ts"
           }
         ],
