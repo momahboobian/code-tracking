@@ -2,9 +2,9 @@
   "date": "2025-09-03",
   "projects": {
     "cda": {
-      "totalLinesAdded": 13712,
+      "totalLinesAdded": 25741,
       "totalLinesRemoved": 71,
-      "totalActiveTime": 50,
+      "totalActiveTime": 51,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/src/containers/InitiativeDetails/InitiativeDetails.tsx": [
           {
@@ -622,6 +622,38 @@
             },
             "duration": 2,
             "language": "js"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-table-types/src/types/clear_view_views.ts": [
+          {
+            "timestamp": "2025-09-03T14:13:38.558Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-table-types/src/types/clear_view_views.ts",
+            "fileType": ".ts",
+            "linesAdded": 3557,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-table-types/src/types/views.ts": [
+          {
+            "timestamp": "2025-09-03T14:14:21.421Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-table-types/src/types/views.ts",
+            "fileType": ".ts",
+            "linesAdded": 8472,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ]
       },
