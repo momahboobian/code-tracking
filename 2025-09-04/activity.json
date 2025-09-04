@@ -2,7 +2,7 @@
   "date": "2025-09-04",
   "projects": {
     "cda": {
-      "totalLinesAdded": 11657,
+      "totalLinesAdded": 11747,
       "totalLinesRemoved": 1223,
       "totalActiveTime": 122,
       "files": {
@@ -1072,6 +1072,22 @@
             },
             "duration": 1,
             "language": "js"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/__mocks__/data/calendar/events.ts": [
+          {
+            "timestamp": "2025-09-04T13:55:23.396Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/__mocks__/data/calendar/events.ts",
+            "fileType": ".ts",
+            "linesAdded": 90,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
           }
         ]
       },
