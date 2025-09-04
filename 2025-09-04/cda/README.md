@@ -5,16 +5,16 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 11368                                          |
-| **Lines Removed** (➖) | 1155                                        |
-| **Net Change** (↕)    | 10213                |
-| **Active Time** (⌚)   | 82 minutes |
+| **Lines Removed** (➖) | 1210                                        |
+| **Net Change** (↕)    | 10158                |
+| **Active Time** (⌚)   | 83 minutes |
 
 
 ## Modified Files
 - **20250903140032-alter-calendar-event-external-attendees-view.js** (+22, -0)
 - **settings.json** (+50, -6)
 - **20250903134609-alter-calendar-event-internal-attendees-view.js** (+27, -0)
-- **calendar.ts** (+2116, -1149)
+- **calendar.ts** (+2116, -1204)
 - **resolvers-types.ts** (+9113, -0)
 - **venueTypeFromFlags.ts** (+40, -0)
 
@@ -27,7 +27,7 @@ pie showData
 title Lines changed by file type
 ".js" : 49
 ".json" : 56
-".ts" : 12418
+".ts" : 12473
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -40,7 +40,8 @@ title Coding activity by hour (count of changes)
 "11h" : 11
 "12h" : 17
 "13h" : 17
+"14h" : 2
 ```
 
 
-> **Last Updated:** 04/09/2025, 14:00:35
+> **Last Updated:** 04/09/2025, 14:05:35
