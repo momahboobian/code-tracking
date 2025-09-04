@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 12791                                          |
-| **Lines Removed** (➖) | 1612                                        |
-| **Net Change** (↕)    | 11179                |
-| **Active Time** (⌚)   | 226 minutes |
+| **Lines Added** (➕)   | 12960                                          |
+| **Lines Removed** (➖) | 1649                                        |
+| **Net Change** (↕)    | 11311                |
+| **Active Time** (⌚)   | 237 minutes |
 
 
 ## Modified Files
@@ -24,6 +24,8 @@
 - **permissions.ts** (+192, -0)
 - **time.ts** (+81, -0)
 - **calendar.js** (+310, -1)
+- **venue.ts** (+77, -37)
+- **eventTypeFromFlags.ts** (+92, -0)
 
 ## Visualizations
 
@@ -34,7 +36,7 @@ pie showData
 title Lines changed by file type
 ".js" : 462
 ".json" : 56
-".ts" : 13885
+".ts" : 14091
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -51,8 +53,8 @@ title Coding activity by hour (count of changes)
 "15h" : 8
 "16h" : 18
 "17h" : 35
-"18h" : 1
+"18h" : 6
 ```
 
 
-> **Last Updated:** 04/09/2025, 18:05:35
+> **Last Updated:** 04/09/2025, 18:10:35
