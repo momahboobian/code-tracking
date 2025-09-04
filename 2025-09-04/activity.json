@@ -1,0 +1,97 @@
+{
+  "date": "2025-09-04",
+  "projects": {
+    "cda": {
+      "totalLinesAdded": 99,
+      "totalLinesRemoved": 6,
+      "totalActiveTime": 4,
+      "files": {
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-db-migration/src/migrations/staff/views/20250903140032-alter-calendar-event-external-attendees-view.js": [
+          {
+            "timestamp": "2025-09-04T08:06:48.908Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-db-migration/src/migrations/staff/views/20250903140032-alter-calendar-event-external-attendees-view.js",
+            "fileType": ".js",
+            "linesAdded": 22,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          }
+        ],
+        "/Users/momahboobian/Library/Application Support/Code/User/settings.json": [
+          {
+            "timestamp": "2025-09-04T08:06:52.880Z",
+            "fileName": "/Users/momahboobian/Library/Application Support/Code/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 50,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-09-04T08:06:52.908Z",
+            "fileName": "/Users/momahboobian/Library/Application Support/Code/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 6,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-db-migration/src/migrations/staff/views/20250903134609-alter-calendar-event-internal-attendees-view.js": [
+          {
+            "timestamp": "2025-09-04T08:07:56.280Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-db-migration/src/migrations/staff/views/20250903134609-alter-calendar-event-internal-attendees-view.js",
+            "fileType": ".js",
+            "linesAdded": 27,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "js"
+          }
+        ]
+      },
+      "languageStats": {
+        "js": 2,
+        "json": 2
+      },
+      "changeFrequency": {
+        "9": 4
+      },
+      "topFiles": [
+        "/Users/momahboobian/Library/Application Support/Code/User/settings.json",
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-db-migration/src/migrations/staff/views/20250903140032-alter-calendar-event-external-attendees-view.js",
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-db-migration/src/migrations/staff/views/20250903134609-alter-calendar-event-internal-attendees-view.js"
+      ],
+      "averageChangeSize": 26.25
+    }
+  },
+  "totalActiveTime": 4,
+  "totalProjects": 1,
+  "totalFiles": 3,
+  "mostActiveHours": [
+    9
+  ],
+  "mostUsedLanguages": [
+    "js",
+    "json"
+  ]
+}
