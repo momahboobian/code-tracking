@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 10323,
-      "totalLinesRemoved": 74,
-      "totalActiveTime": 43,
+      "totalLinesRemoved": 75,
+      "totalActiveTime": 48,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-db-migration/src/migrations/staff/views/20250903140032-alter-calendar-event-external-attendees-view.js": [
           {
@@ -417,6 +417,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-09-04T11:54:18.361Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/low-risk-schema/resolvers/calendar.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "ts"
           }
         ],
