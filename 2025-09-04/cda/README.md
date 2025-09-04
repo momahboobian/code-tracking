@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 11556                                          |
-| **Lines Removed** (➖) | 1217                                        |
-| **Net Change** (↕)    | 10339                |
-| **Active Time** (⌚)   | 109 minutes |
+| **Lines Added** (➕)   | 11653                                          |
+| **Lines Removed** (➖) | 1223                                        |
+| **Net Change** (↕)    | 10430                |
+| **Active Time** (⌚)   | 118 minutes |
 
 
 ## Modified Files
@@ -18,7 +18,8 @@
 - **resolvers-types.ts** (+9113, -0)
 - **venueTypeFromFlags.ts** (+40, -0)
 - **events.ts** (+101, -7)
-- **events.test.ts** (+87, -0)
+- **events.test.ts** (+88, -0)
+- **index.js** (+96, -6)
 
 ## Visualizations
 
@@ -27,9 +28,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".js" : 49
+".js" : 151
 ".json" : 56
-".ts" : 12668
+".ts" : 12669
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -42,8 +43,8 @@ title Coding activity by hour (count of changes)
 "11h" : 11
 "12h" : 17
 "13h" : 17
-"14h" : 17
+"14h" : 22
 ```
 
 
-> **Last Updated:** 04/09/2025, 14:40:35
+> **Last Updated:** 04/09/2025, 14:45:35
