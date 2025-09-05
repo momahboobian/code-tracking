@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 14239,
-      "totalLinesRemoved": 927,
-      "totalActiveTime": 321,
+      "totalLinesRemoved": 1008,
+      "totalActiveTime": 323,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/low-risk-schema/resolvers/calendar.ts": [
           {
@@ -1669,6 +1669,34 @@
             "fileType": ".ts",
             "linesAdded": 0,
             "linesRemoved": 37,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-09-05T18:00:34.586Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/utils/calendar/events.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 54,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-09-05T18:01:02.576Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/utils/calendar/events.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 27,
             "projectName": "cda",
             "content": {
               "added": [],
