@@ -2,7 +2,7 @@
   "date": "2025-09-05",
   "projects": {
     "cda": {
-      "totalLinesAdded": 3004,
+      "totalLinesAdded": 12124,
       "totalLinesRemoved": 337,
       "totalActiveTime": 30,
       "files": {
@@ -331,6 +331,22 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/types/gql-generated/low-risk/resolvers-types.ts": [
+          {
+            "timestamp": "2025-09-05T09:33:09.382Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/types/gql-generated/low-risk/resolvers-types.ts",
+            "fileType": ".ts",
+            "linesAdded": 9120,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "ts"
           }
         ]
