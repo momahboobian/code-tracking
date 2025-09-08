@@ -5,15 +5,15 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 1510                                          |
-| **Lines Removed** (➖) | 35                                        |
-| **Net Change** (↕)    | 1475                |
-| **Active Time** (⌚)   | 7 minutes |
+| **Lines Removed** (➖) | 69                                        |
+| **Net Change** (↕)    | 1441                |
+| **Active Time** (⌚)   | 10 minutes |
 
 
 ## Modified Files
 - **userStatus.test.js** (+32, -1)
 - **userStatus.test.ts** (+33, -0)
-- **calendar-queries.ts** (+1445, -34)
+- **calendar-queries.ts** (+1445, -68)
 
 ## Visualizations
 
@@ -23,7 +23,7 @@
 pie showData
 title Lines changed by file type
 ".js" : 33
-".ts" : 1512
+".ts" : 1546
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -32,8 +32,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "10h" : 6
-"11h" : 2
+"11h" : 3
 ```
 
 
-> **Last Updated:** 08/09/2025, 11:14:59
+> **Last Updated:** 08/09/2025, 11:19:59
