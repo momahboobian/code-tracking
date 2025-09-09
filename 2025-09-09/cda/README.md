@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 72583                                          |
-| **Lines Removed** (➖) | 559                                        |
-| **Net Change** (↕)    | 72024                |
-| **Active Time** (⌚)   | 250 minutes |
+| **Lines Added** (➕)   | 72595                                          |
+| **Lines Removed** (➖) | 560                                        |
+| **Net Change** (↕)    | 72035                |
+| **Active Time** (⌚)   | 257 minutes |
 
 
 ## Modified Files
@@ -22,7 +22,7 @@
 - **buildings.ts** (+317, -29)
 - **calendar.ts** (+1042, -95)
 - **everywhere.ts** (+352, -0)
-- **DivisionService.ts** (+80, -0)
+- **DivisionService.ts** (+80, -1)
 - **AllocateFiltering.ts** (+68, -3)
 - **RotaPattern.ts** (+87, -0)
 - **checkUserPermissions.ts** (+61, -0)
@@ -115,6 +115,7 @@
 - **index.ts** (+201, -8)
 - **graphql.ts** (+7019, -0)
 - **graphql.ts** (+5332, -0)
+- **infotrends.ts** (+12, -0)
 
 ## Visualizations
 
@@ -123,7 +124,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 72215
+".ts" : 72228
 ".json" : 59
 "unknown" : 13
 ".tsx" : 855
@@ -138,8 +139,8 @@ title Coding activity by hour (count of changes)
 "10h" : 36
 "11h" : 76
 "12h" : 52
-"13h" : 7
+"13h" : 9
 ```
 
 
-> **Last Updated:** 09/09/2025, 13:50:33
+> **Last Updated:** 09/09/2025, 13:55:33
