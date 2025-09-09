@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 73156                                          |
-| **Lines Removed** (➖) | 560                                        |
-| **Net Change** (↕)    | 72596                |
-| **Active Time** (⌚)   | 262 minutes |
+| **Lines Added** (➕)   | 75119                                          |
+| **Lines Removed** (➖) | 561                                        |
+| **Net Change** (↕)    | 74558                |
+| **Active Time** (⌚)   | 270 minutes |
 
 
 ## Modified Files
@@ -18,16 +18,16 @@
 - **HelperTextService.ts** (+93, -0)
 - **it-kit.ts** (+101, -0)
 - **yesalert.ts** (+440, -0)
-- **app.ts** (+644, -0)
+- **app.ts** (+1288, -0)
 - **buildings.ts** (+317, -29)
-- **calendar.ts** (+1042, -95)
+- **calendar.ts** (+1989, -95)
 - **everywhere.ts** (+352, -0)
 - **DivisionService.ts** (+159, -1)
 - **AllocateFiltering.ts** (+68, -3)
 - **RotaPattern.ts** (+87, -0)
 - **checkUserPermissions.ts** (+61, -0)
 - **ClearViewUser.ts** (+153, -0)
-- **CostService.ts** (+372, -0)
+- **CostService.ts** (+744, -1)
 - **InitiativeGroupService.ts** (+245, -0)
 - **LoggingService.ts** (+685, -0)
 - **NotificationService.ts** (+1069, -0)
@@ -126,7 +126,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 72789
+".ts" : 74753
 ".json" : 59
 "unknown" : 13
 ".tsx" : 855
@@ -142,8 +142,8 @@ title Coding activity by hour (count of changes)
 "11h" : 76
 "12h" : 52
 "13h" : 11
-"14h" : 2
+"14h" : 6
 ```
 
 
-> **Last Updated:** 09/09/2025, 14:01:51
+> **Last Updated:** 09/09/2025, 14:06:51
