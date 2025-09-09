@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 23948                                          |
-| **Lines Removed** (➖) | 93                                        |
-| **Net Change** (↕)    | 23855                |
-| **Active Time** (⌚)   | 129 minutes |
+| **Lines Added** (➕)   | 25264                                          |
+| **Lines Removed** (➖) | 99                                        |
+| **Net Change** (↕)    | 25165                |
+| **Active Time** (⌚)   | 141 minutes |
 
 
 ## Modified Files
@@ -54,7 +54,7 @@
 - **iPagesTagViewer.ts** (+26, -3)
 - **TagService.ts** (+120, -0)
 - **index.ts** (+28, -0)
-- **settings.json** (+51, -0)
+- **settings.json** (+53, -6)
 - **.prettierrc** (+13, -0)
 - **UserService.ts** (+140, -0)
 - **peopleKit.ts** (+41, -0)
@@ -79,6 +79,13 @@
 - **userPermissions.ts** (+153, -0)
 - **activityFeed.ts** (+57, -0)
 - **working-status.ts** (+37, -0)
+- **form-schemas.ts** (+716, -0)
+- **forms.ts** (+299, -0)
+- **tags.ts** (+25, -0)
+- **users.ts** (+26, -0)
+- **skill-tags.ts** (+129, -0)
+- **maxims.ts** (+68, -0)
+- **groupTransformer.ts** (+51, -0)
 
 ## Visualizations
 
@@ -87,8 +94,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 23977
-".json" : 51
+".ts" : 25291
+".json" : 59
 "unknown" : 13
 ```
 
@@ -99,8 +106,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "09h" : 21
 "10h" : 36
-"11h" : 49
+"11h" : 58
 ```
 
 
-> **Last Updated:** 09/09/2025, 11:40:33
+> **Last Updated:** 09/09/2025, 11:45:33
