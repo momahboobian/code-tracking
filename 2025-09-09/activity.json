@@ -2,9 +2,9 @@
   "date": "2025-09-09",
   "projects": {
     "cda": {
-      "totalLinesAdded": 21420,
-      "totalLinesRemoved": 82,
-      "totalActiveTime": 86,
+      "totalLinesAdded": 21540,
+      "totalLinesRemoved": 85,
+      "totalActiveTime": 89,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/index.ts": [
           {
@@ -1051,6 +1051,36 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-09-09T10:11:41.276Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/iPages-tag-viewer/iPagesTagViewer.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/iPages-tag-viewer/TagService.ts": [
+          {
+            "timestamp": "2025-09-09T10:10:49.789Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/iPages-tag-viewer/TagService.ts",
+            "fileType": ".ts",
+            "linesAdded": 120,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "ts"
           }
         ]
