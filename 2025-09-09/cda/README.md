@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 89655                                          |
+| **Lines Added** (➕)   | 91174                                          |
 | **Lines Removed** (➖) | 595                                        |
-| **Net Change** (↕)    | 89060                |
-| **Active Time** (⌚)   | 363 minutes |
+| **Net Change** (↕)    | 90579                |
+| **Active Time** (⌚)   | 371 minutes |
 
 
 ## Modified Files
@@ -74,12 +74,12 @@
 - **events.ts** (+138, -0)
 - **initiatives.ts** (+782, -0)
 - **notifications.ts** (+118, -0)
-- **proposal-target.ts** (+218, -0)
-- **reports.ts** (+31, -0)
-- **userPermissions.ts** (+153, -0)
-- **activityFeed.ts** (+57, -0)
-- **working-status.ts** (+37, -0)
-- **form-schemas.ts** (+716, -0)
+- **proposal-target.ts** (+436, -0)
+- **reports.ts** (+62, -0)
+- **userPermissions.ts** (+306, -0)
+- **activityFeed.ts** (+114, -0)
+- **working-status.ts** (+77, -0)
+- **form-schemas.ts** (+1432, -0)
 - **forms.ts** (+598, -0)
 - **tags.ts** (+50, -0)
 - **users.ts** (+52, -0)
@@ -124,6 +124,7 @@
 - **CommentService.ts** (+164, -0)
 - **clear_view_controlled_tables.ts** (+614, -1)
 - **comment.ts** (+192, -0)
+- **reinvestment-groups.ts** (+304, -0)
 
 ## Visualizations
 
@@ -132,7 +133,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 89323
+".ts" : 90842
 ".json" : 59
 "unknown" : 13
 ".tsx" : 855
@@ -149,8 +150,8 @@ title Coding activity by hour (count of changes)
 "12h" : 52
 "13h" : 11
 "14h" : 42
-"15h" : 46
+"15h" : 54
 ```
 
 
-> **Last Updated:** 09/09/2025, 15:36:51
+> **Last Updated:** 09/09/2025, 15:41:51
