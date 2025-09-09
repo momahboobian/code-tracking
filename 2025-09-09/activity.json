@@ -3567,6 +3567,39 @@
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/index.ts"
       ],
       "averageChangeSize": 173
+    },
+    "9ade5059-4b81-4b36-a807-d0f8f7fd30af_full_2025-09-09T13_16_54Z copy": {
+      "totalLinesAdded": 167,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/momahboobian/Downloads/9ade5059-4b81-4b36-a807-d0f8f7fd30af_full_2025-09-09T13_16_54Z copy/index1.html": [
+          {
+            "timestamp": "2025-09-09T13:21:32.370Z",
+            "fileName": "/Users/momahboobian/Downloads/9ade5059-4b81-4b36-a807-d0f8f7fd30af_full_2025-09-09T13_16_54Z copy/index1.html",
+            "fileType": ".html",
+            "linesAdded": 167,
+            "linesRemoved": 0,
+            "projectName": "9ade5059-4b81-4b36-a807-d0f8f7fd30af_full_2025-09-09T13_16_54Z copy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "html"
+          }
+        ]
+      },
+      "languageStats": {
+        "html": 0
+      },
+      "changeFrequency": {
+        "14": 0
+      },
+      "topFiles": [
+        "/Users/momahboobian/Downloads/9ade5059-4b81-4b36-a807-d0f8f7fd30af_full_2025-09-09T13_16_54Z copy/index1.html"
+      ],
+      "averageChangeSize": 167
     }
   },
   "totalActiveTime": 1,
