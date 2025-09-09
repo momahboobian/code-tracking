@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 22141                                          |
-| **Lines Removed** (➖) | 87                                        |
-| **Net Change** (↕)    | 22054                |
-| **Active Time** (⌚)   | 105 minutes |
+| **Lines Added** (➕)   | 23948                                          |
+| **Lines Removed** (➖) | 93                                        |
+| **Net Change** (↕)    | 23855                |
+| **Active Time** (⌚)   | 129 minutes |
 
 
 ## Modified Files
@@ -62,6 +62,23 @@
 - **SkillTagPermissions.ts** (+12, -0)
 - **CategoryService.ts** (+84, -1)
 - **MaximService.ts** (+188, -1)
+- **PermissionsService.ts** (+131, -1)
+- **ProjectService.ts** (+111, -1)
+- **SystemService.ts** (+128, -1)
+- **TeamCharter.ts** (+49, -1)
+- **GroupService.ts** (+58, -0)
+- **SystemService.ts** (+122, -1)
+- **YesAlertService.ts** (+30, -1)
+- **businesses.ts** (+54, -0)
+- **costs.ts** (+109, -0)
+- **events.ts** (+69, -0)
+- **initiatives.ts** (+391, -0)
+- **notifications.ts** (+59, -0)
+- **proposal-target.ts** (+218, -0)
+- **reports.ts** (+31, -0)
+- **userPermissions.ts** (+153, -0)
+- **activityFeed.ts** (+57, -0)
+- **working-status.ts** (+37, -0)
 
 ## Visualizations
 
@@ -70,7 +87,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 22164
+".ts" : 23977
 ".json" : 51
 "unknown" : 13
 ```
@@ -82,8 +99,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "09h" : 21
 "10h" : 36
-"11h" : 26
+"11h" : 49
 ```
 
 
-> **Last Updated:** 09/09/2025, 11:35:33
+> **Last Updated:** 09/09/2025, 11:40:33
