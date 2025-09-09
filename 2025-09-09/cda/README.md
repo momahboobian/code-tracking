@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 25264                                          |
-| **Lines Removed** (➖) | 99                                        |
-| **Net Change** (↕)    | 25165                |
-| **Active Time** (⌚)   | 141 minutes |
+| **Lines Added** (➕)   | 25277                                          |
+| **Lines Removed** (➖) | 223                                        |
+| **Net Change** (↕)    | 25054                |
+| **Active Time** (⌚)   | 146 minutes |
 
 
 ## Modified Files
@@ -19,8 +19,8 @@
 - **it-kit.ts** (+101, -0)
 - **yesalert.ts** (+440, -0)
 - **app.ts** (+644, -0)
-- **buildings.ts** (+304, -0)
-- **calendar.ts** (+1042, -0)
+- **buildings.ts** (+317, -29)
+- **calendar.ts** (+1042, -95)
 - **everywhere.ts** (+352, -0)
 - **DivisionService.ts** (+80, -0)
 - **AllocateFiltering.ts** (+68, -0)
@@ -94,7 +94,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 25291
+".ts" : 25428
 ".json" : 59
 "unknown" : 13
 ```
@@ -106,8 +106,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "09h" : 21
 "10h" : 36
-"11h" : 58
+"11h" : 61
 ```
 
 
-> **Last Updated:** 09/09/2025, 11:45:33
+> **Last Updated:** 09/09/2025, 11:50:33
