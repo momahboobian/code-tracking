@@ -5,9 +5,9 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 25277                                          |
-| **Lines Removed** (➖) | 223                                        |
-| **Net Change** (↕)    | 25054                |
-| **Active Time** (⌚)   | 146 minutes |
+| **Lines Removed** (➖) | 237                                        |
+| **Net Change** (↕)    | 25040                |
+| **Active Time** (⌚)   | 155 minutes |
 
 
 ## Modified Files
@@ -23,7 +23,7 @@
 - **calendar.ts** (+1042, -95)
 - **everywhere.ts** (+352, -0)
 - **DivisionService.ts** (+80, -0)
-- **AllocateFiltering.ts** (+68, -0)
+- **AllocateFiltering.ts** (+68, -3)
 - **RotaPattern.ts** (+87, -0)
 - **checkUserPermissions.ts** (+61, -0)
 - **ClearViewUser.ts** (+153, -0)
@@ -65,10 +65,10 @@
 - **PermissionsService.ts** (+131, -1)
 - **ProjectService.ts** (+111, -1)
 - **SystemService.ts** (+128, -1)
-- **TeamCharter.ts** (+49, -1)
+- **TeamCharter.ts** (+49, -7)
 - **GroupService.ts** (+58, -0)
 - **SystemService.ts** (+122, -1)
-- **YesAlertService.ts** (+30, -1)
+- **YesAlertService.ts** (+30, -6)
 - **businesses.ts** (+54, -0)
 - **costs.ts** (+109, -0)
 - **events.ts** (+69, -0)
@@ -94,7 +94,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 25428
+".ts" : 25442
 ".json" : 59
 "unknown" : 13
 ```
@@ -106,8 +106,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "09h" : 21
 "10h" : 36
-"11h" : 61
+"11h" : 64
 ```
 
 
-> **Last Updated:** 09/09/2025, 11:50:33
+> **Last Updated:** 09/09/2025, 11:55:33
