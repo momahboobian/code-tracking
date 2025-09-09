@@ -4,16 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 42218                                          |
-| **Lines Removed** (➖) | 531                                        |
-| **Net Change** (↕)    | 41687                |
-| **Active Time** (⌚)   | 211 minutes |
+| **Lines Added** (➕)   | 60014                                          |
+| **Lines Removed** (➖) | 537                                        |
+| **Net Change** (↕)    | 59477                |
+| **Active Time** (⌚)   | 222 minutes |
 
 
 ## Modified Files
 - **index.ts** (+1058, -24)
-- **tables.ts** (+5788, -28)
-- **clear_view_views.ts** (+3615, -29)
+- **tables.ts** (+11540, -32)
+- **clear_view_views.ts** (+7172, -29)
 - **desks.ts** (+749, -0)
 - **HelperTextService.ts** (+93, -0)
 - **it-kit.ts** (+101, -0)
@@ -51,7 +51,7 @@
 - **InfosecForms.ts** (+50, -0)
 - **PartService.ts** (+164, -0)
 - **PermissionService.ts** (+83, -0)
-- **iPagesTagViewer.ts** (+26, -3)
+- **iPagesTagViewer.ts** (+27, -3)
 - **TagService.ts** (+120, -0)
 - **index.ts** (+28, -0)
 - **settings.json** (+53, -6)
@@ -110,7 +110,8 @@
 - **setup.ts** (+1816, -42)
 - **positions.ts** (+365, -3)
 - **App.tsx** (+587, -1)
-- **Attendees.tsx** (+239, -0)
+- **Attendees.tsx** (+239, -2)
+- **views.ts** (+8486, -0)
 
 ## Visualizations
 
@@ -119,10 +120,10 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 41850
+".ts" : 59650
 ".json" : 59
 "unknown" : 13
-".tsx" : 827
+".tsx" : 829
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -133,8 +134,8 @@ title Coding activity by hour (count of changes)
 "09h" : 21
 "10h" : 36
 "11h" : 76
-"12h" : 36
+"12h" : 43
 ```
 
 
-> **Last Updated:** 09/09/2025, 12:40:33
+> **Last Updated:** 09/09/2025, 12:45:33
