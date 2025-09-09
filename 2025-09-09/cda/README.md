@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 85677                                          |
-| **Lines Removed** (➖) | 590                                        |
-| **Net Change** (↕)    | 85087                |
-| **Active Time** (⌚)   | 328 minutes |
+| **Lines Added** (➕)   | 87532                                          |
+| **Lines Removed** (➖) | 594                                        |
+| **Net Change** (↕)    | 86938                |
+| **Active Time** (⌚)   | 339 minutes |
 
 
 ## Modified Files
@@ -29,9 +29,9 @@
 - **ClearViewUser.ts** (+153, -0)
 - **CostService.ts** (+744, -1)
 - **InitiativeGroupService.ts** (+490, -1)
-- **LoggingService.ts** (+1370, -0)
-- **NotificationService.ts** (+1069, -0)
-- **PermissionService.ts** (+1332, -1)
+- **LoggingService.ts** (+1372, -0)
+- **NotificationService.ts** (+2140, -0)
+- **PermissionService.ts** (+1336, -4)
 - **PoolService.ts** (+612, -2)
 - **ProposalService.ts** (+680, -3)
 - **ReinvestmentForecastService.ts** (+542, -3)
@@ -121,6 +121,8 @@
 - **PoolPositionService.ts** (+686, -1)
 - **ReportingService.ts** (+738, -1)
 - **clear_view_views.ts** (+3586, -0)
+- **CommentService.ts** (+164, -0)
+- **clear_view_controlled_tables.ts** (+614, -1)
 
 ## Visualizations
 
@@ -129,7 +131,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 85340
+".ts" : 87199
 ".json" : 59
 "unknown" : 13
 ".tsx" : 855
@@ -146,8 +148,8 @@ title Coding activity by hour (count of changes)
 "12h" : 52
 "13h" : 11
 "14h" : 42
-"15h" : 16
+"15h" : 24
 ```
 
 
-> **Last Updated:** 09/09/2025, 15:16:51
+> **Last Updated:** 09/09/2025, 15:21:51
