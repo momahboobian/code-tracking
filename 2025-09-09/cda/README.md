@@ -5,8 +5,8 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 72583                                          |
-| **Lines Removed** (➖) | 548                                        |
-| **Net Change** (↕)    | 72035                |
+| **Lines Removed** (➖) | 559                                        |
+| **Net Change** (↕)    | 72024                |
 | **Active Time** (⌚)   | 250 minutes |
 
 
@@ -51,7 +51,7 @@
 - **InfosecForms.ts** (+50, -0)
 - **PartService.ts** (+164, -0)
 - **PermissionService.ts** (+83, -0)
-- **iPagesTagViewer.ts** (+27, -3)
+- **iPagesTagViewer.ts** (+27, -4)
 - **TagService.ts** (+120, -0)
 - **index.ts** (+28, -0)
 - **settings.json** (+53, -6)
@@ -110,9 +110,9 @@
 - **setup.ts** (+1816, -42)
 - **positions.ts** (+365, -3)
 - **App.tsx** (+587, -1)
-- **Attendees.tsx** (+252, -9)
+- **Attendees.tsx** (+252, -15)
 - **views.ts** (+8490, -0)
-- **index.ts** (+201, -4)
+- **index.ts** (+201, -8)
 - **graphql.ts** (+7019, -0)
 - **graphql.ts** (+5332, -0)
 
@@ -123,10 +123,10 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 72210
+".ts" : 72215
 ".json" : 59
 "unknown" : 13
-".tsx" : 849
+".tsx" : 855
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -138,8 +138,8 @@ title Coding activity by hour (count of changes)
 "10h" : 36
 "11h" : 76
 "12h" : 52
-"13h" : 4
+"13h" : 7
 ```
 
 
-> **Last Updated:** 09/09/2025, 13:05:33
+> **Last Updated:** 09/09/2025, 13:50:33
