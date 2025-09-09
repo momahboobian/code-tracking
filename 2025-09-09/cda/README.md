@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 78969                                          |
-| **Lines Removed** (➖) | 578                                        |
-| **Net Change** (↕)    | 78391                |
-| **Active Time** (⌚)   | 292 minutes |
+| **Lines Added** (➕)   | 80600                                          |
+| **Lines Removed** (➖) | 585                                        |
+| **Net Change** (↕)    | 80015                |
+| **Active Time** (⌚)   | 305 minutes |
 
 
 ## Modified Files
@@ -37,11 +37,11 @@
 - **ReinvestmentForecastService.ts** (+542, -3)
 - **ReinvestmentGroupService.ts** (+472, -3)
 - **ReinvestmentService.ts** (+644, -2)
-- **SnapshotService.ts** (+86, -0)
-- **StrategyService.ts** (+183, -0)
-- **SubstantivePositionSearchService.ts** (+140, -0)
-- **TargetService.ts** (+402, -0)
-- **TargetValueService.ts** (+82, -1)
+- **SnapshotService.ts** (+172, -1)
+- **StrategyService.ts** (+367, -3)
+- **SubstantivePositionSearchService.ts** (+280, -0)
+- **TargetService.ts** (+804, -2)
+- **TargetValueService.ts** (+163, -1)
 - **YearService.ts** (+47, -0)
 - **everywhere.ts** (+115, -0)
 - **DatasetService.ts** (+280, -0)
@@ -119,6 +119,7 @@
 - **clear-view.ts** (+246, -0)
 - **graphql.ts** (+224, -0)
 - **PoolPositionService.ts** (+686, -1)
+- **ReportingService.ts** (+738, -1)
 
 ## Visualizations
 
@@ -127,7 +128,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 78620
+".ts" : 80258
 ".json" : 59
 "unknown" : 13
 ".tsx" : 855
@@ -143,8 +144,8 @@ title Coding activity by hour (count of changes)
 "11h" : 76
 "12h" : 52
 "13h" : 11
-"14h" : 27
+"14h" : 38
 ```
 
 
-> **Last Updated:** 09/09/2025, 14:11:51
+> **Last Updated:** 09/09/2025, 14:16:51
