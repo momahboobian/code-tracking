@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 35830                                          |
-| **Lines Removed** (➖) | 485                                        |
-| **Net Change** (↕)    | 35345                |
-| **Active Time** (⌚)   | 194 minutes |
+| **Lines Added** (➕)   | 40986                                          |
+| **Lines Removed** (➖) | 526                                        |
+| **Net Change** (↕)    | 40460                |
+| **Active Time** (⌚)   | 199 minutes |
 
 
 ## Modified Files
@@ -106,6 +106,8 @@
 - **form-schemas.test.ts** (+802, -0)
 - **forms.test.ts** (+350, -0)
 - **skill-tags.test.ts** (+433, -0)
+- **PoolPositionService.test.ts** (+3381, -0)
+- **setup.ts** (+1775, -41)
 
 ## Visualizations
 
@@ -114,7 +116,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 36243
+".ts" : 41440
 ".json" : 59
 "unknown" : 13
 ```
@@ -127,8 +129,8 @@ title Coding activity by hour (count of changes)
 "09h" : 21
 "10h" : 36
 "11h" : 76
-"12h" : 23
+"12h" : 26
 ```
 
 
-> **Last Updated:** 09/09/2025, 12:05:33
+> **Last Updated:** 09/09/2025, 12:15:33
