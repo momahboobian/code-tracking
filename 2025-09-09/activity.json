@@ -2,7 +2,7 @@
   "date": "2025-09-09",
   "projects": {
     "cda": {
-      "totalLinesAdded": 11210,
+      "totalLinesAdded": 11303,
       "totalLinesRemoved": 81,
       "totalActiveTime": 37,
       "files": {
@@ -396,6 +396,22 @@
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/high-risk-schema/resolvers/desks.ts",
             "fileType": ".ts",
             "linesAdded": 749,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/clear-view/HelperTextService.ts": [
+          {
+            "timestamp": "2025-09-09T09:40:22.811Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/clear-view/HelperTextService.ts",
+            "fileType": ".ts",
+            "linesAdded": 93,
             "linesRemoved": 0,
             "projectName": "cda",
             "content": {
