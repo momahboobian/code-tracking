@@ -2,7 +2,7 @@
   "date": "2025-09-09",
   "projects": {
     "cda": {
-      "totalLinesAdded": 91174,
+      "totalLinesAdded": 91859,
       "totalLinesRemoved": 595,
       "totalActiveTime": 371,
       "files": {
@@ -4195,6 +4195,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-09-09T14:45:11.395Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/clear-view/PoolPositionService.ts",
+            "fileType": ".ts",
+            "linesAdded": 685,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "ts"
           }
         ],
