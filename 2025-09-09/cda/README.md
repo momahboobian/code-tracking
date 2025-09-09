@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 31926                                          |
-| **Lines Removed** (➖) | 322                                        |
-| **Net Change** (↕)    | 31604                |
-| **Active Time** (⌚)   | 173 minutes |
+| **Lines Added** (➕)   | 35830                                          |
+| **Lines Removed** (➖) | 485                                        |
+| **Net Change** (↕)    | 35345                |
+| **Active Time** (⌚)   | 194 minutes |
 
 
 ## Modified Files
@@ -93,7 +93,19 @@
 - **form-mutations.ts** (+2110, -12)
 - **form-queries.ts** (+1313, -0)
 - **form-schemas.ts** (+1500, -0)
-- **ipages-tag-viewer-mutations.ts** (+298, -0)
+- **ipages-tag-viewer-mutations.ts** (+298, -14)
+- **ipages-tag-viewer-queries.ts** (+721, -31)
+- **AllocateFiltering.test.ts** (+192, -100)
+- **RotaPattern.test.ts** (+82, -4)
+- **checkUserPermissions.test.ts** (+156, -14)
+- **DatasetService.test.ts** (+755, -0)
+- **GroupService.test.ts** (+113, -0)
+- **SystemService.test.ts** (+76, -0)
+- **activityFeed.test.ts** (+110, -0)
+- **working-status.test.ts** (+114, -0)
+- **form-schemas.test.ts** (+802, -0)
+- **forms.test.ts** (+350, -0)
+- **skill-tags.test.ts** (+433, -0)
 
 ## Visualizations
 
@@ -102,7 +114,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 32176
+".ts" : 36243
 ".json" : 59
 "unknown" : 13
 ```
@@ -115,8 +127,8 @@ title Coding activity by hour (count of changes)
 "09h" : 21
 "10h" : 36
 "11h" : 76
-"12h" : 2
+"12h" : 23
 ```
 
 
-> **Last Updated:** 09/09/2025, 12:00:33
+> **Last Updated:** 09/09/2025, 12:05:33
