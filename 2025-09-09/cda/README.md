@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 41979                                          |
+| **Lines Added** (➕)   | 42218                                          |
 | **Lines Removed** (➖) | 531                                        |
-| **Net Change** (↕)    | 41448                |
-| **Active Time** (⌚)   | 210 minutes |
+| **Net Change** (↕)    | 41687                |
+| **Active Time** (⌚)   | 211 minutes |
 
 
 ## Modified Files
@@ -110,6 +110,7 @@
 - **setup.ts** (+1816, -42)
 - **positions.ts** (+365, -3)
 - **App.tsx** (+587, -1)
+- **Attendees.tsx** (+239, -0)
 
 ## Visualizations
 
@@ -121,7 +122,7 @@ title Lines changed by file type
 ".ts" : 41850
 ".json" : 59
 "unknown" : 13
-".tsx" : 588
+".tsx" : 827
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -132,8 +133,8 @@ title Coding activity by hour (count of changes)
 "09h" : 21
 "10h" : 36
 "11h" : 76
-"12h" : 34
+"12h" : 36
 ```
 
 
-> **Last Updated:** 09/09/2025, 12:30:33
+> **Last Updated:** 09/09/2025, 12:40:33
