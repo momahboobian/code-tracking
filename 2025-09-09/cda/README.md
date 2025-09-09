@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 21632                                          |
-| **Lines Removed** (➖) | 85                                        |
-| **Net Change** (↕)    | 21547                |
-| **Active Time** (⌚)   | 92 minutes |
+| **Lines Added** (➕)   | 22141                                          |
+| **Lines Removed** (➖) | 87                                        |
+| **Net Change** (↕)    | 22054                |
+| **Active Time** (⌚)   | 105 minutes |
 
 
 ## Modified Files
@@ -56,6 +56,12 @@
 - **index.ts** (+28, -0)
 - **settings.json** (+51, -0)
 - **.prettierrc** (+13, -0)
+- **UserService.ts** (+140, -0)
+- **peopleKit.ts** (+41, -0)
+- **SkillTagFavourites.ts** (+44, -0)
+- **SkillTagPermissions.ts** (+12, -0)
+- **CategoryService.ts** (+84, -1)
+- **MaximService.ts** (+188, -1)
 
 ## Visualizations
 
@@ -64,7 +70,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 21653
+".ts" : 22164
 ".json" : 51
 "unknown" : 13
 ```
@@ -76,8 +82,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "09h" : 21
 "10h" : 36
-"11h" : 18
+"11h" : 26
 ```
 
 
-> **Last Updated:** 09/09/2025, 11:30:33
+> **Last Updated:** 09/09/2025, 11:35:33
