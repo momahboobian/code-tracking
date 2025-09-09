@@ -2,9 +2,9 @@
   "date": "2025-09-09",
   "projects": {
     "cda": {
-      "totalLinesAdded": 20736,
+      "totalLinesAdded": 21420,
       "totalLinesRemoved": 82,
-      "totalActiveTime": 78,
+      "totalActiveTime": 86,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/index.ts": [
           {
@@ -957,6 +957,100 @@
               "removed": []
             },
             "duration": 2,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/infosec-forms/FormService.ts": [
+          {
+            "timestamp": "2025-09-09T10:07:50.848Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/infosec-forms/FormService.ts",
+            "fileType": ".ts",
+            "linesAdded": 361,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/infosec-forms/InfosecForms.ts": [
+          {
+            "timestamp": "2025-09-09T10:08:04.135Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/infosec-forms/InfosecForms.ts",
+            "fileType": ".ts",
+            "linesAdded": 50,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/infosec-forms/PartService.ts": [
+          {
+            "timestamp": "2025-09-09T10:08:15.475Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/infosec-forms/PartService.ts",
+            "fileType": ".ts",
+            "linesAdded": 164,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/infosec-forms/PermissionService.ts": [
+          {
+            "timestamp": "2025-09-09T10:08:27.130Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/infosec-forms/PermissionService.ts",
+            "fileType": ".ts",
+            "linesAdded": 83,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/iPages-tag-viewer/iPagesTagViewer.ts": [
+          {
+            "timestamp": "2025-09-09T10:08:41.057Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/iPages-tag-viewer/iPagesTagViewer.ts",
+            "fileType": ".ts",
+            "linesAdded": 24,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-09-09T10:09:09.100Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/iPages-tag-viewer/iPagesTagViewer.ts",
+            "fileType": ".ts",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "ts"
           }
         ]
