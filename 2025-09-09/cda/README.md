@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 87647                                          |
-| **Lines Removed** (➖) | 594                                        |
-| **Net Change** (↕)    | 87053                |
-| **Active Time** (⌚)   | 339 minutes |
+| **Lines Added** (➕)   | 87986                                          |
+| **Lines Removed** (➖) | 595                                        |
+| **Net Change** (↕)    | 87391                |
+| **Active Time** (⌚)   | 349 minutes |
 
 
 ## Modified Files
@@ -47,21 +47,21 @@
 - **DatasetService.ts** (+562, -2)
 - **AnswerService.ts** (+326, -1)
 - **FormSchemaService.ts** (+182, -0)
-- **FormService.ts** (+722, -0)
+- **FormService.ts** (+724, -1)
 - **InfosecForms.ts** (+100, -1)
 - **PartService.ts** (+328, -1)
 - **PermissionService.ts** (+166, -0)
-- **iPagesTagViewer.ts** (+27, -4)
+- **iPagesTagViewer.ts** (+53, -4)
 - **TagService.ts** (+120, -0)
 - **index.ts** (+28, -0)
 - **settings.json** (+53, -6)
 - **.prettierrc** (+13, -0)
 - **UserService.ts** (+140, -0)
-- **peopleKit.ts** (+41, -0)
+- **peopleKit.ts** (+82, -0)
 - **SkillTagFavourites.ts** (+44, -0)
 - **SkillTagPermissions.ts** (+12, -0)
-- **CategoryService.ts** (+84, -1)
-- **MaximService.ts** (+188, -1)
+- **CategoryService.ts** (+167, -1)
+- **MaximService.ts** (+375, -1)
 - **PermissionsService.ts** (+131, -1)
 - **ProjectService.ts** (+111, -1)
 - **SystemService.ts** (+128, -1)
@@ -131,7 +131,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 87314
+".ts" : 87654
 ".json" : 59
 "unknown" : 13
 ".tsx" : 855
@@ -148,8 +148,8 @@ title Coding activity by hour (count of changes)
 "12h" : 52
 "13h" : 11
 "14h" : 42
-"15h" : 25
+"15h" : 33
 ```
 
 
-> **Last Updated:** 09/09/2025, 15:26:51
+> **Last Updated:** 09/09/2025, 15:31:51
