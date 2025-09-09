@@ -2,9 +2,9 @@
   "date": "2025-09-09",
   "projects": {
     "cda": {
-      "totalLinesAdded": 60019,
+      "totalLinesAdded": 60216,
       "totalLinesRemoved": 537,
-      "totalActiveTime": 228,
+      "totalActiveTime": 231,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/index.ts": [
           {
@@ -2690,6 +2690,36 @@
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-table-types/src/types/views.ts",
             "fileType": ".ts",
             "linesAdded": 8486,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/graphql/queries/low-risk/index.ts": [
+          {
+            "timestamp": "2025-09-09T11:51:53.484Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/graphql/queries/low-risk/index.ts",
+            "fileType": ".ts",
+            "linesAdded": 193,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-09-09T11:52:03.693Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/graphql/queries/low-risk/index.ts",
+            "fileType": ".ts",
+            "linesAdded": 4,
             "linesRemoved": 0,
             "projectName": "cda",
             "content": {
