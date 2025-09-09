@@ -2,9 +2,9 @@
   "date": "2025-09-09",
   "projects": {
     "cda": {
-      "totalLinesAdded": 14334,
+      "totalLinesAdded": 15252,
       "totalLinesRemoved": 81,
-      "totalActiveTime": 47,
+      "totalActiveTime": 55,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/index.ts": [
           {
@@ -568,6 +568,86 @@
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/allocate/AllocateFiltering.ts",
             "fileType": ".ts",
             "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/allocate/RotaPattern.ts": [
+          {
+            "timestamp": "2025-09-09T09:50:34.003Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/allocate/RotaPattern.ts",
+            "fileType": ".ts",
+            "linesAdded": 87,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/calendar/checkUserPermissions.ts": [
+          {
+            "timestamp": "2025-09-09T09:50:44.932Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/calendar/checkUserPermissions.ts",
+            "fileType": ".ts",
+            "linesAdded": 61,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/clear-view/ClearViewUser.ts": [
+          {
+            "timestamp": "2025-09-09T09:53:57.915Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/clear-view/ClearViewUser.ts",
+            "fileType": ".ts",
+            "linesAdded": 153,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/clear-view/CostService.ts": [
+          {
+            "timestamp": "2025-09-09T09:54:44.800Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/clear-view/CostService.ts",
+            "fileType": ".ts",
+            "linesAdded": 372,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/clear-view/InitiativeGroupService.ts": [
+          {
+            "timestamp": "2025-09-09T09:55:16.284Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/clear-view/InitiativeGroupService.ts",
+            "fileType": ".ts",
+            "linesAdded": 245,
             "linesRemoved": 0,
             "projectName": "cda",
             "content": {

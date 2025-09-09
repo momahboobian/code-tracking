@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 14334                                          |
+| **Lines Added** (➕)   | 15252                                          |
 | **Lines Removed** (➖) | 81                                        |
-| **Net Change** (↕)    | 14253                |
-| **Active Time** (⌚)   | 47 minutes |
+| **Net Change** (↕)    | 15171                |
+| **Active Time** (⌚)   | 55 minutes |
 
 
 ## Modified Files
@@ -24,6 +24,11 @@
 - **everywhere.ts** (+352, -0)
 - **DivisionService.ts** (+80, -0)
 - **AllocateFiltering.ts** (+68, -0)
+- **RotaPattern.ts** (+87, -0)
+- **checkUserPermissions.ts** (+61, -0)
+- **ClearViewUser.ts** (+153, -0)
+- **CostService.ts** (+372, -0)
+- **InitiativeGroupService.ts** (+245, -0)
 
 ## Visualizations
 
@@ -32,7 +37,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 14415
+".ts" : 15333
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -41,8 +46,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "09h" : 21
-"10h" : 18
+"10h" : 23
 ```
 
 
-> **Last Updated:** 09/09/2025, 10:50:33
+> **Last Updated:** 09/09/2025, 10:55:33
