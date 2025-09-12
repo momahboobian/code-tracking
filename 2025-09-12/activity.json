@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 20407,
-      "totalLinesRemoved": 517,
-      "totalActiveTime": 201,
+      "totalLinesRemoved": 518,
+      "totalActiveTime": 202,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/low-risk-schema/resolvers/calendar.ts": [
           {
@@ -1597,6 +1597,20 @@
           },
           {
             "timestamp": "2025-09-12T15:28:03.528Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/ScrollableDatepicker/ScrollableDatepicker.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-09-12T15:28:23.705Z",
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/ScrollableDatepicker/ScrollableDatepicker.tsx",
             "fileType": ".tsx",
             "linesAdded": 0,
