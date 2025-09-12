@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 5701                                          |
+| **Lines Added** (➕)   | 6134                                          |
 | **Lines Removed** (➖) | 148                                        |
-| **Net Change** (↕)    | 5553                |
-| **Active Time** (⌚)   | 92 minutes |
+| **Net Change** (↕)    | 5986                |
+| **Active Time** (⌚)   | 100 minutes |
 
 
 ## Modified Files
@@ -21,7 +21,8 @@
 - **WeekViewHeader.tsx** (+99, -0)
 - **ScrollableDatepicker.js** (+83, -0)
 - **ScrollableDatepicker.ts** (+83, -0)
-- **ScrollableDatepicker.tsx** (+325, -83)
+- **ScrollableDatepicker.tsx** (+338, -83)
+- **EventPage.tsx** (+420, -0)
 
 ## Visualizations
 
@@ -32,7 +33,7 @@ pie showData
 title Lines changed by file type
 ".ts" : 4992
 ".scss" : 30
-".tsx" : 744
+".tsx" : 1177
 ".js" : 83
 ```
 
@@ -44,8 +45,8 @@ title Coding activity by hour (count of changes)
 "09h" : 10
 "10h" : 11
 "12h" : 10
-"13h" : 25
+"13h" : 28
 ```
 
 
-> **Last Updated:** 12/09/2025, 13:38:31
+> **Last Updated:** 12/09/2025, 13:43:31
