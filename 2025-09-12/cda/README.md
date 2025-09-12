@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 20433                                          |
+| **Lines Added** (➕)   | 33996                                          |
 | **Lines Removed** (➖) | 554                                        |
-| **Net Change** (↕)    | 19879                |
-| **Active Time** (⌚)   | 233 minutes |
+| **Net Change** (↕)    | 33442                |
+| **Active Time** (⌚)   | 235 minutes |
 
 
 ## Modified Files
@@ -17,14 +17,14 @@
 - **calendar-queries.ts** (+1469, -0)
 - **calendar-mutations.ts** (+3148, -0)
 - **WeekViewHeader.scss** (+30, -0)
-- **App.tsx** (+237, -0)
+- **App.tsx** (+470, -0)
 - **WeekViewHeader.tsx** (+99, -0)
 - **ScrollableDatepicker.js** (+83, -0)
 - **ScrollableDatepicker.ts** (+83, -0)
 - **ScrollableDatepicker.tsx** (+985, -481)
 - **EventPage.tsx** (+420, -0)
-- **package.json** (+84, -1)
-- **yarn.lock** (+13123, -0)
+- **package.json** (+168, -1)
+- **yarn.lock** (+26369, -0)
 - **ScrollableDatepicker.scss** (+445, -7)
 
 ## Visualizations
@@ -36,10 +36,10 @@ pie showData
 title Lines changed by file type
 ".ts" : 4992
 ".scss" : 482
-".tsx" : 2222
+".tsx" : 2455
 ".js" : 83
-".json" : 85
-".lock" : 13123
+".json" : 169
+".lock" : 26369
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -54,8 +54,8 @@ title Coding activity by hour (count of changes)
 "14h" : 16
 "15h" : 33
 "16h" : 24
-"17h" : 20
+"17h" : 23
 ```
 
 
-> **Last Updated:** 12/09/2025, 17:48:15
+> **Last Updated:** 12/09/2025, 17:53:15
