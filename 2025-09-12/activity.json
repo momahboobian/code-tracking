@@ -2,7 +2,7 @@
   "date": "2025-09-12",
   "projects": {
     "cda": {
-      "totalLinesAdded": 227,
+      "totalLinesAdded": 1696,
       "totalLinesRemoved": 25,
       "totalActiveTime": 27,
       "files": {
@@ -247,6 +247,22 @@
               "removed": []
             },
             "duration": 5,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/low-risk-schema/calendar/calendar-queries.ts": [
+          {
+            "timestamp": "2025-09-12T09:26:03.540Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/low-risk-schema/calendar/calendar-queries.ts",
+            "fileType": ".ts",
+            "linesAdded": 1469,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "ts"
           }
         ]
