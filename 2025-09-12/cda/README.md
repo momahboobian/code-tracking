@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 34350                                          |
-| **Lines Removed** (➖) | 652                                        |
-| **Net Change** (↕)    | 33698                |
-| **Active Time** (⌚)   | 273 minutes |
+| **Lines Added** (➕)   | 34754                                          |
+| **Lines Removed** (➖) | 655                                        |
+| **Net Change** (↕)    | 34099                |
+| **Active Time** (⌚)   | 275 minutes |
 
 
 ## Modified Files
@@ -21,12 +21,12 @@
 - **WeekViewHeader.tsx** (+99, -0)
 - **ScrollableDatepicker.js** (+83, -0)
 - **ScrollableDatepicker.ts** (+83, -0)
-- **ScrollableDatepicker.tsx** (+1036, -559)
+- **ScrollableDatepicker.tsx** (+1157, -562)
 - **EventPage.tsx** (+420, -0)
 - **package.json** (+168, -1)
 - **yarn.lock** (+26369, -0)
 - **ScrollableDatepicker.scss** (+445, -7)
-- **Home.tsx** (+303, -20)
+- **Home.tsx** (+586, -20)
 
 ## Visualizations
 
@@ -37,7 +37,7 @@ pie showData
 title Lines changed by file type
 ".ts" : 4992
 ".scss" : 482
-".tsx" : 2907
+".tsx" : 3314
 ".js" : 83
 ".json" : 169
 ".lock" : 26369
@@ -56,8 +56,8 @@ title Coding activity by hour (count of changes)
 "15h" : 33
 "16h" : 24
 "17h" : 27
-"18h" : 23
+"18h" : 26
 ```
 
 
-> **Last Updated:** 12/09/2025, 18:48:15
+> **Last Updated:** 12/09/2025, 19:02:13
