@@ -3,7 +3,7 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 4844,
-      "totalLinesRemoved": 25,
+      "totalLinesRemoved": 65,
       "totalActiveTime": 37,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/low-risk-schema/resolvers/calendar.ts": [
@@ -161,6 +161,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-09-12T11:36:27.942Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/utils/calendar/eventTypeFromFlags.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 40,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "ts"
           }
         ],
