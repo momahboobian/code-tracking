@@ -2,7 +2,7 @@
   "date": "2025-09-16",
   "projects": {
     "cda": {
-      "totalLinesAdded": 14930,
+      "totalLinesAdded": 23218,
       "totalLinesRemoved": 446,
       "totalActiveTime": 229,
       "files": {
@@ -1958,6 +1958,22 @@
             },
             "duration": 1,
             "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-shared-navigation-vite/yarn.lock": [
+          {
+            "timestamp": "2025-09-16T15:20:53.385Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-shared-navigation-vite/yarn.lock",
+            "fileType": ".lock",
+            "linesAdded": 8288,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "lock"
           }
         ]
       },
