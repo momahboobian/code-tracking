@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 1850,
-      "totalLinesRemoved": 197,
-      "totalActiveTime": 76,
+      "totalLinesRemoved": 253,
+      "totalActiveTime": 78,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/containers/Home/Home.tsx": [
           {
@@ -713,6 +713,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-09-18T10:29:57.516Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/helpers/centerOnResize.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 56,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "ts"
           }
         ],
