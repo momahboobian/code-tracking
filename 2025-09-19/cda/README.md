@@ -5,19 +5,19 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 3390                                          |
-| **Lines Removed** (➖) | 1808                                        |
-| **Net Change** (↕)    | 1582                |
-| **Active Time** (⌚)   | 488 minutes |
+| **Lines Removed** (➖) | 1852                                        |
+| **Net Change** (↕)    | 1538                |
+| **Active Time** (⌚)   | 493 minutes |
 
 
 ## Modified Files
 - **ScrollableDatepicker.tsx** (+348, -43)
 - **ScrollableDatepicker.scss** (+635, -329)
-- **Home.tsx** (+300, -75)
+- **Home.tsx** (+300, -88)
 - **config.ts** (+17, -0)
 - **index.tsx** (+61, -4)
 - **ScrollableDatepicker.test.tsx** (+218, -102)
-- **Home.test.tsx** (+1811, -1255)
+- **Home.test.tsx** (+1811, -1286)
 
 ## Visualizations
 
@@ -26,7 +26,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 4217
+".tsx" : 4261
 ".scss" : 964
 ".ts" : 17
 ```
@@ -44,8 +44,8 @@ title Coding activity by hour (count of changes)
 "14h" : 37
 "15h" : 18
 "16h" : 19
-"17h" : 18
+"17h" : 23
 ```
 
 
-> **Last Updated:** 19/09/2025, 17:23:12
+> **Last Updated:** 19/09/2025, 17:33:12
