@@ -2,9 +2,9 @@
   "date": "2025-09-19",
   "projects": {
     "cda": {
-      "totalLinesAdded": 3339,
-      "totalLinesRemoved": 1802,
-      "totalActiveTime": 475,
+      "totalLinesAdded": 3351,
+      "totalLinesRemoved": 1807,
+      "totalActiveTime": 482,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/ScrollableDatepicker/ScrollableDatepicker.tsx": [
           {
@@ -3734,6 +3734,34 @@
             },
             "duration": 0,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-09-19T16:13:24.207Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/containers/Home/Home.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-09-19T16:13:30.009Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/containers/Home/Home.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/config.ts": [
@@ -4945,6 +4973,34 @@
               "removed": []
             },
             "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-09-19T16:14:19.548Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/containers/Home/Home.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-09-19T16:16:38.557Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/containers/Home/Home.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "tsx"
           }
         ]
