@@ -2,9 +2,9 @@
   "date": "2025-09-19",
   "projects": {
     "cda": {
-      "totalLinesAdded": 841,
-      "totalLinesRemoved": 255,
-      "totalActiveTime": 205,
+      "totalLinesAdded": 853,
+      "totalLinesRemoved": 264,
+      "totalActiveTime": 223,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/ScrollableDatepicker/ScrollableDatepicker.tsx": [
           {
@@ -2087,6 +2087,244 @@
             "fileType": ".scss",
             "linesAdded": 0,
             "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2025-09-19T10:33:19.966Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/ScrollableDatepicker/ScrollableDatepicker.scss",
+            "fileType": ".scss",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2025-09-19T10:33:50.438Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/ScrollableDatepicker/ScrollableDatepicker.scss",
+            "fileType": ".scss",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2025-09-19T10:34:03.081Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/ScrollableDatepicker/ScrollableDatepicker.scss",
+            "fileType": ".scss",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2025-09-19T10:34:32.734Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/ScrollableDatepicker/ScrollableDatepicker.scss",
+            "fileType": ".scss",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2025-09-19T10:34:44.918Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/ScrollableDatepicker/ScrollableDatepicker.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2025-09-19T10:34:46.438Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/ScrollableDatepicker/ScrollableDatepicker.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2025-09-19T10:34:51.720Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/ScrollableDatepicker/ScrollableDatepicker.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2025-09-19T10:35:16.494Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/ScrollableDatepicker/ScrollableDatepicker.scss",
+            "fileType": ".scss",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2025-09-19T10:35:27.287Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/ScrollableDatepicker/ScrollableDatepicker.scss",
+            "fileType": ".scss",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2025-09-19T10:35:43.406Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/ScrollableDatepicker/ScrollableDatepicker.scss",
+            "fileType": ".scss",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2025-09-19T10:36:36.992Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/ScrollableDatepicker/ScrollableDatepicker.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2025-09-19T10:36:42.363Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/ScrollableDatepicker/ScrollableDatepicker.scss",
+            "fileType": ".scss",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2025-09-19T10:37:49.316Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/ScrollableDatepicker/ScrollableDatepicker.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2025-09-19T10:37:52.291Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/ScrollableDatepicker/ScrollableDatepicker.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2025-09-19T10:37:57.192Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/ScrollableDatepicker/ScrollableDatepicker.scss",
+            "fileType": ".scss",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2025-09-19T10:37:59.883Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/ScrollableDatepicker/ScrollableDatepicker.scss",
+            "fileType": ".scss",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2025-09-19T10:38:03.966Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/ScrollableDatepicker/ScrollableDatepicker.scss",
+            "fileType": ".scss",
+            "linesAdded": 1,
+            "linesRemoved": 0,
             "projectName": "cda",
             "content": {
               "added": [],
