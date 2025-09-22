@@ -2,9 +2,9 @@
   "date": "2025-09-22",
   "projects": {
     "cda": {
-      "totalLinesAdded": 192,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 8,
+      "totalLinesAdded": 201,
+      "totalLinesRemoved": 44,
+      "totalActiveTime": 16,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/ScrollableDatepicker/ScrollableDatepicker.tsx": [
           {
@@ -117,6 +117,62 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-09-22T08:22:01.056Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/ScrollableDatepicker/ScrollableDatepicker.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-09-22T08:22:12.134Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/ScrollableDatepicker/ScrollableDatepicker.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-09-22T08:22:45.666Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/ScrollableDatepicker/ScrollableDatepicker.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 40,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-09-22T08:26:00.209Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/ScrollableDatepicker/ScrollableDatepicker.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "tsx"
           }
         ]
