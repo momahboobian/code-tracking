@@ -2,7 +2,7 @@
   "date": "2025-09-22",
   "projects": {
     "cda": {
-      "totalLinesAdded": 201,
+      "totalLinesAdded": 358,
       "totalLinesRemoved": 44,
       "totalActiveTime": 16,
       "files": {
@@ -173,6 +173,20 @@
               "removed": []
             },
             "duration": 4,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-09-22T08:49:42.893Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/ScrollableDatepicker/ScrollableDatepicker.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 157,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ]
