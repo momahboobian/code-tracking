@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 4028                                          |
-| **Lines Removed** (➖) | 1305                                        |
-| **Net Change** (↕)    | 2723                |
-| **Active Time** (⌚)   | 195 minutes |
+| **Lines Added** (➕)   | 4050                                          |
+| **Lines Removed** (➖) | 1324                                        |
+| **Net Change** (↕)    | 2726                |
+| **Active Time** (⌚)   | 202 minutes |
 
 
 ## Modified Files
@@ -22,7 +22,7 @@
 - **index.ts** (+6, -0)
 - **EventModal.tsx** (+298, -101)
 - **index.ts** (+3, -0)
-- **EventModal.scss** (+358, -316)
+- **EventModal.scss** (+380, -335)
 - **DeleteEventWrapper.test.tsx** (+254, -0)
 - **index.ts** (+3, -0)
 - **DeleteEventWrapper.tsx** (+156, -23)
@@ -37,7 +37,7 @@ title Lines changed by file type
 ".tsx" : 4398
 ".ts" : 218
 ".json" : 43
-".scss" : 674
+".scss" : 715
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -53,8 +53,8 @@ title Coding activity by hour (count of changes)
 "14h" : 9
 "15h" : 10
 "16h" : 26
-"17h" : 25
+"17h" : 31
 ```
 
 
-> **Last Updated:** 23/09/2025, 17:09:52
+> **Last Updated:** 23/09/2025, 17:14:52
