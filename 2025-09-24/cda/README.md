@@ -4,17 +4,20 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1658                                          |
-| **Lines Removed** (➖) | 22                                        |
-| **Net Change** (↕)    | 1636                |
-| **Active Time** (⌚)   | 37 minutes |
+| **Lines Added** (➕)   | 1789                                          |
+| **Lines Removed** (➖) | 73                                        |
+| **Net Change** (↕)    | 1716                |
+| **Active Time** (⌚)   | 53 minutes |
 
 
 ## Modified Files
 - **CopyEventWrapper.tsx** (+63, -3)
-- **EventForm.tsx** (+1117, -12)
+- **EventForm.tsx** (+1117, -20)
 - **EventPage.tsx** (+429, -7)
 - **mapEventTypeToForm.ts** (+49, -0)
+- **eventForm.ts** (+47, -31)
+- **mapEventToForm.ts** (+78, -12)
+- **stripOwner.ts** (+6, -0)
 
 ## Visualizations
 
@@ -23,8 +26,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 1631
-".ts" : 49
+".tsx" : 1639
+".ts" : 223
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -34,8 +37,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "12h" : 12
 "13h" : 12
-"14h" : 3
+"14h" : 17
 ```
 
 
-> **Last Updated:** 24/09/2025, 14:03:27
+> **Last Updated:** 24/09/2025, 14:13:27
