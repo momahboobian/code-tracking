@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 2291,
-      "totalLinesRemoved": 267,
-      "totalActiveTime": 152,
+      "totalLinesRemoved": 269,
+      "totalActiveTime": 155,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/CopyEventWrapper/CopyEventWrapper.tsx": [
           {
@@ -1535,6 +1535,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-09-24T15:15:35.559Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/DeleteEventWrapper/DeleteEventWrapper.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "tsx"
           }
         ]
