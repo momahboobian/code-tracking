@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2384                                          |
+| **Lines Added** (➕)   | 2561                                          |
 | **Lines Removed** (➖) | 16                                        |
-| **Net Change** (↕)    | 2368                |
-| **Active Time** (⌚)   | 5 minutes |
+| **Net Change** (↕)    | 2545                |
+| **Active Time** (⌚)   | 9 minutes |
 
 
 ## Modified Files
@@ -22,6 +22,8 @@
 - **DuplicateEventWrapper.test.tsx** (+200, -0)
 - **EventForm.test.tsx** (+842, -0)
 - **Record.tsx** (+226, -0)
+- **tsconfig.json** (+20, -0)
+- **MediaUploader.tsx** (+157, -0)
 
 ## Visualizations
 
@@ -31,7 +33,8 @@
 pie showData
 title Lines changed by file type
 ".ts" : 72
-".tsx" : 2328
+".tsx" : 2485
+".json" : 20
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -41,8 +44,9 @@ pie showData
 title Coding activity by hour (count of changes)
 "09h" : 3
 "11h" : 1
-"14h" : 10
+"14h" : 11
+"15h" : 1
 ```
 
 
-> **Last Updated:** 25/09/2025, 14:41:34
+> **Last Updated:** 25/09/2025, 15:02:47
