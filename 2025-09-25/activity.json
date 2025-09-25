@@ -2,7 +2,7 @@
   "date": "2025-09-25",
   "projects": {
     "cda": {
-      "totalLinesAdded": 896,
+      "totalLinesAdded": 2158,
       "totalLinesRemoved": 16,
       "totalActiveTime": 5,
       "files": {
@@ -114,6 +114,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-09-25T13:32:55.641Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/containers/EventPage/EventPage.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 420,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/DuplicateEventWrapper/index.ts": [
@@ -168,6 +182,22 @@
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/DuplicateEventWrapper/DuplicateEventWrapper.test.tsx",
             "fileType": ".tsx",
             "linesAdded": 100,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/containers/EventForm/EventForm.test.tsx": [
+          {
+            "timestamp": "2025-09-25T13:32:55.645Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/containers/EventForm/EventForm.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 842,
             "linesRemoved": 0,
             "projectName": "cda",
             "content": {

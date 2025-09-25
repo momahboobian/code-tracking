@@ -4,9 +4,9 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 896                                          |
+| **Lines Added** (➕)   | 2158                                          |
 | **Lines Removed** (➖) | 16                                        |
-| **Net Change** (↕)    | 880                |
+| **Net Change** (↕)    | 2142                |
 | **Active Time** (⌚)   | 5 minutes |
 
 
@@ -16,10 +16,11 @@
 - **EventModal.tsx** (+73, -0)
 - **index.ts** (+3, -0)
 - **CopyEventWrapper.test.tsx** (+100, -0)
-- **EventPage.tsx** (+422, -0)
+- **EventPage.tsx** (+842, -0)
 - **index.ts** (+3, -0)
 - **DuplicateEventWrapper.tsx** (+29, -0)
 - **DuplicateEventWrapper.test.tsx** (+200, -0)
+- **EventForm.test.tsx** (+842, -0)
 
 ## Visualizations
 
@@ -29,7 +30,7 @@
 pie showData
 title Lines changed by file type
 ".ts" : 72
-".tsx" : 840
+".tsx" : 2102
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -39,8 +40,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "09h" : 3
 "11h" : 1
-"14h" : 7
+"14h" : 9
 ```
 
 
-> **Last Updated:** 25/09/2025, 14:26:34
+> **Last Updated:** 25/09/2025, 14:36:34
