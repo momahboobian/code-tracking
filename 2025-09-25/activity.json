@@ -2,7 +2,7 @@
   "date": "2025-09-25",
   "projects": {
     "cda": {
-      "totalLinesAdded": 796,
+      "totalLinesAdded": 896,
       "totalLinesRemoved": 16,
       "totalActiveTime": 5,
       "files": {
@@ -161,6 +161,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-09-25T13:25:40.134Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/DuplicateEventWrapper/DuplicateEventWrapper.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 100,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ]
