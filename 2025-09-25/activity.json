@@ -2,9 +2,9 @@
   "date": "2025-09-25",
   "projects": {
     "cda": {
-      "totalLinesAdded": 2608,
+      "totalLinesAdded": 15622,
       "totalLinesRemoved": 16,
-      "totalActiveTime": 12,
+      "totalActiveTime": 14,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/helpers/mapEventToForm.ts": [
           {
@@ -300,6 +300,52 @@
             },
             "duration": 0,
             "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/feedback/yarn.lock": [
+          {
+            "timestamp": "2025-09-25T15:03:57.129Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/feedback/yarn.lock",
+            "fileType": ".lock",
+            "linesAdded": 12913,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "lock"
+          },
+          {
+            "timestamp": "2025-09-25T15:04:01.769Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/feedback/yarn.lock",
+            "fileType": ".lock",
+            "linesAdded": 100,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "lock"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/node_modules/.cache/.eslintcache": [
+          {
+            "timestamp": "2025-09-25T15:04:05.011Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/node_modules/.cache/.eslintcache",
+            "fileType": "unknown",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
           }
         ]
       },
