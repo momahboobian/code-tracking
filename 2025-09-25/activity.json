@@ -2,9 +2,9 @@
   "date": "2025-09-25",
   "projects": {
     "cda": {
-      "totalLinesAdded": 16090,
-      "totalLinesRemoved": 16,
-      "totalActiveTime": 18,
+      "totalLinesAdded": 16651,
+      "totalLinesRemoved": 25,
+      "totalActiveTime": 24,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/helpers/mapEventToForm.ts": [
           {
@@ -384,6 +384,82 @@
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/FeedbackModal/components/Uploader/Uploader.tsx",
             "fileType": ".tsx",
             "linesAdded": 263,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Desktop/cda/apps/calendar/src/containers/EventPage/EventPage.tsx": [
+          {
+            "timestamp": "2025-09-25T17:12:44.420Z",
+            "fileName": "/Users/momahboobian/Desktop/cda/apps/calendar/src/containers/EventPage/EventPage.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 420,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-09-25T17:12:46.026Z",
+            "fileName": "/Users/momahboobian/Desktop/cda/apps/calendar/src/containers/EventPage/EventPage.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 9,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-09-25T17:12:56.103Z",
+            "fileName": "/Users/momahboobian/Desktop/cda/apps/calendar/src/containers/EventPage/EventPage.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Desktop/cda/apps/feedback/src/index.tsx": [
+          {
+            "timestamp": "2025-09-25T17:14:09.692Z",
+            "fileName": "/Users/momahboobian/Desktop/cda/apps/feedback/src/index.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 84,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Desktop/cda/packages/cda-web-components/components/FeedbackModal/components/FeedbackModalForm/FeedbackModalForm.tsx": [
+          {
+            "timestamp": "2025-09-25T17:15:10.801Z",
+            "fileName": "/Users/momahboobian/Desktop/cda/packages/cda-web-components/components/FeedbackModal/components/FeedbackModalForm/FeedbackModalForm.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 48,
             "linesRemoved": 0,
             "projectName": "cda",
             "content": {
