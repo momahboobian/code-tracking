@@ -112,6 +112,39 @@
         "/Users/momahboobian/Downloads/625046ac-5fd8-4038-80ae-5dbf48df0597_1/package.json"
       ],
       "averageChangeSize": 29
+    },
+    "43a5ec29-4efb-46af-bda5-30347f9852ef_3": {
+      "totalLinesAdded": 29,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/momahboobian/Downloads/43a5ec29-4efb-46af-bda5-30347f9852ef_3/package.json": [
+          {
+            "timestamp": "2025-09-25T12:36:59.478Z",
+            "fileName": "/Users/momahboobian/Downloads/43a5ec29-4efb-46af-bda5-30347f9852ef_3/package.json",
+            "fileType": ".json",
+            "linesAdded": 29,
+            "linesRemoved": 0,
+            "projectName": "43a5ec29-4efb-46af-bda5-30347f9852ef_3",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 0
+      },
+      "changeFrequency": {
+        "13": 0
+      },
+      "topFiles": [
+        "/Users/momahboobian/Downloads/43a5ec29-4efb-46af-bda5-30347f9852ef_3/package.json"
+      ],
+      "averageChangeSize": 29
     }
   },
   "totalActiveTime": 0,
