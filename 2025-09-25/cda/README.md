@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 16651                                          |
+| **Lines Added** (➕)   | 16992                                          |
 | **Lines Removed** (➖) | 25                                        |
-| **Net Change** (↕)    | 16626                |
-| **Active Time** (⌚)   | 24 minutes |
+| **Net Change** (↕)    | 16967                |
+| **Active Time** (⌚)   | 26 minutes |
 
 
 ## Modified Files
@@ -33,6 +33,8 @@
 - **EventPage.tsx** (+429, -9)
 - **index.tsx** (+84, -0)
 - **FeedbackModalForm.tsx** (+48, -0)
+- **FeedbackModalSteps.tsx** (+93, -0)
+- **Submit.tsx** (+248, -0)
 
 ## Visualizations
 
@@ -42,7 +44,7 @@
 pie showData
 title Lines changed by file type
 ".ts" : 75
-".tsx" : 3523
+".tsx" : 3864
 ".json" : 64
 ".lock" : 13013
 "unknown" : 1
@@ -59,8 +61,8 @@ title Coding activity by hour (count of changes)
 "15h" : 4
 "16h" : 3
 "17h" : 3
-"18h" : 5
+"18h" : 7
 ```
 
 
-> **Last Updated:** 25/09/2025, 18:15:15
+> **Last Updated:** 25/09/2025, 18:20:15
