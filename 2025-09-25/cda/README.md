@@ -5,13 +5,14 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 66                                          |
-| **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 66                |
-| **Active Time** (⌚)   | 0 minute |
+| **Lines Removed** (➖) | 16                                        |
+| **Net Change** (↕)    | 50                |
+| **Active Time** (⌚)   | 1 minute |
 
 
 ## Modified Files
 - **mapEventToForm.ts** (+66, -0)
+- **EventPage.test.tsx** (+0, -16)
 
 ## Visualizations
 
@@ -21,6 +22,7 @@
 pie showData
 title Lines changed by file type
 ".ts" : 66
+".tsx" : 16
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -28,8 +30,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"09h" : 1
+"09h" : 3
 ```
 
 
-> **Last Updated:** 25/09/2025, 09:23:46
+> **Last Updated:** 25/09/2025, 09:38:46
