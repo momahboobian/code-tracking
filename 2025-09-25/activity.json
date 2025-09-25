@@ -79,6 +79,39 @@
         "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/helpers/mapEventToForm.ts"
       ],
       "averageChangeSize": 66
+    },
+    "625046ac-5fd8-4038-80ae-5dbf48df0597_1": {
+      "totalLinesAdded": 29,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/momahboobian/Downloads/625046ac-5fd8-4038-80ae-5dbf48df0597_1/package.json": [
+          {
+            "timestamp": "2025-09-25T12:37:49.956Z",
+            "fileName": "/Users/momahboobian/Downloads/625046ac-5fd8-4038-80ae-5dbf48df0597_1/package.json",
+            "fileType": ".json",
+            "linesAdded": 29,
+            "linesRemoved": 0,
+            "projectName": "625046ac-5fd8-4038-80ae-5dbf48df0597_1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 0
+      },
+      "changeFrequency": {
+        "13": 0
+      },
+      "topFiles": [
+        "/Users/momahboobian/Downloads/625046ac-5fd8-4038-80ae-5dbf48df0597_1/package.json"
+      ],
+      "averageChangeSize": 29
     }
   },
   "totalActiveTime": 0,
