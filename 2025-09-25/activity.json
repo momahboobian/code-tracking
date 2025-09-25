@@ -145,6 +145,39 @@
         "/Users/momahboobian/Downloads/43a5ec29-4efb-46af-bda5-30347f9852ef_3/package.json"
       ],
       "averageChangeSize": 29
+    },
+    "housey-backend": {
+      "totalLinesAdded": 237,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/momahboobian/Downloads/housey-resort-hotel-react-next-js-template-2025-04-29-06-34-15-utc/housey-backend/node_modules/.pnpm/bcrypt@5.1.1/node_modules/bcrypt/bcrypt.js": [
+          {
+            "timestamp": "2025-09-25T12:46:47.862Z",
+            "fileName": "/Users/momahboobian/Downloads/housey-resort-hotel-react-next-js-template-2025-04-29-06-34-15-utc/housey-backend/node_modules/.pnpm/bcrypt@5.1.1/node_modules/bcrypt/bcrypt.js",
+            "fileType": ".js",
+            "linesAdded": 237,
+            "linesRemoved": 0,
+            "projectName": "housey-backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          }
+        ]
+      },
+      "languageStats": {
+        "js": 0
+      },
+      "changeFrequency": {
+        "13": 0
+      },
+      "topFiles": [
+        "/Users/momahboobian/Downloads/housey-resort-hotel-react-next-js-template-2025-04-29-06-34-15-utc/housey-backend/node_modules/.pnpm/bcrypt@5.1.1/node_modules/bcrypt/bcrypt.js"
+      ],
+      "averageChangeSize": 237
     }
   },
   "totalActiveTime": 0,
