@@ -2,9 +2,9 @@
   "date": "2025-09-26",
   "projects": {
     "cda": {
-      "totalLinesAdded": 28300,
-      "totalLinesRemoved": 1187,
-      "totalActiveTime": 110,
+      "totalLinesAdded": 28412,
+      "totalLinesRemoved": 1274,
+      "totalActiveTime": 113,
       "files": {
         "/Users/momahboobian/Desktop/cda/apps/calendar/src/containers/EventPage/EventPage.scss": [
           {
@@ -934,6 +934,20 @@
             },
             "duration": 1,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-09-26T16:41:48.413Z",
+            "fileName": "/Users/momahboobian/Desktop/cda/packages/cda-table-types/src/types/views.ts",
+            "fileType": ".ts",
+            "linesAdded": 13,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
           }
         ],
         "/Users/momahboobian/Desktop/cda/lambdas/cda-graphql-staff/src/low-risk-schema/definitions/calendar.js": [
@@ -1108,6 +1122,36 @@
             },
             "duration": 1,
             "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Desktop/cda/lambdas/cda-db-migration/src/migrations/staff/views/20250926132109-create-calendar-medi-view.js": [
+          {
+            "timestamp": "2025-09-26T16:39:29.818Z",
+            "fileName": "/Users/momahboobian/Desktop/cda/lambdas/cda-db-migration/src/migrations/staff/views/20250926132109-create-calendar-medi-view.js",
+            "fileType": ".js",
+            "linesAdded": 99,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-09-26T16:40:01.070Z",
+            "fileName": "/Users/momahboobian/Desktop/cda/lambdas/cda-db-migration/src/migrations/staff/views/20250926132109-create-calendar-medi-view.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 87,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
           }
         ]
       },
