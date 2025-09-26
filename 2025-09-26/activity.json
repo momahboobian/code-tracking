@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 28300,
-      "totalLinesRemoved": 1160,
-      "totalActiveTime": 105,
+      "totalLinesRemoved": 1187,
+      "totalActiveTime": 110,
       "files": {
         "/Users/momahboobian/Desktop/cda/apps/calendar/src/containers/EventPage/EventPage.scss": [
           {
@@ -978,6 +978,20 @@
             },
             "duration": 1,
             "language": "js"
+          },
+          {
+            "timestamp": "2025-09-26T16:33:58.246Z",
+            "fileName": "/Users/momahboobian/Desktop/cda/lambdas/cda-graphql-staff/src/low-risk-schema/definitions/calendar.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "js"
           }
         ],
         "/Users/momahboobian/Desktop/cda/lambdas/cda-graphql-staff/src/low-risk-schema/resolvers/calendar.ts": [
@@ -1065,6 +1079,34 @@
               "removed": []
             },
             "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-09-26T16:34:00.972Z",
+            "fileName": "/Users/momahboobian/Desktop/cda/lambdas/cda-graphql-staff/src/types/gql-generated/low-risk/resolvers-types.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-09-26T16:34:16.557Z",
+            "fileName": "/Users/momahboobian/Desktop/cda/lambdas/cda-graphql-staff/src/types/gql-generated/low-risk/resolvers-types.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 21,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "ts"
           }
         ]
