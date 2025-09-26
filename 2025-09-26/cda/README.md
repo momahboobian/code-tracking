@@ -4,16 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2616                                          |
-| **Lines Removed** (➖) | 1109                                        |
-| **Net Change** (↕)    | 1507                |
-| **Active Time** (⌚)   | 34 minutes |
+| **Lines Added** (➕)   | 2618                                          |
+| **Lines Removed** (➖) | 1114                                        |
+| **Net Change** (↕)    | 1504                |
+| **Active Time** (⌚)   | 42 minutes |
 
 
 ## Modified Files
 - **EventPage.scss** (+249, -0)
 - **index.tsx** (+84, -0)
-- **EventForm.tsx** (+2168, -1089)
+- **EventForm.tsx** (+2170, -1094)
 - **mapEventToForm.ts** (+72, -6)
 - **DuplicateEventWrapper.tsx** (+43, -14)
 
@@ -25,7 +25,7 @@
 pie showData
 title Lines changed by file type
 ".scss" : 249
-".tsx" : 3398
+".tsx" : 3405
 ".ts" : 78
 ```
 
@@ -36,7 +36,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "09h" : 12
 "10h" : 11
+"11h" : 3
 ```
 
 
-> **Last Updated:** 26/09/2025, 11:01:56
+> **Last Updated:** 26/09/2025, 11:06:56
