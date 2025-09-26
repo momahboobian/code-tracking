@@ -2,9 +2,9 @@
   "date": "2025-09-26",
   "projects": {
     "cda": {
-      "totalLinesAdded": 2644,
-      "totalLinesRemoved": 1123,
-      "totalActiveTime": 63,
+      "totalLinesAdded": 2650,
+      "totalLinesRemoved": 1134,
+      "totalActiveTime": 69,
       "files": {
         "/Users/momahboobian/Desktop/cda/apps/calendar/src/containers/EventPage/EventPage.scss": [
           {
@@ -332,6 +332,48 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-09-26T10:22:23.022Z",
+            "fileName": "/Users/momahboobian/Desktop/cda/apps/calendar/src/containers/EventForm/EventForm.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-09-26T10:22:25.347Z",
+            "fileName": "/Users/momahboobian/Desktop/cda/apps/calendar/src/containers/EventForm/EventForm.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-09-26T10:23:45.573Z",
+            "fileName": "/Users/momahboobian/Desktop/cda/apps/calendar/src/containers/EventForm/EventForm.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "/Users/momahboobian/Desktop/cda/apps/calendar/src/helpers/mapEventToForm.ts": [
@@ -511,6 +553,20 @@
             "fileType": ".tsx",
             "linesAdded": 3,
             "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-09-26T10:23:30.490Z",
+            "fileName": "/Users/momahboobian/Desktop/cda/apps/calendar/src/components/DuplicateEventWrapper/DuplicateEventWrapper.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 8,
             "projectName": "cda",
             "content": {
               "added": [],
