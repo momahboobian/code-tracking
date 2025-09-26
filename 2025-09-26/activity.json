@@ -2,9 +2,9 @@
   "date": "2025-09-26",
   "projects": {
     "cda": {
-      "totalLinesAdded": 2609,
+      "totalLinesAdded": 2614,
       "totalLinesRemoved": 1087,
-      "totalActiveTime": 24,
+      "totalActiveTime": 29,
       "files": {
         "/Users/momahboobian/Desktop/cda/apps/calendar/src/containers/EventPage/EventPage.scss": [
           {
@@ -237,6 +237,34 @@
               "removed": []
             },
             "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-09-26T09:17:48.886Z",
+            "fileName": "/Users/momahboobian/Desktop/cda/apps/calendar/src/components/DuplicateEventWrapper/DuplicateEventWrapper.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-09-26T09:18:03.977Z",
+            "fileName": "/Users/momahboobian/Desktop/cda/apps/calendar/src/components/DuplicateEventWrapper/DuplicateEventWrapper.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "tsx"
           }
         ]
