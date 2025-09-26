@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3236                                          |
+| **Lines Added** (➕)   | 17743                                          |
 | **Lines Removed** (➖) | 1158                                        |
-| **Net Change** (↕)    | 2078                |
-| **Active Time** (⌚)   | 100 minutes |
+| **Net Change** (↕)    | 16585                |
+| **Active Time** (⌚)   | 101 minutes |
 
 
 ## Modified Files
@@ -19,6 +19,8 @@
 - **EventPage.tsx** (+420, -0)
 - **20250926111516-create-calendar-media-table.js** (+23, -3)
 - **20250926132109-replace-calendar-events-view.js** (+100, -1)
+- **tables.ts** (+5880, -0)
+- **views.ts** (+8627, -0)
 
 ## Visualizations
 
@@ -29,7 +31,7 @@ pie showData
 title Lines changed by file type
 ".scss" : 249
 ".tsx" : 3940
-".ts" : 78
+".ts" : 14585
 ".js" : 127
 ```
 
@@ -42,8 +44,8 @@ title Coding activity by hour (count of changes)
 "10h" : 11
 "11h" : 26
 "12h" : 6
-"14h" : 8
+"14h" : 10
 ```
 
 
-> **Last Updated:** 26/09/2025, 14:31:56
+> **Last Updated:** 26/09/2025, 14:41:56
