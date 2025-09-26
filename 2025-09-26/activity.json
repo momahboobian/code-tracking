@@ -2,9 +2,9 @@
   "date": "2025-09-26",
   "projects": {
     "cda": {
-      "totalLinesAdded": 1481,
-      "totalLinesRemoved": 9,
-      "totalActiveTime": 13,
+      "totalLinesAdded": 2566,
+      "totalLinesRemoved": 1087,
+      "totalActiveTime": 16,
       "files": {
         "/Users/momahboobian/Desktop/cda/apps/calendar/src/containers/EventPage/EventPage.scss": [
           {
@@ -108,6 +108,34 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-09-26T08:56:23.889Z",
+            "fileName": "/Users/momahboobian/Desktop/cda/apps/calendar/src/containers/EventForm/EventForm.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1072,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-09-26T08:56:23.912Z",
+            "fileName": "/Users/momahboobian/Desktop/cda/apps/calendar/src/containers/EventForm/EventForm.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1079,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "/Users/momahboobian/Desktop/cda/apps/calendar/src/helpers/mapEventToForm.ts": [
@@ -123,6 +151,34 @@
               "removed": []
             },
             "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-09-26T08:55:10.956Z",
+            "fileName": "/Users/momahboobian/Desktop/cda/apps/calendar/src/helpers/mapEventToForm.ts",
+            "fileType": ".ts",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-09-26T08:55:59.535Z",
+            "fileName": "/Users/momahboobian/Desktop/cda/apps/calendar/src/helpers/mapEventToForm.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 6,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "ts"
           }
         ]
