@@ -2,9 +2,9 @@
   "date": "2025-09-29",
   "projects": {
     "cda": {
-      "totalLinesAdded": 61854,
+      "totalLinesAdded": 62200,
       "totalLinesRemoved": 111,
-      "totalActiveTime": 40,
+      "totalActiveTime": 44,
       "files": {
         "/Users/momahboobian/Desktop/cda/lambdas/cda-graphql-staff/src/types/gql-generated/high-risk/resolvers-types.ts": [
           {
@@ -368,6 +368,22 @@
             },
             "duration": 0,
             "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/low-risk-schema/definitions/calendar.js": [
+          {
+            "timestamp": "2025-09-29T10:47:31.286Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/low-risk-schema/definitions/calendar.js",
+            "fileType": ".js",
+            "linesAdded": 346,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "js"
           }
         ]
       },
