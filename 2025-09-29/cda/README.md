@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 72199                                          |
-| **Lines Removed** (➖) | 260                                        |
-| **Net Change** (↕)    | 71939                |
-| **Active Time** (⌚)   | 132 minutes |
+| **Lines Added** (➕)   | 72240                                          |
+| **Lines Removed** (➖) | 267                                        |
+| **Net Change** (↕)    | 71973                |
+| **Active Time** (⌚)   | 137 minutes |
 
 
 ## Modified Files
@@ -23,6 +23,9 @@
 - **calendar-queries.ts** (+3064, -1)
 - **settings.json** (+91, -1)
 - **index.js** (+224, -0)
+- **20250929145929-delete-event-file-table.js** (+17, -6)
+- **20250926132109-create-calendar-media-view.js** (+12, -0)
+- **20250929150037-delete-event-file-view.js** (+12, -1)
 
 ## Visualizations
 
@@ -32,7 +35,7 @@
 pie showData
 title Lines changed by file type
 ".ts" : 71097
-".js" : 1270
+".js" : 1318
 ".json" : 92
 ```
 
@@ -47,7 +50,8 @@ title Coding activity by hour (count of changes)
 "13h" : 24
 "14h" : 5
 "15h" : 5
+"16h" : 5
 ```
 
 
-> **Last Updated:** 29/09/2025, 15:44:49
+> **Last Updated:** 29/09/2025, 16:04:49
