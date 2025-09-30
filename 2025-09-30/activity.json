@@ -2,9 +2,9 @@
   "date": "2025-09-30",
   "projects": {
     "cda": {
-      "totalLinesAdded": 2135,
+      "totalLinesAdded": 2183,
       "totalLinesRemoved": 583,
-      "totalActiveTime": 224,
+      "totalActiveTime": 229,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/MediaUploader/MediaUploader.tsx": [
           {
@@ -1259,6 +1259,90 @@
             "fileType": ".tsx",
             "linesAdded": 0,
             "linesRemoved": 11,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-09-30T12:34:35.477Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/MediaUploader/MediaUploader.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-09-30T12:34:44.143Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/MediaUploader/MediaUploader.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-09-30T12:35:17.273Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/MediaUploader/MediaUploader.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-09-30T12:35:23.626Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/MediaUploader/MediaUploader.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-09-30T12:36:04.084Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/MediaUploader/MediaUploader.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 23,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-09-30T12:36:29.368Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/MediaUploader/MediaUploader.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 19,
+            "linesRemoved": 0,
             "projectName": "cda",
             "content": {
               "added": [],
