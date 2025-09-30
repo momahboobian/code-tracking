@@ -4,16 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2789                                          |
-| **Lines Removed** (➖) | 1133                                        |
-| **Net Change** (↕)    | 1656                |
-| **Active Time** (⌚)   | 411 minutes |
+| **Lines Added** (➕)   | 2796                                          |
+| **Lines Removed** (➖) | 1137                                        |
+| **Net Change** (↕)    | 1659                |
+| **Active Time** (⌚)   | 422 minutes |
 
 
 ## Modified Files
 - **MediaUploader.tsx** (+1157, -974)
 - **EventForm.tsx** (+1163, -37)
-- **MediaUploader.scss** (+201, -67)
+- **MediaUploader.scss** (+208, -71)
 - **EventForm.scss** (+204, -55)
 - **index.tsx** (+3, -0)
 - **index.tsx** (+61, -0)
@@ -26,7 +26,7 @@
 pie showData
 title Lines changed by file type
 ".tsx" : 3395
-".scss" : 527
+".scss" : 538
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -43,8 +43,8 @@ title Coding activity by hour (count of changes)
 "15h" : 36
 "16h" : 14
 "17h" : 34
-"18h" : 28
+"18h" : 37
 ```
 
 
-> **Last Updated:** 30/09/2025, 18:17:19
+> **Last Updated:** 30/09/2025, 18:22:19
