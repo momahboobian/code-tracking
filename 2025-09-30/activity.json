@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 2801,
-      "totalLinesRemoved": 1138,
-      "totalActiveTime": 427,
+      "totalLinesRemoved": 1145,
+      "totalActiveTime": 434,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/MediaUploader/MediaUploader.tsx": [
           {
@@ -2288,6 +2288,20 @@
             },
             "duration": 3,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-09-30T17:30:03.733Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/MediaUploader/MediaUploader.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/containers/EventForm/EventForm.tsx": [
@@ -4111,6 +4125,34 @@
               "removed": []
             },
             "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2025-09-30T17:27:27.994Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/MediaUploader/MediaUploader.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2025-09-30T17:28:53.536Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/MediaUploader/MediaUploader.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "scss"
           }
         ],
