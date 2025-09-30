@@ -2,9 +2,9 @@
   "date": "2025-09-30",
   "projects": {
     "cda": {
-      "totalLinesAdded": 2134,
-      "totalLinesRemoved": 572,
-      "totalActiveTime": 223,
+      "totalLinesAdded": 2135,
+      "totalLinesRemoved": 583,
+      "totalActiveTime": 224,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/MediaUploader/MediaUploader.tsx": [
           {
@@ -1231,6 +1231,34 @@
             "fileType": ".tsx",
             "linesAdded": 0,
             "linesRemoved": 4,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-09-30T12:27:30.378Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/MediaUploader/MediaUploader.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-09-30T12:27:45.063Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/MediaUploader/MediaUploader.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 11,
             "projectName": "cda",
             "content": {
               "added": [],
