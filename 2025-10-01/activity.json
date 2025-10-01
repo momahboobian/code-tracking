@@ -2,9 +2,9 @@
   "date": "2025-10-01",
   "projects": {
     "cda": {
-      "totalLinesAdded": 1122,
-      "totalLinesRemoved": 39,
-      "totalActiveTime": 57,
+      "totalLinesAdded": 2602,
+      "totalLinesRemoved": 42,
+      "totalActiveTime": 58,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/MediaUploader/MediaUploader.tsx": [
           {
@@ -400,6 +400,20 @@
             },
             "duration": 2,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-10-01T13:52:11.725Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/containers/EventPage/EventPage.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/MediaUploader/MediaUploader.scss": [
@@ -532,6 +546,22 @@
             },
             "duration": 2,
             "language": "scss"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/containers/EventPage/EventPage.test.tsx": [
+          {
+            "timestamp": "2025-10-01T13:52:54.832Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/containers/EventPage/EventPage.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1480,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ]
       },
