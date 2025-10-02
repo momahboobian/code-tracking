@@ -2,7 +2,7 @@
   "date": "2025-10-02",
   "projects": {
     "cda": {
-      "totalLinesAdded": 1178,
+      "totalLinesAdded": 1179,
       "totalLinesRemoved": 1109,
       "totalActiveTime": 10,
       "files": {
@@ -164,6 +164,22 @@
             },
             "duration": 1,
             "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/MediaUploader/MediaUploader.tsx": [
+          {
+            "timestamp": "2025-10-02T10:08:00.314Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/MediaUploader/MediaUploader.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
           }
         ]
       },
