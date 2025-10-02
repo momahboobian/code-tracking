@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3138                                          |
-| **Lines Removed** (➖) | 1248                                        |
+| **Lines Added** (➕)   | 3139                                          |
+| **Lines Removed** (➖) | 1249                                        |
 | **Net Change** (↕)    | 1890                |
-| **Active Time** (⌚)   | 170 minutes |
+| **Active Time** (⌚)   | 173 minutes |
 
 
 ## Modified Files
@@ -16,7 +16,7 @@
 - **tsconfig.json** (+21, -1)
 - **MediaUploader.tsx** (+101, -105)
 - **index.tsx** (+4, -4)
-- **EventPage.tsx** (+432, -0)
+- **EventPage.tsx** (+433, -1)
 - **EventForm.test.tsx** (+923, -0)
 - **EventPage.scss** (+259, -0)
 - **eventFaker.ts** (+57, -0)
@@ -29,7 +29,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 3831
+".tsx" : 3833
 ".json" : 73
 ".scss" : 425
 ".ts" : 57
@@ -45,8 +45,8 @@ title Coding activity by hour (count of changes)
 "11h" : 15
 "12h" : 21
 "13h" : 45
-"14h" : 16
+"14h" : 18
 ```
 
 
-> **Last Updated:** 02/10/2025, 14:33:37
+> **Last Updated:** 02/10/2025, 14:38:37
