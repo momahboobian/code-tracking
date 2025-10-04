@@ -1,0 +1,61 @@
+{
+  "date": "2025-10-04",
+  "projects": {
+    "hadaf-school": {
+      "totalLinesAdded": 14,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "/Volumes/sogolazmoon/Desktop/Hadaf Persian School/hadaf-school/.vscode/settings.json": [
+          {
+            "timestamp": "2025-10-04T13:21:06.280Z",
+            "fileName": "/Volumes/sogolazmoon/Desktop/Hadaf Persian School/hadaf-school/.vscode/settings.json",
+            "fileType": ".json",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "hadaf-school",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-10-04T13:21:06.399Z",
+            "fileName": "/Volumes/sogolazmoon/Desktop/Hadaf Persian School/hadaf-school/.vscode/settings.json",
+            "fileType": ".json",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "hadaf-school",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 1
+      },
+      "changeFrequency": {
+        "14": 1
+      },
+      "topFiles": [
+        "/Volumes/sogolazmoon/Desktop/Hadaf Persian School/hadaf-school/.vscode/settings.json"
+      ],
+      "averageChangeSize": 7
+    }
+  },
+  "totalActiveTime": 1,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    14
+  ],
+  "mostUsedLanguages": [
+    "json"
+  ]
+}
