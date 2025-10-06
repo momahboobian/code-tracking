@@ -2,9 +2,9 @@
   "date": "2025-10-06",
   "projects": {
     "cda": {
-      "totalLinesAdded": 1648,
-      "totalLinesRemoved": 410,
-      "totalActiveTime": 349,
+      "totalLinesAdded": 2816,
+      "totalLinesRemoved": 412,
+      "totalActiveTime": 361,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/containers/EventPage/EventPage.tsx": [
           {
@@ -3236,6 +3236,66 @@
             },
             "duration": 1,
             "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/.vscode/settings.json": [
+          {
+            "timestamp": "2025-10-06T16:04:45.882Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/.vscode/settings.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-10-06T16:04:45.901Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/.vscode/settings.json",
+            "fileType": ".json",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-10-06T16:04:45.966Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/.vscode/settings.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/containers/EventForm/EventForm.tsx": [
+          {
+            "timestamp": "2025-10-06T16:05:33.269Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/containers/EventForm/EventForm.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1164,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ]
       },
