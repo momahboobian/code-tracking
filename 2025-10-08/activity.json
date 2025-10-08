@@ -2,9 +2,9 @@
   "date": "2025-10-08",
   "projects": {
     "cda": {
-      "totalLinesAdded": 21213,
-      "totalLinesRemoved": 70,
-      "totalActiveTime": 27,
+      "totalLinesAdded": 21220,
+      "totalLinesRemoved": 80,
+      "totalActiveTime": 36,
       "files": {
         "/Users/momahboobian/Library/Application Support/Code/User/settings.json": [
           {
@@ -519,6 +519,62 @@
               "removed": []
             },
             "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-10-08T14:01:15.886Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-10-08T14:02:39.030Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 10,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-10-08T14:03:13.140Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-10-08T14:03:37.630Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "tsx"
           }
         ],
