@@ -2,8 +2,8 @@
   "date": "2025-10-08",
   "projects": {
     "cda": {
-      "totalLinesAdded": 256,
-      "totalLinesRemoved": 8,
+      "totalLinesAdded": 979,
+      "totalLinesRemoved": 12,
       "totalActiveTime": 4,
       "files": {
         "/Users/momahboobian/Library/Application Support/Code/User/settings.json": [
@@ -92,6 +92,20 @@
             },
             "duration": 1,
             "language": "js"
+          },
+          {
+            "timestamp": "2025-10-08T11:12:26.480Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/App.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/graphql/low-risk/mutations.js": [
@@ -108,6 +122,38 @@
             },
             "duration": 1,
             "language": "js"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/low-risk-schema/resolvers/skill-mutations.ts": [
+          {
+            "timestamp": "2025-10-08T11:12:26.483Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/low-risk-schema/resolvers/skill-mutations.ts",
+            "fileType": ".ts",
+            "linesAdded": 571,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/low-risk-schema/skills/skill-assign-mutations.ts": [
+          {
+            "timestamp": "2025-10-08T11:12:26.481Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/low-risk-schema/skills/skill-assign-mutations.ts",
+            "fileType": ".ts",
+            "linesAdded": 152,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
           }
         ]
       },
