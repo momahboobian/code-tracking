@@ -1,0 +1,92 @@
+{
+  "date": "2025-10-10",
+  "projects": {
+    "cda": {
+      "totalLinesAdded": 25,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 5,
+      "files": {
+        "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/utils/general.ts": [
+          {
+            "timestamp": "2025-10-10T08:29:20.686Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/utils/general.ts",
+            "fileType": ".ts",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-10-10T08:30:57.160Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/utils/general.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/utils/general.test.ts": [
+          {
+            "timestamp": "2025-10-10T08:32:06.306Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/utils/general.test.ts",
+            "fileType": ".ts",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-10-10T08:32:24.156Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/utils/general.test.ts",
+            "fileType": ".ts",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ]
+      },
+      "languageStats": {
+        "ts": 5
+      },
+      "changeFrequency": {
+        "9": 5
+      },
+      "topFiles": [
+        "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/utils/general.ts",
+        "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/utils/general.test.ts"
+      ],
+      "averageChangeSize": 6.25
+    }
+  },
+  "totalActiveTime": 5,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    9
+  ],
+  "mostUsedLanguages": [
+    "ts"
+  ]
+}
