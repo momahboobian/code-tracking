@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 21603                                          |
-| **Lines Removed** (➖) | 20                                        |
+| **Lines Added** (➕)   | 21608                                          |
+| **Lines Removed** (➖) | 25                                        |
 | **Net Change** (↕)    | 21583                |
-| **Active Time** (⌚)   | 35 minutes |
+| **Active Time** (⌚)   | 40 minutes |
 
 
 ## Modified Files
@@ -16,7 +16,7 @@
 - **package.json** (+66, -0)
 - **package.json** (+26, -1)
 - **yarn.lock** (+3325, -0)
-- **Register.tsx** (+137, -19)
+- **Register.tsx** (+142, -24)
 - **EventCard.tsx** (+213, -0)
 - **.env** (+47, -0)
 
@@ -29,7 +29,7 @@ pie showData
 title Lines changed by file type
 ".lock" : 21059
 ".json" : 148
-".tsx" : 369
+".tsx" : 379
 "unknown" : 47
 ```
 
@@ -41,8 +41,8 @@ title Coding activity by hour (count of changes)
 "09h" : 1
 "10h" : 7
 "13h" : 11
-"14h" : 4
+"14h" : 8
 ```
 
 
-> **Last Updated:** 20/10/2025, 14:07:47
+> **Last Updated:** 20/10/2025, 14:12:47
