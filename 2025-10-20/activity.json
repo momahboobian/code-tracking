@@ -2,9 +2,9 @@
   "date": "2025-10-20",
   "projects": {
     "cda": {
-      "totalLinesAdded": 9014,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 2,
+      "totalLinesAdded": 21206,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 11,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/yarn.lock": [
           {
@@ -19,6 +19,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "lock"
+          },
+          {
+            "timestamp": "2025-10-20T09:54:54.691Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/yarn.lock",
+            "fileType": ".lock",
+            "linesAdded": 8867,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "lock"
           }
         ],
@@ -82,6 +96,36 @@
             },
             "duration": 0,
             "language": "json"
+          },
+          {
+            "timestamp": "2025-10-20T09:54:54.696Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-aws/package.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-aws/yarn.lock": [
+          {
+            "timestamp": "2025-10-20T09:54:54.698Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-aws/yarn.lock",
+            "fileType": ".lock",
+            "linesAdded": 3325,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "lock"
           }
         ]
       },
