@@ -2,7 +2,7 @@
   "date": "2025-10-22",
   "projects": {
     "cda": {
-      "totalLinesAdded": 2095,
+      "totalLinesAdded": 2096,
       "totalLinesRemoved": 77,
       "totalActiveTime": 71,
       "files": {
@@ -713,6 +713,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-10-22T13:54:36.545Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/utils/calendar/iCalendar.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "ts"
           }
         ],
