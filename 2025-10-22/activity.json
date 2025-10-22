@@ -2,7 +2,7 @@
   "date": "2025-10-22",
   "projects": {
     "cda": {
-      "totalLinesAdded": 1509,
+      "totalLinesAdded": 1510,
       "totalLinesRemoved": 2,
       "totalActiveTime": 11,
       "files": {
@@ -191,6 +191,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-10-22T09:58:05.725Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-mailer/infrastructure/lambda.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "json"
           }
         ]
