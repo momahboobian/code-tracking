@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 3295,
-      "totalLinesRemoved": 279,
-      "totalActiveTime": 166,
+      "totalLinesRemoved": 280,
+      "totalActiveTime": 168,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/utils/calendar/iCalendar.ts": [
           {
@@ -1389,6 +1389,20 @@
             "fileType": ".ts",
             "linesAdded": 1,
             "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-10-23T11:38:44.870Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/utils/calendar/emails.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "cda",
             "content": {
               "added": [],
