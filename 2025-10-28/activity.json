@@ -2,7 +2,7 @@
   "date": "2025-10-28",
   "projects": {
     "cda": {
-      "totalLinesAdded": 912,
+      "totalLinesAdded": 1138,
       "totalLinesRemoved": 12,
       "totalActiveTime": 30,
       "files": {
@@ -374,6 +374,22 @@
             },
             "duration": 4,
             "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/components/Preferences/PreferenceAboutMe/Record/Record.tsx": [
+          {
+            "timestamp": "2025-10-28T13:08:19.017Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/components/Preferences/PreferenceAboutMe/Record/Record.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 226,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
           }
         ]
       },
