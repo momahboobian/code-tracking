@@ -2,9 +2,9 @@
   "date": "2025-10-28",
   "projects": {
     "cda": {
-      "totalLinesAdded": 1636,
+      "totalLinesAdded": 1955,
       "totalLinesRemoved": 12,
-      "totalActiveTime": 35,
+      "totalActiveTime": 43,
       "files": {
         "/Users/momahboobian/Downloads/1-Sep 10th Event (Copy).ics": [
           {
@@ -438,6 +438,54 @@
             },
             "duration": 1,
             "language": "jsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/Accordion/index.js": [
+          {
+            "timestamp": "2025-10-28T13:13:53.317Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/Accordion/index.js",
+            "fileType": ".js",
+            "linesAdded": 97,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "js"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/components/DevelopPanel/DevelopPanel.tsx": [
+          {
+            "timestamp": "2025-10-28T13:15:20.259Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/src/components/DevelopPanel/DevelopPanel.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 133,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/package.json": [
+          {
+            "timestamp": "2025-10-28T13:17:59.010Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/package.json",
+            "fileType": ".json",
+            "linesAdded": 89,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "json"
           }
         ]
       },
