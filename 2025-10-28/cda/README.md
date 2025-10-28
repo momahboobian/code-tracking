@@ -4,16 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 196                                          |
-| **Lines Removed** (➖) | 0                                        |
+| **Lines Added** (➕)   | 197                                          |
+| **Lines Removed** (➖) | 1                                        |
 | **Net Change** (↕)    | 196                |
-| **Active Time** (⌚)   | 6 minutes |
+| **Active Time** (⌚)   | 7 minutes |
 
 
 ## Modified Files
 - **1-Sep 10th Event (Copy).ics** (+20, -0)
 - **2-Sep 10th Event - Update L…-update.ics** (+21, -0)
-- **iCalendar.ts** (+99, -0)
+- **iCalendar.ts** (+100, -1)
 - **settings.json** (+56, -0)
 
 ## Visualizations
@@ -24,7 +24,7 @@
 pie showData
 title Lines changed by file type
 ".ics" : 41
-".ts" : 99
+".ts" : 101
 ".json" : 56
 ```
 
@@ -34,7 +34,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "10h" : 9
+"12h" : 2
 ```
 
 
-> **Last Updated:** 28/10/2025, 10:48:44
+> **Last Updated:** 28/10/2025, 12:23:45
