@@ -2,9 +2,9 @@
   "date": "2025-10-28",
   "projects": {
     "cda": {
-      "totalLinesAdded": 197,
-      "totalLinesRemoved": 1,
-      "totalActiveTime": 7,
+      "totalLinesAdded": 198,
+      "totalLinesRemoved": 4,
+      "totalActiveTime": 10,
       "files": {
         "/Users/momahboobian/Downloads/1-Sep 10th Event (Copy).ics": [
           {
@@ -129,6 +129,34 @@
             "fileType": ".ts",
             "linesAdded": 0,
             "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-10-28T12:24:39.120Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/utils/calendar/iCalendar.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-10-28T12:24:45.252Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/utils/calendar/iCalendar.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 3,
             "projectName": "cda",
             "content": {
               "added": [],
