@@ -4,17 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 32304                                          |
-| **Lines Removed** (➖) | 225                                        |
-| **Net Change** (↕)    | 32079                |
-| **Active Time** (⌚)   | 150 minutes |
+| **Lines Added** (➕)   | 32307                                          |
+| **Lines Removed** (➖) | 241                                        |
+| **Net Change** (↕)    | 32066                |
+| **Active Time** (⌚)   | 153 minutes |
 
 
 ## Modified Files
 - **emails.ts** (+256, -33)
 - **lambda-policy.json** (+105, -0)
 - **infrastructure.json** (+176, -0)
-- **calendar.ts** (+1027, -50)
+- **calendar.ts** (+1030, -60)
 - **emails.test.ts** (+820, -43)
 - **index.js** (+54, -0)
 - **App.js** (+199, -5)
@@ -31,7 +31,7 @@
 - **calendar.js** (+322, -0)
 - **resolvers-types.ts** (+9855, -0)
 - **iCalendar.test.ts** (+139, -16)
-- **calendar-mutations.ts** (+3253, -27)
+- **calendar-mutations.ts** (+3253, -33)
 
 ## Visualizations
 
@@ -40,7 +40,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 30348
+".ts" : 30367
 ".json" : 430
 ".js" : 683
 ".tsx" : 387
@@ -55,8 +55,8 @@ title Coding activity by hour (count of changes)
 "10h" : 43
 "11h" : 7
 "12h" : 34
-"13h" : 15
+"13h" : 18
 ```
 
 
-> **Last Updated:** 29/10/2025, 13:34:47
+> **Last Updated:** 29/10/2025, 13:39:47
