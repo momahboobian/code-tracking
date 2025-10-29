@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3858                                          |
-| **Lines Removed** (➖) | 78                                        |
-| **Net Change** (↕)    | 3780                |
-| **Active Time** (⌚)   | 81 minutes |
+| **Lines Added** (➕)   | 18630                                          |
+| **Lines Removed** (➖) | 83                                        |
+| **Net Change** (↕)    | 18547                |
+| **Active Time** (⌚)   | 86 minutes |
 
 
 ## Modified Files
@@ -25,6 +25,9 @@
 - **package.json** (+57, -0)
 - **20251029101734-alter-calendar-event-table.js** (+17, -5)
 - **20251029103947-alter-calendar-event-view.js** (+81, -0)
+- **iCalendar.ts** (+97, -5)
+- **tables.ts** (+5948, -0)
+- **views.ts** (+8727, -0)
 
 ## Visualizations
 
@@ -33,7 +36,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 2077
+".ts" : 16854
 ".json" : 430
 ".js" : 361
 ".tsx" : 387
@@ -47,7 +50,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "10h" : 43
 "11h" : 7
+"12h" : 4
 ```
 
 
-> **Last Updated:** 29/10/2025, 11:59:47
+> **Last Updated:** 29/10/2025, 12:04:47
