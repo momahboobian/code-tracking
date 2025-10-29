@@ -2,7 +2,7 @@
   "date": "2025-10-29",
   "projects": {
     "cda": {
-      "totalLinesAdded": 32696,
+      "totalLinesAdded": 32700,
       "totalLinesRemoved": 664,
       "totalActiveTime": 257,
       "files": {
@@ -2299,6 +2299,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-10-29T14:09:47.161Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/low-risk-schema/calendar/calendar-mutations.ts",
+            "fileType": ".ts",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "ts"
           }
         ]
