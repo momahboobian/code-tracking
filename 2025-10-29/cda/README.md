@@ -5,9 +5,9 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 3463                                          |
-| **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 3463                |
-| **Active Time** (⌚)   | 11 minutes |
+| **Lines Removed** (➖) | 5                                        |
+| **Net Change** (↕)    | 3458                |
+| **Active Time** (⌚)   | 18 minutes |
 
 
 ## Modified Files
@@ -23,7 +23,7 @@
 - **package.json** (+89, -0)
 - **MyProfile.jsx** (+678, -0)
 - **package.json** (+57, -0)
-- **20251029101734-alter-calendar-event-table.js** (+17, -0)
+- **20251029101734-alter-calendar-event-table.js** (+17, -5)
 
 ## Visualizations
 
@@ -34,7 +34,7 @@ pie showData
 title Lines changed by file type
 ".ts" : 1752
 ".json" : 410
-".js" : 260
+".js" : 265
 ".tsx" : 363
 ".jsx" : 678
 ```
@@ -44,8 +44,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"10h" : 13
+"10h" : 15
 ```
 
 
-> **Last Updated:** 29/10/2025, 10:19:47
+> **Last Updated:** 29/10/2025, 10:24:47
