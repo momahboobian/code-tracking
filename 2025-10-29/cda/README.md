@@ -4,18 +4,18 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 32428                                          |
-| **Lines Removed** (➖) | 361                                        |
-| **Net Change** (↕)    | 32067                |
-| **Active Time** (⌚)   | 173 minutes |
+| **Lines Added** (➕)   | 32579                                          |
+| **Lines Removed** (➖) | 661                                        |
+| **Net Change** (↕)    | 31918                |
+| **Active Time** (⌚)   | 229 minutes |
 
 
 ## Modified Files
-- **emails.ts** (+261, -38)
-- **lambda-policy.json** (+105, -0)
-- **infrastructure.json** (+176, -0)
-- **calendar.ts** (+1064, -87)
-- **emails.test.ts** (+863, -86)
+- **emails.ts** (+266, -48)
+- **lambda-policy.json** (+121, -32)
+- **infrastructure.json** (+177, -2)
+- **calendar.ts** (+1091, -141)
+- **emails.test.ts** (+906, -172)
 - **index.js** (+54, -0)
 - **App.js** (+199, -5)
 - **PreferenceSkillTags.tsx** (+226, -4)
@@ -25,13 +25,13 @@
 - **package.json** (+57, -0)
 - **20251029101734-alter-calendar-event-table.js** (+17, -5)
 - **20251029103947-alter-calendar-event-view.js** (+81, -0)
-- **iCalendar.ts** (+148, -50)
-- **tables.ts** (+5948, -0)
-- **views.ts** (+8727, -0)
-- **calendar.js** (+322, -0)
-- **resolvers-types.ts** (+9855, -0)
-- **iCalendar.test.ts** (+155, -32)
-- **calendar-mutations.ts** (+3254, -40)
+- **iCalendar.ts** (+170, -94)
+- **tables.ts** (+5952, -8)
+- **views.ts** (+8740, -26)
+- **calendar.js** (+323, -2)
+- **resolvers-types.ts** (+9857, -4)
+- **iCalendar.test.ts** (+171, -64)
+- **calendar-mutations.ts** (+3255, -40)
 
 ## Visualizations
 
@@ -40,9 +40,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 30608
-".json" : 430
-".js" : 683
+".ts" : 31005
+".json" : 481
+".js" : 686
 ".tsx" : 387
 ".jsx" : 681
 ```
@@ -55,8 +55,8 @@ title Coding activity by hour (count of changes)
 "10h" : 43
 "11h" : 7
 "12h" : 34
-"13h" : 32
+"13h" : 66
 ```
 
 
-> **Last Updated:** 29/10/2025, 13:49:47
+> **Last Updated:** 29/10/2025, 13:54:47
