@@ -4,14 +4,14 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 25791                                          |
-| **Lines Removed** (➖) | 2628                                        |
-| **Net Change** (↕)    | 23163                |
+| **Lines Added** (➕)   | 26772                                          |
+| **Lines Removed** (➖) | 3615                                        |
+| **Net Change** (↕)    | 23157                |
 | **Active Time** (⌚)   | 235 minutes |
 
 
 ## Modified Files
-- **calendar.ts** (+5222, -1279)
+- **calendar.ts** (+6203, -2266)
 - **iCalendar.ts** (+722, -436)
 - **iCalendar.test.ts** (+399, -124)
 - **calendar-mutations.ts** (+6505, -48)
@@ -29,7 +29,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 18698
+".ts" : 20666
 ".lock" : 9550
 ".json" : 171
 ```
@@ -44,8 +44,8 @@ title Coding activity by hour (count of changes)
 "11h" : 74
 "12h" : 55
 "13h" : 11
-"14h" : 13
+"14h" : 15
 ```
 
 
-> **Last Updated:** 30/10/2025, 14:31:34
+> **Last Updated:** 30/10/2025, 14:36:34
