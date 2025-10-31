@@ -1,0 +1,64 @@
+{
+  "date": "2025-10-31",
+  "projects": {
+    "cda": {
+      "totalLinesAdded": 0,
+      "totalLinesRemoved": 55,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/low-risk-schema/calendar/calendar-mutations.ts": [
+          {
+            "timestamp": "2025-10-31T09:50:32.253Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/low-risk-schema/calendar/calendar-mutations.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 38,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/low-risk-schema/resolvers/calendar.ts": [
+          {
+            "timestamp": "2025-10-31T09:50:32.264Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/low-risk-schema/resolvers/calendar.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 17,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ]
+      },
+      "languageStats": {
+        "ts": 0
+      },
+      "changeFrequency": {
+        "9": 0
+      },
+      "topFiles": [
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/low-risk-schema/calendar/calendar-mutations.ts",
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/low-risk-schema/resolvers/calendar.ts"
+      ],
+      "averageChangeSize": 27.5
+    }
+  },
+  "totalActiveTime": 1,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    9
+  ],
+  "mostUsedLanguages": [
+    "ts"
+  ]
+}
