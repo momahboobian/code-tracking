@@ -2,9 +2,9 @@
   "date": "2025-10-31",
   "projects": {
     "cda": {
-      "totalLinesAdded": 455,
-      "totalLinesRemoved": 82,
-      "totalActiveTime": 15,
+      "totalLinesAdded": 466,
+      "totalLinesRemoved": 86,
+      "totalActiveTime": 22,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/low-risk-schema/calendar/calendar-mutations.ts": [
           {
@@ -93,6 +93,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "pug"
+          },
+          {
+            "timestamp": "2025-10-31T10:34:11.112Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-mailer/src/templates/calendar/html.pug",
+            "fileType": ".pug",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "pug"
           }
         ],
@@ -209,6 +223,48 @@
               "removed": []
             },
             "duration": 2,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-10-31T10:32:40.396Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-mailer/src/templates/calendar/style.css",
+            "fileType": ".css",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-10-31T10:34:34.765Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-mailer/src/templates/calendar/style.css",
+            "fileType": ".css",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-10-31T10:35:11.717Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-mailer/src/templates/calendar/style.css",
+            "fileType": ".css",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "css"
           }
         ]
