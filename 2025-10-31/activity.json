@@ -2,7 +2,7 @@
   "date": "2025-10-31",
   "projects": {
     "cda": {
-      "totalLinesAdded": 0,
+      "totalLinesAdded": 58,
       "totalLinesRemoved": 55,
       "totalActiveTime": 0,
       "files": {
@@ -36,6 +36,22 @@
             },
             "duration": 0,
             "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-mailer/src/templates/calendar/html.pug": [
+          {
+            "timestamp": "2025-10-31T09:55:52.824Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-mailer/src/templates/calendar/html.pug",
+            "fileType": ".pug",
+            "linesAdded": 58,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "pug"
           }
         ]
       },
