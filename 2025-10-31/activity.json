@@ -2,9 +2,9 @@
   "date": "2025-10-31",
   "projects": {
     "cda": {
-      "totalLinesAdded": 6474,
-      "totalLinesRemoved": 193,
-      "totalActiveTime": 169,
+      "totalLinesAdded": 6475,
+      "totalLinesRemoved": 194,
+      "totalActiveTime": 171,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/low-risk-schema/calendar/calendar-mutations.ts": [
           {
@@ -1195,6 +1195,34 @@
           },
           {
             "timestamp": "2025-10-31T10:45:15.452Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-mailer/context/calendar.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-10-31T18:13:30.827Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-mailer/context/calendar.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-10-31T18:15:29.707Z",
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-mailer/context/calendar.json",
             "fileType": ".json",
             "linesAdded": 1,
