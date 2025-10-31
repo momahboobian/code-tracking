@@ -2,9 +2,9 @@
   "date": "2025-10-31",
   "projects": {
     "cda": {
-      "totalLinesAdded": 6447,
-      "totalLinesRemoved": 176,
-      "totalActiveTime": 158,
+      "totalLinesAdded": 6469,
+      "totalLinesRemoved": 190,
+      "totalActiveTime": 162,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/low-risk-schema/calendar/calendar-mutations.ts": [
           {
@@ -1057,6 +1057,48 @@
             "fileType": ".css",
             "linesAdded": 3,
             "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-10-31T17:36:33.312Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-mailer/src/templates/calendar/style.css",
+            "fileType": ".css",
+            "linesAdded": 22,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-10-31T17:37:21.299Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-mailer/src/templates/calendar/style.css",
+            "fileType": ".css",
+            "linesAdded": 0,
+            "linesRemoved": 13,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-10-31T17:37:56.517Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-mailer/src/templates/calendar/style.css",
+            "fileType": ".css",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "cda",
             "content": {
               "added": [],
