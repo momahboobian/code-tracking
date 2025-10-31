@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 6474,
-      "totalLinesRemoved": 191,
-      "totalActiveTime": 167,
+      "totalLinesRemoved": 193,
+      "totalActiveTime": 169,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/low-risk-schema/calendar/calendar-mutations.ts": [
           {
@@ -597,6 +597,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "pug"
+          },
+          {
+            "timestamp": "2025-10-31T17:52:03.891Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-mailer/src/templates/calendar/html.pug",
+            "fileType": ".pug",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "pug"
           }
         ],
