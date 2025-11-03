@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 533,
-      "totalLinesRemoved": 21,
-      "totalActiveTime": 53,
+      "totalLinesRemoved": 23,
+      "totalActiveTime": 58,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-mailer/src/templates/calendar/html.pug": [
           {
@@ -173,6 +173,20 @@
               "removed": []
             },
             "duration": 4,
+            "language": "pug"
+          },
+          {
+            "timestamp": "2025-11-03T10:53:23.472Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-mailer/src/templates/calendar/html.pug",
+            "fileType": ".pug",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "pug"
           }
         ],
@@ -381,6 +395,20 @@
             "fileType": ".css",
             "linesAdded": 0,
             "linesRemoved": 4,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-11-03T10:54:47.624Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-mailer/src/templates/calendar/style.css",
+            "fileType": ".css",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "cda",
             "content": {
               "added": [],
