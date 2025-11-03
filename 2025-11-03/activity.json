@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 184,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 14,
+      "totalLinesRemoved": 6,
+      "totalActiveTime": 19,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-mailer/src/templates/calendar/html.pug": [
           {
@@ -103,6 +103,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "pug"
+          },
+          {
+            "timestamp": "2025-11-03T10:16:39.889Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-mailer/src/templates/calendar/html.pug",
+            "fileType": ".pug",
+            "linesAdded": 0,
+            "linesRemoved": 6,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "pug"
           }
         ],
