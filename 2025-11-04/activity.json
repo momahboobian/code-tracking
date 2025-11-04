@@ -2,7 +2,7 @@
   "date": "2025-11-04",
   "projects": {
     "cda": {
-      "totalLinesAdded": 1719,
+      "totalLinesAdded": 1780,
       "totalLinesRemoved": 182,
       "totalActiveTime": 37,
       "files": {
@@ -564,6 +564,22 @@
             },
             "duration": 0,
             "language": "unknown"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/package.json": [
+          {
+            "timestamp": "2025-11-04T12:34:50.758Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/package.json",
+            "fileType": ".json",
+            "linesAdded": 61,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
           }
         ]
       },
