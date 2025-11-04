@@ -3,7 +3,7 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 1672,
-      "totalLinesRemoved": 146,
+      "totalLinesRemoved": 182,
       "totalActiveTime": 37,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-mailer/src/templates/calendar/html.pug": [
@@ -429,6 +429,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-11-04T12:17:50.222Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/containers/Home/Home.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 36,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ],
