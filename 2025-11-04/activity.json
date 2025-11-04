@@ -2,9 +2,9 @@
   "date": "2025-11-04",
   "projects": {
     "cda": {
-      "totalLinesAdded": 1780,
-      "totalLinesRemoved": 182,
-      "totalActiveTime": 37,
+      "totalLinesAdded": 9450,
+      "totalLinesRemoved": 184,
+      "totalActiveTime": 48,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-mailer/src/templates/calendar/html.pug": [
           {
@@ -444,6 +444,34 @@
             },
             "duration": 0,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-11-04T12:36:41.538Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/containers/Home/Home.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-11-04T12:36:41.724Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/containers/Home/Home.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-mailer/src/templates/calendar/style.css": [
@@ -580,6 +608,100 @@
             },
             "duration": 0,
             "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/yarn.lock": [
+          {
+            "timestamp": "2025-11-04T12:34:56.135Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/yarn.lock",
+            "fileType": ".lock",
+            "linesAdded": 7554,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "lock"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-aws-testing/dist/MockS3Service.d.ts": [
+          {
+            "timestamp": "2025-11-04T12:35:00.863Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-aws-testing/dist/MockS3Service.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 13,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-aws-testing/dist/MockS3Service.js": [
+          {
+            "timestamp": "2025-11-04T12:35:11.907Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-aws-testing/dist/MockS3Service.js",
+            "fileType": ".js",
+            "linesAdded": 19,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-aws/package.json": [
+          {
+            "timestamp": "2025-11-04T12:35:21.844Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-aws/package.json",
+            "fileType": ".json",
+            "linesAdded": 20,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/index.tsx": [
+          {
+            "timestamp": "2025-11-04T12:39:16.585Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/index.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 57,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-11-04T12:39:23.970Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/index.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ]
       },
