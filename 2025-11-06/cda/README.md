@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 44003                                          |
-| **Lines Removed** (➖) | 1024                                        |
-| **Net Change** (↕)    | 42979                |
-| **Active Time** (⌚)   | 123 minutes |
+| **Lines Added** (➕)   | 45570                                          |
+| **Lines Removed** (➖) | 1081                                        |
+| **Net Change** (↕)    | 44489                |
+| **Active Time** (⌚)   | 132 minutes |
 
 
 ## Modified Files
@@ -27,7 +27,7 @@
 - **ScrollToTop.jsx** (+26, -0)
 - **EventForm.test.tsx** (+923, -0)
 - **EventForm.tsx** (+2329, -1)
-- **EventPage.test.tsx** (+1511, -0)
+- **EventPage.test.tsx** (+3025, -0)
 - **EventPage.tsx** (+874, -0)
 - **MyEvents.test.tsx** (+179, -0)
 - **ProviderRouterTest.tsx** (+110, -8)
@@ -42,7 +42,7 @@
 - **NextEventNotification.test.ts** (+504, -12)
 - **yarn.lock** (+2178, -0)
 - **yarn.lock** (+5608, -0)
-- **NextEventNotification.test.tsx** (+492, -53)
+- **NextEventNotification.test.tsx** (+545, -110)
 
 ## Visualizations
 
@@ -54,7 +54,7 @@ title Lines changed by file type
 ".pug" : 51
 ".css" : 53
 ".json" : 415
-".tsx" : 7926
+".tsx" : 9550
 ".js" : 433
 ".jsx" : 26
 ".scss" : 153
@@ -73,8 +73,8 @@ title Coding activity by hour (count of changes)
 "14h" : 16
 "15h" : 14
 "16h" : 2
-"17h" : 27
+"17h" : 34
 ```
 
 
-> **Last Updated:** 06/11/2025, 17:41:49
+> **Last Updated:** 06/11/2025, 17:46:49
