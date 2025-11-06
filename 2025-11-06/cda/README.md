@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 5620                                          |
+| **Lines Added** (➕)   | 5779                                          |
 | **Lines Removed** (➖) | 58                                        |
-| **Net Change** (↕)    | 5562                |
-| **Active Time** (⌚)   | 66 minutes |
+| **Net Change** (↕)    | 5721                |
+| **Active Time** (⌚)   | 67 minutes |
 
 
 ## Modified Files
@@ -31,6 +31,7 @@
 - **EventPage.tsx** (+437, -0)
 - **MyEvents.test.tsx** (+179, -0)
 - **ProviderRouterTest.tsx** (+55, -0)
+- **ScrollableDatepicker.tsx** (+159, -0)
 
 ## Visualizations
 
@@ -42,7 +43,7 @@ title Lines changed by file type
 ".pug" : 51
 ".css" : 53
 ".json" : 326
-".tsx" : 4802
+".tsx" : 4961
 ".js" : 433
 ".jsx" : 13
 ```
@@ -55,8 +56,8 @@ title Coding activity by hour (count of changes)
 "09h" : 2
 "12h" : 27
 "13h" : 10
-"14h" : 12
+"14h" : 14
 ```
 
 
-> **Last Updated:** 06/11/2025, 14:03:45
+> **Last Updated:** 06/11/2025, 14:33:45
