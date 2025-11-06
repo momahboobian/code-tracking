@@ -2,9 +2,9 @@
   "date": "2025-11-06",
   "projects": {
     "cda": {
-      "totalLinesAdded": 20127,
-      "totalLinesRemoved": 60,
-      "totalActiveTime": 84,
+      "totalLinesAdded": 20512,
+      "totalLinesRemoved": 522,
+      "totalActiveTime": 90,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-mailer/src/templates/calendar/html.pug": [
           {
@@ -792,6 +792,20 @@
             },
             "duration": 0,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-11-06T15:57:40.564Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/containers/EventForm/EventForm.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/containers/EventPage/EventPage.test.tsx": [
@@ -932,6 +946,20 @@
             },
             "duration": 0,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-11-06T15:57:28.989Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/gql-generated/low-risk/graphql.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 461,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/gql-generated/high-risk/gql.ts": [
@@ -964,6 +992,38 @@
             },
             "duration": 1,
             "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/gql-generated/low-risk/gql.ts": [
+          {
+            "timestamp": "2025-11-06T15:57:24.947Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/gql-generated/low-risk/gql.ts",
+            "fileType": ".ts",
+            "linesAdded": 168,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/containers/Home/Home.tsx": [
+          {
+            "timestamp": "2025-11-06T15:59:08.410Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/containers/Home/Home.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 217,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
           }
         ]
       },
