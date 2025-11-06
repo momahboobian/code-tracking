@@ -2,7 +2,7 @@
   "date": "2025-11-06",
   "projects": {
     "cda": {
-      "totalLinesAdded": 20512,
+      "totalLinesAdded": 33757,
       "totalLinesRemoved": 522,
       "totalActiveTime": 90,
       "files": {
@@ -1024,6 +1024,22 @@
             },
             "duration": 2,
             "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/yarn.lock": [
+          {
+            "timestamp": "2025-11-06T16:16:55.303Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/yarn.lock",
+            "fileType": ".lock",
+            "linesAdded": 13245,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "lock"
           }
         ]
       },
