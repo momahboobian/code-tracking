@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 34240                                          |
+| **Lines Added** (➕)   | 35042                                          |
 | **Lines Removed** (➖) | 951                                        |
-| **Net Change** (↕)    | 33289                |
-| **Active Time** (⌚)   | 93 minutes |
+| **Net Change** (↕)    | 34091                |
+| **Active Time** (⌚)   | 98 minutes |
 
 
 ## Modified Files
@@ -16,12 +16,12 @@
 - **calendar.json** (+21, -3)
 - **lambda.json** (+217, -0)
 - **package.json** (+172, -2)
-- **App.tsx** (+61, -0)
+- **App.tsx** (+122, -0)
 - **index.tsx** (+118, -0)
-- **DeleteEventWrapper.test.tsx** (+125, -0)
-- **DeleteEventWrapper.tsx** (+54, -0)
-- **DuplicateEventWrapper.test.tsx** (+100, -0)
-- **DuplicateEventWrapper.tsx** (+29, -0)
+- **DeleteEventWrapper.test.tsx** (+250, -0)
+- **DeleteEventWrapper.tsx** (+108, -0)
+- **DuplicateEventWrapper.test.tsx** (+200, -0)
+- **DuplicateEventWrapper.tsx** (+58, -0)
 - **NextEventNotification.test.js** (+433, -0)
 - **NextEventNotification.tsx** (+107, -0)
 - **ScrollToTop.jsx** (+13, -0)
@@ -39,6 +39,7 @@
 - **gql.ts** (+168, -0)
 - **Home.tsx** (+217, -0)
 - **yarn.lock** (+13667, -429)
+- **NextEventNotification.test.ts** (+433, -0)
 
 ## Visualizations
 
@@ -50,11 +51,11 @@ title Lines changed by file type
 ".pug" : 51
 ".css" : 53
 ".json" : 415
-".tsx" : 6405
+".tsx" : 6774
 ".js" : 433
 ".jsx" : 13
 ".scss" : 153
-".ts" : 13572
+".ts" : 14005
 ".lock" : 14096
 ```
 
@@ -69,8 +70,8 @@ title Coding activity by hour (count of changes)
 "14h" : 16
 "15h" : 14
 "16h" : 2
-"17h" : 3
+"17h" : 9
 ```
 
 
-> **Last Updated:** 06/11/2025, 17:11:49
+> **Last Updated:** 06/11/2025, 17:21:49
