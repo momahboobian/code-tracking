@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 47216                                          |
-| **Lines Removed** (➖) | 1138                                        |
-| **Net Change** (↕)    | 46078                |
-| **Active Time** (⌚)   | 166 minutes |
+| **Lines Added** (➕)   | 47336                                          |
+| **Lines Removed** (➖) | 1145                                        |
+| **Net Change** (↕)    | 46191                |
+| **Active Time** (⌚)   | 173 minutes |
 
 
 ## Modified Files
@@ -32,7 +32,7 @@
 - **MyEvents.test.tsx** (+358, -0)
 - **ProviderRouterTest.tsx** (+110, -8)
 - **ScrollableDatepicker.tsx** (+481, -4)
-- **EventForm.scss** (+320, -10)
+- **EventForm.scss** (+324, -17)
 - **graphql.ts** (+5881, -461)
 - **gql.ts** (+43, -0)
 - **graphql.ts** (+7019, -0)
@@ -44,6 +44,7 @@
 - **yarn.lock** (+5608, -0)
 - **NextEventNotification.test.tsx** (+545, -111)
 - **setupTests.ts** (+16, -0)
+- **ScrollableDatepicker.test.tsx** (+116, -0)
 
 ## Visualizations
 
@@ -55,10 +56,10 @@ title Lines changed by file type
 ".pug" : 51
 ".css" : 53
 ".json" : 415
-".tsx" : 11060
+".tsx" : 11176
 ".js" : 433
 ".jsx" : 26
-".scss" : 330
+".scss" : 341
 ".ts" : 14104
 ".lock" : 21882
 ```
@@ -75,8 +76,8 @@ title Coding activity by hour (count of changes)
 "15h" : 14
 "16h" : 2
 "17h" : 39
-"18h" : 20
+"18h" : 25
 ```
 
 
-> **Last Updated:** 06/11/2025, 18:29:44
+> **Last Updated:** 06/11/2025, 18:34:44
