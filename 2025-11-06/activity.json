@@ -2,9 +2,9 @@
   "date": "2025-11-06",
   "projects": {
     "cda": {
-      "totalLinesAdded": 280,
-      "totalLinesRemoved": 42,
-      "totalActiveTime": 39,
+      "totalLinesAdded": 287,
+      "totalLinesRemoved": 48,
+      "totalActiveTime": 43,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-mailer/src/templates/calendar/html.pug": [
           {
@@ -124,6 +124,48 @@
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-mailer/src/templates/calendar/html.pug",
             "fileType": ".pug",
             "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "pug"
+          },
+          {
+            "timestamp": "2025-11-06T13:24:26.822Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-mailer/src/templates/calendar/html.pug",
+            "fileType": ".pug",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "pug"
+          },
+          {
+            "timestamp": "2025-11-06T13:25:14.306Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-mailer/src/templates/calendar/html.pug",
+            "fileType": ".pug",
+            "linesAdded": 0,
+            "linesRemoved": 6,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "pug"
+          },
+          {
+            "timestamp": "2025-11-06T13:27:23.076Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-mailer/src/templates/calendar/html.pug",
+            "fileType": ".pug",
+            "linesAdded": 6,
             "linesRemoved": 0,
             "projectName": "cda",
             "content": {
