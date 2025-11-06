@@ -2,9 +2,9 @@
   "date": "2025-11-06",
   "projects": {
     "cda": {
-      "totalLinesAdded": 46540,
-      "totalLinesRemoved": 1123,
-      "totalActiveTime": 141,
+      "totalLinesAdded": 46878,
+      "totalLinesRemoved": 1124,
+      "totalActiveTime": 144,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-mailer/src/templates/calendar/html.pug": [
           {
@@ -1148,6 +1148,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-11-06T18:12:34.720Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/containers/MyEvents/MyEvents.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 179,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/helpers/ProviderRouterTest.tsx": [
@@ -1214,6 +1228,20 @@
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/ScrollableDatepicker/ScrollableDatepicker.tsx",
             "fileType": ".tsx",
             "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-11-06T18:12:34.718Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/ScrollableDatepicker/ScrollableDatepicker.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 159,
             "linesRemoved": 0,
             "projectName": "cda",
             "content": {
@@ -1649,6 +1677,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-11-06T18:11:59.759Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/NextEventNotification/NextEventNotification.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "tsx"
           }
         ],
