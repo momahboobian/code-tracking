@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 11350                                          |
-| **Lines Removed** (➖) | 8                                        |
-| **Net Change** (↕)    | 11342                |
-| **Active Time** (⌚)   | 12 minutes |
+| **Lines Added** (➕)   | 11474                                          |
+| **Lines Removed** (➖) | 35                                        |
+| **Net Change** (↕)    | 11439                |
+| **Active Time** (⌚)   | 21 minutes |
 
 
 ## Modified Files
@@ -15,7 +15,8 @@
 - **setupTests.ts** (+16, -0)
 - **Footer.tsx** (+186, -0)
 - **yarn.lock** (+8288, -0)
-- **ShareEventModal.tsx** (+81, -0)
+- **ShareEventModal.tsx** (+81, -1)
+- **MyEvents.tsx** (+124, -26)
 
 ## Visualizations
 
@@ -24,7 +25,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 3054
+".tsx" : 3205
 ".ts" : 16
 ".lock" : 8288
 ```
@@ -36,8 +37,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "09h" : 7
 "10h" : 8
-"13h" : 1
+"13h" : 6
 ```
 
 
-> **Last Updated:** 07/11/2025, 13:26:41
+> **Last Updated:** 07/11/2025, 13:31:41
