@@ -2,9 +2,9 @@
   "date": "2025-11-09",
   "projects": {
     "movies": {
-      "totalLinesAdded": 304,
-      "totalLinesRemoved": 60,
-      "totalActiveTime": 16,
+      "totalLinesAdded": 333,
+      "totalLinesRemoved": 89,
+      "totalActiveTime": 19,
       "files": {
         "/Users/momahboobian/Documents/Git-repo/electron/movies/package.json": [
           {
@@ -113,6 +113,62 @@
             "fileType": ".js",
             "linesAdded": 62,
             "linesRemoved": 0,
+            "projectName": "movies",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-11-09T20:17:13.491Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/electron/movies/mail.js",
+            "fileType": ".js",
+            "linesAdded": 26,
+            "linesRemoved": 0,
+            "projectName": "movies",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-11-09T20:17:33.146Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/electron/movies/mail.js",
+            "fileType": ".js",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "movies",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-11-09T20:18:09.492Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/electron/movies/mail.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "movies",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-11-09T20:18:36.044Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/electron/movies/mail.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 26,
             "projectName": "movies",
             "content": {
               "added": [],
