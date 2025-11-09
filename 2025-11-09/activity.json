@@ -1,0 +1,203 @@
+{
+  "date": "2025-11-09",
+  "projects": {
+    "movies": {
+      "totalLinesAdded": 243,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 10,
+      "files": {
+        "/Users/momahboobian/Documents/Git-repo/electron/movies/package.json": [
+          {
+            "timestamp": "2025-11-09T19:51:50.046Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/electron/movies/package.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "movies",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-11-09T19:51:50.092Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/electron/movies/package.json",
+            "fileType": ".json",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "movies",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-11-09T19:53:36.363Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/electron/movies/package.json",
+            "fileType": ".json",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "movies",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/Git-repo/electron/movies/mail.js": [
+          {
+            "timestamp": "2025-11-09T19:52:00.922Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/electron/movies/mail.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "movies",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-11-09T19:52:00.956Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/electron/movies/mail.js",
+            "fileType": ".js",
+            "linesAdded": 62,
+            "linesRemoved": 0,
+            "projectName": "movies",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "/Users/momahboobian/Documents/Git-repo/electron/movies/preload.js": [
+          {
+            "timestamp": "2025-11-09T19:52:39.636Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/electron/movies/preload.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "movies",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-11-09T19:52:39.667Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/electron/movies/preload.js",
+            "fileType": ".js",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "movies",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "/Users/momahboobian/Documents/Git-repo/electron/movies/index.html": [
+          {
+            "timestamp": "2025-11-09T19:52:57.307Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/electron/movies/index.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "movies",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-11-09T19:52:57.400Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/electron/movies/index.html",
+            "fileType": ".html",
+            "linesAdded": 152,
+            "linesRemoved": 0,
+            "projectName": "movies",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          }
+        ],
+        "/Users/momahboobian/Documents/Git-repo/electron/movies/webview-preload.js": [
+          {
+            "timestamp": "2025-11-09T19:53:19.040Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/electron/movies/webview-preload.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "movies",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-11-09T19:53:24.703Z",
+            "fileName": "/Users/momahboobian/Documents/Git-repo/electron/movies/webview-preload.js",
+            "fileType": ".js",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "movies",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 2,
+        "js": 6,
+        "html": 2
+      },
+      "changeFrequency": {
+        "19": 10
+      },
+      "topFiles": [
+        "/Users/momahboobian/Documents/Git-repo/electron/movies/package.json",
+        "/Users/momahboobian/Documents/Git-repo/electron/movies/mail.js",
+        "/Users/momahboobian/Documents/Git-repo/electron/movies/preload.js",
+        "/Users/momahboobian/Documents/Git-repo/electron/movies/index.html",
+        "/Users/momahboobian/Documents/Git-repo/electron/movies/webview-preload.js"
+      ],
+      "averageChangeSize": 22.09090909090909
+    }
+  },
+  "totalActiveTime": 10,
+  "totalProjects": 1,
+  "totalFiles": 5,
+  "mostActiveHours": [
+    19
+  ],
+  "mostUsedLanguages": [
+    "js",
+    "json",
+    "html"
+  ]
+}
