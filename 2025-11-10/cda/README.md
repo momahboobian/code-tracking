@@ -4,18 +4,18 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 38791                                          |
-| **Lines Removed** (➖) | 158                                        |
-| **Net Change** (↕)    | 38633                |
+| **Lines Added** (➕)   | 38798                                          |
+| **Lines Removed** (➖) | 171                                        |
+| **Net Change** (↕)    | 38627                |
 | **Active Time** (⌚)   | 67 minutes |
 
 
 ## Modified Files
-- **MyEvents.tsx** (+261, -39)
+- **MyEvents.tsx** (+261, -52)
 - **ShareEventModal.tsx** (+2, -1)
 - **DeleteEventWrapper.test.tsx** (+125, -0)
 - **EventPage.test.tsx** (+1511, -0)
-- **EventForm.test.tsx** (+1858, -12)
+- **EventForm.test.tsx** (+1861, -12)
 - **settings.json** (+1, -0)
 - **package.json** (+85, -0)
 - **App.js** (+221, -5)
@@ -28,7 +28,7 @@
 - **skills.ts** (+222, -46)
 - **sub-skill-mutations.ts** (+192, -0)
 - **skills.js** (+334, -0)
-- **index.tsx** (+65, -8)
+- **index.tsx** (+69, -8)
 - **graphql.ts** (+7386, -0)
 - **skill-admin-mutations.ts** (+275, -0)
 
@@ -39,7 +39,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 3882
+".tsx" : 3902
 ".json" : 86
 ".js" : 560
 ".ts" : 34421
@@ -53,7 +53,8 @@ title Coding activity by hour (count of changes)
 "09h" : 14
 "10h" : 35
 "11h" : 10
+"12h" : 3
 ```
 
 
-> **Last Updated:** 10/11/2025, 11:54:25
+> **Last Updated:** 10/11/2025, 12:19:25
