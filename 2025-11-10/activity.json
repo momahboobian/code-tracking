@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 40768,
-      "totalLinesRemoved": 484,
-      "totalActiveTime": 183,
+      "totalLinesRemoved": 491,
+      "totalActiveTime": 187,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/containers/MyEvents/MyEvents.tsx": [
           {
@@ -2021,6 +2021,48 @@
           },
           {
             "timestamp": "2025-11-10T18:45:40.945Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/CapacityBadge/CapacityBadge.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-11-10T18:46:48.857Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/CapacityBadge/CapacityBadge.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-11-10T18:46:55.228Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/CapacityBadge/CapacityBadge.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-11-10T18:47:07.397Z",
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/CapacityBadge/CapacityBadge.tsx",
             "fileType": ".tsx",
             "linesAdded": 0,
