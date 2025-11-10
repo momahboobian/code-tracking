@@ -2,7 +2,7 @@
   "date": "2025-11-10",
   "projects": {
     "cda": {
-      "totalLinesAdded": 2692,
+      "totalLinesAdded": 3811,
       "totalLinesRemoved": 20,
       "totalActiveTime": 11,
       "files": {
@@ -54,6 +54,20 @@
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/containers/MyEvents/MyEvents.tsx",
             "fileType": ".tsx",
             "linesAdded": 98,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-11-10T10:43:46.227Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/containers/MyEvents/MyEvents.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 111,
             "linesRemoved": 0,
             "projectName": "cda",
             "content": {
@@ -196,6 +210,20 @@
             },
             "duration": 0,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-11-10T10:43:46.229Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/containers/EventForm/EventForm.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 923,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
           }
         ],
         "/Users/momahboobian/Library/Application Support/Code/User/settings.json": [
@@ -211,6 +239,22 @@
               "removed": []
             },
             "duration": 5,
+            "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/package.json": [
+          {
+            "timestamp": "2025-11-10T10:43:46.219Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/package.json",
+            "fileType": ".json",
+            "linesAdded": 85,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "json"
           }
         ]
