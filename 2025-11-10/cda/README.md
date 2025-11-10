@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 40752                                          |
-| **Lines Removed** (➖) | 462                                        |
-| **Net Change** (↕)    | 40290                |
-| **Active Time** (⌚)   | 176 minutes |
+| **Lines Added** (➕)   | 40768                                          |
+| **Lines Removed** (➖) | 484                                        |
+| **Net Change** (↕)    | 40284                |
+| **Active Time** (⌚)   | 183 minutes |
 
 
 ## Modified Files
@@ -37,9 +37,9 @@
 - **package.json** (+70, -0)
 - **EventCard.tsx** (+213, -0)
 - **CapacityBadge.scss** (+45, -0)
-- **CapacityBadge.tsx** (+284, -208)
+- **CapacityBadge.tsx** (+284, -214)
 - **.env** (+47, -0)
-- **CapacityBadge.test.tsx** (+166, -68)
+- **CapacityBadge.test.tsx** (+182, -84)
 
 ## Visualizations
 
@@ -48,7 +48,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 5985
+".tsx" : 6023
 ".json" : 156
 ".js" : 560
 ".ts" : 34421
@@ -69,8 +69,8 @@ title Coding activity by hour (count of changes)
 "14h" : 6
 "15h" : 6
 "17h" : 27
-"18h" : 37
+"18h" : 42
 ```
 
 
-> **Last Updated:** 10/11/2025, 18:41:15
+> **Last Updated:** 10/11/2025, 18:46:15
