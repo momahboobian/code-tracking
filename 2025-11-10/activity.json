@@ -3,7 +3,7 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 39910,
-      "totalLinesRemoved": 184,
+      "totalLinesRemoved": 187,
       "totalActiveTime": 102,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/containers/MyEvents/MyEvents.tsx": [
@@ -1289,6 +1289,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-11-10T17:32:59.266Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/CapacityBadge/CapacityBadge.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ],
