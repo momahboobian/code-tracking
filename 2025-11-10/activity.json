@@ -2,9 +2,9 @@
   "date": "2025-11-10",
   "projects": {
     "cda": {
-      "totalLinesAdded": 38713,
-      "totalLinesRemoved": 80,
-      "totalActiveTime": 62,
+      "totalLinesAdded": 38791,
+      "totalLinesRemoved": 158,
+      "totalActiveTime": 67,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/containers/MyEvents/MyEvents.tsx": [
           {
@@ -93,6 +93,34 @@
           },
           {
             "timestamp": "2025-11-10T10:46:42.319Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/containers/MyEvents/MyEvents.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 13,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-11-10T11:52:12.311Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/containers/MyEvents/MyEvents.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 13,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-11-10T11:52:21.554Z",
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/containers/MyEvents/MyEvents.tsx",
             "fileType": ".tsx",
             "linesAdded": 13,
@@ -269,6 +297,34 @@
           },
           {
             "timestamp": "2025-11-10T10:46:42.336Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/containers/EventForm/EventForm.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-11-10T11:52:12.313Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/containers/EventForm/EventForm.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-11-10T11:52:21.556Z",
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/containers/EventForm/EventForm.test.tsx",
             "fileType": ".tsx",
             "linesAdded": 0,
@@ -460,6 +516,34 @@
             },
             "duration": 1,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-11-10T11:52:12.322Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/low-risk-schema/resolvers/skill-mutations.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 12,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-11-10T11:52:21.561Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/low-risk-schema/resolvers/skill-mutations.ts",
+            "fileType": ".ts",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/packages/cda-table-types/src/types/views.ts": [
@@ -580,6 +664,34 @@
             },
             "duration": 1,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-11-10T11:52:12.325Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/transformers/skills/skills.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 46,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-11-10T11:52:21.563Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/transformers/skills/skills.ts",
+            "fileType": ".ts",
+            "linesAdded": 46,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/low-risk-schema/skills/sub-skill-mutations.ts": [
@@ -659,6 +771,34 @@
           },
           {
             "timestamp": "2025-11-10T10:46:42.367Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/index.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-11-10T11:52:12.318Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/index.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-11-10T11:52:21.559Z",
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/index.tsx",
             "fileType": ".tsx",
             "linesAdded": 0,
