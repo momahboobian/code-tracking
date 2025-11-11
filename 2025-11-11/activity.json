@@ -984,7 +984,7 @@
       "averageChangeSize": 56
     },
     "Diba-View": {
-      "totalLinesAdded": 123,
+      "totalLinesAdded": 183,
       "totalLinesRemoved": 13,
       "totalActiveTime": 19,
       "files": {
@@ -1188,6 +1188,22 @@
             },
             "duration": 1,
             "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_Git-repo/Diba-View/.next/trace": [
+          {
+            "timestamp": "2025-11-11T12:25:46.215Z",
+            "fileName": "/Users/momahboobian/Documents/_Git-repo/Diba-View/.next/trace",
+            "fileType": "unknown",
+            "linesAdded": 60,
+            "linesRemoved": 0,
+            "projectName": "Diba-View",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
           }
         ]
       },
