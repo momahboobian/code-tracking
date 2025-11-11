@@ -984,9 +984,9 @@
       "averageChangeSize": 56
     },
     "Diba-View": {
-      "totalLinesAdded": 86,
-      "totalLinesRemoved": 6,
-      "totalActiveTime": 3,
+      "totalLinesAdded": 92,
+      "totalLinesRemoved": 10,
+      "totalActiveTime": 10,
       "files": {
         "/Users/momahboobian/Documents/_Git-repo/Diba-View/app/components/ContentRow.tsx": [
           {
@@ -1023,6 +1023,48 @@
             "fileType": ".tsx",
             "linesAdded": 0,
             "linesRemoved": 2,
+            "projectName": "Diba-View",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-11-11T12:17:27.148Z",
+            "fileName": "/Users/momahboobian/Documents/_Git-repo/Diba-View/app/components/ContentRow.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "Diba-View",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-11-11T12:19:47.894Z",
+            "fileName": "/Users/momahboobian/Documents/_Git-repo/Diba-View/app/components/ContentRow.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Diba-View",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-11-11T12:20:44.059Z",
+            "fileName": "/Users/momahboobian/Documents/_Git-repo/Diba-View/app/components/ContentRow.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 4,
             "projectName": "Diba-View",
             "content": {
               "added": [],
