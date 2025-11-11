@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 56348                                          |
-| **Lines Removed** (➖) | 252                                        |
-| **Net Change** (↕)    | 56096                |
-| **Active Time** (⌚)   | 173 minutes |
+| **Lines Added** (➕)   | 59603                                          |
+| **Lines Removed** (➖) | 255                                        |
+| **Net Change** (↕)    | 59348                |
+| **Active Time** (⌚)   | 178 minutes |
 
 
 ## Modified Files
@@ -32,6 +32,7 @@
 - **eventTypeFromFlags.ts** (+95, -0)
 - **iCalendar.test.ts** (+151, -0)
 - **emails.test.ts** (+802, -0)
+- **calendar-mutations.ts** (+3255, -3)
 
 ## Visualizations
 
@@ -43,7 +44,7 @@ title Lines changed by file type
 ".tsx" : 6236
 ".scss" : 546
 ".js" : 781
-".ts" : 48979
+".ts" : 52237
 ".json" : 58
 ```
 
@@ -61,8 +62,8 @@ title Coding activity by hour (count of changes)
 "14h" : 2
 "15h" : 16
 "16h" : 14
-"17h" : 5
+"17h" : 8
 ```
 
 
-> **Last Updated:** 11/11/2025, 17:08:58
+> **Last Updated:** 11/11/2025, 17:13:58
