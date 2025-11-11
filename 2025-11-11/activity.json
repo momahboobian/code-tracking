@@ -982,6 +982,67 @@
         "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/CapacityBadge/CapacityBadge.tsx"
       ],
       "averageChangeSize": 56
+    },
+    "Diba-View": {
+      "totalLinesAdded": 80,
+      "totalLinesRemoved": 6,
+      "totalActiveTime": 2,
+      "files": {
+        "/Users/momahboobian/Documents/_Git-repo/Diba-View/app/components/ContentRow.tsx": [
+          {
+            "timestamp": "2025-11-11T11:46:15.269Z",
+            "fileName": "/Users/momahboobian/Documents/_Git-repo/Diba-View/app/components/ContentRow.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 80,
+            "linesRemoved": 0,
+            "projectName": "Diba-View",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-11-11T11:46:15.636Z",
+            "fileName": "/Users/momahboobian/Documents/_Git-repo/Diba-View/app/components/ContentRow.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "Diba-View",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-11-11T11:46:24.150Z",
+            "fileName": "/Users/momahboobian/Documents/_Git-repo/Diba-View/app/components/ContentRow.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "Diba-View",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "tsx": 2
+      },
+      "changeFrequency": {
+        "11": 2
+      },
+      "topFiles": [
+        "/Users/momahboobian/Documents/_Git-repo/Diba-View/app/components/ContentRow.tsx"
+      ],
+      "averageChangeSize": 28.666666666666668
     }
   },
   "totalActiveTime": 2,
