@@ -4,25 +4,26 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 23254                                          |
-| **Lines Removed** (➖) | 227                                        |
-| **Net Change** (↕)    | 23027                |
-| **Active Time** (⌚)   | 117 minutes |
+| **Lines Added** (➕)   | 25521                                          |
+| **Lines Removed** (➖) | 237                                        |
+| **Net Change** (↕)    | 25284                |
+| **Active Time** (⌚)   | 140 minutes |
 
 
 ## Modified Files
-- **CapacityBadge.test.tsx** (+337, -43)
-- **CapacityBadge.tsx** (+145, -34)
-- **EventPage.tsx** (+1426, -97)
+- **CapacityBadge.test.tsx** (+451, -43)
+- **CapacityBadge.tsx** (+194, -34)
+- **EventPage.tsx** (+1426, -107)
 - **EventForm.test.tsx** (+940, -7)
-- **EventPage.test.tsx** (+1517, -6)
-- **EventPage.scss** (+273, -8)
+- **EventPage.test.tsx** (+3028, -6)
+- **EventPage.scss** (+538, -8)
 - **20251111130619-alter-calendar-event-table.js** (+17, -5)
 - **20251029101734-alter-calendar-event-table.js** (+12, -0)
 - **20251111131833-alter-calendar-event-view.js** (+82, -0)
 - **clear_view_views.ts** (+3710, -0)
 - **tables.ts** (+6030, -0)
 - **views.ts** (+8765, -27)
+- **calendar.js** (+328, -0)
 
 ## Visualizations
 
@@ -31,9 +32,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 4552
-".scss" : 281
-".js" : 116
+".tsx" : 6236
+".scss" : 546
+".js" : 444
 ".ts" : 18532
 ```
 
@@ -49,8 +50,8 @@ title Coding activity by hour (count of changes)
 "12h" : 5
 "13h" : 9
 "14h" : 2
-"15h" : 2
+"15h" : 10
 ```
 
 
-> **Last Updated:** 11/11/2025, 15:38:30
+> **Last Updated:** 11/11/2025, 15:43:30
