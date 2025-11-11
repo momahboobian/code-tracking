@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 4220                                          |
+| **Lines Added** (➕)   | 4302                                          |
 | **Lines Removed** (➖) | 200                                        |
-| **Net Change** (↕)    | 4020                |
-| **Active Time** (⌚)   | 109 minutes |
+| **Net Change** (↕)    | 4102                |
+| **Active Time** (⌚)   | 111 minutes |
 
 
 ## Modified Files
@@ -19,6 +19,7 @@
 - **EventPage.scss** (+273, -8)
 - **20251111130619-alter-calendar-event-table.js** (+17, -5)
 - **20251029101734-alter-calendar-event-table.js** (+12, -0)
+- **20251111131833-alter-calendar-event-view.js** (+82, -0)
 
 ## Visualizations
 
@@ -29,7 +30,7 @@ pie showData
 title Lines changed by file type
 ".tsx" : 4105
 ".scss" : 281
-".js" : 34
+".js" : 116
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -42,8 +43,8 @@ title Coding activity by hour (count of changes)
 "10h" : 11
 "11h" : 32
 "12h" : 5
-"13h" : 3
+"13h" : 6
 ```
 
 
-> **Last Updated:** 11/11/2025, 13:10:50
+> **Last Updated:** 11/11/2025, 13:20:50
