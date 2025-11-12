@@ -2,9 +2,9 @@
   "date": "2025-11-12",
   "projects": {
     "cda": {
-      "totalLinesAdded": 18018,
-      "totalLinesRemoved": 299,
-      "totalActiveTime": 118,
+      "totalLinesAdded": 18137,
+      "totalLinesRemoved": 322,
+      "totalActiveTime": 125,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/low-risk-schema/calendar/calendar-mutations.ts": [
           {
@@ -794,6 +794,34 @@
             },
             "duration": 0,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-11-12T16:50:46.485Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/low-risk-schema/calendar/calendar-queries.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 22,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-11-12T16:52:08.061Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/low-risk-schema/calendar/calendar-queries.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/unit/services/calendar/checkUserPermissions.test.ts": [
@@ -1240,6 +1268,22 @@
             },
             "duration": 1,
             "language": "unknown"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/__mocks__/data/calendar/events.ts": [
+          {
+            "timestamp": "2025-11-12T16:49:38.298Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/__mocks__/data/calendar/events.ts",
+            "fileType": ".ts",
+            "linesAdded": 119,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "ts"
           }
         ]
       },
