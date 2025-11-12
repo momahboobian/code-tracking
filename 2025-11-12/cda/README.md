@@ -4,14 +4,14 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 18145                                          |
-| **Lines Removed** (➖) | 323                                        |
-| **Net Change** (↕)    | 17822                |
-| **Active Time** (⌚)   | 130 minutes |
+| **Lines Added** (➕)   | 25748                                          |
+| **Lines Removed** (➖) | 324                                        |
+| **Net Change** (↕)    | 25424                |
+| **Active Time** (⌚)   | 131 minutes |
 
 
 ## Modified Files
-- **calendar-mutations.ts** (+3581, -166)
+- **calendar-mutations.ts** (+3581, -167)
 - **calendar.ts** (+1019, -51)
 - **calendar-queries.ts** (+1658, -74)
 - **checkUserPermissions.test.ts** (+143, -0)
@@ -28,6 +28,7 @@
 - **settings.json** (+58, -0)
 - **.env** (+48, -0)
 - **events.ts** (+119, -0)
+- **yarn.lock** (+7603, -0)
 
 ## Visualizations
 
@@ -36,12 +37,13 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 17000
+".ts" : 17001
 ".js" : 806
 ".tsx" : 122
 ".jsx" : 434
 ".json" : 58
 "unknown" : 48
+".lock" : 7603
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -56,7 +58,8 @@ title Coding activity by hour (count of changes)
 "14h" : 13
 "15h" : 21
 "16h" : 21
+"17h" : 2
 ```
 
 
-> **Last Updated:** 12/11/2025, 16:57:55
+> **Last Updated:** 12/11/2025, 17:28:14
