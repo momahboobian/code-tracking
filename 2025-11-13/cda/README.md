@@ -4,18 +4,18 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 25352                                          |
+| **Lines Added** (➕)   | 27996                                          |
 | **Lines Removed** (➖) | 790                                        |
-| **Net Change** (↕)    | 24562                |
-| **Active Time** (⌚)   | 117 minutes |
+| **Net Change** (↕)    | 27206                |
+| **Active Time** (⌚)   | 122 minutes |
 
 
 ## Modified Files
-- **.env** (+145, -0)
+- **.env** (+194, -0)
 - **settings.json** (+59, -0)
-- **calendar-queries.ts** (+3371, -206)
+- **calendar-queries.ts** (+4902, -206)
 - **calendar-mutations.ts** (+7038, -356)
-- **calendar.ts** (+2083, -86)
+- **calendar.ts** (+3054, -86)
 - **calendar.js** (+658, -7)
 - **resolvers-types.ts** (+10071, -0)
 - **iCalendar.test.ts** (+150, -0)
@@ -23,6 +23,8 @@
 - **AddAttendeeModal.tsx** (+273, -15)
 - **EventPage.tsx** (+447, -0)
 - **Register.tsx** (+256, -120)
+- **SearchUser.tsx** (+56, -0)
+- **SkillUsersModal.tsx** (+37, -0)
 
 ## Visualizations
 
@@ -31,11 +33,11 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-"unknown" : 145
+"unknown" : 194
 ".json" : 59
-".ts" : 24162
+".ts" : 26664
 ".js" : 665
-".tsx" : 1111
+".tsx" : 1204
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -48,8 +50,8 @@ title Coding activity by hour (count of changes)
 "14h" : 20
 "15h" : 33
 "16h" : 10
-"17h" : 4
+"17h" : 9
 ```
 
 
-> **Last Updated:** 13/11/2025, 17:02:27
+> **Last Updated:** 13/11/2025, 17:07:34
