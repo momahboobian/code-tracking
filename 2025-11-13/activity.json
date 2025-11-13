@@ -2,9 +2,9 @@
   "date": "2025-11-13",
   "projects": {
     "cda": {
-      "totalLinesAdded": 41985,
+      "totalLinesAdded": 42200,
       "totalLinesRemoved": 815,
-      "totalActiveTime": 166,
+      "totalActiveTime": 167,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/.env": [
           {
@@ -1700,6 +1700,36 @@
             },
             "duration": 5,
             "language": "lock"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/low-risk-schema/everywhere/everywhere-queries.ts": [
+          {
+            "timestamp": "2025-11-13T18:34:44.818Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/low-risk-schema/everywhere/everywhere-queries.ts",
+            "fileType": ".ts",
+            "linesAdded": 214,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-11-13T18:35:04.077Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/low-risk-schema/everywhere/everywhere-queries.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ]
       },
