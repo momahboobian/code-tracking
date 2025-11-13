@@ -4,19 +4,19 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 28355                                          |
-| **Lines Removed** (➖) | 792                                        |
-| **Net Change** (↕)    | 27563                |
-| **Active Time** (⌚)   | 136 minutes |
+| **Lines Added** (➕)   | 33547                                          |
+| **Lines Removed** (➖) | 799                                        |
+| **Net Change** (↕)    | 32748                |
+| **Active Time** (⌚)   | 142 minutes |
 
 
 ## Modified Files
 - **.env** (+194, -0)
 - **settings.json** (+59, -0)
 - **calendar-queries.ts** (+4902, -206)
-- **calendar-mutations.ts** (+7038, -356)
-- **calendar.ts** (+3054, -86)
-- **calendar.js** (+658, -7)
+- **calendar-mutations.ts** (+10468, -356)
+- **calendar.ts** (+4080, -86)
+- **calendar.js** (+987, -7)
 - **resolvers-types.ts** (+10071, -0)
 - **iCalendar.test.ts** (+150, -0)
 - **emails.test.ts** (+801, -0)
@@ -26,7 +26,9 @@
 - **SearchUser.tsx** (+56, -0)
 - **SkillUsersModal.tsx** (+37, -0)
 - **App.js** (+233, -2)
-- **index.tsx** (+126, -0)
+- **index.tsx** (+189, -0)
+- **index.ts** (+202, -0)
+- **group-member-queries.ts** (+142, -7)
 
 ## Visualizations
 
@@ -37,9 +39,9 @@ pie showData
 title Lines changed by file type
 "unknown" : 194
 ".json" : 59
-".ts" : 26664
-".js" : 900
-".tsx" : 1330
+".ts" : 31471
+".js" : 1229
+".tsx" : 1393
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -53,8 +55,8 @@ title Coding activity by hour (count of changes)
 "15h" : 33
 "16h" : 10
 "17h" : 16
-"18h" : 2
+"18h" : 9
 ```
 
 
-> **Last Updated:** 13/11/2025, 18:03:42
+> **Last Updated:** 13/11/2025, 18:09:02
