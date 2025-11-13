@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 24261                                          |
+| **Lines Added** (➕)   | 24710                                          |
 | **Lines Removed** (➖) | 304                                        |
-| **Net Change** (↕)    | 23957                |
-| **Active Time** (⌚)   | 55 minutes |
+| **Net Change** (↕)    | 24406                |
+| **Active Time** (⌚)   | 60 minutes |
 
 
 ## Modified Files
@@ -20,7 +20,8 @@
 - **resolvers-types.ts** (+10071, -0)
 - **iCalendar.test.ts** (+150, -0)
 - **emails.test.ts** (+801, -0)
-- **AddAttendeeModal.tsx** (+271, -15)
+- **AddAttendeeModal.tsx** (+273, -15)
+- **EventPage.tsx** (+447, -0)
 
 ## Visualizations
 
@@ -33,7 +34,7 @@ title Lines changed by file type
 ".json" : 59
 ".ts" : 23425
 ".js" : 651
-".tsx" : 286
+".tsx" : 735
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -44,8 +45,8 @@ title Coding activity by hour (count of changes)
 "09h" : 1
 "10h" : 14
 "14h" : 20
-"15h" : 8
+"15h" : 11
 ```
 
 
-> **Last Updated:** 13/11/2025, 15:08:59
+> **Last Updated:** 13/11/2025, 15:13:59
