@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 24946                                          |
+| **Lines Added** (➕)   | 24953                                          |
 | **Lines Removed** (➖) | 422                                        |
-| **Net Change** (↕)    | 24524                |
-| **Active Time** (⌚)   | 65 minutes |
+| **Net Change** (↕)    | 24531                |
+| **Active Time** (⌚)   | 72 minutes |
 
 
 ## Modified Files
@@ -22,7 +22,7 @@
 - **emails.test.ts** (+801, -0)
 - **AddAttendeeModal.tsx** (+273, -15)
 - **EventPage.tsx** (+447, -0)
-- **Register.tsx** (+236, -118)
+- **Register.tsx** (+243, -118)
 
 ## Visualizations
 
@@ -35,7 +35,7 @@ title Lines changed by file type
 ".json" : 59
 ".ts" : 23425
 ".js" : 651
-".tsx" : 1089
+".tsx" : 1096
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -46,8 +46,8 @@ title Coding activity by hour (count of changes)
 "09h" : 1
 "10h" : 14
 "14h" : 20
-"15h" : 15
+"15h" : 19
 ```
 
 
-> **Last Updated:** 13/11/2025, 15:23:59
+> **Last Updated:** 13/11/2025, 15:28:59
