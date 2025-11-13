@@ -2,9 +2,9 @@
   "date": "2025-11-13",
   "projects": {
     "cda": {
-      "totalLinesAdded": 34377,
+      "totalLinesAdded": 41980,
       "totalLinesRemoved": 812,
-      "totalActiveTime": 154,
+      "totalActiveTime": 159,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/.env": [
           {
@@ -1628,6 +1628,22 @@
             },
             "duration": 1,
             "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/yarn.lock": [
+          {
+            "timestamp": "2025-11-13T18:19:15.771Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/yarn.lock",
+            "fileType": ".lock",
+            "linesAdded": 7603,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "lock"
           }
         ]
       },
