@@ -2,9 +2,9 @@
   "date": "2025-11-13",
   "projects": {
     "cda": {
-      "totalLinesAdded": 24958,
+      "totalLinesAdded": 24966,
       "totalLinesRemoved": 424,
-      "totalActiveTime": 84,
+      "totalActiveTime": 88,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/.env": [
           {
@@ -867,6 +867,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-11-13T15:41:24.398Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/Register/Register.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "tsx"
           }
         ]
