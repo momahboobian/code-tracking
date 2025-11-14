@@ -2,9 +2,9 @@
   "date": "2025-11-14",
   "projects": {
     "cda": {
-      "totalLinesAdded": 6618,
+      "totalLinesAdded": 6678,
       "totalLinesRemoved": 1,
-      "totalActiveTime": 20,
+      "totalActiveTime": 27,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/low-risk-schema/definitions/calendar.js": [
           {
@@ -262,6 +262,20 @@
             },
             "duration": 1,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-11-14T09:25:26.513Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/graphql/queries/low-risk/index.ts",
+            "fileType": ".ts",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "ts"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/containers/Home/Home.tsx": [
@@ -292,6 +306,36 @@
             },
             "duration": 1,
             "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/helpers/eventFaker.ts": [
+          {
+            "timestamp": "2025-11-14T09:27:08.915Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/helpers/eventFaker.ts",
+            "fileType": ".ts",
+            "linesAdded": 57,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-11-14T09:27:44.377Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/helpers/eventFaker.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ]
       },
