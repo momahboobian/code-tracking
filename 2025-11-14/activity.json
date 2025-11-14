@@ -2,8 +2,8 @@
   "date": "2025-11-14",
   "projects": {
     "cda": {
-      "totalLinesAdded": 23524,
-      "totalLinesRemoved": 197,
+      "totalLinesAdded": 28944,
+      "totalLinesRemoved": 227,
       "totalActiveTime": 146,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/low-risk-schema/definitions/calendar.js": [
@@ -690,6 +690,20 @@
             },
             "duration": 1,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-11-14T15:32:39.169Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/gql-generated/low-risk/graphql.ts",
+            "fileType": ".ts",
+            "linesAdded": 5420,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/Register/Register.tsx": [
@@ -1231,6 +1245,20 @@
             "fileType": ".tsx",
             "linesAdded": 0,
             "linesRemoved": 20,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-11-14T15:32:39.083Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/Register/Register.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 30,
             "projectName": "cda",
             "content": {
               "added": [],
