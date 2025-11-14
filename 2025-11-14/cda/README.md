@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 23502                                          |
-| **Lines Removed** (➖) | 179                                        |
-| **Net Change** (↕)    | 23323                |
-| **Active Time** (⌚)   | 135 minutes |
+| **Lines Added** (➕)   | 23524                                          |
+| **Lines Removed** (➖) | 182                                        |
+| **Net Change** (↕)    | 23342                |
+| **Active Time** (⌚)   | 142 minutes |
 
 
 ## Modified Files
@@ -33,7 +33,8 @@
 - **gql.ts** (+196, -0)
 - **graphql.ts** (+5926, -0)
 - **Register.tsx** (+465, -151)
-- **EventForm.tsx** (+1167, -0)
+- **EventForm.tsx** (+1182, -3)
+- **global.d.ts** (+7, -0)
 
 ## Visualizations
 
@@ -43,8 +44,8 @@
 pie showData
 title Lines changed by file type
 ".js" : 563
-".ts" : 19125
-".tsx" : 3993
+".ts" : 19132
+".tsx" : 4011
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -54,8 +55,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "09h" : 37
 "10h" : 26
-"11h" : 24
+"11h" : 29
 ```
 
 
-> **Last Updated:** 14/11/2025, 11:43:47
+> **Last Updated:** 14/11/2025, 11:48:47
