@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 14808                                          |
+| **Lines Added** (➕)   | 15746                                          |
 | **Lines Removed** (➖) | 20                                        |
-| **Net Change** (↕)    | 14788                |
-| **Active Time** (⌚)   | 47 minutes |
+| **Net Change** (↕)    | 15726                |
+| **Active Time** (⌚)   | 53 minutes |
 
 
 ## Modified Files
@@ -23,12 +23,13 @@
 - **index.ts** (+205, -1)
 - **Home.tsx** (+218, -0)
 - **eventFaker.ts** (+58, -0)
-- **NextEventNotification.test.tsx** (+436, -1)
+- **NextEventNotification.test.tsx** (+441, -1)
 - **graphql.ts** (+7019, -0)
 - **gql.ts** (+43, -0)
 - **AddAttendeeModal.test.tsx** (+519, -0)
 - **DeleteEventWrapper.tsx** (+72, -18)
 - **refetchEvents.ts** (+41, -0)
+- **EventForm.test.tsx** (+933, -0)
 
 ## Visualizations
 
@@ -39,7 +40,7 @@ pie showData
 title Lines changed by file type
 ".js" : 563
 ".ts" : 13001
-".tsx" : 1264
+".tsx" : 2202
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -47,8 +48,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"09h" : 35
+"09h" : 37
 ```
 
 
-> **Last Updated:** 14/11/2025, 09:53:20
+> **Last Updated:** 14/11/2025, 09:58:20
