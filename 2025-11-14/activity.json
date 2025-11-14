@@ -2,7 +2,7 @@
   "date": "2025-11-14",
   "projects": {
     "cda": {
-      "totalLinesAdded": 14806,
+      "totalLinesAdded": 14808,
       "totalLinesRemoved": 20,
       "totalActiveTime": 47,
       "files": {
@@ -379,6 +379,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-11-14T09:52:55.057Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/NextEventNotification/NextEventNotification.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ],
