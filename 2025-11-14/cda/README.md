@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 7112                                          |
+| **Lines Added** (➕)   | 14174                                          |
 | **Lines Removed** (➖) | 2                                        |
-| **Net Change** (↕)    | 7110                |
-| **Active Time** (⌚)   | 32 minutes |
+| **Net Change** (↕)    | 14172                |
+| **Active Time** (⌚)   | 37 minutes |
 
 
 ## Modified Files
@@ -24,6 +24,8 @@
 - **Home.tsx** (+218, -0)
 - **eventFaker.ts** (+58, -0)
 - **NextEventNotification.test.tsx** (+434, -1)
+- **graphql.ts** (+7019, -0)
+- **gql.ts** (+43, -0)
 
 ## Visualizations
 
@@ -33,7 +35,7 @@
 pie showData
 title Lines changed by file type
 ".js" : 563
-".ts" : 5898
+".ts" : 12960
 ".tsx" : 653
 ```
 
@@ -42,8 +44,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"09h" : 25
+"09h" : 27
 ```
 
 
-> **Last Updated:** 14/11/2025, 09:33:20
+> **Last Updated:** 14/11/2025, 09:38:20
