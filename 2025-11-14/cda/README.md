@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 28944                                          |
+| **Lines Added** (➕)   | 43736                                          |
 | **Lines Removed** (➖) | 227                                        |
-| **Net Change** (↕)    | 28717                |
-| **Active Time** (⌚)   | 146 minutes |
+| **Net Change** (↕)    | 43509                |
+| **Active Time** (⌚)   | 161 minutes |
 
 
 ## Modified Files
@@ -29,12 +29,14 @@
 - **AddAttendeeModal.test.tsx** (+519, -0)
 - **DeleteEventWrapper.tsx** (+72, -18)
 - **refetchEvents.ts** (+41, -0)
-- **EventForm.test.tsx** (+933, -0)
+- **EventForm.test.tsx** (+1866, -0)
 - **gql.ts** (+196, -0)
-- **graphql.ts** (+11346, -0)
-- **Register.tsx** (+465, -181)
+- **graphql.ts** (+11852, -0)
+- **Register.tsx** (+495, -181)
 - **EventForm.tsx** (+1182, -18)
 - **global.d.ts** (+7, -0)
+- **package.json** (+85, -0)
+- **yarn.lock** (+13238, -0)
 
 ## Visualizations
 
@@ -44,8 +46,10 @@
 pie showData
 title Lines changed by file type
 ".js" : 563
-".ts" : 24552
-".tsx" : 4056
+".ts" : 25058
+".tsx" : 5019
+".json" : 85
+".lock" : 13238
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -56,8 +60,8 @@ title Coding activity by hour (count of changes)
 "09h" : 37
 "10h" : 26
 "11h" : 30
-"15h" : 2
+"15h" : 7
 ```
 
 
-> **Last Updated:** 14/11/2025, 15:33:44
+> **Last Updated:** 14/11/2025, 15:38:44
