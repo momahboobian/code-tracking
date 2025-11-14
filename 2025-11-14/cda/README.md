@@ -5,8 +5,8 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 21868                                          |
-| **Lines Removed** (➖) | 21                                        |
-| **Net Change** (↕)    | 21847                |
+| **Lines Removed** (➖) | 27                                        |
+| **Net Change** (↕)    | 21841                |
 | **Active Time** (⌚)   | 63 minutes |
 
 
@@ -23,7 +23,7 @@
 - **index.ts** (+205, -1)
 - **Home.tsx** (+218, -0)
 - **eventFaker.ts** (+58, -0)
-- **NextEventNotification.test.tsx** (+441, -2)
+- **NextEventNotification.test.tsx** (+441, -8)
 - **graphql.ts** (+7019, -0)
 - **gql.ts** (+43, -0)
 - **AddAttendeeModal.test.tsx** (+519, -0)
@@ -42,7 +42,7 @@ pie showData
 title Lines changed by file type
 ".js" : 563
 ".ts" : 19123
-".tsx" : 2203
+".tsx" : 2209
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -51,8 +51,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "09h" : 37
-"10h" : 5
+"10h" : 6
 ```
 
 
-> **Last Updated:** 14/11/2025, 10:08:20
+> **Last Updated:** 14/11/2025, 10:13:20
