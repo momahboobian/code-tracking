@@ -2,9 +2,9 @@
   "date": "2025-11-14",
   "projects": {
     "cda": {
-      "totalLinesAdded": 14753,
-      "totalLinesRemoved": 8,
-      "totalActiveTime": 41,
+      "totalLinesAdded": 14806,
+      "totalLinesRemoved": 20,
+      "totalActiveTime": 47,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/low-risk-schema/definitions/calendar.js": [
           {
@@ -472,6 +472,50 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-11-14T09:45:46.682Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/DeleteEventWrapper/DeleteEventWrapper.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-11-14T09:46:20.569Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/DeleteEventWrapper/DeleteEventWrapper.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 12,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/helpers/refetchEvents.ts": [
+          {
+            "timestamp": "2025-11-14T09:47:27.226Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/helpers/refetchEvents.ts",
+            "fileType": ".ts",
+            "linesAdded": 41,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
           }
         ]
       },
