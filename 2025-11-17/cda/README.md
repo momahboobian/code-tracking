@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 7412                                          |
-| **Lines Removed** (➖) | 470                                        |
-| **Net Change** (↕)    | 6942                |
-| **Active Time** (⌚)   | 323 minutes |
+| **Lines Added** (➕)   | 7417                                          |
+| **Lines Removed** (➖) | 471                                        |
+| **Net Change** (↕)    | 6946                |
+| **Active Time** (⌚)   | 327 minutes |
 
 
 ## Modified Files
@@ -23,7 +23,7 @@
 - **AddAttendeeModal.tsx** (+258, -0)
 - **AddAttendeeModal.test.tsx** (+586, -28)
 - **EventPage.test.tsx** (+1774, -105)
-- **EventForm.test.tsx** (+956, -0)
+- **EventForm.test.tsx** (+961, -1)
 
 ## Visualizations
 
@@ -32,7 +32,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 7412
+".tsx" : 7418
 ".ts" : 10
 ".scss" : 460
 ```
@@ -49,8 +49,8 @@ title Coding activity by hour (count of changes)
 "13h" : 43
 "14h" : 28
 "15h" : 25
-"16h" : 19
+"16h" : 23
 ```
 
 
-> **Last Updated:** 17/11/2025, 16:29:57
+> **Last Updated:** 17/11/2025, 16:39:57
