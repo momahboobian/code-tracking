@@ -2,9 +2,9 @@
   "date": "2025-11-17",
   "projects": {
     "cda": {
-      "totalLinesAdded": 4656,
-      "totalLinesRemoved": 344,
-      "totalActiveTime": 234,
+      "totalLinesAdded": 4676,
+      "totalLinesRemoved": 345,
+      "totalActiveTime": 236,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/containers/EventForm/EventForm.tsx": [
           {
@@ -2119,6 +2119,48 @@
             "fileType": ".tsx",
             "linesAdded": 5,
             "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-11-17T14:28:09.478Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/AddAttendeeModal/AddAttendeeModal.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-11-17T14:28:32.463Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/AddAttendeeModal/AddAttendeeModal.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-11-17T14:28:43.643Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/AddAttendeeModal/AddAttendeeModal.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "cda",
             "content": {
               "added": [],
