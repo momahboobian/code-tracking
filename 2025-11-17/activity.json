@@ -2,9 +2,9 @@
   "date": "2025-11-17",
   "projects": {
     "cda": {
-      "totalLinesAdded": 6338,
-      "totalLinesRemoved": 378,
-      "totalActiveTime": 262,
+      "totalLinesAdded": 6339,
+      "totalLinesRemoved": 379,
+      "totalActiveTime": 263,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/containers/EventForm/EventForm.tsx": [
           {
@@ -2477,6 +2477,34 @@
               "removed": []
             },
             "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-11-17T15:18:51.031Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/containers/EventPage/EventPage.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-11-17T15:19:12.143Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/containers/EventPage/EventPage.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "tsx"
           }
         ]
