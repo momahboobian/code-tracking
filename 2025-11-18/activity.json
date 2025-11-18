@@ -3,7 +3,7 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 16488,
-      "totalLinesRemoved": 207,
+      "totalLinesRemoved": 209,
       "totalActiveTime": 138,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/containers/MyEvents/MyEvents.test.tsx": [
@@ -1235,6 +1235,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-11-18T12:28:35.354Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/helpers/ProviderRouterTest.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ],
