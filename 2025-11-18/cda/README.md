@@ -4,15 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1                                          |
-| **Lines Removed** (➖) | 30                                        |
+| **Lines Added** (➕)   | 10                                          |
+| **Lines Removed** (➖) | 39                                        |
 | **Net Change** (↕)    | -29                |
-| **Active Time** (⌚)   | 3 minutes |
+| **Active Time** (⌚)   | 8 minutes |
 
 
 ## Modified Files
 - **MyEvents.test.tsx** (+1, -26)
-- **MyEvents.tsx** (+0, -4)
+- **MyEvents.tsx** (+9, -13)
 
 ## Visualizations
 
@@ -21,7 +21,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 31
+".tsx" : 49
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -29,8 +29,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"09h" : 4
+"09h" : 6
 ```
 
 
-> **Last Updated:** 18/11/2025, 09:34:58
+> **Last Updated:** 18/11/2025, 09:39:58
