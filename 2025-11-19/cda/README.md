@@ -4,15 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 78                                          |
-| **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 78                |
-| **Active Time** (⌚)   | 9 minutes |
+| **Lines Added** (➕)   | 104                                          |
+| **Lines Removed** (➖) | 27                                        |
+| **Net Change** (↕)    | 77                |
+| **Active Time** (⌚)   | 20 minutes |
 
 
 ## Modified Files
 - **settings.json** (+59, -0)
-- **EventForm.tsx** (+19, -0)
+- **EventForm.tsx** (+45, -27)
 
 ## Visualizations
 
@@ -22,7 +22,7 @@
 pie showData
 title Lines changed by file type
 ".json" : 59
-".tsx" : 19
+".tsx" : 72
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -31,8 +31,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "09h" : 3
-"10h" : 2
+"10h" : 9
 ```
 
 
-> **Last Updated:** 19/11/2025, 10:13:07
+> **Last Updated:** 19/11/2025, 10:18:07
