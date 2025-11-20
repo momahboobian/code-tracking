@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2081                                          |
-| **Lines Removed** (➖) | 94                                        |
+| **Lines Added** (➕)   | 2083                                          |
+| **Lines Removed** (➖) | 96                                        |
 | **Net Change** (↕)    | 1987                |
-| **Active Time** (⌚)   | 72 minutes |
+| **Active Time** (⌚)   | 73 minutes |
 
 
 ## Modified Files
@@ -21,7 +21,7 @@
 - **EventModal.tsx** (+78, -5)
 - **EventPage.tsx** (+491, -0)
 - **Register.tsx** (+154, -0)
-- **CapacityBadge.tsx** (+78, -2)
+- **CapacityBadge.tsx** (+80, -4)
 
 ## Visualizations
 
@@ -30,7 +30,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 2129
+".tsx" : 2133
 ".yaml" : 46
 ```
 
@@ -41,8 +41,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "09h" : 8
 "11h" : 15
-"12h" : 30
+"12h" : 32
 ```
 
 
-> **Last Updated:** 20/11/2025, 12:48:58
+> **Last Updated:** 20/11/2025, 12:53:58
