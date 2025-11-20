@@ -2,9 +2,9 @@
   "date": "2025-11-20",
   "projects": {
     "cda": {
-      "totalLinesAdded": 1157,
+      "totalLinesAdded": 1187,
       "totalLinesRemoved": 79,
-      "totalActiveTime": 32,
+      "totalActiveTime": 33,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/containers/EventForm/EventForm.tsx": [
           {
@@ -334,6 +334,36 @@
             },
             "duration": 2,
             "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/.continue/config.yaml": [
+          {
+            "timestamp": "2025-11-20T12:07:34.558Z",
+            "fileName": "/Users/momahboobian/.continue/config.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 26,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "yaml"
+          },
+          {
+            "timestamp": "2025-11-20T12:08:33.333Z",
+            "fileName": "/Users/momahboobian/.continue/config.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "yaml"
           }
         ]
       },
