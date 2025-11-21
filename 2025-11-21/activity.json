@@ -2,9 +2,9 @@
   "date": "2025-11-21",
   "projects": {
     "cda": {
-      "totalLinesAdded": 17965,
-      "totalLinesRemoved": 150,
-      "totalActiveTime": 61,
+      "totalLinesAdded": 18185,
+      "totalLinesRemoved": 152,
+      "totalActiveTime": 63,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/containers/EventForm/EventForm.tsx": [
           {
@@ -716,6 +716,50 @@
             },
             "duration": 1,
             "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/EventCard/EventCard.tsx": [
+          {
+            "timestamp": "2025-11-21T18:10:55.818Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/EventCard/EventCard.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 218,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-11-21T18:10:57.250Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/EventCard/EventCard.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-11-21T18:11:28.599Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/EventCard/EventCard.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ]
       },
