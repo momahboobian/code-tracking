@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1819                                          |
-| **Lines Removed** (➖) | 187                                        |
-| **Net Change** (↕)    | 1632                |
-| **Active Time** (⌚)   | 123 minutes |
+| **Lines Added** (➕)   | 1896                                          |
+| **Lines Removed** (➖) | 195                                        |
+| **Net Change** (↕)    | 1701                |
+| **Active Time** (⌚)   | 132 minutes |
 
 
 ## Modified Files
@@ -16,7 +16,7 @@
 - **ShowPastEventsToggle.tsx** (+30, -4)
 - **index.ts** (+4, -0)
 - **buildEventQueryVariables.ts** (+102, -34)
-- **buildEventQueryVariables.test.ts** (+159, -38)
+- **buildEventQueryVariables.test.ts** (+236, -46)
 - **Register.tsx** (+154, -0)
 - **EventCard.tsx** (+221, -3)
 - **Home.test.tsx** (+596, -71)
@@ -30,7 +30,7 @@ pie showData
 title Lines changed by file type
 ".tsx" : 1610
 ".json" : 59
-".ts" : 337
+".ts" : 422
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -42,8 +42,8 @@ title Coding activity by hour (count of changes)
 "09h" : 24
 "10h" : 24
 "11h" : 25
-"12h" : 3
+"12h" : 9
 ```
 
 
-> **Last Updated:** 24/11/2025, 12:04:38
+> **Last Updated:** 24/11/2025, 12:09:38
