@@ -4,18 +4,18 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 640                                          |
-| **Lines Removed** (➖) | 13                                        |
-| **Net Change** (↕)    | 627                |
-| **Active Time** (⌚)   | 52 minutes |
+| **Lines Added** (➕)   | 673                                          |
+| **Lines Removed** (➖) | 16                                        |
+| **Net Change** (↕)    | 657                |
+| **Active Time** (⌚)   | 61 minutes |
 
 
 ## Modified Files
-- **Home.tsx** (+476, -9)
+- **Home.tsx** (+479, -12)
 - **settings.json** (+59, -0)
 - **ShowPastEventsToggle.tsx** (+30, -4)
 - **index.ts** (+4, -0)
-- **buildEventQueryVariables.ts** (+71, -0)
+- **buildEventQueryVariables.ts** (+101, -0)
 
 ## Visualizations
 
@@ -24,9 +24,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 519
+".tsx" : 525
 ".json" : 59
-".ts" : 75
+".ts" : 105
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -36,8 +36,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "08h" : 5
 "09h" : 24
-"10h" : 11
+"10h" : 17
 ```
 
 
-> **Last Updated:** 24/11/2025, 10:29:38
+> **Last Updated:** 24/11/2025, 10:34:38
