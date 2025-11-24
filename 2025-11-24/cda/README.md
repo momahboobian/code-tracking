@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2619                                          |
-| **Lines Removed** (➖) | 354                                        |
-| **Net Change** (↕)    | 2265                |
-| **Active Time** (⌚)   | 184 minutes |
+| **Lines Added** (➕)   | 2687                                          |
+| **Lines Removed** (➖) | 364                                        |
+| **Net Change** (↕)    | 2323                |
+| **Active Time** (⌚)   | 193 minutes |
 
 
 ## Modified Files
@@ -21,7 +21,7 @@
 - **EventCard.tsx** (+440, -3)
 - **Home.test.tsx** (+596, -71)
 - **index.ts** (+206, -0)
-- **MyEvents.tsx** (+214, -35)
+- **MyEvents.tsx** (+282, -45)
 - **EventsList.tsx** (+54, -0)
 
 ## Visualizations
@@ -31,7 +31,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 2132
+".tsx" : 2210
 ".json" : 59
 ".ts" : 782
 ```
@@ -46,8 +46,8 @@ title Coding activity by hour (count of changes)
 "10h" : 24
 "11h" : 25
 "12h" : 35
-"13h" : 15
+"13h" : 21
 ```
 
 
-> **Last Updated:** 24/11/2025, 13:06:58
+> **Last Updated:** 24/11/2025, 13:11:58
