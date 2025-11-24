@@ -4,14 +4,14 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 13466                                          |
-| **Lines Removed** (➖) | 1209                                        |
-| **Net Change** (↕)    | 12257                |
-| **Active Time** (⌚)   | 486 minutes |
+| **Lines Added** (➕)   | 13870                                          |
+| **Lines Removed** (➖) | 1210                                        |
+| **Net Change** (↕)    | 12660                |
+| **Active Time** (⌚)   | 496 minutes |
 
 
 ## Modified Files
-- **Home.tsx** (+1035, -312)
+- **Home.tsx** (+1301, -312)
 - **settings.json** (+59, -0)
 - **ShowPastEventsToggle.tsx** (+30, -4)
 - **index.ts** (+4, -0)
@@ -21,7 +21,7 @@
 - **EventCard.tsx** (+470, -34)
 - **Home.test.tsx** (+596, -71)
 - **index.ts** (+206, -0)
-- **MyEvents.tsx** (+1109, -540)
+- **MyEvents.tsx** (+1117, -540)
 - **EventsList.tsx** (+63, -9)
 - **graphql.ts** (+8027, -0)
 - **EventPage.tsx** (+485, -4)
@@ -29,6 +29,7 @@
 - **EventCard.scss** (+349, -18)
 - **splitEventsByDate.ts** (+36, -5)
 - **refetchEvents.ts** (+41, -0)
+- **SearchHeadingText.tsx** (+130, -1)
 
 ## Visualizations
 
@@ -37,7 +38,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 5358
+".tsx" : 5763
 ".json" : 59
 ".ts" : 8891
 ".scss" : 367
@@ -59,8 +60,8 @@ title Coding activity by hour (count of changes)
 "16h" : 11
 "17h" : 36
 "18h" : 44
-"19h" : 8
+"19h" : 12
 ```
 
 
-> **Last Updated:** 24/11/2025, 19:14:04
+> **Last Updated:** 24/11/2025, 19:19:04
