@@ -4,14 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 450                                          |
+| **Lines Added** (➕)   | 1517                                          |
 | **Lines Removed** (➖) | 184                                        |
-| **Net Change** (↕)    | 266                |
+| **Net Change** (↕)    | 1333                |
 | **Active Time** (⌚)   | 34 minutes |
 
 
 ## Modified Files
 - **Home.tsx** (+450, -184)
+- **calendar.ts** (+1067, -0)
 
 ## Visualizations
 
@@ -21,6 +22,7 @@
 pie showData
 title Lines changed by file type
 ".tsx" : 634
+".ts" : 1067
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -29,8 +31,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "13h" : 14
-"14h" : 13
+"14h" : 14
 ```
 
 
-> **Last Updated:** 26/11/2025, 14:18:47
+> **Last Updated:** 26/11/2025, 14:33:47
