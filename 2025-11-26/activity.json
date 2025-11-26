@@ -2,9 +2,9 @@
   "date": "2025-11-26",
   "projects": {
     "cda": {
-      "totalLinesAdded": 12284,
-      "totalLinesRemoved": 239,
-      "totalActiveTime": 47,
+      "totalLinesAdded": 12300,
+      "totalLinesRemoved": 255,
+      "totalActiveTime": 48,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/containers/Home/Home.tsx": [
           {
@@ -568,6 +568,34 @@
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/low-risk-schema/definitions/calendar.js",
             "fileType": ".js",
             "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-11-26T15:47:53.400Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/low-risk-schema/definitions/calendar.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 16,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-11-26T15:48:29.020Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/low-risk-schema/definitions/calendar.js",
+            "fileType": ".js",
+            "linesAdded": 16,
             "linesRemoved": 0,
             "projectName": "cda",
             "content": {
