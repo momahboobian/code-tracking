@@ -5,13 +5,13 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 450                                          |
-| **Lines Removed** (➖) | 31                                        |
-| **Net Change** (↕)    | 419                |
+| **Lines Removed** (➖) | 184                                        |
+| **Net Change** (↕)    | 266                |
 | **Active Time** (⌚)   | 34 minutes |
 
 
 ## Modified Files
-- **Home.tsx** (+450, -31)
+- **Home.tsx** (+450, -184)
 
 ## Visualizations
 
@@ -20,7 +20,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 481
+".tsx" : 634
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -29,8 +29,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "13h" : 14
-"14h" : 12
+"14h" : 13
 ```
 
 
-> **Last Updated:** 26/11/2025, 14:13:47
+> **Last Updated:** 26/11/2025, 14:18:47
