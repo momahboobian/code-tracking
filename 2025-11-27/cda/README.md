@@ -4,14 +4,14 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 100                                          |
-| **Lines Removed** (➖) | 124                                        |
-| **Net Change** (↕)    | -24                |
-| **Active Time** (⌚)   | 28 minutes |
+| **Lines Added** (➕)   | 108                                          |
+| **Lines Removed** (➖) | 129                                        |
+| **Net Change** (↕)    | -21                |
+| **Active Time** (⌚)   | 33 minutes |
 
 
 ## Modified Files
-- **calendar.ts** (+88, -121)
+- **calendar.ts** (+96, -126)
 - **events.ts** (+12, -3)
 
 ## Visualizations
@@ -21,7 +21,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 224
+".ts" : 237
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -30,8 +30,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "09h" : 12
-"10h" : 9
+"10h" : 12
 ```
 
 
-> **Last Updated:** 27/11/2025, 10:23:48
+> **Last Updated:** 27/11/2025, 10:28:48
