@@ -2,7 +2,7 @@
   "date": "2025-11-28",
   "projects": {
     "cda": {
-      "totalLinesAdded": 29763,
+      "totalLinesAdded": 29773,
       "totalLinesRemoved": 331,
       "totalActiveTime": 39,
       "files": {
@@ -659,6 +659,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-11-28T16:44:04.503Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/low-risk-schema/definitions/calendar.js",
+            "fileType": ".js",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "js"
           }
         ],
