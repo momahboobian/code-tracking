@@ -4,9 +4,9 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 4484                                          |
+| **Lines Added** (➕)   | 4501                                          |
 | **Lines Removed** (➖) | 191                                        |
-| **Net Change** (↕)    | 4293                |
+| **Net Change** (↕)    | 4310                |
 | **Active Time** (⌚)   | 7 minutes |
 
 
@@ -16,6 +16,7 @@
 - **calendar-queries.ts** (+1709, -0)
 - **events.ts** (+135, -0)
 - **events.test.ts** (+106, -0)
+- **package.json** (+17, -0)
 
 ## Visualizations
 
@@ -26,6 +27,7 @@ pie showData
 title Lines changed by file type
 ".ts" : 4166
 ".tsx" : 509
+".json" : 17
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -35,8 +37,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "10h" : 4
 "11h" : 3
-"12h" : 1
+"12h" : 2
 ```
 
 
-> **Last Updated:** 28/11/2025, 12:08:23
+> **Last Updated:** 28/11/2025, 12:47:54
