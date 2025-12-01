@@ -2,9 +2,9 @@
   "date": "2025-12-01",
   "projects": {
     "cda": {
-      "totalLinesAdded": 21478,
+      "totalLinesAdded": 21598,
       "totalLinesRemoved": 675,
-      "totalActiveTime": 401,
+      "totalActiveTime": 404,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/containers/MyEvents/MyEvents.tsx": [
           {
@@ -2917,6 +2917,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-12-01T18:39:40.352Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/gql-generated/high-risk/graphql.ts",
+            "fileType": ".ts",
+            "linesAdded": 120,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "ts"
           }
         ],
