@@ -4,14 +4,14 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 6511                                          |
+| **Lines Added** (➕)   | 20781                                          |
 | **Lines Removed** (➖) | 416                                        |
-| **Net Change** (↕)    | 6095                |
-| **Active Time** (⌚)   | 178 minutes |
+| **Net Change** (↕)    | 20365                |
+| **Active Time** (⌚)   | 183 minutes |
 
 
 ## Modified Files
-- **MyEvents.tsx** (+1286, -395)
+- **MyEvents.tsx** (+1511, -395)
 - **calendar-queries.ts** (+1709, -0)
 - **calendar.ts** (+1102, -0)
 - **skills.ts** (+236, -0)
@@ -20,11 +20,14 @@
 - **package.json** (+63, -0)
 - **events.test.ts** (+95, -0)
 - **config.ts** (+38, -2)
-- **Home.tsx** (+647, -7)
+- **Home.tsx** (+964, -7)
 - **EventsList.tsx** (+54, -0)
 - **EventCard.tsx** (+218, -0)
 - **EventCard.scss** (+361, -12)
-- **index.ts** (+218, -0)
+- **index.ts** (+436, -0)
+- **graphql.ts** (+7342, -0)
+- **gql.ts** (+196, -0)
+- **graphql.ts** (+5972, -0)
 
 ## Visualizations
 
@@ -33,8 +36,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 2607
-".ts" : 3538
+".tsx" : 3149
+".ts" : 17266
 ".js" : 346
 ".json" : 63
 ".scss" : 373
@@ -50,8 +53,8 @@ title Coding activity by hour (count of changes)
 "11h" : 41
 "12h" : 7
 "13h" : 15
-"14h" : 17
+"14h" : 23
 ```
 
 
-> **Last Updated:** 01/12/2025, 14:27:01
+> **Last Updated:** 01/12/2025, 14:32:54
