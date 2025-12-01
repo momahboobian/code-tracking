@@ -2,9 +2,9 @@
   "date": "2025-12-01",
   "projects": {
     "cda": {
-      "totalLinesAdded": 5171,
+      "totalLinesAdded": 5172,
       "totalLinesRemoved": 15,
-      "totalActiveTime": 69,
+      "totalActiveTime": 70,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/containers/MyEvents/MyEvents.tsx": [
           {
@@ -635,6 +635,20 @@
           },
           {
             "timestamp": "2025-12-01T10:46:24.979Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/EventCard/EventCard.scss",
+            "fileType": ".scss",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2025-12-01T10:47:22.158Z",
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/EventCard/EventCard.scss",
             "fileType": ".scss",
             "linesAdded": 1,
