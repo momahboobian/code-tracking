@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 838                                          |
-| **Lines Removed** (➖) | 288                                        |
-| **Net Change** (↕)    | 550                |
-| **Active Time** (⌚)   | 101 minutes |
+| **Lines Added** (➕)   | 1320                                          |
+| **Lines Removed** (➖) | 289                                        |
+| **Net Change** (↕)    | 1031                |
+| **Active Time** (⌚)   | 106 minutes |
 
 
 ## Modified Files
@@ -16,6 +16,7 @@
 - **MyEvents.tsx** (+213, -3)
 - **useEventQuery.test.tsx** (+466, -256)
 - **ScrollToTop.jsx** (+13, -0)
+- **EventPage.tsx** (+482, -1)
 
 ## Visualizations
 
@@ -25,7 +26,7 @@
 pie showData
 title Lines changed by file type
 ".ts" : 175
-".tsx" : 938
+".tsx" : 1421
 ".jsx" : 13
 ```
 
@@ -35,8 +36,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "12h" : 41
-"13h" : 36
+"13h" : 39
 ```
 
 
-> **Last Updated:** 02/12/2025, 13:46:57
+> **Last Updated:** 02/12/2025, 13:51:57
