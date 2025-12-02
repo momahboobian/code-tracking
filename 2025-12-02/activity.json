@@ -1,0 +1,131 @@
+{
+  "date": "2025-12-02",
+  "projects": {
+    "cda": {
+      "totalLinesAdded": 96,
+      "totalLinesRemoved": 8,
+      "totalActiveTime": 7,
+      "files": {
+        "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/utils/hooks/useEventQuery.ts": [
+          {
+            "timestamp": "2025-12-02T12:17:29.437Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/utils/hooks/useEventQuery.ts",
+            "fileType": ".ts",
+            "linesAdded": 78,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-12-02T12:17:47.290Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/utils/hooks/useEventQuery.ts",
+            "fileType": ".ts",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-12-02T12:18:23.255Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/utils/hooks/useEventQuery.ts",
+            "fileType": ".ts",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-12-02T12:19:43.056Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/utils/hooks/useEventQuery.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-12-02T12:20:11.971Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/utils/hooks/useEventQuery.ts",
+            "fileType": ".ts",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-12-02T12:20:17.972Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/utils/hooks/useEventQuery.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-12-02T12:20:39.141Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/utils/hooks/useEventQuery.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ]
+      },
+      "languageStats": {
+        "ts": 7
+      },
+      "changeFrequency": {
+        "12": 7
+      },
+      "topFiles": [
+        "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/utils/hooks/useEventQuery.ts"
+      ],
+      "averageChangeSize": 14.857142857142858
+    }
+  },
+  "totalActiveTime": 7,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    12
+  ],
+  "mostUsedLanguages": [
+    "ts"
+  ]
+}
