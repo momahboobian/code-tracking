@@ -5,9 +5,9 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 3305                                          |
-| **Lines Removed** (➖) | 727                                        |
-| **Net Change** (↕)    | 2578                |
-| **Active Time** (⌚)   | 313 minutes |
+| **Lines Removed** (➖) | 736                                        |
+| **Net Change** (↕)    | 2569                |
+| **Active Time** (⌚)   | 315 minutes |
 
 
 ## Modified Files
@@ -21,7 +21,7 @@
 - **Home.tsx** (+317, -0)
 - **Home.test.tsx** (+602, -50)
 - **Register.test.tsx** (+275, -0)
-- **MyEvents.test.tsx** (+714, -374)
+- **MyEvents.test.tsx** (+714, -383)
 
 ## Visualizations
 
@@ -31,7 +31,7 @@
 pie showData
 title Lines changed by file type
 ".ts" : 226
-".tsx" : 3793
+".tsx" : 3802
 ".jsx" : 13
 ```
 
@@ -46,8 +46,8 @@ title Coding activity by hour (count of changes)
 "15h" : 31
 "16h" : 35
 "17h" : 31
-"18h" : 12
+"18h" : 13
 ```
 
 
-> **Last Updated:** 02/12/2025, 18:11:57
+> **Last Updated:** 02/12/2025, 18:16:57
