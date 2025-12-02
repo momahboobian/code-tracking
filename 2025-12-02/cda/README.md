@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2245                                          |
-| **Lines Removed** (➖) | 315                                        |
-| **Net Change** (↕)    | 1930                |
-| **Active Time** (⌚)   | 139 minutes |
+| **Lines Added** (➕)   | 2564                                          |
+| **Lines Removed** (➖) | 340                                        |
+| **Net Change** (↕)    | 2224                |
+| **Active Time** (⌚)   | 151 minutes |
 
 
 ## Modified Files
@@ -19,7 +19,8 @@
 - **EventPage.tsx** (+482, -1)
 - **refetchEvents.ts** (+50, -1)
 - **Home.tsx** (+317, -0)
-- **Home.test.tsx** (+554, -25)
+- **Home.test.tsx** (+602, -50)
+- **Register.test.tsx** (+271, -0)
 
 ## Visualizations
 
@@ -29,7 +30,7 @@
 pie showData
 title Lines changed by file type
 ".ts" : 226
-".tsx" : 2321
+".tsx" : 2665
 ".jsx" : 13
 ```
 
@@ -40,8 +41,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "12h" : 41
 "13h" : 45
-"14h" : 10
+"14h" : 15
 ```
 
 
-> **Last Updated:** 02/12/2025, 14:31:57
+> **Last Updated:** 02/12/2025, 14:36:57
