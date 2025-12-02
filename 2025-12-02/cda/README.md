@@ -4,24 +4,26 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3355                                          |
-| **Lines Removed** (➖) | 747                                        |
-| **Net Change** (↕)    | 2608                |
-| **Active Time** (⌚)   | 330 minutes |
+| **Lines Added** (➕)   | 4638                                          |
+| **Lines Removed** (➖) | 748                                        |
+| **Net Change** (↕)    | 3890                |
+| **Active Time** (⌚)   | 337 minutes |
 
 
 ## Modified Files
 - **useEventQuery.ts** (+113, -27)
 - **usePaginatedEvents.ts** (+33, -2)
-- **MyEvents.tsx** (+236, -16)
+- **MyEvents.tsx** (+457, -16)
 - **useEventQuery.test.tsx** (+470, -256)
 - **ScrollToTop.jsx** (+13, -0)
 - **EventPage.tsx** (+482, -1)
 - **refetchEvents.ts** (+50, -1)
 - **Home.tsx** (+317, -0)
-- **Home.test.tsx** (+602, -50)
+- **Home.test.tsx** (+1154, -50)
 - **Register.test.tsx** (+275, -0)
 - **MyEvents.test.tsx** (+764, -394)
+- **EventCard.scss** (+349, -0)
+- **Register.tsx** (+161, -1)
 
 ## Visualizations
 
@@ -31,8 +33,9 @@
 pie showData
 title Lines changed by file type
 ".ts" : 226
-".tsx" : 3863
+".tsx" : 4798
 ".jsx" : 13
+".scss" : 349
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -46,8 +49,8 @@ title Coding activity by hour (count of changes)
 "15h" : 31
 "16h" : 35
 "17h" : 31
-"18h" : 27
+"18h" : 33
 ```
 
 
-> **Last Updated:** 02/12/2025, 18:36:57
+> **Last Updated:** 02/12/2025, 18:57:43
