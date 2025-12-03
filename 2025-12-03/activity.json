@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 17324,
-      "totalLinesRemoved": 2657,
-      "totalActiveTime": 133,
+      "totalLinesRemoved": 2667,
+      "totalActiveTime": 135,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/containers/Home/Home.tsx": [
           {
@@ -649,6 +649,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-12-03T16:59:28.614Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/containers/Home/Home.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "tsx"
           }
         ],
@@ -1461,6 +1475,34 @@
             "fileType": ".tsx",
             "linesAdded": 0,
             "linesRemoved": 2,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-12-03T16:59:13.661Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/EventsList/EventsList.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-12-03T17:00:10.342Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/EventsList/EventsList.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 7,
             "projectName": "cda",
             "content": {
               "added": [],
