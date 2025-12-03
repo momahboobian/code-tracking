@@ -2,7 +2,7 @@
   "date": "2025-12-03",
   "projects": {
     "cda": {
-      "totalLinesAdded": 14653,
+      "totalLinesAdded": 14781,
       "totalLinesRemoved": 2453,
       "totalActiveTime": 17,
       "files": {
@@ -75,6 +75,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-12-03T12:08:12.165Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/containers/Home/Home.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 100,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ],
@@ -223,6 +237,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-12-03T12:08:12.160Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/utils/calendar/events.ts",
+            "fileType": ".ts",
+            "linesAdded": 28,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "ts"
           }
         ],
