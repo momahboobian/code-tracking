@@ -4,14 +4,14 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 17159                                          |
+| **Lines Added** (➕)   | 17224                                          |
 | **Lines Removed** (➖) | 2561                                        |
-| **Net Change** (↕)    | 14598                |
-| **Active Time** (⌚)   | 61 minutes |
+| **Net Change** (↕)    | 14663                |
+| **Active Time** (⌚)   | 65 minutes |
 
 
 ## Modified Files
-- **Home.tsx** (+1067, -201)
+- **Home.tsx** (+1068, -201)
 - **calendar-queries.ts** (+3404, -0)
 - **yarn.lock** (+9828, -2225)
 - **package.json** (+63, -0)
@@ -23,6 +23,7 @@
 - **SearchHeadingText.tsx** (+130, -0)
 - **EventsList.tsx** (+215, -105)
 - **Home.test.tsx** (+552, -0)
+- **EventsList.scss** (+64, -0)
 
 ## Visualizations
 
@@ -31,11 +32,11 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 3211
+".tsx" : 3212
 ".ts" : 3736
 ".lock" : 12053
 ".json" : 63
-".scss" : 657
+".scss" : 721
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -46,8 +47,8 @@ title Coding activity by hour (count of changes)
 "10h" : 10
 "11h" : 8
 "12h" : 17
-"13h" : 18
+"13h" : 20
 ```
 
 
-> **Last Updated:** 03/12/2025, 13:55:21
+> **Last Updated:** 03/12/2025, 14:00:21
