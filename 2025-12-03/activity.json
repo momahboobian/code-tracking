@@ -2,9 +2,9 @@
   "date": "2025-12-03",
   "projects": {
     "cda": {
-      "totalLinesAdded": 15887,
+      "totalLinesAdded": 16238,
       "totalLinesRemoved": 2456,
-      "totalActiveTime": 32,
+      "totalActiveTime": 34,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/containers/Home/Home.tsx": [
           {
@@ -368,6 +368,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-12-03T12:33:36.882Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/containers/MyEvents/MyEvents.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 221,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/Register/Register.tsx": [
@@ -434,6 +448,36 @@
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/Register/Register.test.tsx",
             "fileType": ".tsx",
             "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/SearchHeadingText/SearchHeadingText.tsx": [
+          {
+            "timestamp": "2025-12-03T12:32:17.142Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/SearchHeadingText/SearchHeadingText.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 129,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-12-03T12:32:44.019Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/SearchHeadingText/SearchHeadingText.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
             "linesRemoved": 0,
             "projectName": "cda",
             "content": {
