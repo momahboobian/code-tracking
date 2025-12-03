@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 11910,
-      "totalLinesRemoved": 756,
-      "totalActiveTime": 6,
+      "totalLinesRemoved": 2325,
+      "totalActiveTime": 11,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/containers/Home/Home.tsx": [
           {
@@ -107,6 +107,34 @@
               "removed": []
             },
             "duration": 0,
+            "language": "lock"
+          },
+          {
+            "timestamp": "2025-12-03T10:30:52.513Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/yarn.lock",
+            "fileType": ".lock",
+            "linesAdded": 0,
+            "linesRemoved": 656,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "lock"
+          },
+          {
+            "timestamp": "2025-12-03T10:31:43.725Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/yarn.lock",
+            "fileType": ".lock",
+            "linesAdded": 0,
+            "linesRemoved": 913,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "lock"
           }
         ],
