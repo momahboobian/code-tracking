@@ -2,9 +2,9 @@
   "date": "2025-12-04",
   "projects": {
     "cda": {
-      "totalLinesAdded": 5412,
-      "totalLinesRemoved": 1869,
-      "totalActiveTime": 125,
+      "totalLinesAdded": 5461,
+      "totalLinesRemoved": 1870,
+      "totalActiveTime": 129,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/EventCard/EventCard.tsx": [
           {
@@ -1034,6 +1034,48 @@
             },
             "duration": 3,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-12-04T12:29:08.469Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/Attendees/Attendees.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-12-04T12:31:19.047Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/Attendees/Attendees.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-12-04T12:31:40.282Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/Attendees/Attendees.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/SearchHeadingText/SearchHeadingText.tsx": [
@@ -1118,6 +1160,22 @@
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/containers/Home/Home.tsx",
             "fileType": ".tsx",
             "linesAdded": 217,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/ContactCard/ContactCard.tsx": [
+          {
+            "timestamp": "2025-12-04T12:29:20.473Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/ContactCard/ContactCard.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 45,
             "linesRemoved": 0,
             "projectName": "cda",
             "content": {
