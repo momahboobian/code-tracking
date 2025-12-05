@@ -2,7 +2,7 @@
   "date": "2025-12-05",
   "projects": {
     "cda": {
-      "totalLinesAdded": 10646,
+      "totalLinesAdded": 10722,
       "totalLinesRemoved": 288,
       "totalActiveTime": 103,
       "files": {
@@ -611,6 +611,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-12-05T13:53:42.989Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/CapacityBadge/CapacityBadge.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 76,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ],
