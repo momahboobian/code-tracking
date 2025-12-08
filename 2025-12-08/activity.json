@@ -2,7 +2,7 @@
   "date": "2025-12-08",
   "projects": {
     "cda": {
-      "totalLinesAdded": 2409,
+      "totalLinesAdded": 2586,
       "totalLinesRemoved": 0,
       "totalActiveTime": 7,
       "files": {
@@ -96,6 +96,22 @@
             },
             "duration": 1,
             "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/README.md": [
+          {
+            "timestamp": "2025-12-08T15:07:45.130Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/README.md",
+            "fileType": ".md",
+            "linesAdded": 177,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "md"
           }
         ]
       },
