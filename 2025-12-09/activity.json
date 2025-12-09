@@ -2,9 +2,9 @@
   "date": "2025-12-09",
   "projects": {
     "cda": {
-      "totalLinesAdded": 67,
-      "totalLinesRemoved": 40,
-      "totalActiveTime": 30,
+      "totalLinesAdded": 68,
+      "totalLinesRemoved": 41,
+      "totalActiveTime": 32,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/Attendees/Attendees.tsx": [
           {
@@ -308,6 +308,34 @@
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/Attendees/Attendees.scss",
             "fileType": ".scss",
             "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2025-12-09T09:55:42.430Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/Attendees/Attendees.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2025-12-09T09:55:44.422Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/Attendees/Attendees.scss",
+            "fileType": ".scss",
+            "linesAdded": 1,
             "linesRemoved": 0,
             "projectName": "cda",
             "content": {
