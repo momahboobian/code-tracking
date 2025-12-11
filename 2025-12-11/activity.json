@@ -2,7 +2,7 @@
   "date": "2025-12-11",
   "projects": {
     "cda": {
-      "totalLinesAdded": 597,
+      "totalLinesAdded": 621,
       "totalLinesRemoved": 18,
       "totalActiveTime": 10,
       "files": {
@@ -138,6 +138,22 @@
             },
             "duration": 1,
             "language": "scss"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-webapps-helpers/package.json": [
+          {
+            "timestamp": "2025-12-11T15:16:25.647Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-webapps-helpers/package.json",
+            "fileType": ".json",
+            "linesAdded": 24,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
           }
         ]
       },
