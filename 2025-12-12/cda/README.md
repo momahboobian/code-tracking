@@ -4,9 +4,9 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 406                                          |
+| **Lines Added** (➕)   | 647                                          |
 | **Lines Removed** (➖) | 3                                        |
-| **Net Change** (↕)    | 403                |
+| **Net Change** (↕)    | 644                |
 | **Active Time** (⌚)   | 5 minutes |
 
 
@@ -15,6 +15,7 @@
 - **README.md** (+245, -0)
 - **package.json** (+24, -0)
 - **package.json** (+85, -0)
+- **Attendees.tsx** (+241, -0)
 
 ## Visualizations
 
@@ -23,7 +24,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 55
+".tsx" : 296
 ".md" : 245
 ".json" : 109
 ```
@@ -35,7 +36,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "11h" : 2
 "12h" : 4
+"13h" : 1
 ```
 
 
-> **Last Updated:** 12/12/2025, 13:04:16
+> **Last Updated:** 12/12/2025, 13:28:07
