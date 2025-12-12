@@ -4,14 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 52                                          |
+| **Lines Added** (➕)   | 297                                          |
 | **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 52                |
+| **Net Change** (↕)    | 297                |
 | **Active Time** (⌚)   | 3 minutes |
 
 
 ## Modified Files
 - **TruncatedJobTitle.tsx** (+52, -0)
+- **README.md** (+245, -0)
 
 ## Visualizations
 
@@ -21,6 +22,7 @@
 pie showData
 title Lines changed by file type
 ".tsx" : 52
+".md" : 245
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -29,7 +31,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "11h" : 2
+"12h" : 1
 ```
 
 
-> **Last Updated:** 12/12/2025, 11:19:16
+> **Last Updated:** 12/12/2025, 12:49:16
