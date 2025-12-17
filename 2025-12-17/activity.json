@@ -2,8 +2,8 @@
   "date": "2025-12-17",
   "projects": {
     "cda": {
-      "totalLinesAdded": 48256,
-      "totalLinesRemoved": 296,
+      "totalLinesAdded": 48257,
+      "totalLinesRemoved": 365,
       "totalActiveTime": 155,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/containers/Home/Home.tsx": [
@@ -1540,6 +1540,20 @@
             },
             "duration": 1,
             "language": "json"
+          },
+          {
+            "timestamp": "2025-12-17T19:36:29.580Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/driver-declaration-database/package.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/driver-declaration-database/src/containers/Home.js": [
@@ -1569,6 +1583,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-12-17T19:36:29.589Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/driver-declaration-database/src/containers/Home.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 28,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "js"
           }
         ],
@@ -1783,6 +1811,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-12-17T19:36:29.582Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/driver-declaration-database/src/App.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 41,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "js"
           }
         ],
