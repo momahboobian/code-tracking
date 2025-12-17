@@ -4,19 +4,26 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 337                                          |
-| **Lines Removed** (➖) | 110                                        |
-| **Net Change** (↕)    | 227                |
-| **Active Time** (⌚)   | 5 minutes |
+| **Lines Added** (➕)   | 20832                                          |
+| **Lines Removed** (➖) | 116                                        |
+| **Net Change** (↕)    | 20716                |
+| **Active Time** (⌚)   | 18 minutes |
 
 
 ## Modified Files
-- **Home.tsx** (+0, -1)
-- **calendar.ts** (+0, -8)
-- **events.ts** (+0, -14)
-- **calendar-queries.ts** (+0, -86)
-- **calendar.js** (+0, -1)
-- **skills.js** (+337, -0)
+- **Home.tsx** (+328, -1)
+- **calendar.ts** (+1110, -8)
+- **events.ts** (+152, -14)
+- **calendar-queries.ts** (+1795, -86)
+- **calendar.js** (+347, -1)
+- **skills.js** (+337, -6)
+- **views.ts** (+9090, -0)
+- **tables.ts** (+6338, -0)
+- **transform-team-skill-favourites.test.ts** (+214, -0)
+- **transform-skill-favourites.test.ts** (+444, -0)
+- **skills.ts** (+239, -0)
+- **skill-queries.ts** (+216, -0)
+- **index.ts** (+222, -0)
 
 ## Visualizations
 
@@ -25,9 +32,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 1
-".ts" : 108
-".js" : 338
+".tsx" : 329
+".ts" : 19928
+".js" : 691
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -35,8 +42,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"09h" : 7
+"09h" : 21
 ```
 
 
-> **Last Updated:** 17/12/2025, 09:33:25
+> **Last Updated:** 17/12/2025, 09:53:25
