@@ -4,9 +4,9 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 36476                                          |
-| **Lines Removed** (➖) | 175                                        |
-| **Net Change** (↕)    | 36301                |
+| **Lines Added** (➕)   | 36478                                          |
+| **Lines Removed** (➖) | 186                                        |
+| **Net Change** (↕)    | 36292                |
 | **Active Time** (⌚)   | 100 minutes |
 
 
@@ -27,12 +27,12 @@
 - **graphql.ts** (+7830, -0)
 - **graphql.ts** (+6013, -0)
 - **gql.ts** (+196, -0)
-- **package.json** (+54, -5)
-- **setupTests.js** (+11, -4)
-- **CertificateHtmlLink.test.js** (+36, -1)
-- **App.js** (+35, -1)
-- **index.js** (+24, -7)
-- **CertificateHtmlLink.jsx** (+27, -1)
+- **package.json** (+54, -10)
+- **setupTests.js** (+11, -7)
+- **CertificateHtmlLink.test.js** (+37, -1)
+- **App.js** (+35, -2)
+- **index.js** (+24, -9)
+- **CertificateHtmlLink.jsx** (+28, -1)
 - **App.scss** (+35, -6)
 - **form.scss** (+105, -34)
 - **jest.config.js** (+16, -0)
@@ -46,9 +46,9 @@ pie showData
 title Lines changed by file type
 ".tsx" : 329
 ".ts" : 35229
-".js" : 826
-".json" : 59
-".jsx" : 28
+".js" : 833
+".json" : 64
+".jsx" : 29
 ".scss" : 180
 ```
 
@@ -61,8 +61,8 @@ title Coding activity by hour (count of changes)
 "10h" : 3
 "16h" : 10
 "17h" : 29
-"18h" : 30
+"18h" : 36
 ```
 
 
-> **Last Updated:** 17/12/2025, 18:20:35
+> **Last Updated:** 17/12/2025, 18:40:35
