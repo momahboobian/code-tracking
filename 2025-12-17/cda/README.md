@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 36296                                          |
-| **Lines Removed** (➖) | 121                                        |
-| **Net Change** (↕)    | 36175                |
-| **Active Time** (⌚)   | 35 minutes |
+| **Lines Added** (➕)   | 36301                                          |
+| **Lines Removed** (➖) | 124                                        |
+| **Net Change** (↕)    | 36177                |
+| **Active Time** (⌚)   | 40 minutes |
 
 
 ## Modified Files
@@ -31,7 +31,7 @@
 - **setupTests.js** (+4, -0)
 - **CertificateHtmlLink.test.js** (+36, -0)
 - **App.js** (+33, -0)
-- **index.js** (+15, -0)
+- **index.js** (+20, -3)
 - **CertificateHtmlLink.jsx** (+27, -0)
 
 ## Visualizations
@@ -43,7 +43,7 @@ pie showData
 title Lines changed by file type
 ".tsx" : 329
 ".ts" : 35229
-".js" : 779
+".js" : 787
 ".json" : 53
 ".jsx" : 27
 ```
@@ -56,8 +56,8 @@ title Coding activity by hour (count of changes)
 "09h" : 21
 "10h" : 3
 "16h" : 10
-"17h" : 5
+"17h" : 11
 ```
 
 
-> **Last Updated:** 17/12/2025, 17:15:35
+> **Last Updated:** 17/12/2025, 17:25:35
