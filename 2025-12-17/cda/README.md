@@ -4,9 +4,9 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 36185                                          |
+| **Lines Added** (➕)   | 36221                                          |
 | **Lines Removed** (➖) | 120                                        |
-| **Net Change** (↕)    | 36065                |
+| **Net Change** (↕)    | 36101                |
 | **Active Time** (⌚)   | 31 minutes |
 
 
@@ -29,6 +29,7 @@
 - **gql.ts** (+196, -0)
 - **package.json** (+48, -4)
 - **setupTests.js** (+4, -0)
+- **CertificateHtmlLink.test.js** (+36, -0)
 
 ## Visualizations
 
@@ -39,7 +40,7 @@ pie showData
 title Lines changed by file type
 ".tsx" : 329
 ".ts" : 35229
-".js" : 695
+".js" : 731
 ".json" : 52
 ```
 
@@ -51,7 +52,8 @@ title Coding activity by hour (count of changes)
 "09h" : 21
 "10h" : 3
 "16h" : 10
+"17h" : 1
 ```
 
 
-> **Last Updated:** 17/12/2025, 17:00:35
+> **Last Updated:** 17/12/2025, 17:10:35
