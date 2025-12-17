@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 36755,
-      "totalLinesRemoved": 189,
-      "totalActiveTime": 120,
+      "totalLinesRemoved": 195,
+      "totalActiveTime": 125,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/containers/Home/Home.tsx": [
           {
@@ -1505,6 +1505,34 @@
             "fileType": ".json",
             "linesAdded": 6,
             "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-12-17T18:51:50.842Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/driver-declaration-database/package.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-12-17T18:51:53.642Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/driver-declaration-database/package.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "cda",
             "content": {
               "added": [],
