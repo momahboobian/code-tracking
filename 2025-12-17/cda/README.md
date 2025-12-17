@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 48232                                          |
-| **Lines Removed** (➖) | 270                                        |
-| **Net Change** (↕)    | 47962                |
-| **Active Time** (⌚)   | 148 minutes |
+| **Lines Added** (➕)   | 48256                                          |
+| **Lines Removed** (➖) | 296                                        |
+| **Net Change** (↕)    | 47960                |
+| **Active Time** (⌚)   | 155 minutes |
 
 
 ## Modified Files
@@ -39,12 +39,12 @@
 - **package.json** (+45, -9)
 - **Home.js** (+143, -0)
 - **index.js** (+13, -0)
-- **App.js** (+154, -64)
+- **App.js** (+178, -84)
 - **setupTests.js** (+7, -3)
 - **jest.config.js** (+16, -0)
 - **yarn.lock** (+11266, -0)
 - **environmentName.js** (+54, -0)
-- **envChecks.js** (+56, -8)
+- **envChecks.js** (+56, -14)
 
 ## Visualizations
 
@@ -55,7 +55,7 @@ pie showData
 title Lines changed by file type
 ".tsx" : 329
 ".ts" : 35229
-".js" : 1351
+".js" : 1401
 ".json" : 118
 ".jsx" : 29
 ".scss" : 180
@@ -72,8 +72,8 @@ title Coding activity by hour (count of changes)
 "16h" : 10
 "17h" : 29
 "18h" : 52
-"19h" : 14
+"19h" : 20
 ```
 
 
-> **Last Updated:** 17/12/2025, 19:25:35
+> **Last Updated:** 17/12/2025, 19:30:35
