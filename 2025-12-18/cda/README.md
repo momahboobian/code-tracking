@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 122173                                          |
-| **Lines Removed** (➖) | 226                                        |
-| **Net Change** (↕)    | 121947                |
-| **Active Time** (⌚)   | 287 minutes |
+| **Lines Added** (➕)   | 123438                                          |
+| **Lines Removed** (➖) | 229                                        |
+| **Net Change** (↕)    | 123209                |
+| **Active Time** (⌚)   | 305 minutes |
 
 
 ## Modified Files
@@ -82,6 +82,17 @@
 - **UploadFormTitles.tsx** (+305, -0)
 - **yarn.lock** (+12101, -0)
 - **package.json** (+45, -1)
+- **App.js** (+160, -0)
+- **index.js** (+43, -3)
+- **BackButton.jsx** (+18, -0)
+- **CurrentUserJobDetails.jsx** (+177, -0)
+- **CurrentUserJobDetails.test.jsx** (+130, -0)
+- **ExploreTitle.jsx** (+31, -0)
+- **JobRow.jsx** (+54, -0)
+- **Explore.jsx** (+173, -0)
+- **ExploreJob.jsx** (+299, -0)
+- **ExploreJob.test.jsx** (+105, -0)
+- **ExploreJobFamilies.jsx** (+75, -0)
 
 ## Visualizations
 
@@ -90,12 +101,12 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".js" : 7467
+".js" : 7673
 ".json" : 799
 ".lock" : 96596
 ".tsx" : 3026
 ".ts" : 13722
-".jsx" : 789
+".jsx" : 1851
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -111,9 +122,9 @@ title Coding activity by hour (count of changes)
 "13h" : 44
 "15h" : 50
 "16h" : 14
-"17h" : 16
+"17h" : 30
 "23h" : 2
 ```
 
 
-> **Last Updated:** 18/12/2025, 17:33:03
+> **Last Updated:** 18/12/2025, 17:38:03
