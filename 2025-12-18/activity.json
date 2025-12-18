@@ -2,9 +2,9 @@
   "date": "2025-12-18",
   "projects": {
     "cda": {
-      "totalLinesAdded": 135516,
+      "totalLinesAdded": 147148,
       "totalLinesRemoved": 320,
-      "totalActiveTime": 385,
+      "totalActiveTime": 392,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/dlist-viewer/src/setupTests.js": [
           {
@@ -261,6 +261,20 @@
             "fileType": ".json",
             "linesAdded": 0,
             "linesRemoved": 5,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-12-18T18:32:09.287Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/public-liability-insurance-certificate/package.json",
+            "fileType": ".json",
+            "linesAdded": 49,
+            "linesRemoved": 0,
             "projectName": "cda",
             "content": {
               "added": [],
@@ -3860,6 +3874,52 @@
             },
             "duration": 2,
             "language": "json"
+          },
+          {
+            "timestamp": "2025-12-18T18:29:26.241Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/directory/package.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/public-liability-insurance-certificate/src/setupTests.js": [
+          {
+            "timestamp": "2025-12-18T18:31:56.536Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/public-liability-insurance-certificate/src/setupTests.js",
+            "fileType": ".js",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "js"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/public-liability-insurance-certificate/yarn.lock": [
+          {
+            "timestamp": "2025-12-18T18:32:19.991Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/public-liability-insurance-certificate/yarn.lock",
+            "fileType": ".lock",
+            "linesAdded": 11575,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "lock"
           }
         ]
       },
