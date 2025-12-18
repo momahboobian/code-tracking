@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 123758                                          |
-| **Lines Removed** (➖) | 237                                        |
-| **Net Change** (↕)    | 123521                |
-| **Active Time** (⌚)   | 324 minutes |
+| **Lines Added** (➕)   | 135229                                          |
+| **Lines Removed** (➖) | 291                                        |
+| **Net Change** (↕)    | 134938                |
+| **Active Time** (⌚)   | 348 minutes |
 
 
 ## Modified Files
@@ -81,7 +81,7 @@
 - **UploadFormFiles.tsx** (+765, -14)
 - **UploadFormTitles.tsx** (+305, -0)
 - **yarn.lock** (+12101, -0)
-- **package.json** (+47, -3)
+- **package.json** (+49, -4)
 - **App.js** (+160, -0)
 - **index.js** (+47, -7)
 - **BackButton.jsx** (+18, -0)
@@ -91,9 +91,10 @@
 - **JobRow.jsx** (+54, -0)
 - **Explore.jsx** (+173, -0)
 - **ExploreJob.jsx** (+299, -0)
-- **ExploreJob.test.jsx** (+105, -0)
-- **ExploreJobFamilies.jsx** (+75, -1)
+- **ExploreJob.test.jsx** (+108, -6)
+- **ExploreJobFamilies.jsx** (+77, -2)
 - **TransparencyChart.jsx** (+314, -1)
+- **yarn.lock** (+11464, -46)
 
 ## Visualizations
 
@@ -103,11 +104,11 @@
 pie showData
 title Lines changed by file type
 ".js" : 7681
-".json" : 803
-".lock" : 96596
+".json" : 806
+".lock" : 108106
 ".tsx" : 3026
 ".ts" : 13722
-".jsx" : 2167
+".jsx" : 2179
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -123,9 +124,9 @@ title Coding activity by hour (count of changes)
 "13h" : 44
 "15h" : 50
 "16h" : 14
-"17h" : 39
+"17h" : 51
 "23h" : 2
 ```
 
 
-> **Last Updated:** 18/12/2025, 17:53:03
+> **Last Updated:** 18/12/2025, 17:58:03
