@@ -2,9 +2,9 @@
   "date": "2025-12-18",
   "projects": {
     "cda": {
-      "totalLinesAdded": 75347,
-      "totalLinesRemoved": 193,
-      "totalActiveTime": 168,
+      "totalLinesAdded": 75349,
+      "totalLinesRemoved": 198,
+      "totalActiveTime": 180,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/dlist-viewer/src/setupTests.js": [
           {
@@ -1380,6 +1380,62 @@
             },
             "duration": 1,
             "language": "js"
+          },
+          {
+            "timestamp": "2025-12-18T13:50:53.630Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/expenses-viewer/src/App.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-12-18T13:51:14.650Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/expenses-viewer/src/App.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-12-18T13:51:29.461Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/expenses-viewer/src/App.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-12-18T13:53:02.128Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/expenses-viewer/src/App.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "js"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/expenses-viewer/src/components/BackButton/index.js": [
@@ -1519,6 +1575,34 @@
             "fileType": ".js",
             "linesAdded": 1,
             "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-12-18T13:49:41.006Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/expenses-viewer/src/index.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-12-18T13:49:48.222Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/expenses-viewer/src/index.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "cda",
             "content": {
               "added": [],
