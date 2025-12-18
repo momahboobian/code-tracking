@@ -2,9 +2,9 @@
   "date": "2025-12-18",
   "projects": {
     "cda": {
-      "totalLinesAdded": 13,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 11,
+      "totalLinesAdded": 16,
+      "totalLinesRemoved": 6,
+      "totalActiveTime": 15,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/dlist-viewer/src/setupTests.js": [
           {
@@ -20,6 +20,20 @@
             },
             "duration": 2,
             "language": "js"
+          },
+          {
+            "timestamp": "2025-12-18T00:06:44.428Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/dlist-viewer/src/setupTests.js",
+            "fileType": ".js",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "js"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/dlist-viewer/package.json": [
@@ -29,6 +43,20 @@
             "fileType": ".json",
             "linesAdded": 6,
             "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-12-18T00:07:28.434Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/dlist-viewer/package.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 6,
             "projectName": "cda",
             "content": {
               "added": [],
