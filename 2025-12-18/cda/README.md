@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 90941                                          |
+| **Lines Added** (➕)   | 91730                                          |
 | **Lines Removed** (➖) | 207                                        |
-| **Net Change** (↕)    | 90734                |
-| **Active Time** (⌚)   | 202 minutes |
+| **Net Change** (↕)    | 91523                |
+| **Active Time** (⌚)   | 211 minutes |
 
 
 ## Modified Files
@@ -54,6 +54,16 @@
 - **index.js** (+80, -0)
 - **yarn.lock** (+14729, -0)
 - **package.json** (+52, -1)
+- **App.jsx** (+76, -0)
+- **index.jsx** (+29, -0)
+- **BackButton.jsx** (+33, -0)
+- **CategoryInformation.jsx** (+152, -0)
+- **CategoryResults.jsx** (+89, -0)
+- **ScrollToTop.jsx** (+13, -0)
+- **SupplierResults.jsx** (+72, -0)
+- **Category.jsx** (+86, -0)
+- **Search.jsx** (+150, -0)
+- **Supplier.jsx** (+89, -0)
 
 ## Visualizations
 
@@ -67,6 +77,7 @@ title Lines changed by file type
 ".lock" : 72649
 ".tsx" : 1504
 ".ts" : 13722
+".jsx" : 789
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -80,9 +91,9 @@ title Coding activity by hour (count of changes)
 "11h" : 6
 "12h" : 18
 "13h" : 44
-"15h" : 22
+"15h" : 32
 "23h" : 2
 ```
 
 
-> **Last Updated:** 18/12/2025, 15:28:19
+> **Last Updated:** 18/12/2025, 15:33:19
