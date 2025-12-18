@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 123754                                          |
-| **Lines Removed** (➖) | 232                                        |
-| **Net Change** (↕)    | 123522                |
-| **Active Time** (⌚)   | 318 minutes |
+| **Lines Added** (➕)   | 123758                                          |
+| **Lines Removed** (➖) | 237                                        |
+| **Net Change** (↕)    | 123521                |
+| **Active Time** (⌚)   | 324 minutes |
 
 
 ## Modified Files
@@ -83,7 +83,7 @@
 - **yarn.lock** (+12101, -0)
 - **package.json** (+47, -3)
 - **App.js** (+160, -0)
-- **index.js** (+43, -3)
+- **index.js** (+47, -7)
 - **BackButton.jsx** (+18, -0)
 - **CurrentUserJobDetails.jsx** (+177, -0)
 - **CurrentUserJobDetails.test.jsx** (+130, -0)
@@ -92,7 +92,7 @@
 - **Explore.jsx** (+173, -0)
 - **ExploreJob.jsx** (+299, -0)
 - **ExploreJob.test.jsx** (+105, -0)
-- **ExploreJobFamilies.jsx** (+75, -0)
+- **ExploreJobFamilies.jsx** (+75, -1)
 - **TransparencyChart.jsx** (+314, -1)
 
 ## Visualizations
@@ -102,12 +102,12 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".js" : 7673
+".js" : 7681
 ".json" : 803
 ".lock" : 96596
 ".tsx" : 3026
 ".ts" : 13722
-".jsx" : 2166
+".jsx" : 2167
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -123,9 +123,9 @@ title Coding activity by hour (count of changes)
 "13h" : 44
 "15h" : 50
 "16h" : 14
-"17h" : 36
+"17h" : 39
 "23h" : 2
 ```
 
 
-> **Last Updated:** 18/12/2025, 17:48:03
+> **Last Updated:** 18/12/2025, 17:53:03
