@@ -2,7 +2,7 @@
   "date": "2025-12-18",
   "projects": {
     "cda": {
-      "totalLinesAdded": 90889,
+      "totalLinesAdded": 90941,
       "totalLinesRemoved": 206,
       "totalActiveTime": 199,
       "files": {
@@ -2202,6 +2202,22 @@
             },
             "duration": 1,
             "language": "lock"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/buy-book-order/package.json": [
+          {
+            "timestamp": "2025-12-18T15:22:05.200Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/buy-book-order/package.json",
+            "fileType": ".json",
+            "linesAdded": 52,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
           }
         ]
       },
