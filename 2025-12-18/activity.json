@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 14861,
-      "totalLinesRemoved": 47,
-      "totalActiveTime": 53,
+      "totalLinesRemoved": 48,
+      "totalActiveTime": 55,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/dlist-viewer/src/setupTests.js": [
           {
@@ -327,6 +327,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-12-18T09:43:45.856Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/audio-group-quickfind/src/App.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "js"
           }
         ],
