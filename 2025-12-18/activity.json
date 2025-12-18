@@ -2,9 +2,9 @@
   "date": "2025-12-18",
   "projects": {
     "cda": {
-      "totalLinesAdded": 16,
-      "totalLinesRemoved": 6,
-      "totalActiveTime": 15,
+      "totalLinesAdded": 26,
+      "totalLinesRemoved": 10,
+      "totalActiveTime": 25,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/dlist-viewer/src/setupTests.js": [
           {
@@ -64,6 +64,34 @@
             },
             "duration": 1,
             "language": "json"
+          },
+          {
+            "timestamp": "2025-12-18T00:13:55.165Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/dlist-viewer/package.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-12-18T00:15:13.596Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/dlist-viewer/package.json",
+            "fileType": ".json",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/driver-declaration-database/src/setupTests.js": [
@@ -87,6 +115,22 @@
             "fileType": ".js",
             "linesAdded": 1,
             "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "js"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/dlist-viewer/src/components/Table/index.test.js": [
+          {
+            "timestamp": "2025-12-18T00:10:54.339Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/dlist-viewer/src/components/Table/index.test.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "cda",
             "content": {
               "added": [],
