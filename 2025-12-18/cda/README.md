@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 72663                                          |
-| **Lines Removed** (➖) | 138                                        |
-| **Net Change** (↕)    | 72525                |
-| **Active Time** (⌚)   | 120 minutes |
+| **Lines Added** (➕)   | 74495                                          |
+| **Lines Removed** (➖) | 142                                        |
+| **Net Change** (↕)    | 74353                |
+| **Active Time** (⌚)   | 127 minutes |
 
 
 ## Modified Files
@@ -29,15 +29,15 @@
 - **Home.js** (+230, -0)
 - **index.js** (+18, -3)
 - **yarn.lock** (+14480, -0)
-- **package.json** (+143, -3)
+- **package.json** (+145, -3)
 - **App.tsx** (+77, -0)
-- **Book.tsx** (+709, -3)
+- **Book.tsx** (+709, -7)
 - **ProviderRouterTest.tsx** (+94, -8)
 - **FindUser.tsx** (+174, -0)
 - **index.tsx** (+98, -0)
 - **setupTests.ts** (+21, -1)
 - **Book.test.tsx** (+337, -0)
-- **graphql.ts** (+6076, -0)
+- **graphql.ts** (+7906, -0)
 - **graphql.ts** (+5794, -0)
 
 ## Visualizations
@@ -48,10 +48,10 @@
 pie showData
 title Lines changed by file type
 ".js" : 1042
-".json" : 447
+".json" : 449
 ".lock" : 57920
-".tsx" : 1500
-".ts" : 11892
+".tsx" : 1504
+".ts" : 13722
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -63,9 +63,9 @@ title Coding activity by hour (count of changes)
 "09h" : 39
 "10h" : 14
 "11h" : 6
-"12h" : 15
+"12h" : 18
 "23h" : 2
 ```
 
 
-> **Last Updated:** 18/12/2025, 12:55:43
+> **Last Updated:** 18/12/2025, 12:58:42
