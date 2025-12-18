@@ -2,9 +2,9 @@
   "date": "2025-12-18",
   "projects": {
     "cda": {
-      "totalLinesAdded": 107050,
+      "totalLinesAdded": 107052,
       "totalLinesRemoved": 225,
-      "totalActiveTime": 256,
+      "totalActiveTime": 259,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/dlist-viewer/src/setupTests.js": [
           {
@@ -2857,6 +2857,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-12-18T16:25:29.283Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/png-dashboard/src/components/UploadFormTitles/UploadFormTitles.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "tsx"
           }
         ]
