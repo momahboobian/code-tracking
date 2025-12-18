@@ -3,7 +3,7 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 26,
-      "totalLinesRemoved": 10,
+      "totalLinesRemoved": 16,
       "totalActiveTime": 25,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/dlist-viewer/src/setupTests.js": [
@@ -91,6 +91,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-12-18T00:22:01.174Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/dlist-viewer/package.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 6,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "json"
           }
         ],
