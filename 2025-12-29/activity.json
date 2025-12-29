@@ -1,0 +1,47 @@
+{
+  "date": "2025-12-29",
+  "projects": {
+    "system-prompts-and-models-of-ai-tools": {
+      "totalLinesAdded": 13,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/momahboobian/.gemini/settings.json": [
+          {
+            "timestamp": "2025-12-29T00:16:45.561Z",
+            "fileName": "/Users/momahboobian/.gemini/settings.json",
+            "fileType": ".json",
+            "linesAdded": 13,
+            "linesRemoved": 0,
+            "projectName": "system-prompts-and-models-of-ai-tools",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 0
+      },
+      "changeFrequency": {
+        "0": 0
+      },
+      "topFiles": [
+        "/Users/momahboobian/.gemini/settings.json"
+      ],
+      "averageChangeSize": 13
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    0
+  ],
+  "mostUsedLanguages": [
+    "json"
+  ]
+}
