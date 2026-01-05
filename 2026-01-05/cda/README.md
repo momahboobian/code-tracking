@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 28402                                          |
-| **Lines Removed** (➖) | 484                                        |
-| **Net Change** (↕)    | 27918                |
-| **Active Time** (⌚)   | 347 minutes |
+| **Lines Added** (➕)   | 28503                                          |
+| **Lines Removed** (➖) | 486                                        |
+| **Net Change** (↕)    | 28017                |
+| **Active Time** (⌚)   | 355 minutes |
 
 
 ## Modified Files
@@ -25,7 +25,7 @@
 - **App.js** (+68, -0)
 - **package.json** (+37, -0)
 - **index.js** (+47, -3)
-- **index.js** (+115, -7)
+- **index.js** (+174, -9)
 - **index.js** (+34, -21)
 - **index.scss** (+49, -29)
 - **package.json** (+51, -5)
@@ -34,6 +34,7 @@
 - **package.json** (+73, -1)
 - **yarn.lock** (+11280, -14)
 - **App.js** (+44, -0)
+- **envChecks.js** (+42, -0)
 
 ## Visualizations
 
@@ -42,7 +43,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".js" : 1790
+".js" : 1893
 ".scss" : 485
 ".json" : 231
 ".lock" : 26380
@@ -61,8 +62,8 @@ title Coding activity by hour (count of changes)
 "16h" : 29
 "17h" : 41
 "19h" : 5
-"20h" : 6
+"20h" : 14
 ```
 
 
-> **Last Updated:** 05/01/2026, 20:08:43
+> **Last Updated:** 05/01/2026, 20:23:43
