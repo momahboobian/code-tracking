@@ -4,16 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 874                                          |
-| **Lines Removed** (➖) | 277                                        |
-| **Net Change** (↕)    | 597                |
-| **Active Time** (⌚)   | 105 minutes |
+| **Lines Added** (➕)   | 883                                          |
+| **Lines Removed** (➖) | 283                                        |
+| **Net Change** (↕)    | 600                |
+| **Active Time** (⌚)   | 111 minutes |
 
 
 ## Modified Files
 - **index.js** (+238, -3)
-- **index.js** (+352, -182)
-- **certificate-pdf.scss** (+111, -73)
+- **index.js** (+353, -183)
+- **certificate-pdf.scss** (+119, -78)
 - **App.js** (+34, -0)
 - **_mixins.scss** (+59, -12)
 - **_variables.scss** (+2, -0)
@@ -26,8 +26,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".js" : 809
-".scss" : 342
+".js" : 811
+".scss" : 355
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -37,8 +37,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "11h" : 27
 "12h" : 43
-"13h" : 13
+"13h" : 20
 ```
 
 
-> **Last Updated:** 05/01/2026, 13:19:08
+> **Last Updated:** 05/01/2026, 13:29:08
