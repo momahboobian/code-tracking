@@ -2,8 +2,8 @@
   "date": "2026-01-05",
   "projects": {
     "cda": {
-      "totalLinesAdded": 16685,
-      "totalLinesRemoved": 426,
+      "totalLinesAdded": 16690,
+      "totalLinesRemoved": 427,
       "totalActiveTime": 294,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/public-liability-insurance-certificate/src/components/Form/index.js": [
@@ -2822,6 +2822,20 @@
             },
             "duration": 2,
             "language": "js"
+          },
+          {
+            "timestamp": "2026-01-05T17:16:54.826Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/dlist-viewer/src/components/DListMemberLabel/index.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/dlist-viewer/src/components/DListMemberLabel/index.scss": [
@@ -2867,6 +2881,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-01-05T17:16:54.835Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/dlist-viewer/package.json",
+            "fileType": ".json",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "json"
           }
         ],
