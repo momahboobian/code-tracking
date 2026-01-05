@@ -2,8 +2,8 @@
   "date": "2026-01-05",
   "projects": {
     "cda": {
-      "totalLinesAdded": 16818,
-      "totalLinesRemoved": 458,
+      "totalLinesAdded": 16872,
+      "totalLinesRemoved": 467,
       "totalActiveTime": 338,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/public-liability-insurance-certificate/src/components/Form/index.js": [
@@ -2694,6 +2694,20 @@
             },
             "duration": 1,
             "language": "js"
+          },
+          {
+            "timestamp": "2026-01-05T19:56:26.673Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/dlist-viewer/src/components/TableRow/index.js",
+            "fileType": ".js",
+            "linesAdded": 54,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/dlist-viewer/src/components/DListMemberLabel/index.js": [
@@ -3216,6 +3230,20 @@
             },
             "duration": 0,
             "language": "scss"
+          },
+          {
+            "timestamp": "2026-01-05T19:56:26.561Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/dlist-viewer/src/components/DListMemberLabel/index.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 8,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "scss"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/dlist-viewer/package.json": [
@@ -3303,6 +3331,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-01-05T19:56:26.675Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/dlist-viewer/src/App.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "js"
           }
         ]
