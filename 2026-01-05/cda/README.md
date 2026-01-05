@@ -4,16 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 769                                          |
-| **Lines Removed** (➖) | 235                                        |
-| **Net Change** (↕)    | 534                |
-| **Active Time** (⌚)   | 55 minutes |
+| **Lines Added** (➕)   | 774                                          |
+| **Lines Removed** (➖) | 242                                        |
+| **Net Change** (↕)    | 532                |
+| **Active Time** (⌚)   | 65 minutes |
 
 
 ## Modified Files
 - **index.js** (+235, -0)
 - **index.js** (+345, -174)
-- **certificate-pdf.scss** (+95, -51)
+- **certificate-pdf.scss** (+100, -58)
 - **App.js** (+34, -0)
 - **_mixins.scss** (+58, -10)
 - **_variables.scss** (+2, -0)
@@ -26,7 +26,7 @@
 pie showData
 title Lines changed by file type
 ".js" : 788
-".scss" : 216
+".scss" : 228
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -35,8 +35,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "11h" : 27
-"12h" : 22
+"12h" : 25
 ```
 
 
-> **Last Updated:** 05/01/2026, 12:29:08
+> **Last Updated:** 05/01/2026, 12:34:08

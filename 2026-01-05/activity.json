@@ -2,9 +2,9 @@
   "date": "2026-01-05",
   "projects": {
     "cda": {
-      "totalLinesAdded": 769,
-      "totalLinesRemoved": 235,
-      "totalActiveTime": 55,
+      "totalLinesAdded": 774,
+      "totalLinesRemoved": 242,
+      "totalActiveTime": 65,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/public-liability-insurance-certificate/src/components/Form/index.js": [
           {
@@ -513,6 +513,48 @@
               "removed": []
             },
             "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2026-01-05T12:29:23.151Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/public-liability-insurance-certificate/src/components/CertificatePdf/certificate-pdf.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2026-01-05T12:32:31.547Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/public-liability-insurance-certificate/src/components/CertificatePdf/certificate-pdf.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2026-01-05T12:33:37.753Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/public-liability-insurance-certificate/src/components/CertificatePdf/certificate-pdf.scss",
+            "fileType": ".scss",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "scss"
           }
         ],
