@@ -3,7 +3,7 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 16685,
-      "totalLinesRemoved": 424,
+      "totalLinesRemoved": 426,
       "totalActiveTime": 294,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/public-liability-insurance-certificate/src/components/Form/index.js": [
@@ -2489,6 +2489,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-01-05T17:08:39.335Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/driver-declaration-database/src/containers/Home.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "js"
           }
         ],
