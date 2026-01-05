@@ -2,9 +2,9 @@
   "date": "2026-01-05",
   "projects": {
     "cda": {
-      "totalLinesAdded": 958,
+      "totalLinesAdded": 960,
       "totalLinesRemoved": 299,
-      "totalActiveTime": 149,
+      "totalActiveTime": 151,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/public-liability-insurance-certificate/src/components/Form/index.js": [
           {
@@ -1573,6 +1573,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-01-05T14:05:10.167Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/public-liability-insurance-certificate/src/helpers/utilities.js",
+            "fileType": ".js",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "js"
           }
         ]
