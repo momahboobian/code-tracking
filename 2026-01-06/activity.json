@@ -2,7 +2,7 @@
   "date": "2026-01-06",
   "projects": {
     "cda": {
-      "totalLinesAdded": 24181,
+      "totalLinesAdded": 24182,
       "totalLinesRemoved": 244,
       "totalActiveTime": 113,
       "files": {
@@ -1181,6 +1181,20 @@
               "removed": []
             },
             "duration": 3,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-01-06T17:23:11.398Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/png-dashboard/package.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "json"
           }
         ],
