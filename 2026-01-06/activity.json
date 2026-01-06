@@ -2,9 +2,9 @@
   "date": "2026-01-06",
   "projects": {
     "cda": {
-      "totalLinesAdded": 11516,
-      "totalLinesRemoved": 3,
-      "totalActiveTime": 8,
+      "totalLinesAdded": 11519,
+      "totalLinesRemoved": 9,
+      "totalActiveTime": 9,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/desks/package.json": [
           {
@@ -155,6 +155,34 @@
               "removed": []
             },
             "duration": 4,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-01-06T16:10:07.174Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/expenses-viewer/src/components/ClaimByStaffRef/index.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 6,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-01-06T16:11:01.084Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/expenses-viewer/src/components/ClaimByStaffRef/index.js",
+            "fileType": ".js",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "js"
           }
         ]
