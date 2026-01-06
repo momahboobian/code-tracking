@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 11721,
-      "totalLinesRemoved": 142,
-      "totalActiveTime": 37,
+      "totalLinesRemoved": 153,
+      "totalActiveTime": 41,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/desks/package.json": [
           {
@@ -436,6 +436,34 @@
             },
             "duration": 2,
             "language": "js"
+          },
+          {
+            "timestamp": "2026-01-06T16:44:21.112Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/expenses-viewer/src/components/ClaimByStaffRef/index.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-01-06T16:45:49.605Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/expenses-viewer/src/components/ClaimByStaffRef/index.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 6,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "js"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/expenses-viewer/src/components/BackButton/index.js": [
@@ -451,6 +479,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-01-06T16:46:37.488Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/expenses-viewer/src/components/BackButton/index.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "js"
           }
         ],
