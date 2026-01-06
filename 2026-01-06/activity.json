@@ -2,7 +2,7 @@
   "date": "2026-01-06",
   "projects": {
     "cda": {
-      "totalLinesAdded": 109,
+      "totalLinesAdded": 157,
       "totalLinesRemoved": 0,
       "totalActiveTime": 0,
       "files": {
@@ -58,6 +58,22 @@
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/buy-book-order/package.json",
             "fileType": ".json",
             "linesAdded": 52,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/expenses-viewer/package.json": [
+          {
+            "timestamp": "2026-01-06T14:07:45.003Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/expenses-viewer/package.json",
+            "fileType": ".json",
+            "linesAdded": 48,
             "linesRemoved": 0,
             "projectName": "cda",
             "content": {
