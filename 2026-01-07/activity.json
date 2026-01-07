@@ -2,9 +2,9 @@
   "date": "2026-01-07",
   "projects": {
     "cda": {
-      "totalLinesAdded": 28901,
+      "totalLinesAdded": 28906,
       "totalLinesRemoved": 187,
-      "totalActiveTime": 158,
+      "totalActiveTime": 163,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/yarn.lock": [
           {
@@ -1614,6 +1614,34 @@
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/directory/src/components/PromoSection/index.scss",
             "fileType": ".scss",
             "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2026-01-07T13:52:55.250Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/directory/src/components/PromoSection/index.scss",
+            "fileType": ".scss",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2026-01-07T13:53:38.517Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/directory/src/components/PromoSection/index.scss",
+            "fileType": ".scss",
+            "linesAdded": 1,
             "linesRemoved": 0,
             "projectName": "cda",
             "content": {
