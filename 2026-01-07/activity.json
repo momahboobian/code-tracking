@@ -2,9 +2,9 @@
   "date": "2026-01-07",
   "projects": {
     "cda": {
-      "totalLinesAdded": 29636,
-      "totalLinesRemoved": 230,
-      "totalActiveTime": 219,
+      "totalLinesAdded": 29641,
+      "totalLinesRemoved": 231,
+      "totalActiveTime": 224,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/yarn.lock": [
           {
@@ -2099,6 +2099,34 @@
           },
           {
             "timestamp": "2026-01-07T16:57:10.744Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/directory/src/components/FavouriteButton/favourite-button.scss",
+            "fileType": ".scss",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2026-01-07T16:58:32.058Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/directory/src/components/FavouriteButton/favourite-button.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2026-01-07T17:01:11.049Z",
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/directory/src/components/FavouriteButton/favourite-button.scss",
             "fileType": ".scss",
             "linesAdded": 5,
