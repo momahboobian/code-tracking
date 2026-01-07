@@ -2,7 +2,7 @@
   "date": "2026-01-07",
   "projects": {
     "cda": {
-      "totalLinesAdded": 29268,
+      "totalLinesAdded": 29307,
       "totalLinesRemoved": 225,
       "totalActiveTime": 205,
       "files": {
@@ -1992,6 +1992,22 @@
             },
             "duration": 4,
             "language": "jsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/directory/src/components/FavouriteButton/index.js": [
+          {
+            "timestamp": "2026-01-07T16:42:44.474Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/directory/src/components/FavouriteButton/index.js",
+            "fileType": ".js",
+            "linesAdded": 39,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
           }
         ]
       },
