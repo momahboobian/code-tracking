@@ -2,7 +2,7 @@
   "date": "2026-01-07",
   "projects": {
     "cda": {
-      "totalLinesAdded": 28818,
+      "totalLinesAdded": 28819,
       "totalLinesRemoved": 183,
       "totalActiveTime": 147,
       "files": {
@@ -1421,6 +1421,20 @@
               "removed": []
             },
             "duration": 5,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-01-07T13:19:17.386Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/directory/src/components/PromoSection/index.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "js"
           }
         ],
