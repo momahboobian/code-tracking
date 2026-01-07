@@ -2,9 +2,9 @@
   "date": "2026-01-07",
   "projects": {
     "cda": {
-      "totalLinesAdded": 28847,
-      "totalLinesRemoved": 184,
-      "totalActiveTime": 153,
+      "totalLinesAdded": 28901,
+      "totalLinesRemoved": 187,
+      "totalActiveTime": 158,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/yarn.lock": [
           {
@@ -1536,6 +1536,92 @@
             },
             "duration": 1,
             "language": "js"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/directory/src/components/PromoSection/index.scss": [
+          {
+            "timestamp": "2026-01-07T13:48:51.877Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/directory/src/components/PromoSection/index.scss",
+            "fileType": ".scss",
+            "linesAdded": 47,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2026-01-07T13:48:52.773Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/directory/src/components/PromoSection/index.scss",
+            "fileType": ".scss",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2026-01-07T13:48:57.800Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/directory/src/components/PromoSection/index.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2026-01-07T13:49:03.932Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/directory/src/components/PromoSection/index.scss",
+            "fileType": ".scss",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2026-01-07T13:49:11.945Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/directory/src/components/PromoSection/index.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2026-01-07T13:49:15.861Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/directory/src/components/PromoSection/index.scss",
+            "fileType": ".scss",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
           }
         ]
       },
