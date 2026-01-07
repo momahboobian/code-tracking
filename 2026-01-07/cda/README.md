@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 28458                                          |
+| **Lines Added** (➕)   | 28514                                          |
 | **Lines Removed** (➖) | 144                                        |
-| **Net Change** (↕)    | 28314                |
-| **Active Time** (⌚)   | 99 minutes |
+| **Net Change** (↕)    | 28370                |
+| **Active Time** (⌚)   | 102 minutes |
 
 
 ## Modified Files
@@ -23,13 +23,14 @@
 - **ExploreJobFamilies.jsx** (+148, -0)
 - **App.js** (+324, -0)
 - **TransparencyChart.jsx** (+1094, -132)
-- **package.json** (+87, -1)
+- **package.json** (+89, -1)
 - **yarn.lock** (+11388, -0)
 - **TransparencyChart.scss** (+86, -7)
 - **ExploreJob.jsx** (+299, -1)
 - **Explore.jsx** (+173, -1)
 - **ExploreJob.test.jsx** (+105, -2)
 - **ExploreTitle.jsx** (+31, -0)
+- **package.json** (+54, -0)
 
 ## Visualizations
 
@@ -39,7 +40,7 @@
 pie showData
 title Lines changed by file type
 ".lock" : 25569
-".json" : 250
+".json" : 306
 ".js" : 704
 ".jsx" : 1986
 ".scss" : 93
@@ -52,8 +53,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "09h" : 1
 "10h" : 38
-"11h" : 31
+"11h" : 33
 ```
 
 
-> **Last Updated:** 07/01/2026, 11:40:05
+> **Last Updated:** 07/01/2026, 11:50:05

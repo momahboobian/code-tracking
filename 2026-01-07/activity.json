@@ -2,9 +2,9 @@
   "date": "2026-01-07",
   "projects": {
     "cda": {
-      "totalLinesAdded": 28458,
+      "totalLinesAdded": 28514,
       "totalLinesRemoved": 144,
-      "totalActiveTime": 99,
+      "totalActiveTime": 102,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/yarn.lock": [
           {
@@ -842,6 +842,20 @@
             },
             "duration": 3,
             "language": "json"
+          },
+          {
+            "timestamp": "2026-01-07T11:46:22.623Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/career-path-framework/package.json",
+            "fileType": ".json",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/career-path-framework/yarn.lock": [
@@ -1022,6 +1036,22 @@
             },
             "duration": 2,
             "language": "jsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/directory/package.json": [
+          {
+            "timestamp": "2026-01-07T11:49:07.642Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/directory/package.json",
+            "fileType": ".json",
+            "linesAdded": 54,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "json"
           }
         ]
       },
