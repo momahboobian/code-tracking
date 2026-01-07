@@ -2,9 +2,9 @@
   "date": "2026-01-07",
   "projects": {
     "cda": {
-      "totalLinesAdded": 29661,
-      "totalLinesRemoved": 250,
-      "totalActiveTime": 250,
+      "totalLinesAdded": 29665,
+      "totalLinesRemoved": 252,
+      "totalActiveTime": 258,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/yarn.lock": [
           {
@@ -2113,6 +2113,76 @@
             "fileType": ".js",
             "linesAdded": 0,
             "linesRemoved": 2,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-01-07T17:19:20.651Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/directory/src/components/FavouriteButton/index.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-01-07T17:19:29.809Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/directory/src/components/FavouriteButton/index.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-01-07T17:19:53.257Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/directory/src/components/FavouriteButton/index.js",
+            "fileType": ".js",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-01-07T17:21:45.097Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/directory/src/components/FavouriteButton/index.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-01-07T17:21:52.469Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/directory/src/components/FavouriteButton/index.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
             "projectName": "cda",
             "content": {
               "added": [],
