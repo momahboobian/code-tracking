@@ -2,9 +2,9 @@
   "date": "2026-01-07",
   "projects": {
     "cda": {
-      "totalLinesAdded": 29415,
+      "totalLinesAdded": 29636,
       "totalLinesRemoved": 230,
-      "totalActiveTime": 211,
+      "totalActiveTime": 219,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/yarn.lock": [
           {
@@ -2066,6 +2066,50 @@
             },
             "duration": 1,
             "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/directory/src/components/FavouriteButton/favourite-button.scss": [
+          {
+            "timestamp": "2026-01-07T16:54:42.161Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/directory/src/components/FavouriteButton/favourite-button.scss",
+            "fileType": ".scss",
+            "linesAdded": 214,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2026-01-07T16:54:46.702Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/directory/src/components/FavouriteButton/favourite-button.scss",
+            "fileType": ".scss",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2026-01-07T16:57:10.744Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/directory/src/components/FavouriteButton/favourite-button.scss",
+            "fileType": ".scss",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "scss"
           }
         ]
       },
