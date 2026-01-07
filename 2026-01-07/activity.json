@@ -1,0 +1,47 @@
+{
+  "date": "2026-01-07",
+  "projects": {
+    "cda": {
+      "totalLinesAdded": 14181,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/yarn.lock": [
+          {
+            "timestamp": "2026-01-07T09:58:01.874Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/yarn.lock",
+            "fileType": ".lock",
+            "linesAdded": 14181,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "lock"
+          }
+        ]
+      },
+      "languageStats": {
+        "lock": 0
+      },
+      "changeFrequency": {
+        "9": 0
+      },
+      "topFiles": [
+        "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/yarn.lock"
+      ],
+      "averageChangeSize": 14181
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    9
+  ],
+  "mostUsedLanguages": [
+    "lock"
+  ]
+}
