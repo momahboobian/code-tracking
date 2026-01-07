@@ -2,9 +2,9 @@
   "date": "2026-01-07",
   "projects": {
     "cda": {
-      "totalLinesAdded": 28674,
-      "totalLinesRemoved": 150,
-      "totalActiveTime": 115,
+      "totalLinesAdded": 28682,
+      "totalLinesRemoved": 159,
+      "totalActiveTime": 125,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/yarn.lock": [
           {
@@ -1207,6 +1207,76 @@
               "removed": []
             },
             "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-01-07T12:47:27.848Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/directory/src/components/TileList/index.js",
+            "fileType": ".js",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-01-07T12:49:09.318Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/directory/src/components/TileList/index.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-01-07T12:49:25.989Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/directory/src/components/TileList/index.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 6,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-01-07T12:49:34.528Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/directory/src/components/TileList/index.js",
+            "fileType": ".js",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-01-07T12:49:47.009Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/directory/src/components/TileList/index.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "js"
           }
         ],
