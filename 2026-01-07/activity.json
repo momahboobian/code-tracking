@@ -2,9 +2,9 @@
   "date": "2026-01-07",
   "projects": {
     "cda": {
-      "totalLinesAdded": 29691,
-      "totalLinesRemoved": 274,
-      "totalActiveTime": 283,
+      "totalLinesAdded": 29692,
+      "totalLinesRemoved": 281,
+      "totalActiveTime": 287,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/yarn.lock": [
           {
@@ -2663,6 +2663,48 @@
             "fileType": ".scss",
             "linesAdded": 1,
             "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2026-01-07T17:37:46.547Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/directory/src/components/FavouriteButton/favourite-button.scss",
+            "fileType": ".scss",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2026-01-07T17:39:37.651Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/directory/src/components/FavouriteButton/favourite-button.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2026-01-07T17:40:18.334Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/directory/src/components/FavouriteButton/favourite-button.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 2,
             "projectName": "cda",
             "content": {
               "added": [],
