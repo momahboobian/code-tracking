@@ -2,9 +2,9 @@
   "date": "2026-01-07",
   "projects": {
     "cda": {
-      "totalLinesAdded": 26722,
-      "totalLinesRemoved": 24,
-      "totalActiveTime": 36,
+      "totalLinesAdded": 27073,
+      "totalLinesRemoved": 103,
+      "totalActiveTime": 41,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/yarn.lock": [
           {
@@ -434,6 +434,34 @@
             },
             "duration": 1,
             "language": "jsx"
+          },
+          {
+            "timestamp": "2026-01-07T10:52:31.049Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/career-path-framework/src/components/TransparencyChart/TransparencyChart.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 308,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2026-01-07T10:52:31.678Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/career-path-framework/src/components/TransparencyChart/TransparencyChart.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 79,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/career-path-framework/package.json": [
@@ -480,6 +508,36 @@
             },
             "duration": 1,
             "language": "lock"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/career-path-framework/src/components/TransparencyChart/TransparencyChart.scss": [
+          {
+            "timestamp": "2026-01-07T10:54:37.374Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/career-path-framework/src/components/TransparencyChart/TransparencyChart.scss",
+            "fileType": ".scss",
+            "linesAdded": 36,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2026-01-07T10:54:38.060Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/career-path-framework/src/components/TransparencyChart/TransparencyChart.scss",
+            "fileType": ".scss",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
           }
         ]
       },
