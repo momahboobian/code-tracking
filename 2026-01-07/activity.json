@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 29786,
-      "totalLinesRemoved": 310,
-      "totalActiveTime": 323,
+      "totalLinesRemoved": 311,
+      "totalActiveTime": 328,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/yarn.lock": [
           {
@@ -1529,6 +1529,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-01-07T18:21:00.086Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/directory/src/components/TileList/index.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "js"
           }
         ],
