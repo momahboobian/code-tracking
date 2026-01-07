@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 29268,
-      "totalLinesRemoved": 205,
-      "totalActiveTime": 203,
+      "totalLinesRemoved": 225,
+      "totalActiveTime": 205,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/yarn.lock": [
           {
@@ -1875,6 +1875,34 @@
               "removed": []
             },
             "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-01-07T16:34:46.952Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/directory/src/containers/Favourites/index.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 8,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-01-07T16:36:18.869Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/directory/src/containers/Favourites/index.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 12,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "js"
           }
         ],
