@@ -2,7 +2,7 @@
   "date": "2026-01-07",
   "projects": {
     "cda": {
-      "totalLinesAdded": 28565,
+      "totalLinesAdded": 28668,
       "totalLinesRemoved": 147,
       "totalActiveTime": 107,
       "files": {
@@ -1123,6 +1123,22 @@
               "removed": []
             },
             "duration": 2,
+            "language": "js"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/directory/src/components/Tile/index.js": [
+          {
+            "timestamp": "2026-01-07T12:04:15.523Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/directory/src/components/Tile/index.js",
+            "fileType": ".js",
+            "linesAdded": 103,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "js"
           }
         ]
