@@ -2,9 +2,9 @@
   "date": "2026-01-07",
   "projects": {
     "cda": {
-      "totalLinesAdded": 27178,
-      "totalLinesRemoved": 103,
-      "totalActiveTime": 48,
+      "totalLinesAdded": 27513,
+      "totalLinesRemoved": 123,
+      "totalActiveTime": 55,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/yarn.lock": [
           {
@@ -503,6 +503,62 @@
               "removed": []
             },
             "duration": 2,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2026-01-07T11:00:14.273Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/career-path-framework/src/components/TransparencyChart/TransparencyChart.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 334,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2026-01-07T11:00:14.613Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/career-path-framework/src/components/TransparencyChart/TransparencyChart.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 18,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2026-01-07T11:04:21.478Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/career-path-framework/src/components/TransparencyChart/TransparencyChart.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2026-01-07T11:04:43.798Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/career-path-framework/src/components/TransparencyChart/TransparencyChart.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "jsx"
           }
         ],
