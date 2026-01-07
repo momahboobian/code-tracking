@@ -2,8 +2,8 @@
   "date": "2026-01-07",
   "projects": {
     "cda": {
-      "totalLinesAdded": 30158,
-      "totalLinesRemoved": 322,
+      "totalLinesAdded": 30366,
+      "totalLinesRemoved": 345,
       "totalActiveTime": 364,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/yarn.lock": [
@@ -235,6 +235,20 @@
               "removed": []
             },
             "duration": 5,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-01-07T19:24:05.769Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/career-path-framework/src/App.js",
+            "fileType": ".js",
+            "linesAdded": 162,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "js"
           }
         ],
@@ -856,6 +870,20 @@
             },
             "duration": 0,
             "language": "json"
+          },
+          {
+            "timestamp": "2026-01-07T19:24:05.755Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/career-path-framework/package.json",
+            "fileType": ".json",
+            "linesAdded": 43,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/career-path-framework/yarn.lock": [
@@ -1058,6 +1086,20 @@
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/directory/package.json",
             "fileType": ".json",
             "linesAdded": 54,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-01-07T19:24:05.758Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/directory/package.json",
+            "fileType": ".json",
+            "linesAdded": 1,
             "linesRemoved": 0,
             "projectName": "cda",
             "content": {
@@ -1600,6 +1642,20 @@
             },
             "duration": 3,
             "language": "js"
+          },
+          {
+            "timestamp": "2026-01-07T19:24:05.752Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/directory/src/components/TileList/index.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 17,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/directory/src/components/Tile/index.js": [
@@ -2099,6 +2155,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-01-07T19:24:05.766Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/directory/src/containers/Favourites/index.js",
+            "fileType": ".js",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "js"
           }
         ],
@@ -3329,6 +3399,20 @@
               "removed": []
             },
             "duration": 3,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-01-07T19:24:05.762Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/directory/src/helpers.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 6,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "js"
           }
         ]

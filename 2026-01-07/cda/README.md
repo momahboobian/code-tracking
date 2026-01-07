@@ -4,9 +4,9 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 30158                                          |
-| **Lines Removed** (➖) | 322                                        |
-| **Net Change** (↕)    | 29836                |
+| **Lines Added** (➕)   | 30366                                          |
+| **Lines Removed** (➖) | 345                                        |
+| **Net Change** (↕)    | 30021                |
 | **Active Time** (⌚)   | 364 minutes |
 
 
@@ -21,28 +21,28 @@
 - **index.js** (+98, -0)
 - **index.js** (+82, -0)
 - **ExploreJobFamilies.jsx** (+148, -0)
-- **App.js** (+324, -0)
+- **App.js** (+486, -0)
 - **TransparencyChart.jsx** (+1094, -132)
-- **package.json** (+89, -1)
+- **package.json** (+132, -1)
 - **yarn.lock** (+11388, -0)
 - **TransparencyChart.scss** (+86, -7)
 - **ExploreJob.jsx** (+299, -1)
 - **Explore.jsx** (+173, -1)
 - **ExploreJob.test.jsx** (+105, -2)
 - **ExploreTitle.jsx** (+31, -0)
-- **package.json** (+108, -0)
-- **index.js** (+232, -41)
+- **package.json** (+109, -0)
+- **index.js** (+232, -58)
 - **index.js** (+103, -0)
 - **index.js** (+175, -7)
 - **index.js** (+50, -10)
 - **index.scss** (+59, -3)
-- **index.js** (+120, -24)
+- **index.js** (+122, -24)
 - **App.js** (+86, -1)
 - **You.jsx** (+132, -1)
 - **index.js** (+119, -37)
 - **settings.json** (+67, -5)
 - **favourite-button.scss** (+270, -46)
-- **helpers.js** (+177, -3)
+- **helpers.js** (+177, -9)
 
 ## Visualizations
 
@@ -52,8 +52,8 @@
 pie showData
 title Lines changed by file type
 ".lock" : 25569
-".json" : 432
-".js" : 1889
+".json" : 476
+".js" : 2076
 ".jsx" : 2119
 ".scss" : 471
 ```
@@ -73,7 +73,8 @@ title Coding activity by hour (count of changes)
 "16h" : 11
 "17h" : 59
 "18h" : 27
+"19h" : 6
 ```
 
 
-> **Last Updated:** 07/01/2026, 18:57:23
+> **Last Updated:** 07/01/2026, 19:27:23
