@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 14957                                          |
-| **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 14957                |
-| **Active Time** (⌚)   | 3 minutes |
+| **Lines Added** (➕)   | 26704                                          |
+| **Lines Removed** (➖) | 1                                        |
+| **Net Change** (↕)    | 26703                |
+| **Active Time** (⌚)   | 10 minutes |
 
 
 ## Modified Files
@@ -21,7 +21,10 @@
 - **index.js** (+98, -0)
 - **index.js** (+82, -0)
 - **ExploreJobFamilies.jsx** (+74, -0)
-- **App.js** (+160, -0)
+- **App.js** (+162, -0)
+- **TransparencyChart.jsx** (+313, -0)
+- **package.json** (+44, -1)
+- **yarn.lock** (+11388, -0)
 
 ## Visualizations
 
@@ -30,10 +33,10 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".lock" : 14181
-".json" : 162
-".js" : 540
-".jsx" : 74
+".lock" : 25569
+".json" : 207
+".js" : 542
+".jsx" : 387
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -42,8 +45,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "09h" : 1
-"10h" : 11
+"10h" : 16
 ```
 
 
-> **Last Updated:** 07/01/2026, 10:30:53
+> **Last Updated:** 07/01/2026, 10:35:53
