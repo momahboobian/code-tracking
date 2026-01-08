@@ -1,0 +1,343 @@
+{
+  "date": "2026-01-08",
+  "projects": {
+    "cda": {
+      "totalLinesAdded": 12624,
+      "totalLinesRemoved": 15,
+      "totalActiveTime": 28,
+      "files": {
+        "/Users/momahboobian/Documents/_BBC/cda/apps/career-path-framework/src/App.js": [
+          {
+            "timestamp": "2026-01-08T09:17:02.781Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/career-path-framework/src/App.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/directory/src/helpers.js": [
+          {
+            "timestamp": "2026-01-08T09:17:02.776Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/directory/src/helpers.js",
+            "fileType": ".js",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-01-08T09:24:09.665Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/directory/src/helpers.js",
+            "fileType": ".js",
+            "linesAdded": 168,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "js"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/directory/src/containers/Favourites/index.js": [
+          {
+            "timestamp": "2026-01-08T09:17:02.778Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/directory/src/containers/Favourites/index.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-01-08T09:24:09.700Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/directory/src/containers/Favourites/index.js",
+            "fileType": ".js",
+            "linesAdded": 49,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/directory/package.json": [
+          {
+            "timestamp": "2026-01-08T09:17:02.774Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/directory/package.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-01-08T09:24:09.672Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/directory/package.json",
+            "fileType": ".json",
+            "linesAdded": 55,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/career-path-framework/package.json": [
+          {
+            "timestamp": "2026-01-08T09:17:02.771Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/career-path-framework/package.json",
+            "fileType": ".json",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/directory/src/components/TileList/index.js": [
+          {
+            "timestamp": "2026-01-08T09:17:02.769Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/directory/src/components/TileList/index.js",
+            "fileType": ".js",
+            "linesAdded": 17,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-01-08T09:24:09.698Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/directory/src/components/TileList/index.js",
+            "fileType": ".js",
+            "linesAdded": 48,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/directory/src/components/FavouriteButton/index.js": [
+          {
+            "timestamp": "2026-01-08T09:20:57.583Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/directory/src/components/FavouriteButton/index.js",
+            "fileType": ".js",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-01-08T09:24:09.661Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/directory/src/components/FavouriteButton/index.js",
+            "fileType": ".js",
+            "linesAdded": 39,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "js"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/directory/src/components/FavouriteButton/favourite-button.scss": [
+          {
+            "timestamp": "2026-01-08T09:21:40.347Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/directory/src/components/FavouriteButton/favourite-button.scss",
+            "fileType": ".scss",
+            "linesAdded": 224,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2026-01-08T09:21:45.027Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/directory/src/components/FavouriteButton/favourite-button.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2026-01-08T09:24:09.668Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/directory/src/components/FavouriteButton/favourite-button.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "scss"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/directory/yarn.lock": [
+          {
+            "timestamp": "2026-01-08T09:24:09.680Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/directory/yarn.lock",
+            "fileType": ".lock",
+            "linesAdded": 11750,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "lock"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/directory/src/App.js": [
+          {
+            "timestamp": "2026-01-08T09:24:09.689Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/directory/src/App.js",
+            "fileType": ".js",
+            "linesAdded": 84,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/directory/src/components/PromoSection/index.scss": [
+          {
+            "timestamp": "2026-01-08T09:24:09.696Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/directory/src/components/PromoSection/index.scss",
+            "fileType": ".scss",
+            "linesAdded": 47,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/directory/src/components/PromoSection/index.js": [
+          {
+            "timestamp": "2026-01-08T09:24:09.694Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/directory/src/components/PromoSection/index.js",
+            "fileType": ".js",
+            "linesAdded": 77,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/career-path-framework/src/components/JobRow/JobRow.jsx": [
+          {
+            "timestamp": "2026-01-08T09:26:12.373Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/career-path-framework/src/components/JobRow/JobRow.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 54,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "jsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "js": 4,
+        "json": 0
+      },
+      "changeFrequency": {
+        "9": 4
+      },
+      "topFiles": [
+        "/Users/momahboobian/Documents/_BBC/cda/apps/career-path-framework/src/App.js",
+        "/Users/momahboobian/Documents/_BBC/cda/apps/directory/src/helpers.js",
+        "/Users/momahboobian/Documents/_BBC/cda/apps/directory/src/containers/Favourites/index.js",
+        "/Users/momahboobian/Documents/_BBC/cda/apps/directory/package.json",
+        "/Users/momahboobian/Documents/_BBC/cda/apps/career-path-framework/package.json"
+      ],
+      "averageChangeSize": 4.857142857142857
+    }
+  },
+  "totalActiveTime": 5,
+  "totalProjects": 1,
+  "totalFiles": 7,
+  "mostActiveHours": [
+    9
+  ],
+  "mostUsedLanguages": [
+    "js",
+    "json"
+  ]
+}
