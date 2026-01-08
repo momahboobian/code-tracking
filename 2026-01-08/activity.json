@@ -3,7 +3,7 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 13481,
-      "totalLinesRemoved": 39,
+      "totalLinesRemoved": 40,
       "totalActiveTime": 96,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/career-path-framework/src/App.js": [
@@ -153,6 +153,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-01-08T14:05:50.244Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/career-path-framework/package.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "json"
           }
         ],
