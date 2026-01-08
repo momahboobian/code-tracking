@@ -2,9 +2,9 @@
   "date": "2026-01-08",
   "projects": {
     "cda": {
-      "totalLinesAdded": 13481,
+      "totalLinesAdded": 13527,
       "totalLinesRemoved": 40,
-      "totalActiveTime": 96,
+      "totalActiveTime": 100,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/career-path-framework/src/App.js": [
           {
@@ -807,6 +807,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2026-01-08T14:09:24.226Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/career-path-framework/src/components/CurrentUserJobDetails/CurrentUserJobDetails.scss",
+            "fileType": ".scss",
+            "linesAdded": 46,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "scss"
           }
         ],
