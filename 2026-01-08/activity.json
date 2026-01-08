@@ -2,9 +2,9 @@
   "date": "2026-01-08",
   "projects": {
     "cda": {
-      "totalLinesAdded": 13103,
-      "totalLinesRemoved": 28,
-      "totalActiveTime": 81,
+      "totalLinesAdded": 13105,
+      "totalLinesRemoved": 30,
+      "totalActiveTime": 85,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/career-path-framework/src/App.js": [
           {
@@ -382,6 +382,34 @@
             },
             "duration": 4,
             "language": "scss"
+          },
+          {
+            "timestamp": "2026-01-08T09:58:00.556Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/career-path-framework/src/components/JobRow/JobRow.scss",
+            "fileType": ".scss",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2026-01-08T09:58:41.841Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/career-path-framework/src/components/JobRow/JobRow.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/career-path-framework/src/containers/ExploreJobFamilies/ExploreJobFamilies.scss": [
@@ -405,6 +433,34 @@
             "fileType": ".scss",
             "linesAdded": 2,
             "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2026-01-08T09:57:11.756Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/career-path-framework/src/containers/ExploreJobFamilies/ExploreJobFamilies.scss",
+            "fileType": ".scss",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2026-01-08T09:57:21.686Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/career-path-framework/src/containers/ExploreJobFamilies/ExploreJobFamilies.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "cda",
             "content": {
               "added": [],

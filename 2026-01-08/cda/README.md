@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 13103                                          |
-| **Lines Removed** (➖) | 28                                        |
+| **Lines Added** (➕)   | 13105                                          |
+| **Lines Removed** (➖) | 30                                        |
 | **Net Change** (↕)    | 13075                |
-| **Active Time** (⌚)   | 81 minutes |
+| **Active Time** (⌚)   | 85 minutes |
 
 
 ## Modified Files
@@ -24,8 +24,8 @@
 - **index.scss** (+47, -0)
 - **index.js** (+77, -0)
 - **JobRow.jsx** (+56, -2)
-- **JobRow.scss** (+23, -0)
-- **ExploreJobFamilies.scss** (+28, -0)
+- **JobRow.scss** (+24, -1)
+- **ExploreJobFamilies.scss** (+29, -1)
 - **You.jsx** (+131, -0)
 - **CurrentUserJobDetails.scss** (+53, -7)
 - **CurrentUserJobDetails.jsx** (+180, -3)
@@ -40,7 +40,7 @@ pie showData
 title Lines changed by file type
 ".js" : 496
 ".json" : 58
-".scss" : 455
+".scss" : 459
 ".lock" : 11750
 ".jsx" : 372
 ```
@@ -50,8 +50,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"09h" : 54
+"09h" : 58
 ```
 
 
-> **Last Updated:** 08/01/2026, 09:56:31
+> **Last Updated:** 08/01/2026, 10:01:31
