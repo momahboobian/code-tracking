@@ -2,9 +2,9 @@
   "date": "2026-01-09",
   "projects": {
     "cda": {
-      "totalLinesAdded": 17268,
-      "totalLinesRemoved": 98,
-      "totalActiveTime": 95,
+      "totalLinesAdded": 17389,
+      "totalLinesRemoved": 99,
+      "totalActiveTime": 97,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/Header/Header.tsx": [
           {
@@ -928,6 +928,50 @@
             },
             "duration": 1,
             "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/docs/components/Header/Header.mdx": [
+          {
+            "timestamp": "2026-01-09T16:47:32.526Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/docs/components/Header/Header.mdx",
+            "fileType": ".mdx",
+            "linesAdded": 120,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "mdx"
+          },
+          {
+            "timestamp": "2026-01-09T16:47:35.001Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/docs/components/Header/Header.mdx",
+            "fileType": ".mdx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "mdx"
+          },
+          {
+            "timestamp": "2026-01-09T16:48:04.987Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/docs/components/Header/Header.mdx",
+            "fileType": ".mdx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "mdx"
           }
         ]
       },
