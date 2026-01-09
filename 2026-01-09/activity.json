@@ -2,7 +2,7 @@
   "date": "2026-01-09",
   "projects": {
     "cda": {
-      "totalLinesAdded": 16562,
+      "totalLinesAdded": 17083,
       "totalLinesRemoved": 37,
       "totalActiveTime": 69,
       "files": {
@@ -717,6 +717,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-01-09T15:42:21.117Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/Header/Header.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 521,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ]
