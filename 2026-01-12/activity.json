@@ -2,9 +2,9 @@
   "date": "2026-01-12",
   "projects": {
     "cda": {
-      "totalLinesAdded": 2384,
+      "totalLinesAdded": 3084,
       "totalLinesRemoved": 37,
-      "totalActiveTime": 80,
+      "totalActiveTime": 84,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/Header/Header.tsx": [
           {
@@ -612,6 +612,34 @@
             },
             "duration": 2,
             "language": "mdx"
+          },
+          {
+            "timestamp": "2026-01-12T13:46:06.932Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/docs/components/Header/Header.mdx",
+            "fileType": ".mdx",
+            "linesAdded": 134,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "mdx"
+          },
+          {
+            "timestamp": "2026-01-12T13:47:12.058Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/docs/components/Header/Header.mdx",
+            "fileType": ".mdx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "mdx"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/docs/components/Header/Header.stories.js": [
@@ -773,6 +801,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-01-12T13:44:13.192Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/Header/Header.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 565,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ]
