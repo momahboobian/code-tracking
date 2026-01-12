@@ -2,9 +2,9 @@
   "date": "2026-01-12",
   "projects": {
     "cda": {
-      "totalLinesAdded": 426,
+      "totalLinesAdded": 428,
       "totalLinesRemoved": 3,
-      "totalActiveTime": 4,
+      "totalActiveTime": 6,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/Header/Header.tsx": [
           {
@@ -75,6 +75,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-01-12T09:13:54.480Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/Header/Header.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "tsx"
           }
         ]
