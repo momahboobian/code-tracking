@@ -2,9 +2,9 @@
   "date": "2026-01-12",
   "projects": {
     "cda": {
-      "totalLinesAdded": 759,
-      "totalLinesRemoved": 11,
-      "totalActiveTime": 38,
+      "totalLinesAdded": 765,
+      "totalLinesRemoved": 15,
+      "totalActiveTime": 47,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/Header/Header.tsx": [
           {
@@ -317,6 +317,90 @@
               "removed": []
             },
             "duration": 1,
+            "language": "mdx"
+          },
+          {
+            "timestamp": "2026-01-12T09:43:09.936Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/docs/components/Header/Header.mdx",
+            "fileType": ".mdx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "mdx"
+          },
+          {
+            "timestamp": "2026-01-12T09:43:29.025Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/docs/components/Header/Header.mdx",
+            "fileType": ".mdx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "mdx"
+          },
+          {
+            "timestamp": "2026-01-12T09:43:33.593Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/docs/components/Header/Header.mdx",
+            "fileType": ".mdx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "mdx"
+          },
+          {
+            "timestamp": "2026-01-12T09:43:40.678Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/docs/components/Header/Header.mdx",
+            "fileType": ".mdx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "mdx"
+          },
+          {
+            "timestamp": "2026-01-12T09:45:30.565Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/docs/components/Header/Header.mdx",
+            "fileType": ".mdx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "mdx"
+          },
+          {
+            "timestamp": "2026-01-12T09:47:42.149Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/docs/components/Header/Header.mdx",
+            "fileType": ".mdx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "mdx"
           }
         ]
