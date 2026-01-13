@@ -2,9 +2,9 @@
   "date": "2026-01-13",
   "projects": {
     "cda": {
-      "totalLinesAdded": 12352,
+      "totalLinesAdded": 12355,
       "totalLinesRemoved": 266,
-      "totalActiveTime": 88,
+      "totalActiveTime": 91,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/gateway-assistant/src/agentsConfig.js": [
           {
@@ -617,6 +617,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-01-13T17:33:48.251Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/ipages-dashboard/package.json",
+            "fileType": ".json",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "json"
           }
         ],
