@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 12174,
-      "totalLinesRemoved": 169,
-      "totalActiveTime": 38,
+      "totalLinesRemoved": 186,
+      "totalActiveTime": 39,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/gateway-assistant/src/agentsConfig.js": [
           {
@@ -230,6 +230,20 @@
             },
             "duration": 4,
             "language": "js"
+          },
+          {
+            "timestamp": "2026-01-13T13:09:09.023Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/gateway-assistant/src/agentsConfig.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/App.tsx": [
@@ -447,6 +461,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-01-13T13:08:28.433Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/gateway-assistant/src/lib/environmentChecks.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 13,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "js"
           }
         ]
