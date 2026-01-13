@@ -1,0 +1,136 @@
+{
+  "date": "2026-01-13",
+  "projects": {
+    "cda": {
+      "totalLinesAdded": 171,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 6,
+      "files": {
+        "/Users/momahboobian/Documents/_BBC/cda/apps/gateway-assistant/src/agentsConfig.js": [
+          {
+            "timestamp": "2026-01-13T11:18:41.279Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/gateway-assistant/src/agentsConfig.js",
+            "fileType": ".js",
+            "linesAdded": 98,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-01-13T11:19:04.627Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/gateway-assistant/src/agentsConfig.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-01-13T11:19:18.109Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/gateway-assistant/src/agentsConfig.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-01-13T11:19:22.556Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/gateway-assistant/src/agentsConfig.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-01-13T11:19:35.043Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/gateway-assistant/src/agentsConfig.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/App.tsx": [
+          {
+            "timestamp": "2026-01-13T11:20:34.109Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 61,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-01-13T11:20:59.601Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "js": 4,
+        "tsx": 2
+      },
+      "changeFrequency": {
+        "11": 6
+      },
+      "topFiles": [
+        "/Users/momahboobian/Documents/_BBC/cda/apps/gateway-assistant/src/agentsConfig.js",
+        "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/App.tsx"
+      ],
+      "averageChangeSize": 24.571428571428573
+    }
+  },
+  "totalActiveTime": 6,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    11
+  ],
+  "mostUsedLanguages": [
+    "js",
+    "tsx"
+  ]
+}
