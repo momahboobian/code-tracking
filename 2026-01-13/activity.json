@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 12352,
-      "totalLinesRemoved": 249,
-      "totalActiveTime": 81,
+      "totalLinesRemoved": 266,
+      "totalActiveTime": 88,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/gateway-assistant/src/agentsConfig.js": [
           {
@@ -590,6 +590,34 @@
             },
             "duration": 5,
             "language": "json"
+          },
+          {
+            "timestamp": "2026-01-13T17:31:06.691Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/ipages-dashboard/package.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-01-13T17:31:38.658Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/ipages-dashboard/package.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/ipages-dashboard/setupTests.js": [
@@ -833,6 +861,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-01-13T17:30:40.432Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/src/setupTests.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 12,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "ts"
           }
         ],

@@ -5,9 +5,9 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 12352                                          |
-| **Lines Removed** (➖) | 249                                        |
-| **Net Change** (↕)    | 12103                |
-| **Active Time** (⌚)   | 81 minutes |
+| **Lines Removed** (➖) | 266                                        |
+| **Net Change** (↕)    | 12086                |
+| **Active Time** (⌚)   | 88 minutes |
 
 
 ## Modified Files
@@ -16,10 +16,10 @@
 - **yarn.lock** (+11591, -60)
 - **package.json** (+51, -1)
 - **environmentChecks.js** (+132, -40)
-- **package.json** (+80, -4)
+- **package.json** (+80, -9)
 - **setupTests.js** (+43, -23)
 - **jest.polyfills.js** (+11, -6)
-- **setupTests.ts** (+22, -0)
+- **setupTests.ts** (+22, -12)
 - **setupTests.js** (+20, -14)
 
 ## Visualizations
@@ -32,8 +32,8 @@ title Lines changed by file type
 ".js" : 661
 ".tsx" : 131
 ".lock" : 11651
-".json" : 136
-".ts" : 22
+".json" : 141
+".ts" : 34
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -45,8 +45,8 @@ title Coding activity by hour (count of changes)
 "12h" : 10
 "13h" : 3
 "16h" : 12
-"17h" : 14
+"17h" : 17
 ```
 
 
-> **Last Updated:** 13/01/2026, 17:27:55
+> **Last Updated:** 13/01/2026, 17:32:55
