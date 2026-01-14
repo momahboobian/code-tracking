@@ -2,9 +2,9 @@
   "date": "2026-01-14",
   "projects": {
     "cda": {
-      "totalLinesAdded": 14722,
+      "totalLinesAdded": 14927,
       "totalLinesRemoved": 5,
-      "totalActiveTime": 15,
+      "totalActiveTime": 17,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/ipages-dashboard/package.json": [
           {
@@ -232,6 +232,36 @@
             },
             "duration": 1,
             "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-transformers/src/peopleview/profile.js": [
+          {
+            "timestamp": "2026-01-14T16:35:27.678Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-transformers/src/peopleview/profile.js",
+            "fileType": ".js",
+            "linesAdded": 201,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-01-14T16:36:36.511Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-transformers/src/peopleview/profile.js",
+            "fileType": ".js",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "js"
           }
         ]
       },
