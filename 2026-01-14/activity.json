@@ -2,9 +2,9 @@
   "date": "2026-01-14",
   "projects": {
     "cda": {
-      "totalLinesAdded": 15757,
-      "totalLinesRemoved": 9,
-      "totalActiveTime": 32,
+      "totalLinesAdded": 15774,
+      "totalLinesRemoved": 22,
+      "totalActiveTime": 41,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/ipages-dashboard/package.json": [
           {
@@ -382,6 +382,76 @@
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-transformers/tests/peopleview/profile.test.js",
             "fileType": ".js",
             "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-01-14T16:48:37.565Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-transformers/tests/peopleview/profile.test.js",
+            "fileType": ".js",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-01-14T16:48:51.928Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-transformers/tests/peopleview/profile.test.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-01-14T16:49:04.016Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-transformers/tests/peopleview/profile.test.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-01-14T16:52:14.316Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-transformers/tests/peopleview/profile.test.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 13,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-01-14T16:52:22.634Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-transformers/tests/peopleview/profile.test.js",
+            "fileType": ".js",
+            "linesAdded": 13,
             "linesRemoved": 0,
             "projectName": "cda",
             "content": {
