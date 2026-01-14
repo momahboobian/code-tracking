@@ -2,7 +2,7 @@
   "date": "2026-01-14",
   "projects": {
     "cda": {
-      "totalLinesAdded": 71,
+      "totalLinesAdded": 176,
       "totalLinesRemoved": 0,
       "totalActiveTime": 0,
       "files": {
@@ -20,6 +20,22 @@
             },
             "duration": 0,
             "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/App.tsx": [
+          {
+            "timestamp": "2026-01-14T10:27:57.288Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 105,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
           }
         ]
       },
