@@ -2,9 +2,9 @@
   "date": "2026-01-15",
   "projects": {
     "cda": {
-      "totalLinesAdded": 26170,
-      "totalLinesRemoved": 10,
-      "totalActiveTime": 22,
+      "totalLinesAdded": 26171,
+      "totalLinesRemoved": 11,
+      "totalActiveTime": 27,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/high-risk-schema/definitions/peopleview.js": [
           {
@@ -289,6 +289,34 @@
           },
           {
             "timestamp": "2026-01-15T11:10:51.231Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/graphql/high-risk/queries.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-01-15T11:13:57.667Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/graphql/high-risk/queries.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-01-15T11:14:12.011Z",
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/graphql/high-risk/queries.ts",
             "fileType": ".ts",
             "linesAdded": 1,
