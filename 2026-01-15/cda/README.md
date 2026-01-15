@@ -4,17 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 28034                                          |
+| **Lines Added** (➕)   | 28532                                          |
 | **Lines Removed** (➖) | 48                                        |
-| **Net Change** (↕)    | 27986                |
-| **Active Time** (⌚)   | 75 minutes |
+| **Net Change** (↕)    | 28484                |
+| **Active Time** (⌚)   | 78 minutes |
 
 
 ## Modified Files
 - **peopleview.js** (+370, -0)
 - **resolvers-types.ts** (+10197, -0)
 - **resolvers-types.ts** (+13995, -0)
-- **fieldUtils.ts** (+392, -1)
+- **fieldUtils.ts** (+588, -1)
 - **profile.js** (+1, -0)
 - **profile.test.js** (+22, -10)
 - **peopleview-queries.js** (+617, -0)
@@ -23,7 +23,7 @@
 - **ProfileContainer.test.tsx** (+257, -12)
 - **ProfileContainer.tsx** (+88, -7)
 - **ConstructDefinitionListItem.tsx** (+76, -1)
-- **Profile.types.ts** (+302, -0)
+- **Profile.types.ts** (+604, -0)
 - **.env** (+50, -0)
 
 ## Visualizations
@@ -34,7 +34,7 @@
 pie showData
 title Lines changed by file type
 ".js" : 1020
-".ts" : 26465
+".ts" : 26963
 ".tsx" : 547
 "unknown" : 50
 ```
@@ -47,8 +47,8 @@ title Coding activity by hour (count of changes)
 "09h" : 6
 "10h" : 10
 "11h" : 26
-"12h" : 11
+"12h" : 14
 ```
 
 
-> **Last Updated:** 15/01/2026, 12:16:44
+> **Last Updated:** 15/01/2026, 12:38:37
