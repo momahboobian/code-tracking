@@ -4,16 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 531                                          |
-| **Lines Removed** (➖) | 52                                        |
-| **Net Change** (↕)    | 479                |
-| **Active Time** (⌚)   | 65 minutes |
+| **Lines Added** (➕)   | 732                                          |
+| **Lines Removed** (➖) | 56                                        |
+| **Net Change** (↕)    | 676                |
+| **Active Time** (⌚)   | 71 minutes |
 
 
 ## Modified Files
 - **.env** (+53, -0)
 - **package.json** (+66, -1)
 - **TransparencyChart.tsx** (+412, -51)
+- **ProfilePublic.tsx** (+201, -4)
 
 ## Visualizations
 
@@ -24,7 +25,7 @@ pie showData
 title Lines changed by file type
 "unknown" : 53
 ".json" : 67
-".tsx" : 463
+".tsx" : 668
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -33,8 +34,9 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "09h" : 15
-"10h" : 22
+"10h" : 23
+"11h" : 4
 ```
 
 
-> **Last Updated:** 19/01/2026, 10:48:36
+> **Last Updated:** 19/01/2026, 11:03:36
