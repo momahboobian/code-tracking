@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 528,
-      "totalLinesRemoved": 10,
-      "totalActiveTime": 52,
+      "totalLinesRemoved": 25,
+      "totalActiveTime": 53,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/.env": [
           {
@@ -409,6 +409,34 @@
             "fileType": ".tsx",
             "linesAdded": 2,
             "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-01-19T10:36:22.958Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/components/TransparencyChart/TransparencyChart.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-01-19T10:36:46.031Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/components/TransparencyChart/TransparencyChart.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 13,
             "projectName": "cda",
             "content": {
               "added": [],
