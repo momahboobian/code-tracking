@@ -2,9 +2,9 @@
   "date": "2026-01-20",
   "projects": {
     "cda": {
-      "totalLinesAdded": 385,
+      "totalLinesAdded": 867,
       "totalLinesRemoved": 6,
-      "totalActiveTime": 21,
+      "totalActiveTime": 26,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/package.json": [
           {
@@ -219,6 +219,36 @@
               "removed": []
             },
             "duration": 4,
+            "language": "scss"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/styles/components/_button.scss": [
+          {
+            "timestamp": "2026-01-20T17:25:50.714Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/styles/components/_button.scss",
+            "fileType": ".scss",
+            "linesAdded": 480,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2026-01-20T17:25:57.707Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/styles/components/_button.scss",
+            "fileType": ".scss",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "scss"
           }
         ]
