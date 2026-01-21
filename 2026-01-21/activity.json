@@ -2,9 +2,9 @@
   "date": "2026-01-21",
   "projects": {
     "cda": {
-      "totalLinesAdded": 9390,
+      "totalLinesAdded": 9936,
       "totalLinesRemoved": 4187,
-      "totalActiveTime": 16,
+      "totalActiveTime": 22,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/StaffPortalApp/index.scss": [
           {
@@ -93,6 +93,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2026-01-21T10:33:20.034Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/styles/components/forms/_input.scss",
+            "fileType": ".scss",
+            "linesAdded": 273,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "scss"
           }
         ],
@@ -183,6 +197,22 @@
               "removed": []
             },
             "duration": 4,
+            "language": "scss"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/dist/styles/components/forms/_input.scss": [
+          {
+            "timestamp": "2026-01-21T10:33:27.026Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/dist/styles/components/forms/_input.scss",
+            "fileType": ".scss",
+            "linesAdded": 273,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "scss"
           }
         ]
