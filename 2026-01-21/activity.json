@@ -2,9 +2,9 @@
   "date": "2026-01-21",
   "projects": {
     "cda": {
-      "totalLinesAdded": 10056,
+      "totalLinesAdded": 10700,
       "totalLinesRemoved": 4187,
-      "totalActiveTime": 23,
+      "totalActiveTime": 25,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/StaffPortalApp/index.scss": [
           {
@@ -33,6 +33,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2026-01-21T11:18:18.792Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/StaffPortalApp/index.scss",
+            "fileType": ".scss",
+            "linesAdded": 60,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "scss"
           }
         ],
@@ -220,6 +234,38 @@
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/dist/styles/components/forms/_input.scss",
             "fileType": ".scss",
             "linesAdded": 273,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/UsefulLinks/usefulLinks.scss": [
+          {
+            "timestamp": "2026-01-21T11:18:26.065Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/UsefulLinks/usefulLinks.scss",
+            "fileType": ".scss",
+            "linesAdded": 104,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/styles/components/_button.scss": [
+          {
+            "timestamp": "2026-01-21T11:18:32.681Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/styles/components/_button.scss",
+            "fileType": ".scss",
+            "linesAdded": 480,
             "linesRemoved": 0,
             "projectName": "cda",
             "content": {
