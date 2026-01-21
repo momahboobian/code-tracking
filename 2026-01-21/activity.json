@@ -2,9 +2,9 @@
   "date": "2026-01-21",
   "projects": {
     "cda": {
-      "totalLinesAdded": 9936,
+      "totalLinesAdded": 10056,
       "totalLinesRemoved": 4187,
-      "totalActiveTime": 22,
+      "totalActiveTime": 23,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/StaffPortalApp/index.scss": [
           {
@@ -181,6 +181,20 @@
               "removed": []
             },
             "duration": 5,
+            "language": "log"
+          },
+          {
+            "timestamp": "2026-01-21T10:33:38.581Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/debug-storybook.log",
+            "fileType": ".log",
+            "linesAdded": 120,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "log"
           }
         ],
