@@ -2971,9 +2971,9 @@
       "averageChangeSize": 23.666666666666668
     },
     "cda-web-components": {
-      "totalLinesAdded": 17788,
-      "totalLinesRemoved": 81,
-      "totalActiveTime": 139,
+      "totalLinesAdded": 17801,
+      "totalLinesRemoved": 85,
+      "totalActiveTime": 144,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/lib/useSetFilters/useSetFilters.test.tsx": [
           {
@@ -3657,6 +3657,20 @@
             },
             "duration": 0,
             "language": "scss"
+          },
+          {
+            "timestamp": "2026-01-22T22:48:04.742Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/Footer/footer.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda-web-components",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/Header/header.scss": [
@@ -3686,6 +3700,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2026-01-22T22:48:10.663Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/Header/header.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "cda-web-components",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "scss"
           }
         ],
@@ -3906,6 +3934,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2026-01-22T22:47:47.258Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/UsefulLinks/usefulLinks.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda-web-components",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "scss"
           }
         ],
@@ -4336,6 +4378,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "mjs"
+          },
+          {
+            "timestamp": "2026-01-22T22:50:50.681Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/rollup.config.mjs",
+            "fileType": ".mjs",
+            "linesAdded": 13,
+            "linesRemoved": 0,
+            "projectName": "cda-web-components",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "mjs"
           }
         ],
