@@ -2803,9 +2803,9 @@
       "averageChangeSize": 23.666666666666668
     },
     "cda-web-components": {
-      "totalLinesAdded": 17257,
-      "totalLinesRemoved": 67,
-      "totalActiveTime": 103,
+      "totalLinesAdded": 17259,
+      "totalLinesRemoved": 69,
+      "totalActiveTime": 108,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/lib/useSetFilters/useSetFilters.test.tsx": [
           {
@@ -3820,6 +3820,62 @@
           },
           {
             "timestamp": "2026-01-22T21:20:56.347Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/package.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda-web-components",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-01-22T21:22:04.782Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/package.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda-web-components",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-01-22T21:22:13.182Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/package.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda-web-components",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-01-22T21:22:57.554Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/package.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda-web-components",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-01-22T21:23:01.820Z",
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/package.json",
             "fileType": ".json",
             "linesAdded": 1,
