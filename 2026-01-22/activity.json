@@ -2,9 +2,9 @@
   "date": "2026-01-22",
   "projects": {
     "cda": {
-      "totalLinesAdded": 18156,
+      "totalLinesAdded": 18235,
       "totalLinesRemoved": 78,
-      "totalActiveTime": 194,
+      "totalActiveTime": 198,
       "files": {
         "/Users/momahboobian/Library/Application Support/Code/User/settings.json": [
           {
@@ -1780,6 +1780,22 @@
             },
             "duration": 2,
             "language": "lock"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/Accordion/accordion.scss": [
+          {
+            "timestamp": "2026-01-22T14:27:11.912Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/Accordion/accordion.scss",
+            "fileType": ".scss",
+            "linesAdded": 79,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "scss"
           }
         ]
       },
