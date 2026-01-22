@@ -3,7 +3,7 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 3878,
-      "totalLinesRemoved": 56,
+      "totalLinesRemoved": 57,
       "totalActiveTime": 119,
       "files": {
         "/Users/momahboobian/Library/Application Support/Code/User/settings.json": [
@@ -893,6 +893,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2026-01-22T12:24:29.885Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/styles/foundations/_type.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "scss"
           }
         ],
