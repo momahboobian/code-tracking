@@ -2957,7 +2957,7 @@
       "averageChangeSize": 23.666666666666668
     },
     "cda-web-components": {
-      "totalLinesAdded": 17779,
+      "totalLinesAdded": 17780,
       "totalLinesRemoved": 81,
       "totalActiveTime": 130,
       "files": {
@@ -4218,6 +4218,20 @@
             "fileType": ".mjs",
             "linesAdded": 0,
             "linesRemoved": 2,
+            "projectName": "cda-web-components",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "mjs"
+          },
+          {
+            "timestamp": "2026-01-22T22:27:35.151Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/rollup.config.mjs",
+            "fileType": ".mjs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
             "projectName": "cda-web-components",
             "content": {
               "added": [],
