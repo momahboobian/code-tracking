@@ -2703,9 +2703,9 @@
       "averageChangeSize": 23.666666666666668
     },
     "cda-web-components": {
-      "totalLinesAdded": 16590,
+      "totalLinesAdded": 17073,
       "totalLinesRemoved": 62,
-      "totalActiveTime": 91,
+      "totalActiveTime": 97,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/lib/useSetFilters/useSetFilters.test.tsx": [
           {
@@ -3601,6 +3601,36 @@
             },
             "duration": 1,
             "language": "lock"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/Grid/index.scss": [
+          {
+            "timestamp": "2026-01-22T16:04:17.480Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/Grid/index.scss",
+            "fileType": ".scss",
+            "linesAdded": 353,
+            "linesRemoved": 0,
+            "projectName": "cda-web-components",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2026-01-22T16:04:21.757Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/Grid/index.scss",
+            "fileType": ".scss",
+            "linesAdded": 130,
+            "linesRemoved": 0,
+            "projectName": "cda-web-components",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
           }
         ]
       },
