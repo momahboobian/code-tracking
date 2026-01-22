@@ -2972,7 +2972,7 @@
     },
     "cda-web-components": {
       "totalLinesAdded": 17996,
-      "totalLinesRemoved": 124,
+      "totalLinesRemoved": 128,
       "totalActiveTime": 193,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/lib/useSetFilters/useSetFilters.test.tsx": [
@@ -4942,6 +4942,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2026-01-22T23:50:41.052Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/styles/mixins/_breakpoints.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "cda-web-components",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "scss"
           }
         ]
