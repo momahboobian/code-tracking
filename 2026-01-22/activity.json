@@ -2972,8 +2972,8 @@
     },
     "cda-web-components": {
       "totalLinesAdded": 17996,
-      "totalLinesRemoved": 105,
-      "totalActiveTime": 192,
+      "totalLinesRemoved": 124,
+      "totalActiveTime": 193,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/lib/useSetFilters/useSetFilters.test.tsx": [
           {
@@ -4694,6 +4694,34 @@
             "fileType": ".mjs",
             "linesAdded": 2,
             "linesRemoved": 0,
+            "projectName": "cda-web-components",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "mjs"
+          },
+          {
+            "timestamp": "2026-01-22T23:43:58.580Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/rollup.config.mjs",
+            "fileType": ".mjs",
+            "linesAdded": 0,
+            "linesRemoved": 18,
+            "projectName": "cda-web-components",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "mjs"
+          },
+          {
+            "timestamp": "2026-01-22T23:44:00.002Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/rollup.config.mjs",
+            "fileType": ".mjs",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "cda-web-components",
             "content": {
               "added": [],
