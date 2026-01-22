@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 18150,
-      "totalLinesRemoved": 72,
-      "totalActiveTime": 172,
+      "totalLinesRemoved": 75,
+      "totalActiveTime": 179,
       "files": {
         "/Users/momahboobian/Library/Application Support/Code/User/settings.json": [
           {
@@ -1204,6 +1204,20 @@
             },
             "duration": 4,
             "language": "scss"
+          },
+          {
+            "timestamp": "2026-01-22T13:25:45.812Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/styles/mixins/_background.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "scss"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/styles/mixins/_banner.scss": [
@@ -1577,6 +1591,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2026-01-22T13:23:25.785Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/styles/mixins/_label.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "scss"
           }
         ],
