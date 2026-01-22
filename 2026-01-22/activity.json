@@ -2971,7 +2971,7 @@
       "averageChangeSize": 23.666666666666668
     },
     "cda-web-components": {
-      "totalLinesAdded": 17964,
+      "totalLinesAdded": 17966,
       "totalLinesRemoved": 91,
       "totalActiveTime": 168,
       "files": {
@@ -3530,6 +3530,20 @@
               "removed": []
             },
             "duration": 4,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2026-01-22T23:11:27.081Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/Banner/banner.scss",
+            "fileType": ".scss",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda-web-components",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "scss"
           }
         ],
