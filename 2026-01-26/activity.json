@@ -2,9 +2,9 @@
   "date": "2026-01-26",
   "projects": {
     "cda": {
-      "totalLinesAdded": 13532,
+      "totalLinesAdded": 13533,
       "totalLinesRemoved": 4,
-      "totalActiveTime": 20,
+      "totalActiveTime": 23,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/package.json": [
           {
@@ -167,6 +167,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2026-01-26T10:33:11.414Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/node_modules/@bbc/ise-web-components/dist/styles/foundations/_grid.scss",
+            "fileType": ".scss",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "scss"
           }
         ]
