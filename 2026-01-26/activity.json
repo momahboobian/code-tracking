@@ -2,9 +2,9 @@
   "date": "2026-01-26",
   "projects": {
     "cda": {
-      "totalLinesAdded": 20059,
+      "totalLinesAdded": 20135,
       "totalLinesRemoved": 2048,
-      "totalActiveTime": 93,
+      "totalActiveTime": 94,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/package.json": [
           {
@@ -938,6 +938,20 @@
             },
             "duration": 2,
             "language": "log"
+          },
+          {
+            "timestamp": "2026-01-26T16:20:23.047Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/debug-storybook.log",
+            "fileType": ".log",
+            "linesAdded": 28,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "log"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/node_modules/@bbc/ise-web-components/dist/bundle.css": [
@@ -1111,6 +1125,22 @@
               "removed": []
             },
             "duration": 1,
+            "language": "scss"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/docs/_demo.scss": [
+          {
+            "timestamp": "2026-01-26T16:19:58.280Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/docs/_demo.scss",
+            "fileType": ".scss",
+            "linesAdded": 48,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "scss"
           }
         ]
