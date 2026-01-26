@@ -2,9 +2,9 @@
   "date": "2026-01-26",
   "projects": {
     "cda": {
-      "totalLinesAdded": 16653,
+      "totalLinesAdded": 16695,
       "totalLinesRemoved": 2045,
-      "totalActiveTime": 70,
+      "totalActiveTime": 71,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/package.json": [
           {
@@ -826,6 +826,36 @@
             },
             "duration": 2,
             "language": "log"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/node_modules/@bbc/ise-web-components/dist/bundle.css": [
+          {
+            "timestamp": "2026-01-26T15:13:32.618Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/node_modules/@bbc/ise-web-components/dist/bundle.css",
+            "fileType": ".css",
+            "linesAdded": 41,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "css"
+          },
+          {
+            "timestamp": "2026-01-26T15:13:33.441Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/node_modules/@bbc/ise-web-components/dist/bundle.css",
+            "fileType": ".css",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
           }
         ]
       },
