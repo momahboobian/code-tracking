@@ -2,9 +2,9 @@
   "date": "2026-01-26",
   "projects": {
     "cda": {
-      "totalLinesAdded": 178,
+      "totalLinesAdded": 13471,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 0,
+      "totalActiveTime": 9,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/package.json": [
           {
@@ -20,6 +20,38 @@
             },
             "duration": 0,
             "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/package.json": [
+          {
+            "timestamp": "2026-01-26T09:53:09.530Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/package.json",
+            "fileType": ".json",
+            "linesAdded": 85,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/yarn.lock": [
+          {
+            "timestamp": "2026-01-26T09:56:44.818Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/yarn.lock",
+            "fileType": ".lock",
+            "linesAdded": 13208,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "lock"
           }
         ]
       },
