@@ -2,9 +2,9 @@
   "date": "2026-01-26",
   "projects": {
     "cda": {
-      "totalLinesAdded": 21765,
+      "totalLinesAdded": 21918,
       "totalLinesRemoved": 2773,
-      "totalActiveTime": 137,
+      "totalActiveTime": 138,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/package.json": [
           {
@@ -705,6 +705,20 @@
         "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/package.json": [
           {
             "timestamp": "2026-01-26T10:46:11.235Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/package.json",
+            "fileType": ".json",
+            "linesAdded": 65,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-01-26T16:56:55.795Z",
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/package.json",
             "fileType": ".json",
             "linesAdded": 65,
@@ -1464,6 +1478,22 @@
             },
             "duration": 0,
             "language": "scss"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/package.json": [
+          {
+            "timestamp": "2026-01-26T16:57:31.644Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/package.json",
+            "fileType": ".json",
+            "linesAdded": 88,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ]
       },
