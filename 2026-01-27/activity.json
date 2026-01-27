@@ -2,9 +2,9 @@
   "date": "2026-01-27",
   "projects": {
     "cda": {
-      "totalLinesAdded": 440,
+      "totalLinesAdded": 545,
       "totalLinesRemoved": 13,
-      "totalActiveTime": 0,
+      "totalActiveTime": 4,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/styles/foundations/_type.scss": [
           {
@@ -68,6 +68,22 @@
             },
             "duration": 0,
             "language": "scss"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/App.tsx": [
+          {
+            "timestamp": "2026-01-27T09:13:52.772Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 105,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "tsx"
           }
         ]
       },
