@@ -2,9 +2,9 @@
   "date": "2026-01-27",
   "projects": {
     "cda": {
-      "totalLinesAdded": 1823,
-      "totalLinesRemoved": 32,
-      "totalActiveTime": 18,
+      "totalLinesAdded": 1838,
+      "totalLinesRemoved": 45,
+      "totalActiveTime": 20,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/styles/foundations/_type.scss": [
           {
@@ -432,6 +432,50 @@
             },
             "duration": 1,
             "language": "scss"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/.vscode/settings.json": [
+          {
+            "timestamp": "2026-01-27T17:21:36.901Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/.vscode/settings.json",
+            "fileType": ".json",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-01-27T17:21:37.329Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/.vscode/settings.json",
+            "fileType": ".json",
+            "linesAdded": 13,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-01-27T17:21:54.788Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/.vscode/settings.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 13,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ]
       },
