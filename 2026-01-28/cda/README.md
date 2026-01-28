@@ -4,15 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2878                                          |
-| **Lines Removed** (➖) | 1450                                        |
-| **Net Change** (↕)    | 1428                |
-| **Active Time** (⌚)   | 194 minutes |
+| **Lines Added** (➕)   | 2884                                          |
+| **Lines Removed** (➖) | 1458                                        |
+| **Net Change** (↕)    | 1426                |
+| **Active Time** (⌚)   | 204 minutes |
 
 
 ## Modified Files
 - **.env** (+53, -0)
-- **EventForm.tsx** (+2562, -1330)
+- **EventForm.tsx** (+2568, -1338)
 - **stripOwner.ts** (+59, -53)
 - **mapEventToForm.ts** (+133, -67)
 - **settings.json** (+71, -0)
@@ -25,7 +25,7 @@
 pie showData
 title Lines changed by file type
 "unknown" : 53
-".tsx" : 3892
+".tsx" : 3906
 ".ts" : 312
 ".json" : 71
 ```
@@ -41,8 +41,9 @@ title Coding activity by hour (count of changes)
 "12h" : 3
 "13h" : 7
 "14h" : 40
-"15h" : 35
+"15h" : 39
+"16h" : 4
 ```
 
 
-> **Last Updated:** 28/01/2026, 15:58:43
+> **Last Updated:** 28/01/2026, 16:03:43
