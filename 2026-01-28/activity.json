@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 2783,
-      "totalLinesRemoved": 1358,
-      "totalActiveTime": 90,
+      "totalLinesRemoved": 1377,
+      "totalActiveTime": 97,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/.env": [
           {
@@ -610,6 +610,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2026-01-28T14:31:33.781Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/containers/EventForm/EventForm.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 13,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/helpers/stripOwner.ts": [
@@ -780,6 +794,20 @@
             },
             "duration": 4,
             "language": "ts"
+          },
+          {
+            "timestamp": "2026-01-28T14:30:50.243Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/helpers/stripOwner.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "ts"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/helpers/mapEventToForm.ts": [
@@ -831,6 +859,20 @@
             "fileType": ".ts",
             "linesAdded": 1,
             "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-01-28T14:31:00.912Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/helpers/mapEventToForm.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 2,
             "projectName": "cda",
             "content": {
               "added": [],
