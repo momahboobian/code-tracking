@@ -2,9 +2,9 @@
   "date": "2026-01-28",
   "projects": {
     "cda": {
-      "totalLinesAdded": 2705,
-      "totalLinesRemoved": 1354,
-      "totalActiveTime": 71,
+      "totalLinesAdded": 2709,
+      "totalLinesRemoved": 1357,
+      "totalActiveTime": 78,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/.env": [
           {
@@ -540,6 +540,20 @@
             },
             "duration": 3,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2026-01-28T14:17:10.314Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/containers/EventForm/EventForm.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "tsx"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/helpers/stripOwner.ts": [
@@ -695,6 +709,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-01-28T14:15:10.155Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/helpers/stripOwner.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "ts"
           }
         ],
