@@ -2,9 +2,9 @@
   "date": "2026-01-28",
   "projects": {
     "cda": {
-      "totalLinesAdded": 2700,
-      "totalLinesRemoved": 1345,
-      "totalActiveTime": 60,
+      "totalLinesAdded": 2704,
+      "totalLinesRemoved": 1350,
+      "totalActiveTime": 67,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/.env": [
           {
@@ -470,6 +470,48 @@
             },
             "duration": 2,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2026-01-28T14:04:13.660Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/containers/EventForm/EventForm.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-01-28T14:06:02.113Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/containers/EventForm/EventForm.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-01-28T14:08:30.538Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/containers/EventForm/EventForm.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/helpers/stripOwner.ts": [
@@ -612,6 +654,20 @@
             },
             "duration": 1,
             "language": "ts"
+          },
+          {
+            "timestamp": "2026-01-28T14:06:06.545Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/helpers/stripOwner.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/helpers/mapEventToForm.ts": [
@@ -648,6 +704,20 @@
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/helpers/mapEventToForm.ts",
             "fileType": ".ts",
             "linesAdded": 66,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-01-28T14:06:38.238Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/helpers/mapEventToForm.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
             "linesRemoved": 0,
             "projectName": "cda",
             "content": {
