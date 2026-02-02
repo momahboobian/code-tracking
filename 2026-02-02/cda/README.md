@@ -4,14 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 118                                          |
-| **Lines Removed** (➖) | 1                                        |
-| **Net Change** (↕)    | 117                |
-| **Active Time** (⌚)   | 6 minutes |
+| **Lines Added** (➕)   | 234                                          |
+| **Lines Removed** (➖) | 2                                        |
+| **Net Change** (↕)    | 232                |
+| **Active Time** (⌚)   | 9 minutes |
 
 
 ## Modified Files
-- **20260202163922-replace-peopleview-teams-view.js** (+118, -1)
+- **20260202163922-replace-peopleview-teams-view.js** (+118, -2)
+- **20260126190412-replace-peopleview-profiles-view.js** (+116, -0)
 
 ## Visualizations
 
@@ -20,7 +21,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".js" : 119
+".js" : 236
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -29,8 +30,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "16h" : 5
-"17h" : 3
+"17h" : 6
 ```
 
 
-> **Last Updated:** 02/02/2026, 17:24:27
+> **Last Updated:** 02/02/2026, 17:29:27
