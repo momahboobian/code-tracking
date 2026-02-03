@@ -4,9 +4,9 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 18542                                          |
+| **Lines Added** (➕)   | 18906                                          |
 | **Lines Removed** (➖) | 889                                        |
-| **Net Change** (↕)    | 17653                |
+| **Net Change** (↕)    | 18017                |
 | **Active Time** (⌚)   | 114 minutes |
 
 
@@ -21,6 +21,7 @@
 - **profile.js** (+249, -14)
 - **peopleview-queries.js** (+748, -46)
 - **peopleView.ME** (+26, -0)
+- **people-queries.js** (+364, -0)
 
 ## Visualizations
 
@@ -30,7 +31,7 @@
 pie showData
 title Lines changed by file type
 ".ts" : 17182
-".js" : 2146
+".js" : 2510
 "unknown" : 77
 ".ME" : 26
 ```
@@ -45,7 +46,8 @@ title Coding activity by hour (count of changes)
 "14h" : 11
 "15h" : 3
 "16h" : 18
+"17h" : 1
 ```
 
 
-> **Last Updated:** 03/02/2026, 16:53:48
+> **Last Updated:** 03/02/2026, 17:08:48
