@@ -2,9 +2,9 @@
   "date": "2026-02-03",
   "projects": {
     "cda": {
-      "totalLinesAdded": 17360,
-      "totalLinesRemoved": 822,
-      "totalActiveTime": 56,
+      "totalLinesAdded": 17761,
+      "totalLinesRemoved": 829,
+      "totalActiveTime": 65,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/packages/cda-table-types/src/types/sap_views.ts": [
           {
@@ -248,6 +248,20 @@
             },
             "duration": 1,
             "language": "js"
+          },
+          {
+            "timestamp": "2026-02-03T13:55:03.736Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-transformers/src/peopleview/profile.js",
+            "fileType": ".js",
+            "linesAdded": 29,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "js"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/high-risk-schema/resolvers/peopleview.js": [
@@ -436,6 +450,52 @@
             },
             "duration": 1,
             "language": "unknown"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/utils/peopleview/PeopleViewRepository.js": [
+          {
+            "timestamp": "2026-02-03T13:55:22.124Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/utils/peopleview/PeopleViewRepository.js",
+            "fileType": ".js",
+            "linesAdded": 130,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/node_modules/@bbc/cda-transformers/src/peopleview/profile.js": [
+          {
+            "timestamp": "2026-02-03T13:57:26.638Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/node_modules/@bbc/cda-transformers/src/peopleview/profile.js",
+            "fileType": ".js",
+            "linesAdded": 242,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-02-03T13:58:34.741Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/node_modules/@bbc/cda-transformers/src/peopleview/profile.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 7,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "js"
           }
         ]
       },
