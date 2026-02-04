@@ -5,14 +5,14 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 4990                                          |
-| **Lines Removed** (➖) | 2864                                        |
-| **Net Change** (↕)    | 2126                |
-| **Active Time** (⌚)   | 157 minutes |
+| **Lines Removed** (➖) | 2874                                        |
+| **Net Change** (↕)    | 2116                |
+| **Active Time** (⌚)   | 166 minutes |
 
 
 ## Modified Files
 - **peopleview-queries.js** (+1067, -317)
-- **Profile.types.ts** (+305, -16)
+- **Profile.types.ts** (+305, -26)
 - **queries.ts** (+1791, -1024)
 - **mutations.ts** (+23, -0)
 - **App.tsx** (+105, -0)
@@ -28,7 +28,7 @@
 pie showData
 title Lines changed by file type
 ".js" : 1384
-".ts" : 6185
+".ts" : 6195
 ".tsx" : 214
 ".json" : 71
 ```
@@ -41,8 +41,8 @@ title Coding activity by hour (count of changes)
 "13h" : 16
 "14h" : 41
 "15h" : 9
-"16h" : 30
+"16h" : 39
 ```
 
 
-> **Last Updated:** 04/02/2026, 16:42:12
+> **Last Updated:** 04/02/2026, 16:47:12
