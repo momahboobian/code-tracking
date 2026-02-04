@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 6454                                          |
-| **Lines Removed** (➖) | 2893                                        |
-| **Net Change** (↕)    | 3561                |
-| **Active Time** (⌚)   | 238 minutes |
+| **Lines Added** (➕)   | 6455                                          |
+| **Lines Removed** (➖) | 2907                                        |
+| **Net Change** (↕)    | 3548                |
+| **Active Time** (⌚)   | 243 minutes |
 
 
 ## Modified Files
@@ -19,16 +19,16 @@
 - **settings.json** (+71, -0)
 - **queries.ts** (+1522, -1504)
 - **UsefulNumbers.tsx** (+106, -3)
-- **ConstructDefinitionListItem.tsx** (+84, -5)
+- **ConstructDefinitionListItem.tsx** (+84, -8)
 - **fieldUtils.ts** (+199, -1)
 - **ConstructFieldContent.tsx** (+56, -8)
 - **ProfileFields.types.ts** (+110, -1)
 - **.env** (+82, -0)
-- **ConstructFieldRows.tsx** (+32, -2)
-- **PersonalDetailsPanel.tsx** (+185, -0)
+- **ConstructFieldRows.tsx** (+32, -9)
+- **PersonalDetailsPanel.tsx** (+185, -4)
 - **PublicDetailsPanel.tsx** (+183, -0)
 - **ProfileFields.tsx** (+21, -0)
-- **profileFieldsConfig.ts** (+472, -1)
+- **profileFieldsConfig.ts** (+473, -1)
 - **ManagerLabel.tsx** (+13, -1)
 
 ## Visualizations
@@ -39,8 +39,8 @@
 pie showData
 title Lines changed by file type
 ".js" : 1384
-".ts" : 7006
-".tsx" : 804
+".ts" : 7007
+".tsx" : 818
 ".json" : 71
 "unknown" : 82
 ```
@@ -54,8 +54,8 @@ title Coding activity by hour (count of changes)
 "14h" : 41
 "15h" : 9
 "16h" : 58
-"17h" : 31
+"17h" : 35
 ```
 
 
-> **Last Updated:** 04/02/2026, 17:32:12
+> **Last Updated:** 04/02/2026, 17:42:12
