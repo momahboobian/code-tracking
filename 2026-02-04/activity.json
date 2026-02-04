@@ -2,9 +2,9 @@
   "date": "2026-02-04",
   "projects": {
     "cda": {
-      "totalLinesAdded": 2594,
-      "totalLinesRemoved": 570,
-      "totalActiveTime": 115,
+      "totalLinesAdded": 4228,
+      "totalLinesRemoved": 2099,
+      "totalActiveTime": 121,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/high-risk-schema/peopleview-queries.js": [
           {
@@ -906,6 +906,34 @@
             },
             "duration": 1,
             "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-04T16:15:17.795Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/graphql/high-risk/queries.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 771,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-04T16:15:17.819Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/graphql/high-risk/queries.ts",
+            "fileType": ".ts",
+            "linesAdded": 755,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/graphql/high-risk/mutations.ts": [
@@ -954,6 +982,80 @@
             },
             "duration": 0,
             "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/graphql/low-risk/queries.ts": [
+          {
+            "timestamp": "2026-02-04T16:15:28.501Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/graphql/low-risk/queries.ts",
+            "fileType": ".ts",
+            "linesAdded": 772,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-04T16:15:29.542Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/graphql/low-risk/queries.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 755,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-04T16:15:32.347Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/graphql/low-risk/queries.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/containers/UsefulNumbers/UsefulNumbers.tsx": [
+          {
+            "timestamp": "2026-02-04T16:15:37.952Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/containers/UsefulNumbers/UsefulNumbers.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 106,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-02-04T16:15:38.600Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/containers/UsefulNumbers/UsefulNumbers.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ]
       },
