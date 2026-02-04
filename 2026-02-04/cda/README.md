@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 5343                                          |
-| **Lines Removed** (➖) | 2875                                        |
-| **Net Change** (↕)    | 2468                |
-| **Active Time** (⌚)   | 185 minutes |
+| **Lines Added** (➕)   | 5459                                          |
+| **Lines Removed** (➖) | 2886                                        |
+| **Net Change** (↕)    | 2573                |
+| **Active Time** (⌚)   | 199 minutes |
 
 
 ## Modified Files
@@ -19,9 +19,10 @@
 - **settings.json** (+71, -0)
 - **queries.ts** (+1522, -1504)
 - **UsefulNumbers.tsx** (+106, -3)
-- **ConstructDefinitionListItem.tsx** (+76, -1)
-- **fieldUtils.ts** (+198, -0)
-- **ConstructFieldContent.tsx** (+52, -0)
+- **ConstructDefinitionListItem.tsx** (+78, -2)
+- **fieldUtils.ts** (+198, -1)
+- **ConstructFieldContent.tsx** (+56, -8)
+- **ProfileFields.types.ts** (+110, -1)
 
 ## Visualizations
 
@@ -31,8 +32,8 @@
 pie showData
 title Lines changed by file type
 ".js" : 1384
-".ts" : 6420
-".tsx" : 343
+".ts" : 6532
+".tsx" : 358
 ".json" : 71
 ```
 
@@ -44,8 +45,9 @@ title Coding activity by hour (count of changes)
 "13h" : 16
 "14h" : 41
 "15h" : 9
-"16h" : 51
+"16h" : 58
+"17h" : 4
 ```
 
 
-> **Last Updated:** 04/02/2026, 16:57:12
+> **Last Updated:** 04/02/2026, 17:02:12
