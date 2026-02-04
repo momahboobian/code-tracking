@@ -4,14 +4,14 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 702                                          |
+| **Lines Added** (➕)   | 794                                          |
 | **Lines Removed** (➖) | 46                                        |
-| **Net Change** (↕)    | 656                |
-| **Active Time** (⌚)   | 1 minute |
+| **Net Change** (↕)    | 748                |
+| **Active Time** (⌚)   | 2 minutes |
 
 
 ## Modified Files
-- **peopleview-queries.js** (+702, -46)
+- **peopleview-queries.js** (+794, -46)
 
 ## Visualizations
 
@@ -20,7 +20,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".js" : 748
+".js" : 840
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -28,8 +28,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"13h" : 2
+"13h" : 4
 ```
 
 
-> **Last Updated:** 04/02/2026, 13:07:12
+> **Last Updated:** 04/02/2026, 13:17:12
