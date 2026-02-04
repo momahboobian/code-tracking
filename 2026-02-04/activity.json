@@ -2,9 +2,9 @@
   "date": "2026-02-04",
   "projects": {
     "cda": {
-      "totalLinesAdded": 881,
-      "totalLinesRemoved": 104,
-      "totalActiveTime": 21,
+      "totalLinesAdded": 890,
+      "totalLinesRemoved": 111,
+      "totalActiveTime": 29,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/high-risk-schema/peopleview-queries.js": [
           {
@@ -257,6 +257,62 @@
               "removed": []
             },
             "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-02-04T14:07:16.682Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/high-risk-schema/peopleview-queries.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-02-04T14:08:24.466Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/high-risk-schema/peopleview-queries.js",
+            "fileType": ".js",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-02-04T14:09:00.569Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/high-risk-schema/peopleview-queries.js",
+            "fileType": ".js",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-02-04T14:11:49.111Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/high-risk-schema/peopleview-queries.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "js"
           }
         ]
