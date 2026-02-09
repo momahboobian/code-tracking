@@ -2,9 +2,9 @@
   "date": "2026-02-09",
   "projects": {
     "cda": {
-      "totalLinesAdded": 35607,
+      "totalLinesAdded": 35632,
       "totalLinesRemoved": 501,
-      "totalActiveTime": 83,
+      "totalActiveTime": 84,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/high-risk-schema/peopleview-queries.js": [
           {
@@ -293,6 +293,34 @@
             "fileType": ".js",
             "linesAdded": 0,
             "linesRemoved": 17,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-02-09T11:59:53.336Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/high-risk-schema/peopleview-queries.js",
+            "fileType": ".js",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-02-09T12:00:46.852Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/high-risk-schema/peopleview-queries.js",
+            "fileType": ".js",
+            "linesAdded": 18,
+            "linesRemoved": 0,
             "projectName": "cda",
             "content": {
               "added": [],
