@@ -2,7 +2,7 @@
   "date": "2026-02-09",
   "projects": {
     "cda": {
-      "totalLinesAdded": 35456,
+      "totalLinesAdded": 35583,
       "totalLinesRemoved": 484,
       "totalActiveTime": 82,
       "files": {
@@ -753,6 +753,22 @@
               "removed": []
             },
             "duration": 1,
+            "language": "js"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-db-migration/src/migrations/sap/views/20260202163922-replace-peopleview-profiles-view.js": [
+          {
+            "timestamp": "2026-02-09T11:12:34.676Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-db-migration/src/migrations/sap/views/20260202163922-replace-peopleview-profiles-view.js",
+            "fileType": ".js",
+            "linesAdded": 127,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "js"
           }
         ]
