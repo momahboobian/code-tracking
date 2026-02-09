@@ -4,17 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 35285                                          |
-| **Lines Removed** (➖) | 459                                        |
-| **Net Change** (↕)    | 34826                |
-| **Active Time** (⌚)   | 54 minutes |
+| **Lines Added** (➕)   | 35380                                          |
+| **Lines Removed** (➖) | 460                                        |
+| **Net Change** (↕)    | 34920                |
+| **Active Time** (⌚)   | 66 minutes |
 
 
 ## Modified Files
-- **peopleview-queries.js** (+938, -282)
+- **peopleview-queries.js** (+1032, -282)
 - **resolvers-types.ts** (+14357, -0)
-- **profile-hub.js** (+95, -1)
-- **inclusion-passport.ts** (+95, -2)
+- **profile-hub.js** (+95, -2)
+- **inclusion-passport.ts** (+96, -2)
 - **queries.ts** (+637, -174)
 - **mutations.ts** (+23, -0)
 - **Profile.types.ts** (+302, -0)
@@ -37,8 +37,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".js" : 2124
-".ts" : 33355
+".js" : 2219
+".ts" : 33356
 ".tsx" : 265
 ```
 
@@ -48,8 +48,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "09h" : 24
-"10h" : 10
+"10h" : 13
 ```
 
 
-> **Last Updated:** 09/02/2026, 10:14:23
+> **Last Updated:** 09/02/2026, 10:19:23
