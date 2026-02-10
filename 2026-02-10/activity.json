@@ -2,9 +2,9 @@
   "date": "2026-02-10",
   "projects": {
     "cda": {
-      "totalLinesAdded": 13128,
-      "totalLinesRemoved": 546,
-      "totalActiveTime": 40,
+      "totalLinesAdded": 14296,
+      "totalLinesRemoved": 663,
+      "totalActiveTime": 56,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/gateway-assistant/src/containers/Agent/Agent.jsx": [
           {
@@ -476,6 +476,214 @@
             },
             "duration": 1,
             "language": "lock"
+          },
+          {
+            "timestamp": "2026-02-10T10:45:46.322Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/career-path-framework/yarn.lock",
+            "fileType": ".lock",
+            "linesAdded": 0,
+            "linesRemoved": 85,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "lock"
+          },
+          {
+            "timestamp": "2026-02-10T10:46:06.816Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/career-path-framework/yarn.lock",
+            "fileType": ".lock",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "lock"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/career-path-framework/src/App.js": [
+          {
+            "timestamp": "2026-02-10T10:47:42.775Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/career-path-framework/src/App.js",
+            "fileType": ".js",
+            "linesAdded": 166,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-02-10T10:47:48.379Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/career-path-framework/src/App.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/career-path-framework/src/components/TransparencyChart/TransparencyChart.jsx": [
+          {
+            "timestamp": "2026-02-10T10:47:51.441Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/career-path-framework/src/components/TransparencyChart/TransparencyChart.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 324,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2026-02-10T10:47:53.325Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/career-path-framework/src/components/TransparencyChart/TransparencyChart.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/career-path-framework/src/containers/Explore/Explore.jsx": [
+          {
+            "timestamp": "2026-02-10T10:48:02.909Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/career-path-framework/src/containers/Explore/Explore.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 177,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2026-02-10T10:48:04.356Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/career-path-framework/src/containers/Explore/Explore.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/career-path-framework/src/containers/ExploreJob/ExploreJob.jsx": [
+          {
+            "timestamp": "2026-02-10T10:48:16.511Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/career-path-framework/src/containers/ExploreJob/ExploreJob.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 303,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2026-02-10T10:48:18.571Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/career-path-framework/src/containers/ExploreJob/ExploreJob.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/career-path-framework/src/containers/ExploreJob/ExploreJob.test.jsx": [
+          {
+            "timestamp": "2026-02-10T10:48:24.490Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/career-path-framework/src/containers/ExploreJob/ExploreJob.test.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 107,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2026-02-10T10:48:27.201Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/career-path-framework/src/containers/ExploreJob/ExploreJob.test.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/career-path-framework/src/containers/ExploreJobFamilies/ExploreJobFamilies.jsx": [
+          {
+            "timestamp": "2026-02-10T10:48:28.309Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/career-path-framework/src/containers/ExploreJobFamilies/ExploreJobFamilies.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 91,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2026-02-10T10:48:29.592Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/career-path-framework/src/containers/ExploreJobFamilies/ExploreJobFamilies.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
           }
         ]
       },
