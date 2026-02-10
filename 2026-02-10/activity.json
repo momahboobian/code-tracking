@@ -2,9 +2,9 @@
   "date": "2026-02-10",
   "projects": {
     "cda": {
-      "totalLinesAdded": 14296,
-      "totalLinesRemoved": 663,
-      "totalActiveTime": 56,
+      "totalLinesAdded": 14306,
+      "totalLinesRemoved": 664,
+      "totalActiveTime": 63,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/gateway-assistant/src/containers/Agent/Agent.jsx": [
           {
@@ -358,6 +358,20 @@
             },
             "duration": 4,
             "language": "jsx"
+          },
+          {
+            "timestamp": "2026-02-10T10:54:53.629Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/gateway-assistant/src/components/AISearchIcon/AISearchIcon.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "jsx"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/gateway-assistant/src/generated/version.js": [
@@ -503,6 +517,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "lock"
+          },
+          {
+            "timestamp": "2026-02-10T10:53:18.039Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/career-path-framework/yarn.lock",
+            "fileType": ".lock",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "lock"
           }
         ],
