@@ -1,0 +1,75 @@
+{
+  "date": "2026-02-11",
+  "projects": {
+    "cda": {
+      "totalLinesAdded": 6,
+      "totalLinesRemoved": 9,
+      "totalActiveTime": 2,
+      "files": {
+        "/Users/momahboobian/Documents/_BBC/cda/apps/gateway-assistant/src/components/ChatInput/ChatInput.jsx": [
+          {
+            "timestamp": "2026-02-11T09:51:44.312Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/gateway-assistant/src/components/ChatInput/ChatInput.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2026-02-11T09:52:12.514Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/gateway-assistant/src/components/ChatInput/ChatInput.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2026-02-11T09:52:55.554Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/gateway-assistant/src/components/ChatInput/ChatInput.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 9,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "jsx": 2
+      },
+      "changeFrequency": {
+        "9": 2
+      },
+      "topFiles": [
+        "/Users/momahboobian/Documents/_BBC/cda/apps/gateway-assistant/src/components/ChatInput/ChatInput.jsx"
+      ],
+      "averageChangeSize": 5
+    }
+  },
+  "totalActiveTime": 2,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    9
+  ],
+  "mostUsedLanguages": [
+    "jsx"
+  ]
+}
