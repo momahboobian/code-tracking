@@ -3,7 +3,7 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 309,
-      "totalLinesRemoved": 40,
+      "totalLinesRemoved": 46,
       "totalActiveTime": 50,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/gateway-assistant/src/components/ChatInput/ChatInput.jsx": [
@@ -313,6 +313,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2026-02-11T11:23:23.790Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/gateway-assistant/src/components/ChatInput/ChatInput.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 6,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "jsx"
           }
         ],
