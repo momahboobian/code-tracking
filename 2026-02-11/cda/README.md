@@ -4,14 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 19                                          |
+| **Lines Added** (➕)   | 287                                          |
 | **Lines Removed** (➖) | 20                                        |
-| **Net Change** (↕)    | -1                |
-| **Active Time** (⌚)   | 24 minutes |
+| **Net Change** (↕)    | 267                |
+| **Active Time** (⌚)   | 33 minutes |
 
 
 ## Modified Files
-- **ChatInput.jsx** (+19, -20)
+- **ChatInput.jsx** (+26, -20)
+- **AddAttendeeModal.tsx** (+261, -0)
 
 ## Visualizations
 
@@ -20,7 +21,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".jsx" : 39
+".jsx" : 46
+".tsx" : 261
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -29,8 +31,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "09h" : 6
-"10h" : 7
+"10h" : 9
 ```
 
 
-> **Last Updated:** 11/02/2026, 10:19:59
+> **Last Updated:** 11/02/2026, 10:24:59
