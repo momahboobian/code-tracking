@@ -3,7 +3,7 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 3508,
-      "totalLinesRemoved": 591,
+      "totalLinesRemoved": 592,
       "totalActiveTime": 290,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/gateway-assistant/src/containers/Agent/Agent.jsx": [
@@ -2828,6 +2828,22 @@
             },
             "duration": 1,
             "language": "scss"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/gateway-assistant/src/components/Answer/Answer.jsx": [
+          {
+            "timestamp": "2026-02-12T14:16:38.292Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/gateway-assistant/src/components/Answer/Answer.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jsx"
           }
         ]
       },
