@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 105,
-      "totalLinesRemoved": 62,
-      "totalActiveTime": 51,
+      "totalLinesRemoved": 74,
+      "totalActiveTime": 52,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/gateway-assistant/src/containers/Agent/Agent.jsx": [
           {
@@ -355,6 +355,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2026-02-12T10:12:34.581Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/gateway-assistant/src/containers/Agent/Agent.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 12,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "jsx"
           }
         ],
