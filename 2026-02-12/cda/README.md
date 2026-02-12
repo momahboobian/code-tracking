@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2405                                          |
-| **Lines Removed** (➖) | 256                                        |
-| **Net Change** (↕)    | 2149                |
-| **Active Time** (⌚)   | 131 minutes |
+| **Lines Added** (➕)   | 2415                                          |
+| **Lines Removed** (➖) | 281                                        |
+| **Net Change** (↕)    | 2134                |
+| **Active Time** (⌚)   | 138 minutes |
 
 
 ## Modified Files
@@ -17,7 +17,7 @@
 - **ChatInput.jsx** (+94, -30)
 - **EventForm.tsx** (+1246, -0)
 - **ChatInput.scss** (+55, -7)
-- **ChatInput.test.js** (+130, -0)
+- **ChatInput.test.js** (+140, -25)
 - **AddAttendeeModal.test.tsx** (+558, -0)
 
 ## Visualizations
@@ -28,7 +28,7 @@
 pie showData
 title Lines changed by file type
 ".jsx" : 314
-".js" : 481
+".js" : 516
 ".tsx" : 1804
 ".scss" : 62
 ```
@@ -40,8 +40,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "09h" : 19
 "10h" : 23
-"11h" : 45
+"11h" : 49
 ```
 
 
-> **Last Updated:** 12/02/2026, 11:42:17
+> **Last Updated:** 12/02/2026, 11:47:17
