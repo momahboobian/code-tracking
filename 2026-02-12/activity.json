@@ -1,0 +1,75 @@
+{
+  "date": "2026-02-12",
+  "projects": {
+    "cda": {
+      "totalLinesAdded": 11,
+      "totalLinesRemoved": 4,
+      "totalActiveTime": 2,
+      "files": {
+        "/Users/momahboobian/Documents/_BBC/cda/apps/gateway-assistant/src/containers/Agent/Agent.jsx": [
+          {
+            "timestamp": "2026-02-12T09:26:09.085Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/gateway-assistant/src/containers/Agent/Agent.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2026-02-12T09:26:18.508Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/gateway-assistant/src/containers/Agent/Agent.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2026-02-12T09:26:28.084Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/gateway-assistant/src/containers/Agent/Agent.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "jsx": 2
+      },
+      "changeFrequency": {
+        "9": 2
+      },
+      "topFiles": [
+        "/Users/momahboobian/Documents/_BBC/cda/apps/gateway-assistant/src/containers/Agent/Agent.jsx"
+      ],
+      "averageChangeSize": 5
+    }
+  },
+  "totalActiveTime": 2,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    9
+  ],
+  "mostUsedLanguages": [
+    "jsx"
+  ]
+}
