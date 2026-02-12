@@ -2,9 +2,9 @@
   "date": "2026-02-12",
   "projects": {
     "cda": {
-      "totalLinesAdded": 109,
-      "totalLinesRemoved": 74,
-      "totalActiveTime": 54,
+      "totalLinesAdded": 315,
+      "totalLinesRemoved": 219,
+      "totalActiveTime": 56,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/gateway-assistant/src/containers/Agent/Agent.jsx": [
           {
@@ -470,6 +470,36 @@
             },
             "duration": 2,
             "language": "jsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/gateway-assistant/src/components/utils/useDocumentTitle.test.js": [
+          {
+            "timestamp": "2026-02-12T10:47:40.010Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/gateway-assistant/src/components/utils/useDocumentTitle.test.js",
+            "fileType": ".js",
+            "linesAdded": 206,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-02-12T10:47:54.807Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/gateway-assistant/src/components/utils/useDocumentTitle.test.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 145,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
           }
         ]
       },
