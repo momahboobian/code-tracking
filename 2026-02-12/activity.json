@@ -2,9 +2,9 @@
   "date": "2026-02-12",
   "projects": {
     "cda": {
-      "totalLinesAdded": 2537,
-      "totalLinesRemoved": 347,
-      "totalActiveTime": 180,
+      "totalLinesAdded": 2603,
+      "totalLinesRemoved": 413,
+      "totalActiveTime": 183,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/gateway-assistant/src/containers/Agent/Agent.jsx": [
           {
@@ -879,6 +879,62 @@
               "removed": []
             },
             "duration": 2,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2026-02-12T12:24:29.937Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/gateway-assistant/src/components/ChatInput/ChatInput.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 63,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2026-02-12T12:24:29.956Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/gateway-assistant/src/components/ChatInput/ChatInput.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 65,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2026-02-12T12:25:05.069Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/gateway-assistant/src/components/ChatInput/ChatInput.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2026-02-12T12:25:37.197Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/gateway-assistant/src/components/ChatInput/ChatInput.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "jsx"
           }
         ],
