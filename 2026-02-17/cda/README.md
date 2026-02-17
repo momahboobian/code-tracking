@@ -4,9 +4,9 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 5131                                          |
-| **Lines Removed** (➖) | 222                                        |
-| **Net Change** (↕)    | 4909                |
+| **Lines Added** (➕)   | 17258                                          |
+| **Lines Removed** (➖) | 255                                        |
+| **Net Change** (↕)    | 17003                |
 | **Active Time** (⌚)   | 110 minutes |
 
 
@@ -24,7 +24,19 @@
 - **quillNormaliser.ts** (+78, -33)
 - **quillNormalise.test.ts** (+84, -0)
 - **EventPage.test.tsx** (+1767, -4)
-- **Agent.jsx** (+237, -8)
+- **Agent.jsx** (+237, -41)
+- **ChatInput.jsx** (+58, -0)
+- **AssistantBadge.scss** (+35, -0)
+- **Answer.jsx** (+56, -0)
+- **AISearchIcon.jsx** (+8, -0)
+- **SearchSuggestions.scss** (+12, -0)
+- **Heading.scss** (+26, -0)
+- **package.json** (+50, -0)
+- **ChatInput.test.js** (+80, -0)
+- **yarn.lock** (+11531, -0)
+- **Agent.test.js** (+206, -0)
+- **ChatInput.scss** (+46, -0)
+- **Question.jsx** (+19, -0)
 
 ## Visualizations
 
@@ -33,11 +45,13 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".json" : 156
-".scss" : 935
+".json" : 206
+".scss" : 1054
 ".tsx" : 3815
 ".ts" : 202
-".jsx" : 245
+".jsx" : 419
+".js" : 286
+".lock" : 11531
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -52,7 +66,8 @@ title Coding activity by hour (count of changes)
 "13h" : 3
 "14h" : 24
 "17h" : 4
+"18h" : 13
 ```
 
 
-> **Last Updated:** 17/02/2026, 17:24:58
+> **Last Updated:** 17/02/2026, 18:04:58
