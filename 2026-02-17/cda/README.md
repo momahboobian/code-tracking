@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 4894                                          |
-| **Lines Removed** (➖) | 214                                        |
-| **Net Change** (↕)    | 4680                |
-| **Active Time** (⌚)   | 108 minutes |
+| **Lines Added** (➕)   | 5131                                          |
+| **Lines Removed** (➖) | 222                                        |
+| **Net Change** (↕)    | 4909                |
+| **Active Time** (⌚)   | 110 minutes |
 
 
 ## Modified Files
@@ -24,6 +24,7 @@
 - **quillNormaliser.ts** (+78, -33)
 - **quillNormalise.test.ts** (+84, -0)
 - **EventPage.test.tsx** (+1767, -4)
+- **Agent.jsx** (+237, -8)
 
 ## Visualizations
 
@@ -36,6 +37,7 @@ title Lines changed by file type
 ".scss" : 935
 ".tsx" : 3815
 ".ts" : 202
+".jsx" : 245
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -49,8 +51,8 @@ title Coding activity by hour (count of changes)
 "12h" : 12
 "13h" : 3
 "14h" : 24
-"17h" : 1
+"17h" : 4
 ```
 
 
-> **Last Updated:** 17/02/2026, 17:09:58
+> **Last Updated:** 17/02/2026, 17:24:58
