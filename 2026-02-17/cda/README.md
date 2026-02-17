@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3105                                          |
-| **Lines Removed** (➖) | 186                                        |
-| **Net Change** (↕)    | 2919                |
-| **Active Time** (⌚)   | 86 minutes |
+| **Lines Added** (➕)   | 4870                                          |
+| **Lines Removed** (➖) | 190                                        |
+| **Net Change** (↕)    | 4680                |
+| **Active Time** (⌚)   | 89 minutes |
 
 
 ## Modified Files
@@ -23,6 +23,7 @@
 - **package.json** (+85, -0)
 - **quillNormaliser.ts** (+78, -33)
 - **quillNormalise.test.ts** (+84, -0)
+- **EventPage.test.tsx** (+1765, -4)
 
 ## Visualizations
 
@@ -33,7 +34,7 @@ pie showData
 title Lines changed by file type
 ".json" : 156
 ".scss" : 935
-".tsx" : 1998
+".tsx" : 3767
 ".ts" : 202
 ```
 
@@ -47,8 +48,8 @@ title Coding activity by hour (count of changes)
 "11h" : 5
 "12h" : 12
 "13h" : 3
-"14h" : 8
+"14h" : 11
 ```
 
 
-> **Last Updated:** 17/02/2026, 14:09:58
+> **Last Updated:** 17/02/2026, 14:19:58
