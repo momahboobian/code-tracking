@@ -2,9 +2,9 @@
   "date": "2026-02-17",
   "projects": {
     "cda": {
-      "totalLinesAdded": 3001,
-      "totalLinesRemoved": 173,
-      "totalActiveTime": 63,
+      "totalLinesAdded": 3002,
+      "totalLinesRemoved": 174,
+      "totalActiveTime": 65,
       "files": {
         "/Users/momahboobian/Library/Application Support/Code/User/settings.json": [
           {
@@ -241,6 +241,34 @@
             "fileType": ".tsx",
             "linesAdded": 0,
             "linesRemoved": 46,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-02-17T12:55:33.436Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/containers/EventPage/EventPage.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-02-17T12:55:37.461Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/containers/EventPage/EventPage.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "cda",
             "content": {
               "added": [],
