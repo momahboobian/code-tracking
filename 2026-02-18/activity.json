@@ -2,9 +2,9 @@
   "date": "2026-02-18",
   "projects": {
     "cda": {
-      "totalLinesAdded": 9665,
+      "totalLinesAdded": 10046,
       "totalLinesRemoved": 7,
-      "totalActiveTime": 9,
+      "totalActiveTime": 12,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/components/ProfileFields/TruncatedJobTitle/TruncatedJobTitle.tsx": [
           {
@@ -124,6 +124,36 @@
             },
             "duration": 1,
             "language": "lock"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/low-risk-schema/resolvers/it-kit.js": [
+          {
+            "timestamp": "2026-02-18T12:52:47.530Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/low-risk-schema/resolvers/it-kit.js",
+            "fileType": ".js",
+            "linesAdded": 342,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-02-18T12:54:51.877Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/low-risk-schema/resolvers/it-kit.js",
+            "fileType": ".js",
+            "linesAdded": 39,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "js"
           }
         ]
       },
