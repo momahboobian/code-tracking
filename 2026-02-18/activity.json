@@ -2,9 +2,9 @@
   "date": "2026-02-18",
   "projects": {
     "cda": {
-      "totalLinesAdded": 12230,
-      "totalLinesRemoved": 7,
-      "totalActiveTime": 23,
+      "totalLinesAdded": 12586,
+      "totalLinesRemoved": 22,
+      "totalActiveTime": 29,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/components/ProfileFields/TruncatedJobTitle/TruncatedJobTitle.tsx": [
           {
@@ -286,6 +286,78 @@
             },
             "duration": 0,
             "language": "unknown"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/helpers/openSearch.ts": [
+          {
+            "timestamp": "2026-02-18T16:57:46.826Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/helpers/openSearch.ts",
+            "fileType": ".ts",
+            "linesAdded": 330,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-18T16:58:23.977Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/helpers/openSearch.ts",
+            "fileType": ".ts",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-18T16:58:52.525Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/helpers/openSearch.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 11,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-18T16:59:11.377Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/helpers/openSearch.ts",
+            "fileType": ".ts",
+            "linesAdded": 15,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-18T17:01:51.268Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/helpers/openSearch.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "ts"
           }
         ]
       },
