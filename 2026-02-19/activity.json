@@ -1,0 +1,80 @@
+{
+  "date": "2026-02-19",
+  "projects": {
+    "cda": {
+      "totalLinesAdded": 0,
+      "totalLinesRemoved": 69,
+      "totalActiveTime": 2,
+      "files": {
+        "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/helpers/openSearch.ts": [
+          {
+            "timestamp": "2026-02-19T11:19:05.780Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/helpers/openSearch.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 20,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-19T11:19:20.615Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/helpers/openSearch.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 20,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/components/Search/helpers/useSearch.test.tsx": [
+          {
+            "timestamp": "2026-02-19T11:19:28.285Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/components/Search/helpers/useSearch.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 29,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "ts": 1,
+        "tsx": 1
+      },
+      "changeFrequency": {
+        "11": 2
+      },
+      "topFiles": [
+        "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/helpers/openSearch.ts",
+        "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/components/Search/helpers/useSearch.test.tsx"
+      ],
+      "averageChangeSize": 23
+    }
+  },
+  "totalActiveTime": 2,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    11
+  ],
+  "mostUsedLanguages": [
+    "ts",
+    "tsx"
+  ]
+}
