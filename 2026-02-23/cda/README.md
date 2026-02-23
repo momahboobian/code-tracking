@@ -4,16 +4,18 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1481                                          |
-| **Lines Removed** (➖) | 379                                        |
-| **Net Change** (↕)    | 1102                |
-| **Active Time** (⌚)   | 24 minutes |
+| **Lines Added** (➕)   | 15535                                          |
+| **Lines Removed** (➖) | 391                                        |
+| **Net Change** (↕)    | 15144                |
+| **Active Time** (⌚)   | 35 minutes |
 
 
 ## Modified Files
 - **EventPage.tsx** (+498, -13)
 - **EventCard.scss** (+709, -362)
-- **EventPage.scss** (+274, -4)
+- **EventPage.scss** (+282, -16)
+- **yarn.lock** (+13961, -0)
+- **package.json** (+85, -0)
 
 ## Visualizations
 
@@ -23,7 +25,9 @@
 pie showData
 title Lines changed by file type
 ".tsx" : 511
-".scss" : 1349
+".scss" : 1369
+".lock" : 13961
+".json" : 85
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -32,8 +36,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "10h" : 11
-"11h" : 11
+"11h" : 19
 ```
 
 
-> **Last Updated:** 23/02/2026, 11:21:32
+> **Last Updated:** 23/02/2026, 11:46:32
