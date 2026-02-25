@@ -2,7 +2,7 @@
   "date": "2026-02-25",
   "projects": {
     "cda": {
-      "totalLinesAdded": 14009,
+      "totalLinesAdded": 14168,
       "totalLinesRemoved": 2126,
       "totalActiveTime": 191,
       "files": {
@@ -1650,6 +1650,22 @@
             },
             "duration": 1,
             "language": "js"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/jenkins/admin-gateway-assistant-data-sync.groovy": [
+          {
+            "timestamp": "2026-02-25T18:30:06.527Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/jenkins/admin-gateway-assistant-data-sync.groovy",
+            "fileType": ".groovy",
+            "linesAdded": 159,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "groovy"
           }
         ]
       },
