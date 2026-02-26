@@ -1,0 +1,104 @@
+{
+  "date": "2026-02-26",
+  "projects": {
+    "cda": {
+      "totalLinesAdded": 2327,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 3,
+      "files": {
+        "/Users/momahboobian/Documents/_BBC/cda/apps/gateway-assistant/src/components/Question/Question.jsx": [
+          {
+            "timestamp": "2026-02-26T09:00:22.384Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/gateway-assistant/src/components/Question/Question.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/gateway-assistant/src/containers/Agent/Agent.test.js": [
+          {
+            "timestamp": "2026-02-26T09:00:22.389Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/gateway-assistant/src/containers/Agent/Agent.test.js",
+            "fileType": ".js",
+            "linesAdded": 211,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/gateway-assistant/src/components/AssistantBadge/AssistantBadge.scss": [
+          {
+            "timestamp": "2026-02-26T09:01:25.096Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/gateway-assistant/src/components/AssistantBadge/AssistantBadge.scss",
+            "fileType": ".scss",
+            "linesAdded": 34,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "scss"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/tools/isite-data/ipages-project-live/documenttype/page-standard/published/form.xml": [
+          {
+            "timestamp": "2026-02-26T09:01:34.167Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/tools/isite-data/ipages-project-live/documenttype/page-standard/published/form.xml",
+            "fileType": ".xml",
+            "linesAdded": 2070,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "xml"
+          }
+        ]
+      },
+      "languageStats": {
+        "jsx": 0,
+        "js": 0,
+        "scss": 2,
+        "xml": 1
+      },
+      "changeFrequency": {
+        "9": 3
+      },
+      "topFiles": [
+        "/Users/momahboobian/Documents/_BBC/cda/apps/gateway-assistant/src/components/Question/Question.jsx",
+        "/Users/momahboobian/Documents/_BBC/cda/apps/gateway-assistant/src/containers/Agent/Agent.test.js",
+        "/Users/momahboobian/Documents/_BBC/cda/apps/gateway-assistant/src/components/AssistantBadge/AssistantBadge.scss",
+        "/Users/momahboobian/Documents/_BBC/cda/tools/isite-data/ipages-project-live/documenttype/page-standard/published/form.xml"
+      ],
+      "averageChangeSize": 581.75
+    }
+  },
+  "totalActiveTime": 4,
+  "totalProjects": 1,
+  "totalFiles": 4,
+  "mostActiveHours": [
+    9
+  ],
+  "mostUsedLanguages": [
+    "scss",
+    "xml",
+    "jsx",
+    "js"
+  ]
+}
