@@ -411,9 +411,9 @@
       "averageChangeSize": 581.75
     },
     "car_database": {
-      "totalLinesAdded": 696,
-      "totalLinesRemoved": 19,
-      "totalActiveTime": 70,
+      "totalLinesAdded": 760,
+      "totalLinesRemoved": 32,
+      "totalActiveTime": 79,
       "files": {
         "/Users/momahboobian/dyad-apps/car_database/src/data/cars.ts": [
           {
@@ -821,6 +821,34 @@
             },
             "duration": 1,
             "language": "css"
+          },
+          {
+            "timestamp": "2026-02-26T14:43:29.088Z",
+            "fileName": "/Users/momahboobian/dyad-apps/car_database/src/app/globals.css",
+            "fileType": ".css",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "car_database",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "css"
+          },
+          {
+            "timestamp": "2026-02-26T14:43:50.936Z",
+            "fileName": "/Users/momahboobian/dyad-apps/car_database/src/app/globals.css",
+            "fileType": ".css",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "car_database",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
           }
         ],
         "/Users/momahboobian/dyad-apps/car_database/tailwind.config.js": [
@@ -1206,6 +1234,66 @@
               "removed": []
             },
             "duration": 3,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/dyad-apps/car_database/tsconfig.json": [
+          {
+            "timestamp": "2026-02-26T14:41:12.417Z",
+            "fileName": "/Users/momahboobian/dyad-apps/car_database/tsconfig.json",
+            "fileType": ".json",
+            "linesAdded": 42,
+            "linesRemoved": 0,
+            "projectName": "car_database",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-02-26T14:41:22.721Z",
+            "fileName": "/Users/momahboobian/dyad-apps/car_database/tsconfig.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 7,
+            "projectName": "car_database",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "/Users/momahboobian/dyad-apps/car_database/tailwind.config.ts": [
+          {
+            "timestamp": "2026-02-26T14:41:17.259Z",
+            "fileName": "/Users/momahboobian/dyad-apps/car_database/tailwind.config.ts",
+            "fileType": ".ts",
+            "linesAdded": 18,
+            "linesRemoved": 0,
+            "projectName": "car_database",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-26T14:41:18.557Z",
+            "fileName": "/Users/momahboobian/dyad-apps/car_database/tailwind.config.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "car_database",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "ts"
           }
         ]
