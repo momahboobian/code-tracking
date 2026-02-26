@@ -439,9 +439,9 @@
       "averageChangeSize": 581.75
     },
     "car_database": {
-      "totalLinesAdded": 775,
-      "totalLinesRemoved": 32,
-      "totalActiveTime": 85,
+      "totalLinesAdded": 854,
+      "totalLinesRemoved": 40,
+      "totalActiveTime": 89,
       "files": {
         "/Users/momahboobian/dyad-apps/car_database/src/data/cars.ts": [
           {
@@ -870,6 +870,34 @@
             "fileType": ".css",
             "linesAdded": 0,
             "linesRemoved": 4,
+            "projectName": "car_database",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2026-02-26T18:44:52.629Z",
+            "fileName": "/Users/momahboobian/dyad-apps/car_database/src/app/globals.css",
+            "fileType": ".css",
+            "linesAdded": 34,
+            "linesRemoved": 0,
+            "projectName": "car_database",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "css"
+          },
+          {
+            "timestamp": "2026-02-26T18:44:55.214Z",
+            "fileName": "/Users/momahboobian/dyad-apps/car_database/src/app/globals.css",
+            "fileType": ".css",
+            "linesAdded": 0,
+            "linesRemoved": 8,
             "projectName": "car_database",
             "content": {
               "added": [],
@@ -1345,6 +1373,36 @@
             "fileName": "/Users/momahboobian/dyad-apps/car_database/src/index.css",
             "fileType": ".css",
             "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "car_database",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          }
+        ],
+        "/Users/momahboobian/dyad-apps/car_database/src/globals.css": [
+          {
+            "timestamp": "2026-02-26T18:46:40.915Z",
+            "fileName": "/Users/momahboobian/dyad-apps/car_database/src/globals.css",
+            "fileType": ".css",
+            "linesAdded": 39,
+            "linesRemoved": 0,
+            "projectName": "car_database",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "css"
+          },
+          {
+            "timestamp": "2026-02-26T18:46:59.887Z",
+            "fileName": "/Users/momahboobian/dyad-apps/car_database/src/globals.css",
+            "fileType": ".css",
+            "linesAdded": 6,
             "linesRemoved": 0,
             "projectName": "car_database",
             "content": {
