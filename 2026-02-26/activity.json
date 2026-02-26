@@ -411,9 +411,9 @@
       "averageChangeSize": 581.75
     },
     "car_database": {
-      "totalLinesAdded": 66,
+      "totalLinesAdded": 188,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 0,
+      "totalActiveTime": 5,
       "files": {
         "/Users/momahboobian/dyad-apps/car_database/src/data/cars.ts": [
           {
@@ -429,6 +429,22 @@
             },
             "duration": 0,
             "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/dyad-apps/car_database/src/app/page.tsx": [
+          {
+            "timestamp": "2026-02-26T12:51:57.149Z",
+            "fileName": "/Users/momahboobian/dyad-apps/car_database/src/app/page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 122,
+            "linesRemoved": 0,
+            "projectName": "car_database",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "tsx"
           }
         ]
       },
