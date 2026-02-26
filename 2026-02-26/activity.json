@@ -409,6 +409,39 @@
         "/Users/momahboobian/Documents/_BBC/cda/tools/isite-data/ipages-project-live/documenttype/page-standard/published/form.xml"
       ],
       "averageChangeSize": 581.75
+    },
+    "car_database": {
+      "totalLinesAdded": 66,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/momahboobian/dyad-apps/car_database/src/data/cars.ts": [
+          {
+            "timestamp": "2026-02-26T12:47:27.505Z",
+            "fileName": "/Users/momahboobian/dyad-apps/car_database/src/data/cars.ts",
+            "fileType": ".ts",
+            "linesAdded": 66,
+            "linesRemoved": 0,
+            "projectName": "car_database",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ]
+      },
+      "languageStats": {
+        "ts": 0
+      },
+      "changeFrequency": {
+        "12": 0
+      },
+      "topFiles": [
+        "/Users/momahboobian/dyad-apps/car_database/src/data/cars.ts"
+      ],
+      "averageChangeSize": 66
     }
   },
   "totalActiveTime": 4,
