@@ -2,9 +2,9 @@
   "date": "2026-03-02",
   "projects": {
     "cda": {
-      "totalLinesAdded": 27983,
-      "totalLinesRemoved": 172,
-      "totalActiveTime": 58,
+      "totalLinesAdded": 42615,
+      "totalLinesRemoved": 283,
+      "totalActiveTime": 63,
       "files": {
         "/Users/momahboobian/Library/Application Support/Code/User/settings.json": [
           {
@@ -432,6 +432,20 @@
             },
             "duration": 1,
             "language": "js"
+          },
+          {
+            "timestamp": "2026-03-02T13:40:15.722Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/high-risk-schema/definitions/desks.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 13,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/high-risk-schema/resolvers/desks.ts": [
@@ -455,6 +469,20 @@
             "fileType": ".ts",
             "linesAdded": 29,
             "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-03-02T13:40:15.724Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/high-risk-schema/resolvers/desks.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 29,
             "projectName": "cda",
             "content": {
               "added": [],
@@ -492,6 +520,20 @@
             },
             "duration": 1,
             "language": "ts"
+          },
+          {
+            "timestamp": "2026-03-02T13:40:15.738Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/types/gql-generated/high-risk/resolvers-types.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 67,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/types/gql-generated/low-risk/resolvers-types.ts": [
@@ -515,6 +557,20 @@
             "fileType": ".ts",
             "linesAdded": 2,
             "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-03-02T13:40:15.749Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/types/gql-generated/low-risk/resolvers-types.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 2,
             "projectName": "cda",
             "content": {
               "added": [],
@@ -583,6 +639,38 @@
               "removed": []
             },
             "duration": 2,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/desks/src/gql-generated/low-risk/graphql.ts": [
+          {
+            "timestamp": "2026-03-02T13:38:38.877Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/desks/src/gql-generated/low-risk/graphql.ts",
+            "fileType": ".ts",
+            "linesAdded": 6353,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/desks/src/gql-generated/high-risk/graphql.ts": [
+          {
+            "timestamp": "2026-03-02T13:39:15.793Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/desks/src/gql-generated/high-risk/graphql.ts",
+            "fileType": ".ts",
+            "linesAdded": 8279,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "ts"
           }
         ]
