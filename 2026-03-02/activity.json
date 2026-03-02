@@ -1,0 +1,80 @@
+{
+  "date": "2026-03-02",
+  "projects": {
+    "cda": {
+      "totalLinesAdded": 297,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 3,
+      "files": {
+        "/Users/momahboobian/Library/Application Support/Code/User/settings.json": [
+          {
+            "timestamp": "2026-03-02T10:11:28.484Z",
+            "fileName": "/Users/momahboobian/Library/Application Support/Code/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 71,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/gateway-assistant/src/containers/Agent/Agent.jsx": [
+          {
+            "timestamp": "2026-03-02T10:13:16.822Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/gateway-assistant/src/containers/Agent/Agent.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 225,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2026-03-02T10:14:11.808Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/gateway-assistant/src/containers/Agent/Agent.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 0,
+        "jsx": 3
+      },
+      "changeFrequency": {
+        "10": 3
+      },
+      "topFiles": [
+        "/Users/momahboobian/Documents/_BBC/cda/apps/gateway-assistant/src/containers/Agent/Agent.jsx",
+        "/Users/momahboobian/Library/Application Support/Code/User/settings.json"
+      ],
+      "averageChangeSize": 99
+    }
+  },
+  "totalActiveTime": 3,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    10
+  ],
+  "mostUsedLanguages": [
+    "jsx",
+    "json"
+  ]
+}
