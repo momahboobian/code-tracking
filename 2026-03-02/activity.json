@@ -2,9 +2,9 @@
   "date": "2026-03-02",
   "projects": {
     "cda": {
-      "totalLinesAdded": 27883,
+      "totalLinesAdded": 27983,
       "totalLinesRemoved": 172,
-      "totalActiveTime": 56,
+      "totalActiveTime": 58,
       "files": {
         "/Users/momahboobian/Library/Application Support/Code/User/settings.json": [
           {
@@ -568,6 +568,22 @@
             },
             "duration": 1,
             "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/desks/src/gql-generated/high-risk/gql.ts": [
+          {
+            "timestamp": "2026-03-02T13:26:20.593Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/desks/src/gql-generated/high-risk/gql.ts",
+            "fileType": ".ts",
+            "linesAdded": 100,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
           }
         ]
       },
