@@ -4,15 +4,18 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 119                                          |
-| **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 119                |
-| **Active Time** (⌚)   | 0 minute |
+| **Lines Added** (➕)   | 351                                          |
+| **Lines Removed** (➖) | 5                                        |
+| **Net Change** (↕)    | 346                |
+| **Active Time** (⌚)   | 7 minutes |
 
 
 ## Modified Files
 - **getDefaultSystemPrompt.js** (+43, -0)
 - **ConstructDefinitionListItem.tsx** (+76, -0)
+- **PublicDetailsPanel.tsx** (+183, -0)
+- **ProfileFields.tsx** (+21, -0)
+- **ConstructFieldRows.tsx** (+28, -5)
 
 ## Visualizations
 
@@ -22,7 +25,7 @@
 pie showData
 title Lines changed by file type
 ".js" : 43
-".tsx" : 76
+".tsx" : 313
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -30,8 +33,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"16h" : 2
+"16h" : 7
 ```
 
 
-> **Last Updated:** 09/03/2026, 16:28:28
+> **Last Updated:** 09/03/2026, 16:33:28
