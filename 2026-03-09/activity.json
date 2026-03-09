@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 1754,
-      "totalLinesRemoved": 116,
-      "totalActiveTime": 59,
+      "totalLinesRemoved": 118,
+      "totalActiveTime": 61,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/utils/gateway-agent/getDefaultSystemPrompt.js": [
           {
@@ -601,6 +601,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-03-09T17:34:27.120Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/components/ProfileFields/utils/profileFieldsConfig.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "ts"
           }
         ]
