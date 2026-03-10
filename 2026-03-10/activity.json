@@ -111,6 +111,129 @@
         "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/components/ProfileFields/utils/profileFieldsConfig.ts"
       ],
       "averageChangeSize": 1
+    },
+    "Newspaper": {
+      "totalLinesAdded": 361,
+      "totalLinesRemoved": 6,
+      "totalActiveTime": 6,
+      "files": {
+        "/Users/momahboobian/Library/Caches/Transmit/2F051BDA-999C-41DC-B388-A8F1F1BB693D/217.154.34.51/var/www/vhosts/iranefardalive.com/httpdocs/wp-content/themes/Newspaper/loop-single.php": [
+          {
+            "timestamp": "2026-03-10T23:43:11.643Z",
+            "fileName": "/Users/momahboobian/Library/Caches/Transmit/2F051BDA-999C-41DC-B388-A8F1F1BB693D/217.154.34.51/var/www/vhosts/iranefardalive.com/httpdocs/wp-content/themes/Newspaper/loop-single.php",
+            "fileType": ".php",
+            "linesAdded": 162,
+            "linesRemoved": 0,
+            "projectName": "Newspaper",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          },
+          {
+            "timestamp": "2026-03-10T23:43:12.998Z",
+            "fileName": "/Users/momahboobian/Library/Caches/Transmit/2F051BDA-999C-41DC-B388-A8F1F1BB693D/217.154.34.51/var/www/vhosts/iranefardalive.com/httpdocs/wp-content/themes/Newspaper/loop-single.php",
+            "fileType": ".php",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "Newspaper",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2026-03-10T23:44:02.299Z",
+            "fileName": "/Users/momahboobian/Library/Caches/Transmit/2F051BDA-999C-41DC-B388-A8F1F1BB693D/217.154.34.51/var/www/vhosts/iranefardalive.com/httpdocs/wp-content/themes/Newspaper/loop-single.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "Newspaper",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "/Users/momahboobian/Library/Caches/Transmit/24E5E687-C032-4409-87B3-6CE8F483842C/217.154.34.51/var/www/vhosts/iranefardalive.com/httpdocs/wp-content/themes/Newspaper/loop.php": [
+          {
+            "timestamp": "2026-03-10T23:44:49.230Z",
+            "fileName": "/Users/momahboobian/Library/Caches/Transmit/24E5E687-C032-4409-87B3-6CE8F483842C/217.154.34.51/var/www/vhosts/iranefardalive.com/httpdocs/wp-content/themes/Newspaper/loop.php",
+            "fileType": ".php",
+            "linesAdded": 69,
+            "linesRemoved": 0,
+            "projectName": "Newspaper",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2026-03-10T23:44:51.368Z",
+            "fileName": "/Users/momahboobian/Library/Caches/Transmit/24E5E687-C032-4409-87B3-6CE8F483842C/217.154.34.51/var/www/vhosts/iranefardalive.com/httpdocs/wp-content/themes/Newspaper/loop.php",
+            "fileType": ".php",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Newspaper",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2026-03-10T23:45:02.326Z",
+            "fileName": "/Users/momahboobian/Library/Caches/Transmit/24E5E687-C032-4409-87B3-6CE8F483842C/217.154.34.51/var/www/vhosts/iranefardalive.com/httpdocs/wp-content/themes/Newspaper/loop.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "Newspaper",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "/Users/momahboobian/Library/Caches/Transmit/CF57B1E3-5169-4427-B3A4-550BC20CB87D/217.154.34.51/var/www/vhosts/iranefardalive.com/httpdocs/wp-content/themes/Newspaper/loop-archive.php": [
+          {
+            "timestamp": "2026-03-10T23:45:16.279Z",
+            "fileName": "/Users/momahboobian/Library/Caches/Transmit/CF57B1E3-5169-4427-B3A4-550BC20CB87D/217.154.34.51/var/www/vhosts/iranefardalive.com/httpdocs/wp-content/themes/Newspaper/loop-archive.php",
+            "fileType": ".php",
+            "linesAdded": 124,
+            "linesRemoved": 0,
+            "projectName": "Newspaper",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ]
+      },
+      "languageStats": {
+        "php": 6
+      },
+      "changeFrequency": {
+        "23": 6
+      },
+      "topFiles": [
+        "/Users/momahboobian/Library/Caches/Transmit/2F051BDA-999C-41DC-B388-A8F1F1BB693D/217.154.34.51/var/www/vhosts/iranefardalive.com/httpdocs/wp-content/themes/Newspaper/loop-single.php",
+        "/Users/momahboobian/Library/Caches/Transmit/24E5E687-C032-4409-87B3-6CE8F483842C/217.154.34.51/var/www/vhosts/iranefardalive.com/httpdocs/wp-content/themes/Newspaper/loop.php",
+        "/Users/momahboobian/Library/Caches/Transmit/CF57B1E3-5169-4427-B3A4-550BC20CB87D/217.154.34.51/var/www/vhosts/iranefardalive.com/httpdocs/wp-content/themes/Newspaper/loop-archive.php"
+      ],
+      "averageChangeSize": 52.42857142857143
     }
   },
   "totalActiveTime": 1,
