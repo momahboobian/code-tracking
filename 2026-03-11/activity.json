@@ -2,7 +2,7 @@
   "date": "2026-03-11",
   "projects": {
     "cda": {
-      "totalLinesAdded": 12298,
+      "totalLinesAdded": 12353,
       "totalLinesRemoved": 12,
       "totalActiveTime": 52,
       "files": {
@@ -580,6 +580,22 @@
             },
             "duration": 0,
             "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/components/PersonRow/PersonRow.scss": [
+          {
+            "timestamp": "2026-03-11T15:38:54.025Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/components/PersonRow/PersonRow.scss",
+            "fileType": ".scss",
+            "linesAdded": 55,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "scss"
           }
         ]
       },
