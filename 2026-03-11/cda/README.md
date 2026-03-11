@@ -4,15 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 12358                                          |
-| **Lines Removed** (➖) | 15                                        |
-| **Net Change** (↕)    | 12343                |
-| **Active Time** (⌚)   | 63 minutes |
+| **Lines Added** (➕)   | 12375                                          |
+| **Lines Removed** (➖) | 20                                        |
+| **Net Change** (↕)    | 12355                |
+| **Active Time** (⌚)   | 71 minutes |
 
 
 ## Modified Files
 - **queries.ts** (+771, -1)
-- **MyTeam.tsx** (+211, -1)
+- **MyTeam.tsx** (+215, -2)
 - **team.js** (+141, -2)
 - **20260311111518-replace-peopleview-teams-view.js** (+59, -0)
 - **20260202163922-replace-peopleview-profiles-view.js** (+127, -0)
@@ -23,10 +23,10 @@
 - **sap_views.ts** (+1468, -0)
 - **gql.ts** (+112, -0)
 - **graphql.ts** (+8289, -0)
-- **PeopleList.tsx** (+152, -3)
+- **PeopleList.tsx** (+153, -4)
 - **MyTeam.types.ts** (+47, -1)
-- **PersonRow.tsx** (+111, -0)
-- **PersonRow.scss** (+60, -3)
+- **PersonRow.tsx** (+117, -3)
+- **PersonRow.scss** (+66, -3)
 
 ## Visualizations
 
@@ -36,10 +36,10 @@
 pie showData
 title Lines changed by file type
 ".ts" : 10689
-".tsx" : 478
+".tsx" : 494
 ".js" : 1055
 "unknown" : 88
-".scss" : 63
+".scss" : 69
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -52,7 +52,8 @@ title Coding activity by hour (count of changes)
 "11h" : 11
 "12h" : 20
 "15h" : 7
+"16h" : 8
 ```
 
 
-> **Last Updated:** 11/03/2026, 15:48:59
+> **Last Updated:** 11/03/2026, 16:08:59
