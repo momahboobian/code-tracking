@@ -5,9 +5,9 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 13816                                          |
-| **Lines Removed** (➖) | 30                                        |
-| **Net Change** (↕)    | 13786                |
-| **Active Time** (⌚)   | 114 minutes |
+| **Lines Removed** (➖) | 34                                        |
+| **Net Change** (↕)    | 13782                |
+| **Active Time** (⌚)   | 119 minutes |
 
 
 ## Modified Files
@@ -29,7 +29,7 @@
 - **PersonRow.scss** (+75, -9)
 - **ProfileLabel.tsx** (+12, -0)
 - **team.test.js** (+473, -0)
-- **peopleview-queries.js** (+740, -0)
+- **peopleview-queries.js** (+740, -4)
 - **PeopleViewRepository.js** (+207, -0)
 
 ## Visualizations
@@ -41,7 +41,7 @@ pie showData
 title Lines changed by file type
 ".ts" : 10689
 ".tsx" : 510
-".js" : 2475
+".js" : 2479
 "unknown" : 88
 ".scss" : 84
 ```
@@ -57,8 +57,8 @@ title Coding activity by hour (count of changes)
 "12h" : 20
 "15h" : 7
 "16h" : 18
-"17h" : 8
+"17h" : 9
 ```
 
 
-> **Last Updated:** 11/03/2026, 17:25:47
+> **Last Updated:** 11/03/2026, 17:30:47
