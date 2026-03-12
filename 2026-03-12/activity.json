@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 966,
-      "totalLinesRemoved": 158,
-      "totalActiveTime": 68,
+      "totalLinesRemoved": 164,
+      "totalActiveTime": 70,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/utils/peopleview/PeopleViewRepository.js": [
           {
@@ -739,6 +739,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-03-12T17:01:34.349Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/gateway-assistant/src/components/SearchSuggestions/SearchSuggestions.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 6,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "js"
           }
         ],
