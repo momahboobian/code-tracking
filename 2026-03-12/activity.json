@@ -2,8 +2,8 @@
   "date": "2026-03-12",
   "projects": {
     "cda": {
-      "totalLinesAdded": 11,
-      "totalLinesRemoved": 73,
+      "totalLinesAdded": 252,
+      "totalLinesRemoved": 91,
       "totalActiveTime": 5,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/utils/peopleview/PeopleViewRepository.js": [
@@ -78,6 +78,20 @@
             },
             "duration": 1,
             "language": "js"
+          },
+          {
+            "timestamp": "2026-03-12T10:10:30.341Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-transformers/tests/peopleview/team.test.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 18,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/high-risk-schema/peopleview-queries.js": [
@@ -93,6 +107,38 @@
               "removed": []
             },
             "duration": 1,
+            "language": "js"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/components/PersonRow/PersonRow.tsx": [
+          {
+            "timestamp": "2026-03-12T10:10:30.314Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/components/PersonRow/PersonRow.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 104,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-transformers/src/peopleview/team.js": [
+          {
+            "timestamp": "2026-03-12T10:10:30.332Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-transformers/src/peopleview/team.js",
+            "fileType": ".js",
+            "linesAdded": 137,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "js"
           }
         ]
