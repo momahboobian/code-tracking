@@ -4,18 +4,18 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 252                                          |
+| **Lines Added** (➕)   | 278                                          |
 | **Lines Removed** (➖) | 91                                        |
-| **Net Change** (↕)    | 161                |
+| **Net Change** (↕)    | 187                |
 | **Active Time** (⌚)   | 5 minutes |
 
 
 ## Modified Files
 - **PeopleViewRepository.js** (+0, -12)
-- **team.test.js** (+11, -19)
+- **team.test.js** (+29, -19)
 - **peopleview-queries.js** (+0, -60)
-- **PersonRow.tsx** (+104, -0)
-- **team.js** (+137, -0)
+- **PersonRow.tsx** (+110, -0)
+- **team.js** (+139, -0)
 
 ## Visualizations
 
@@ -24,8 +24,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".js" : 239
-".tsx" : 104
+".js" : 259
+".tsx" : 110
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -34,8 +34,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "09h" : 4
-"10h" : 5
+"10h" : 8
 ```
 
 
-> **Last Updated:** 12/03/2026, 10:11:00
+> **Last Updated:** 12/03/2026, 10:41:00
