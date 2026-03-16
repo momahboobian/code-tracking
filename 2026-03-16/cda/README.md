@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1959                                          |
-| **Lines Removed** (➖) | 52                                        |
-| **Net Change** (↕)    | 1907                |
-| **Active Time** (⌚)   | 95 minutes |
+| **Lines Added** (➕)   | 2394                                          |
+| **Lines Removed** (➖) | 56                                        |
+| **Net Change** (↕)    | 2338                |
+| **Active Time** (⌚)   | 100 minutes |
 
 
 ## Modified Files
@@ -19,11 +19,11 @@
 - **EmploymentDetailsPanel.tsx** (+41, -1)
 - **AttachmentDetailsPanel.tsx** (+55, -28)
 - **profileFieldsConfig.ts** (+502, -9)
-- **ProfileFields.types.ts** (+118, -2)
+- **ProfileFields.types.ts** (+235, -3)
 - **.env** (+91, -0)
 - **ConstructDefinitionListItem.tsx** (+76, -0)
 - **PeopleList.tsx** (+149, -0)
-- **Profile.types.ts** (+321, -6)
+- **Profile.types.ts** (+639, -9)
 
 ## Visualizations
 
@@ -35,7 +35,7 @@ title Lines changed by file type
 ".jsx" : 27
 ".scss" : 131
 ".tsx" : 804
-".ts" : 958
+".ts" : 1397
 "unknown" : 91
 ```
 
@@ -48,8 +48,8 @@ title Coding activity by hour (count of changes)
 "14h" : 17
 "15h" : 18
 "16h" : 20
-"17h" : 6
+"17h" : 11
 ```
 
 
-> **Last Updated:** 16/03/2026, 17:16:00
+> **Last Updated:** 16/03/2026, 17:23:56
