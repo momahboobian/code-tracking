@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 1628,
-      "totalLinesRemoved": 33,
-      "totalActiveTime": 58,
+      "totalLinesRemoved": 34,
+      "totalActiveTime": 63,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/gateway-assistant/src/components/Promo/Promo.jsx": [
           {
@@ -311,6 +311,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-03-16T16:13:39.093Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/components/AttachmentDetailsPanel/AttachmentDetailsPanel.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "tsx"
           }
         ],
