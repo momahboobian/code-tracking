@@ -4,23 +4,23 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2394                                          |
-| **Lines Removed** (➖) | 56                                        |
-| **Net Change** (↕)    | 2338                |
-| **Active Time** (⌚)   | 100 minutes |
+| **Lines Added** (➕)   | 2690                                          |
+| **Lines Removed** (➖) | 61                                        |
+| **Net Change** (↕)    | 2629                |
+| **Active Time** (⌚)   | 108 minutes |
 
 
 ## Modified Files
 - **Promo.jsx** (+27, -0)
 - **Promo.scss** (+125, -6)
 - **PersonRow.tsx** (+110, -0)
-- **ProfilePublic.tsx** (+199, -0)
+- **ProfilePublic.tsx** (+404, -5)
 - **AttachmentDetailsPanel.test.tsx** (+145, -0)
 - **EmploymentDetailsPanel.tsx** (+41, -1)
 - **AttachmentDetailsPanel.tsx** (+55, -28)
 - **profileFieldsConfig.ts** (+502, -9)
 - **ProfileFields.types.ts** (+235, -3)
-- **.env** (+91, -0)
+- **.env** (+182, -0)
 - **ConstructDefinitionListItem.tsx** (+76, -0)
 - **PeopleList.tsx** (+149, -0)
 - **Profile.types.ts** (+639, -9)
@@ -34,9 +34,9 @@ pie showData
 title Lines changed by file type
 ".jsx" : 27
 ".scss" : 131
-".tsx" : 804
+".tsx" : 1014
 ".ts" : 1397
-"unknown" : 91
+"unknown" : 182
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -48,8 +48,8 @@ title Coding activity by hour (count of changes)
 "14h" : 17
 "15h" : 18
 "16h" : 20
-"17h" : 11
+"17h" : 16
 ```
 
 
-> **Last Updated:** 16/03/2026, 17:23:56
+> **Last Updated:** 16/03/2026, 17:28:56
