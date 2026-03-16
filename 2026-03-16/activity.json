@@ -3,7 +3,7 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 1390,
-      "totalLinesRemoved": 21,
+      "totalLinesRemoved": 22,
       "totalActiveTime": 39,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/gateway-assistant/src/components/Promo/Promo.jsx": [
@@ -313,6 +313,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-03-16T15:28:18.889Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/components/ProfileFields/utils/profileFieldsConfig.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "ts"
           }
         ],
