@@ -2,9 +2,9 @@
   "date": "2026-03-17",
   "projects": {
     "cda": {
-      "totalLinesAdded": 15108,
-      "totalLinesRemoved": 359,
-      "totalActiveTime": 148,
+      "totalLinesAdded": 15547,
+      "totalLinesRemoved": 362,
+      "totalActiveTime": 155,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/components/ProfileFields/utils/fieldUtils.ts": [
           {
@@ -372,6 +372,62 @@
             },
             "duration": 0,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2026-03-17T17:42:30.949Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/components/AttachmentDetailsPanel/AttachmentDetailsPanel.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 90,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-03-17T17:42:36.992Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/components/AttachmentDetailsPanel/AttachmentDetailsPanel.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-03-17T17:42:50.693Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/components/AttachmentDetailsPanel/AttachmentDetailsPanel.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-03-17T17:43:14.256Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/components/AttachmentDetailsPanel/AttachmentDetailsPanel.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/components/AttachmentDetailsPanel/AttachmentDetailsPanel.tsx": [
@@ -573,6 +629,48 @@
           },
           {
             "timestamp": "2026-03-17T17:34:55.533Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/components/AttachmentDetailsPanel/AttachmentDetailsPanel.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-03-17T17:41:44.640Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/components/AttachmentDetailsPanel/AttachmentDetailsPanel.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 32,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-03-17T17:41:52.239Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/components/AttachmentDetailsPanel/AttachmentDetailsPanel.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-03-17T17:42:19.450Z",
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/components/AttachmentDetailsPanel/AttachmentDetailsPanel.tsx",
             "fileType": ".tsx",
             "linesAdded": 1,
@@ -905,6 +1003,20 @@
             "fileType": ".ts",
             "linesAdded": 0,
             "linesRemoved": 3,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-03-17T17:43:53.513Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/containers/Profile/Profile.types.ts",
+            "fileType": ".ts",
+            "linesAdded": 306,
+            "linesRemoved": 0,
             "projectName": "cda",
             "content": {
               "added": [],

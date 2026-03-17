@@ -4,19 +4,19 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 15108                                          |
-| **Lines Removed** (➖) | 359                                        |
-| **Net Change** (↕)    | 14749                |
-| **Active Time** (⌚)   | 148 minutes |
+| **Lines Added** (➕)   | 15547                                          |
+| **Lines Removed** (➖) | 362                                        |
+| **Net Change** (↕)    | 15185                |
+| **Active Time** (⌚)   | 155 minutes |
 
 
 ## Modified Files
 - **fieldUtils.ts** (+407, -6)
-- **AttachmentDetailsPanel.test.tsx** (+323, -141)
-- **AttachmentDetailsPanel.tsx** (+70, -11)
+- **AttachmentDetailsPanel.test.tsx** (+423, -143)
+- **AttachmentDetailsPanel.tsx** (+103, -12)
 - **Panel.scss** (+12, -0)
 - **ProfilePublic.tsx** (+209, -9)
-- **Profile.types.ts** (+348, -42)
+- **Profile.types.ts** (+654, -42)
 - **graphql.ts** (+8290, -123)
 - **20260317142951-replace-peopleview-teams-view.js** (+60, -0)
 - **profile.js** (+241, -4)
@@ -39,8 +39,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 12203
-".tsx" : 763
+".ts" : 12509
+".tsx" : 899
 ".scss" : 12
 ".js" : 2489
 ```
@@ -56,8 +56,8 @@ title Coding activity by hour (count of changes)
 "14h" : 7
 "15h" : 16
 "16h" : 32
-"17h" : 16
+"17h" : 24
 ```
 
 
-> **Last Updated:** 17/03/2026, 17:38:01
+> **Last Updated:** 17/03/2026, 17:45:31
