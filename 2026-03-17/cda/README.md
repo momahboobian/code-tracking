@@ -4,16 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 15088                                          |
-| **Lines Removed** (➖) | 329                                        |
+| **Lines Added** (➕)   | 15090                                          |
+| **Lines Removed** (➖) | 331                                        |
 | **Net Change** (↕)    | 14759                |
-| **Active Time** (⌚)   | 132 minutes |
+| **Active Time** (⌚)   | 136 minutes |
 
 
 ## Modified Files
 - **fieldUtils.ts** (+407, -6)
 - **AttachmentDetailsPanel.test.tsx** (+323, -141)
-- **AttachmentDetailsPanel.tsx** (+62, -2)
+- **AttachmentDetailsPanel.tsx** (+64, -4)
 - **Panel.scss** (+12, -0)
 - **ProfilePublic.tsx** (+209, -9)
 - **Profile.types.ts** (+343, -27)
@@ -40,7 +40,7 @@
 pie showData
 title Lines changed by file type
 ".ts" : 12170
-".tsx" : 746
+".tsx" : 750
 ".scss" : 12
 ".js" : 2489
 ```
@@ -56,8 +56,8 @@ title Coding activity by hour (count of changes)
 "14h" : 7
 "15h" : 16
 "16h" : 32
-"17h" : 3
+"17h" : 5
 ```
 
 
-> **Last Updated:** 17/03/2026, 17:13:01
+> **Last Updated:** 17/03/2026, 17:18:01
