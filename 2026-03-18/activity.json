@@ -3,7 +3,7 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 577,
-      "totalLinesRemoved": 14,
+      "totalLinesRemoved": 24,
       "totalActiveTime": 12,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/components/ProfileFields/ProfileFields.types.ts": [
@@ -41,6 +41,20 @@
             "fileType": ".ts",
             "linesAdded": 8,
             "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-03-18T14:57:08.566Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/components/ProfileFields/ProfileFields.types.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 8,
             "projectName": "cda",
             "content": {
               "added": [],
@@ -161,6 +175,20 @@
             "fileType": ".ts",
             "linesAdded": 200,
             "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-03-18T14:57:08.604Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/components/ProfileFields/utils/fieldUtils.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 2,
             "projectName": "cda",
             "content": {
               "added": [],

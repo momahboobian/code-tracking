@@ -5,17 +5,17 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 577                                          |
-| **Lines Removed** (➖) | 14                                        |
-| **Net Change** (↕)    | 563                |
+| **Lines Removed** (➖) | 24                                        |
+| **Net Change** (↕)    | 553                |
 | **Active Time** (⌚)   | 12 minutes |
 
 
 ## Modified Files
-- **ProfileFields.types.ts** (+125, -8)
+- **ProfileFields.types.ts** (+125, -16)
 - **AttachmentDetailsPanel.tsx** (+32, -0)
 - **ProfilePublic.tsx** (+197, -0)
 - **Question.scss** (+23, -6)
-- **fieldUtils.ts** (+200, -0)
+- **fieldUtils.ts** (+200, -2)
 
 ## Visualizations
 
@@ -24,7 +24,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 333
+".ts" : 343
 ".tsx" : 229
 ".scss" : 29
 ```
@@ -36,7 +36,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "08h" : 9
 "09h" : 2
+"14h" : 2
 ```
 
 
-> **Last Updated:** 18/03/2026, 09:24:26
+> **Last Updated:** 18/03/2026, 14:59:26
