@@ -268,7 +268,7 @@
       "averageChangeSize": 683.9285714285714
     },
     "commonwealth-front-end-task": {
-      "totalLinesAdded": 1346,
+      "totalLinesAdded": 1391,
       "totalLinesRemoved": 181,
       "totalActiveTime": 79,
       "files": {
@@ -1272,6 +1272,22 @@
             },
             "duration": 1,
             "language": "jsx"
+          }
+        ],
+        "/Users/momahboobian/Desktop/cda-assessments/commonwealth-front-end-task/src/components/MedalsTable/MedalsTable.test.js": [
+          {
+            "timestamp": "2026-03-19T14:31:20.210Z",
+            "fileName": "/Users/momahboobian/Desktop/cda-assessments/commonwealth-front-end-task/src/components/MedalsTable/MedalsTable.test.js",
+            "fileType": ".js",
+            "linesAdded": 45,
+            "linesRemoved": 0,
+            "projectName": "commonwealth-front-end-task",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
           }
         ]
       },
