@@ -2,9 +2,9 @@
   "date": "2026-03-19",
   "projects": {
     "cda": {
-      "totalLinesAdded": 9513,
+      "totalLinesAdded": 9559,
       "totalLinesRemoved": 62,
-      "totalActiveTime": 11,
+      "totalActiveTime": 12,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/components/ProfileFields/utils/fieldUtils.ts": [
           {
@@ -208,6 +208,38 @@
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/components/Panel/Panel.scss",
             "fileType": ".scss",
             "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/gateway-assistant/src/components/Question/Question.jsx": [
+          {
+            "timestamp": "2026-03-19T09:02:05.643Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/gateway-assistant/src/components/Question/Question.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 29,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/gateway-assistant/src/components/Question/Question.scss": [
+          {
+            "timestamp": "2026-03-19T09:02:17.038Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/gateway-assistant/src/components/Question/Question.scss",
+            "fileType": ".scss",
+            "linesAdded": 17,
             "linesRemoved": 0,
             "projectName": "cda",
             "content": {
