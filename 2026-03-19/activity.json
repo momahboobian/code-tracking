@@ -268,9 +268,9 @@
       "averageChangeSize": 683.9285714285714
     },
     "commonwealth-front-end-task": {
-      "totalLinesAdded": 1575,
-      "totalLinesRemoved": 207,
-      "totalActiveTime": 151,
+      "totalLinesAdded": 1579,
+      "totalLinesRemoved": 219,
+      "totalActiveTime": 156,
       "files": {
         "/Users/momahboobian/Library/Mobile Documents/com~apple~CloudDocs/Documents/CV/--Junior Software Engineer/-Assessment repos/cda-assessments/commonwealth-front-end-task/src/components/MedalsTable/MedalsTable.jsx": [
           {
@@ -937,6 +937,34 @@
           },
           {
             "timestamp": "2026-03-19T14:58:44.201Z",
+            "fileName": "/Users/momahboobian/Desktop/cda-assessments/commonwealth-front-end-task/src/components/MedalsTable/MedalsTable.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "commonwealth-front-end-task",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2026-03-19T15:23:49.128Z",
+            "fileName": "/Users/momahboobian/Desktop/cda-assessments/commonwealth-front-end-task/src/components/MedalsTable/MedalsTable.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "commonwealth-front-end-task",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2026-03-19T15:25:39.505Z",
             "fileName": "/Users/momahboobian/Desktop/cda-assessments/commonwealth-front-end-task/src/components/MedalsTable/MedalsTable.jsx",
             "fileType": ".jsx",
             "linesAdded": 0,
@@ -1787,6 +1815,34 @@
             "fileType": ".jsx",
             "linesAdded": 0,
             "linesRemoved": 1,
+            "projectName": "commonwealth-front-end-task",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2026-03-19T15:24:44.208Z",
+            "fileName": "/Users/momahboobian/Desktop/cda-assessments/commonwealth-front-end-task/src/containers/Home/Home.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "commonwealth-front-end-task",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2026-03-19T15:25:11.179Z",
+            "fileName": "/Users/momahboobian/Desktop/cda-assessments/commonwealth-front-end-task/src/containers/Home/Home.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 11,
             "projectName": "commonwealth-front-end-task",
             "content": {
               "added": [],
