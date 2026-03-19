@@ -268,7 +268,7 @@
       "averageChangeSize": 683.9285714285714
     },
     "commonwealth-front-end-task": {
-      "totalLinesAdded": 212,
+      "totalLinesAdded": 217,
       "totalLinesRemoved": 39,
       "totalActiveTime": 3,
       "files": {
@@ -299,6 +299,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2026-03-19T11:22:47.807Z",
+            "fileName": "/Users/momahboobian/Library/Mobile Documents/com~apple~CloudDocs/Documents/CV/--Junior Software Engineer/-Assessment repos/cda-assessments/commonwealth-front-end-task/src/components/MedalsTable/MedalsTable.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "commonwealth-front-end-task",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "jsx"
           }
         ],
