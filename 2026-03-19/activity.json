@@ -268,9 +268,9 @@
       "averageChangeSize": 683.9285714285714
     },
     "commonwealth-front-end-task": {
-      "totalLinesAdded": 981,
+      "totalLinesAdded": 1027,
       "totalLinesRemoved": 176,
-      "totalActiveTime": 54,
+      "totalActiveTime": 55,
       "files": {
         "/Users/momahboobian/Library/Mobile Documents/com~apple~CloudDocs/Documents/CV/--Junior Software Engineer/-Assessment repos/cda-assessments/commonwealth-front-end-task/src/components/MedalsTable/MedalsTable.jsx": [
           {
@@ -944,6 +944,38 @@
             },
             "duration": 0,
             "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/dyad-apps/commonwealth-front-end-task/src/App.ts": [
+          {
+            "timestamp": "2026-03-19T14:05:44.036Z",
+            "fileName": "/Users/momahboobian/dyad-apps/commonwealth-front-end-task/src/App.ts",
+            "fileType": ".ts",
+            "linesAdded": 23,
+            "linesRemoved": 0,
+            "projectName": "commonwealth-front-end-task",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/dyad-apps/commonwealth-front-end-task/src/App.js": [
+          {
+            "timestamp": "2026-03-19T14:06:32.529Z",
+            "fileName": "/Users/momahboobian/dyad-apps/commonwealth-front-end-task/src/App.js",
+            "fileType": ".js",
+            "linesAdded": 23,
+            "linesRemoved": 0,
+            "projectName": "commonwealth-front-end-task",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
           }
         ]
       },
