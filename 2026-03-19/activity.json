@@ -268,9 +268,9 @@
       "averageChangeSize": 683.9285714285714
     },
     "commonwealth-front-end-task": {
-      "totalLinesAdded": 1246,
-      "totalLinesRemoved": 176,
-      "totalActiveTime": 66,
+      "totalLinesAdded": 1346,
+      "totalLinesRemoved": 181,
+      "totalActiveTime": 79,
       "files": {
         "/Users/momahboobian/Library/Mobile Documents/com~apple~CloudDocs/Documents/CV/--Junior Software Engineer/-Assessment repos/cda-assessments/commonwealth-front-end-task/src/components/MedalsTable/MedalsTable.jsx": [
           {
@@ -1050,6 +1050,20 @@
             },
             "duration": 1,
             "language": "js"
+          },
+          {
+            "timestamp": "2026-03-19T14:12:54.419Z",
+            "fileName": "/Users/momahboobian/dyad-apps/commonwealth-front-end-task/src/hooks/useCountries.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "commonwealth-front-end-task",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
           }
         ],
         "/Users/momahboobian/dyad-apps/commonwealth-front-end-task/src/hooks/useMedals.js": [
@@ -1080,6 +1094,20 @@
             },
             "duration": 1,
             "language": "js"
+          },
+          {
+            "timestamp": "2026-03-19T14:14:16.479Z",
+            "fileName": "/Users/momahboobian/dyad-apps/commonwealth-front-end-task/src/hooks/useMedals.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "commonwealth-front-end-task",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "js"
           }
         ],
         "/Users/momahboobian/dyad-apps/commonwealth-front-end-task/src/components/MedalsTable/MedalsTable.jsx": [
@@ -1100,6 +1128,140 @@
           {
             "timestamp": "2026-03-19T14:11:08.258Z",
             "fileName": "/Users/momahboobian/dyad-apps/commonwealth-front-end-task/src/components/MedalsTable/MedalsTable.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "commonwealth-front-end-task",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2026-03-19T14:12:09.290Z",
+            "fileName": "/Users/momahboobian/dyad-apps/commonwealth-front-end-task/src/components/MedalsTable/MedalsTable.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "commonwealth-front-end-task",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "jsx"
+          }
+        ],
+        "/Users/momahboobian/dyad-apps/commonwealth-front-end-task/src/services/country.ts": [
+          {
+            "timestamp": "2026-03-19T14:13:16.222Z",
+            "fileName": "/Users/momahboobian/dyad-apps/commonwealth-front-end-task/src/services/country.ts",
+            "fileType": ".ts",
+            "linesAdded": 25,
+            "linesRemoved": 0,
+            "projectName": "commonwealth-front-end-task",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/dyad-apps/commonwealth-front-end-task/src/hooks/useCountry.js": [
+          {
+            "timestamp": "2026-03-19T14:14:18.097Z",
+            "fileName": "/Users/momahboobian/dyad-apps/commonwealth-front-end-task/src/hooks/useCountry.js",
+            "fileType": ".js",
+            "linesAdded": 21,
+            "linesRemoved": 0,
+            "projectName": "commonwealth-front-end-task",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-03-19T14:14:18.849Z",
+            "fileName": "/Users/momahboobian/dyad-apps/commonwealth-front-end-task/src/hooks/useCountry.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "commonwealth-front-end-task",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "/Users/momahboobian/dyad-apps/commonwealth-front-end-task/src/services/medals.js": [
+          {
+            "timestamp": "2026-03-19T14:14:52.343Z",
+            "fileName": "/Users/momahboobian/dyad-apps/commonwealth-front-end-task/src/services/medals.js",
+            "fileType": ".js",
+            "linesAdded": 25,
+            "linesRemoved": 0,
+            "projectName": "commonwealth-front-end-task",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-03-19T14:15:05.574Z",
+            "fileName": "/Users/momahboobian/dyad-apps/commonwealth-front-end-task/src/services/medals.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "commonwealth-front-end-task",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-03-19T14:15:08.568Z",
+            "fileName": "/Users/momahboobian/dyad-apps/commonwealth-front-end-task/src/services/medals.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "commonwealth-front-end-task",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "/Users/momahboobian/dyad-apps/commonwealth-front-end-task/src/components/SearchInput/SearchInput.jsx": [
+          {
+            "timestamp": "2026-03-19T14:15:54.224Z",
+            "fileName": "/Users/momahboobian/dyad-apps/commonwealth-front-end-task/src/components/SearchInput/SearchInput.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 27,
+            "linesRemoved": 0,
+            "projectName": "commonwealth-front-end-task",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2026-03-19T14:15:56.699Z",
+            "fileName": "/Users/momahboobian/dyad-apps/commonwealth-front-end-task/src/components/SearchInput/SearchInput.jsx",
             "fileType": ".jsx",
             "linesAdded": 1,
             "linesRemoved": 0,
