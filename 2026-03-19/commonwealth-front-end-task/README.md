@@ -4,17 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 530                                          |
-| **Lines Removed** (➖) | 123                                        |
-| **Net Change** (↕)    | 407                |
-| **Active Time** (⌚)   | 16 minutes |
+| **Lines Added** (➕)   | 563                                          |
+| **Lines Removed** (➖) | 163                                        |
+| **Net Change** (↕)    | 400                |
+| **Active Time** (⌚)   | 23 minutes |
 
 
 ## Modified Files
 - **MedalsTable.jsx** (+82, -39)
 - **settings.json** (+72, -0)
 - **MedalsTable.jsx** (+64, -0)
-- **Home.jsx** (+312, -84)
+- **Home.jsx** (+345, -124)
 
 ## Visualizations
 
@@ -23,7 +23,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".jsx" : 581
+".jsx" : 654
 ".json" : 72
 ```
 
@@ -32,8 +32,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"11h" : 17
+"11h" : 21
 ```
 
 
-> **Last Updated:** 19/03/2026, 11:41:21
+> **Last Updated:** 19/03/2026, 11:46:21
