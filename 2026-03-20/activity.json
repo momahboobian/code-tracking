@@ -490,7 +490,7 @@
     },
     "Designexo-child": {
       "totalLinesAdded": 537,
-      "totalLinesRemoved": 123,
+      "totalLinesRemoved": 124,
       "totalActiveTime": 30,
       "files": {
         "/Users/momahboobian/Downloads/Designexo-child/style.css": [
@@ -750,6 +750,20 @@
               "removed": []
             },
             "duration": 3,
+            "language": "php"
+          },
+          {
+            "timestamp": "2026-03-20T11:49:00.673Z",
+            "fileName": "/Users/momahboobian/Downloads/Designexo-child/functions.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Designexo-child",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "php"
           }
         ],
