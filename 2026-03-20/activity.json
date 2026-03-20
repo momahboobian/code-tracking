@@ -489,9 +489,9 @@
       "averageChangeSize": 28
     },
     "Designexo-child": {
-      "totalLinesAdded": 537,
-      "totalLinesRemoved": 124,
-      "totalActiveTime": 30,
+      "totalLinesAdded": 620,
+      "totalLinesRemoved": 214,
+      "totalActiveTime": 34,
       "files": {
         "/Users/momahboobian/Downloads/Designexo-child/style.css": [
           {
@@ -534,6 +534,34 @@
               "removed": []
             },
             "duration": 0,
+            "language": "css"
+          },
+          {
+            "timestamp": "2026-03-20T11:56:20.057Z",
+            "fileName": "/Users/momahboobian/Downloads/Designexo-child/style.css",
+            "fileType": ".css",
+            "linesAdded": 0,
+            "linesRemoved": 79,
+            "projectName": "Designexo-child",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2026-03-20T11:59:02.192Z",
+            "fileName": "/Users/momahboobian/Downloads/Designexo-child/style.css",
+            "fileType": ".css",
+            "linesAdded": 83,
+            "linesRemoved": 0,
+            "projectName": "Designexo-child",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "css"
           }
         ],
@@ -758,6 +786,20 @@
             "fileType": ".php",
             "linesAdded": 0,
             "linesRemoved": 1,
+            "projectName": "Designexo-child",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          },
+          {
+            "timestamp": "2026-03-20T11:56:07.997Z",
+            "fileName": "/Users/momahboobian/Downloads/Designexo-child/functions.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 11,
             "projectName": "Designexo-child",
             "content": {
               "added": [],
