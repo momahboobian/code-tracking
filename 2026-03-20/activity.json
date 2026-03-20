@@ -2,9 +2,9 @@
   "date": "2026-03-20",
   "projects": {
     "Newspaper-child": {
-      "totalLinesAdded": 251,
+      "totalLinesAdded": 385,
       "totalLinesRemoved": 3,
-      "totalActiveTime": 10,
+      "totalActiveTime": 15,
       "files": {
         "/Users/momahboobian/Downloads/Newspaper-child/functions.php": [
           {
@@ -37,6 +37,34 @@
           },
           {
             "timestamp": "2026-03-20T08:51:30.838Z",
+            "fileName": "/Users/momahboobian/Downloads/Newspaper-child/functions.php",
+            "fileType": ".php",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "Newspaper-child",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2026-03-20T09:19:57.149Z",
+            "fileName": "/Users/momahboobian/Downloads/Newspaper-child/functions.php",
+            "fileType": ".php",
+            "linesAdded": 37,
+            "linesRemoved": 0,
+            "projectName": "Newspaper-child",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2026-03-20T09:20:14.394Z",
             "fileName": "/Users/momahboobian/Downloads/Newspaper-child/functions.php",
             "fileType": ".php",
             "linesAdded": 11,
@@ -138,6 +166,34 @@
             },
             "duration": 1,
             "language": "php"
+          },
+          {
+            "timestamp": "2026-03-20T09:18:15.559Z",
+            "fileName": "/Users/momahboobian/Downloads/Newspaper-child/single-digitalart.php",
+            "fileType": ".php",
+            "linesAdded": 43,
+            "linesRemoved": 0,
+            "projectName": "Newspaper-child",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "php"
+          },
+          {
+            "timestamp": "2026-03-20T09:19:00.812Z",
+            "fileName": "/Users/momahboobian/Downloads/Newspaper-child/single-digitalart.php",
+            "fileType": ".php",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "Newspaper-child",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
           }
         ],
         "/Users/momahboobian/Library/Application Support/Code/User/settings.json": [
@@ -173,6 +229,20 @@
         "/Users/momahboobian/Downloads/Newspaper-child/archive-digitalart.php": [
           {
             "timestamp": "2026-03-20T09:15:42.799Z",
+            "fileName": "/Users/momahboobian/Downloads/Newspaper-child/archive-digitalart.php",
+            "fileType": ".php",
+            "linesAdded": 40,
+            "linesRemoved": 0,
+            "projectName": "Newspaper-child",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          },
+          {
+            "timestamp": "2026-03-20T09:16:58.529Z",
             "fileName": "/Users/momahboobian/Downloads/Newspaper-child/archive-digitalart.php",
             "fileType": ".php",
             "linesAdded": 40,
