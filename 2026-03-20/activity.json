@@ -487,6 +487,39 @@
         "/Users/momahboobian/Downloads/Newspaper-child/functions.php"
       ],
       "averageChangeSize": 28
+    },
+    "Designexo-child": {
+      "totalLinesAdded": 15,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/momahboobian/Downloads/Designexo-child/style.css": [
+          {
+            "timestamp": "2026-03-20T09:43:53.679Z",
+            "fileName": "/Users/momahboobian/Downloads/Designexo-child/style.css",
+            "fileType": ".css",
+            "linesAdded": 15,
+            "linesRemoved": 0,
+            "projectName": "Designexo-child",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "css"
+          }
+        ]
+      },
+      "languageStats": {
+        "css": 0
+      },
+      "changeFrequency": {
+        "9": 0
+      },
+      "topFiles": [
+        "/Users/momahboobian/Downloads/Designexo-child/style.css"
+      ],
+      "averageChangeSize": 15
     }
   },
   "totalActiveTime": 0,
