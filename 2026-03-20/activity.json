@@ -580,6 +580,57 @@
         "/Users/momahboobian/Downloads/Designexo-child/style.css"
       ],
       "averageChangeSize": 15
+    },
+    "cda": {
+      "totalLinesAdded": 46,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/momahboobian/Documents/_BBC/cda/apps/gateway-assistant/src/components/Question/Question.jsx": [
+          {
+            "timestamp": "2026-03-20T10:50:24.172Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/gateway-assistant/src/components/Question/Question.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 29,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/gateway-assistant/src/components/Question/Question.scss": [
+          {
+            "timestamp": "2026-03-20T10:50:24.174Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/gateway-assistant/src/components/Question/Question.scss",
+            "fileType": ".scss",
+            "linesAdded": 17,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "scss"
+          }
+        ]
+      },
+      "languageStats": {
+        "jsx": 0,
+        "scss": 0
+      },
+      "changeFrequency": {
+        "10": 0
+      },
+      "topFiles": [
+        "/Users/momahboobian/Documents/_BBC/cda/apps/gateway-assistant/src/components/Question/Question.jsx",
+        "/Users/momahboobian/Documents/_BBC/cda/apps/gateway-assistant/src/components/Question/Question.scss"
+      ],
+      "averageChangeSize": 23
     }
   },
   "totalActiveTime": 0,
