@@ -4,16 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 136                                          |
-| **Lines Removed** (➖) | 37                                        |
-| **Net Change** (↕)    | 99                |
-| **Active Time** (⌚)   | 3 minutes |
+| **Lines Added** (➕)   | 199                                          |
+| **Lines Removed** (➖) | 46                                        |
+| **Net Change** (↕)    | 153                |
+| **Active Time** (⌚)   | 6 minutes |
 
 
 ## Modified Files
-- **style.css** (+15, -0)
+- **style.css** (+30, -0)
 - **single-digitalart.php** (+80, -37)
 - **archive-digitalart.php** (+41, -0)
+- **functions.php** (+48, -9)
 
 ## Visualizations
 
@@ -22,8 +23,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".css" : 15
-".php" : 158
+".css" : 30
+".php" : 215
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -32,8 +33,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "09h" : 1
-"10h" : 4
+"10h" : 8
 ```
 
 
-> **Last Updated:** 20/03/2026, 10:33:51
+> **Last Updated:** 20/03/2026, 10:55:01
