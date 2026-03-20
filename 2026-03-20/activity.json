@@ -2,9 +2,9 @@
   "date": "2026-03-20",
   "projects": {
     "Newspaper-child": {
-      "totalLinesAdded": 385,
+      "totalLinesAdded": 491,
       "totalLinesRemoved": 3,
-      "totalActiveTime": 15,
+      "totalActiveTime": 28,
       "files": {
         "/Users/momahboobian/Downloads/Newspaper-child/functions.php": [
           {
@@ -253,6 +253,156 @@
               "removed": []
             },
             "duration": 0,
+            "language": "php"
+          }
+        ],
+        "/Users/momahboobian/Downloads/Newspaper-child/taxonomy-art_type-digital-art.php": [
+          {
+            "timestamp": "2026-03-20T09:24:14.321Z",
+            "fileName": "/Users/momahboobian/Downloads/Newspaper-child/taxonomy-art_type-digital-art.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Newspaper-child",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "php"
+          },
+          {
+            "timestamp": "2026-03-20T09:24:23.450Z",
+            "fileName": "/Users/momahboobian/Downloads/Newspaper-child/taxonomy-art_type-digital-art.php",
+            "fileType": ".php",
+            "linesAdded": 22,
+            "linesRemoved": 0,
+            "projectName": "Newspaper-child",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "/Users/momahboobian/Downloads/Newspaper-child/taxonomy-art_type-logo-design.php": [
+          {
+            "timestamp": "2026-03-20T09:24:24.322Z",
+            "fileName": "/Users/momahboobian/Downloads/Newspaper-child/taxonomy-art_type-logo-design.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Newspaper-child",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2026-03-20T09:24:24.881Z",
+            "fileName": "/Users/momahboobian/Downloads/Newspaper-child/taxonomy-art_type-logo-design.php",
+            "fileType": ".php",
+            "linesAdded": 22,
+            "linesRemoved": 0,
+            "projectName": "Newspaper-child",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "/Users/momahboobian/Downloads/Newspaper-child/taxonomy-art_type-motion-graphic.php": [
+          {
+            "timestamp": "2026-03-20T09:24:25.721Z",
+            "fileName": "/Users/momahboobian/Downloads/Newspaper-child/taxonomy-art_type-motion-graphic.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Newspaper-child",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2026-03-20T09:24:26.431Z",
+            "fileName": "/Users/momahboobian/Downloads/Newspaper-child/taxonomy-art_type-motion-graphic.php",
+            "fileType": ".php",
+            "linesAdded": 22,
+            "linesRemoved": 0,
+            "projectName": "Newspaper-child",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "/Users/momahboobian/Downloads/Newspaper-child/taxonomy-art_type-print-design.php": [
+          {
+            "timestamp": "2026-03-20T09:24:27.035Z",
+            "fileName": "/Users/momahboobian/Downloads/Newspaper-child/taxonomy-art_type-print-design.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Newspaper-child",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2026-03-20T09:24:35.825Z",
+            "fileName": "/Users/momahboobian/Downloads/Newspaper-child/taxonomy-art_type-print-design.php",
+            "fileType": ".php",
+            "linesAdded": 22,
+            "linesRemoved": 0,
+            "projectName": "Newspaper-child",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "/Users/momahboobian/Downloads/Newspaper-child/single-logo-design.php": [
+          {
+            "timestamp": "2026-03-20T09:25:05.393Z",
+            "fileName": "/Users/momahboobian/Downloads/Newspaper-child/single-logo-design.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Newspaper-child",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2026-03-20T09:25:41.798Z",
+            "fileName": "/Users/momahboobian/Downloads/Newspaper-child/single-logo-design.php",
+            "fileType": ".php",
+            "linesAdded": 13,
+            "linesRemoved": 0,
+            "projectName": "Newspaper-child",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "php"
           }
         ]
