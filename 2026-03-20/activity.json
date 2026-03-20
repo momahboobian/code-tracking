@@ -490,8 +490,8 @@
     },
     "Designexo-child": {
       "totalLinesAdded": 199,
-      "totalLinesRemoved": 46,
-      "totalActiveTime": 6,
+      "totalLinesRemoved": 69,
+      "totalActiveTime": 7,
       "files": {
         "/Users/momahboobian/Downloads/Designexo-child/style.css": [
           {
@@ -618,6 +618,34 @@
             "fileType": ".php",
             "linesAdded": 0,
             "linesRemoved": 2,
+            "projectName": "Designexo-child",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2026-03-20T10:59:03.035Z",
+            "fileName": "/Users/momahboobian/Downloads/Designexo-child/functions.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 19,
+            "projectName": "Designexo-child",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          },
+          {
+            "timestamp": "2026-03-20T10:59:35.747Z",
+            "fileName": "/Users/momahboobian/Downloads/Designexo-child/functions.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 4,
             "projectName": "Designexo-child",
             "content": {
               "added": [],
