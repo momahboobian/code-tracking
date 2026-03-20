@@ -1,0 +1,47 @@
+{
+  "date": "2026-03-20",
+  "projects": {
+    "Newspaper-child": {
+      "totalLinesAdded": 28,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/momahboobian/Downloads/Newspaper-child/functions.php": [
+          {
+            "timestamp": "2026-03-20T08:37:07.187Z",
+            "fileName": "/Users/momahboobian/Downloads/Newspaper-child/functions.php",
+            "fileType": ".php",
+            "linesAdded": 28,
+            "linesRemoved": 0,
+            "projectName": "Newspaper-child",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          }
+        ]
+      },
+      "languageStats": {
+        "php": 0
+      },
+      "changeFrequency": {
+        "8": 0
+      },
+      "topFiles": [
+        "/Users/momahboobian/Downloads/Newspaper-child/functions.php"
+      ],
+      "averageChangeSize": 28
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    8
+  ],
+  "mostUsedLanguages": [
+    "php"
+  ]
+}
