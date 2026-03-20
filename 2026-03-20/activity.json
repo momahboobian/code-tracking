@@ -2,9 +2,9 @@
   "date": "2026-03-20",
   "projects": {
     "Newspaper-child": {
-      "totalLinesAdded": 138,
+      "totalLinesAdded": 211,
       "totalLinesRemoved": 3,
-      "totalActiveTime": 9,
+      "totalActiveTime": 10,
       "files": {
         "/Users/momahboobian/Downloads/Newspaper-child/functions.php": [
           {
@@ -138,6 +138,36 @@
             },
             "duration": 1,
             "language": "php"
+          }
+        ],
+        "/Users/momahboobian/Library/Application Support/Code/User/settings.json": [
+          {
+            "timestamp": "2026-03-20T09:01:50.675Z",
+            "fileName": "/Users/momahboobian/Library/Application Support/Code/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 72,
+            "linesRemoved": 0,
+            "projectName": "Newspaper-child",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-03-20T09:01:51.181Z",
+            "fileName": "/Users/momahboobian/Library/Application Support/Code/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Newspaper-child",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ]
       },
