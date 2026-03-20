@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 232                                          |
+| **Lines Added** (➕)   | 300                                          |
 | **Lines Removed** (➖) | 74                                        |
-| **Net Change** (↕)    | 158                |
-| **Active Time** (⌚)   | 13 minutes |
+| **Net Change** (↕)    | 226                |
+| **Active Time** (⌚)   | 18 minutes |
 
 
 ## Modified Files
@@ -15,6 +15,8 @@
 - **single-digitalart.php** (+80, -37)
 - **archive-digitalart.php** (+41, -0)
 - **functions.php** (+81, -37)
+- **archive-digitalart.php** (+35, -0)
+- **single-digitalart.php** (+33, -0)
 
 ## Visualizations
 
@@ -24,7 +26,7 @@
 pie showData
 title Lines changed by file type
 ".css" : 30
-".php" : 276
+".php" : 344
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -34,8 +36,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "09h" : 1
 "10h" : 10
-"11h" : 2
+"11h" : 6
 ```
 
 
-> **Last Updated:** 20/03/2026, 11:05:01
+> **Last Updated:** 20/03/2026, 11:10:01
