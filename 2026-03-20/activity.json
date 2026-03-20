@@ -490,7 +490,7 @@
     },
     "Designexo-child": {
       "totalLinesAdded": 301,
-      "totalLinesRemoved": 74,
+      "totalLinesRemoved": 77,
       "totalActiveTime": 18,
       "files": {
         "/Users/momahboobian/Downloads/Designexo-child/style.css": [
@@ -724,6 +724,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2026-03-20T11:26:27.703Z",
+            "fileName": "/Users/momahboobian/Downloads/Designexo-child/template-parts/archive-digitalart.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "Designexo-child",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "php"
           }
         ],
