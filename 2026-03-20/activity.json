@@ -2,9 +2,9 @@
   "date": "2026-03-20",
   "projects": {
     "Newspaper-child": {
-      "totalLinesAdded": 55,
+      "totalLinesAdded": 138,
       "totalLinesRemoved": 3,
-      "totalActiveTime": 2,
+      "totalActiveTime": 9,
       "files": {
         "/Users/momahboobian/Downloads/Newspaper-child/functions.php": [
           {
@@ -78,6 +78,66 @@
             },
             "duration": 1,
             "language": "css"
+          }
+        ],
+        "/Users/momahboobian/Downloads/Newspaper-child/archive.php": [
+          {
+            "timestamp": "2026-03-20T08:54:31.835Z",
+            "fileName": "/Users/momahboobian/Downloads/Newspaper-child/archive.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Newspaper-child",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "php"
+          },
+          {
+            "timestamp": "2026-03-20T08:54:33.168Z",
+            "fileName": "/Users/momahboobian/Downloads/Newspaper-child/archive.php",
+            "fileType": ".php",
+            "linesAdded": 39,
+            "linesRemoved": 0,
+            "projectName": "Newspaper-child",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "/Users/momahboobian/Downloads/Newspaper-child/single-digitalart.php": [
+          {
+            "timestamp": "2026-03-20T08:54:58.579Z",
+            "fileName": "/Users/momahboobian/Downloads/Newspaper-child/single-digitalart.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Newspaper-child",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2026-03-20T08:55:00.974Z",
+            "fileName": "/Users/momahboobian/Downloads/Newspaper-child/single-digitalart.php",
+            "fileType": ".php",
+            "linesAdded": 42,
+            "linesRemoved": 0,
+            "projectName": "Newspaper-child",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
           }
         ]
       },
