@@ -4,16 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 627                                          |
+| **Lines Added** (➕)   | 866                                          |
 | **Lines Removed** (➖) | 1                                        |
-| **Net Change** (↕)    | 626                |
-| **Active Time** (⌚)   | 13 minutes |
+| **Net Change** (↕)    | 865                |
+| **Active Time** (⌚)   | 15 minutes |
 
 
 ## Modified Files
 - **20260323141954-replace-peopleview-profiles-view.js** (+130, -1)
 - **settings.json** (+73, -0)
 - **peopleview.js** (+424, -0)
+- **profile.js** (+239, -0)
 
 ## Visualizations
 
@@ -22,7 +23,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".js" : 555
+".js" : 794
 ".json" : 73
 ```
 
@@ -31,8 +32,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"14h" : 8
+"14h" : 11
 ```
 
 
-> **Last Updated:** 23/03/2026, 14:29:22
+> **Last Updated:** 23/03/2026, 14:39:22
