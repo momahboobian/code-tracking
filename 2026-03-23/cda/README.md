@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1359                                          |
+| **Lines Added** (➕)   | 2303                                          |
 | **Lines Removed** (➖) | 1                                        |
-| **Net Change** (↕)    | 1358                |
-| **Active Time** (⌚)   | 15 minutes |
+| **Net Change** (↕)    | 2302                |
+| **Active Time** (⌚)   | 27 minutes |
 
 
 ## Modified Files
@@ -15,7 +15,10 @@
 - **settings.json** (+73, -0)
 - **peopleview.js** (+424, -0)
 - **profile.js** (+239, -0)
-- **profileFieldsConfig.ts** (+493, -0)
+- **profileFieldsConfig.ts** (+501, -0)
+- **ProfileFields.types.ts** (+119, -0)
+- **AttachmentDetailsPanel.tsx** (+33, -0)
+- **queries.ts** (+784, -0)
 
 ## Visualizations
 
@@ -26,7 +29,8 @@ pie showData
 title Lines changed by file type
 ".js" : 794
 ".json" : 73
-".ts" : 493
+".ts" : 1404
+".tsx" : 33
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -34,8 +38,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"14h" : 12
+"14h" : 23
 ```
 
 
-> **Last Updated:** 23/03/2026, 14:49:22
+> **Last Updated:** 23/03/2026, 14:54:22
