@@ -2,9 +2,9 @@
   "date": "2026-03-24",
   "projects": {
     "cda": {
-      "totalLinesAdded": 15564,
-      "totalLinesRemoved": 326,
-      "totalActiveTime": 164,
+      "totalLinesAdded": 15565,
+      "totalLinesRemoved": 331,
+      "totalActiveTime": 166,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/package.json": [
           {
@@ -347,6 +347,20 @@
               "removed": []
             },
             "duration": 3,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-03-24T16:55:02.793Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/package.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "json"
           }
         ],
@@ -1123,6 +1137,34 @@
               "removed": []
             },
             "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-03-24T16:55:56.399Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/.storybook/main.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-03-24T16:56:10.477Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/.storybook/main.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "js"
           }
         ],
