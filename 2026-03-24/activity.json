@@ -2,9 +2,9 @@
   "date": "2026-03-24",
   "projects": {
     "cda": {
-      "totalLinesAdded": 15633,
-      "totalLinesRemoved": 334,
-      "totalActiveTime": 178,
+      "totalLinesAdded": 15635,
+      "totalLinesRemoved": 337,
+      "totalActiveTime": 184,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/package.json": [
           {
@@ -1397,6 +1397,62 @@
               "removed": []
             },
             "duration": 2,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2026-03-24T17:31:38.146Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/Tooltip/tooltip.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2026-03-24T17:31:50.167Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/Tooltip/tooltip.scss",
+            "fileType": ".scss",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2026-03-24T17:31:54.063Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/Tooltip/tooltip.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2026-03-24T17:32:00.543Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/Tooltip/tooltip.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "scss"
           }
         ]
