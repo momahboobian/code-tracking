@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 15340,
-      "totalLinesRemoved": 149,
-      "totalActiveTime": 128,
+      "totalLinesRemoved": 175,
+      "totalActiveTime": 133,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/package.json": [
           {
@@ -631,6 +631,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "log"
+          },
+          {
+            "timestamp": "2026-03-24T15:41:58.801Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/debug-storybook.log",
+            "fileType": ".log",
+            "linesAdded": 0,
+            "linesRemoved": 26,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "log"
           }
         ],
