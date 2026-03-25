@@ -2,8 +2,8 @@
   "date": "2026-03-25",
   "projects": {
     "cda": {
-      "totalLinesAdded": 1348,
-      "totalLinesRemoved": 668,
+      "totalLinesAdded": 1540,
+      "totalLinesRemoved": 860,
       "totalActiveTime": 223,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/Tooltip/Tooltip.tsx": [
@@ -642,6 +642,34 @@
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/Tooltip/Tooltip.tsx",
             "fileType": ".tsx",
             "linesAdded": 26,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-03-25T15:49:46.673Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/Tooltip/Tooltip.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 192,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-03-25T15:49:46.676Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/Tooltip/Tooltip.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 192,
             "linesRemoved": 0,
             "projectName": "cda",
             "content": {
