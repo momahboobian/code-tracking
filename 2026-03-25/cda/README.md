@@ -4,14 +4,14 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 759                                          |
-| **Lines Removed** (➖) | 337                                        |
+| **Lines Added** (➕)   | 765                                          |
+| **Lines Removed** (➖) | 343                                        |
 | **Net Change** (↕)    | 422                |
-| **Active Time** (⌚)   | 75 minutes |
+| **Active Time** (⌚)   | 78 minutes |
 
 
 ## Modified Files
-- **Tooltip.tsx** (+124, -22)
+- **Tooltip.tsx** (+130, -28)
 - **tooltip.scss** (+498, -315)
 - **Tooltip.stories.js** (+137, -0)
 
@@ -22,7 +22,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 146
+".tsx" : 158
 ".scss" : 813
 ".js" : 137
 ```
@@ -33,8 +33,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "10h" : 31
-"11h" : 30
+"11h" : 34
 ```
 
 
-> **Last Updated:** 25/03/2026, 11:37:35
+> **Last Updated:** 25/03/2026, 11:52:35
