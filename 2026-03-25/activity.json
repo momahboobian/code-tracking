@@ -2,7 +2,7 @@
   "date": "2026-03-25",
   "projects": {
     "cda": {
-      "totalLinesAdded": 944,
+      "totalLinesAdded": 945,
       "totalLinesRemoved": 432,
       "totalActiveTime": 157,
       "files": {
@@ -523,6 +523,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-03-25T14:03:57.126Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/Tooltip/Tooltip.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ],
