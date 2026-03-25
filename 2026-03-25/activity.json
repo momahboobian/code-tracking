@@ -2,9 +2,9 @@
   "date": "2026-03-25",
   "projects": {
     "cda": {
-      "totalLinesAdded": 1645,
-      "totalLinesRemoved": 891,
-      "totalActiveTime": 253,
+      "totalLinesAdded": 1708,
+      "totalLinesRemoved": 1046,
+      "totalActiveTime": 260,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/Tooltip/Tooltip.tsx": [
           {
@@ -979,6 +979,76 @@
             "fileType": ".tsx",
             "linesAdded": 20,
             "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-03-25T16:14:17.780Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/Tooltip/Tooltip.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 26,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-03-25T16:14:43.908Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/Tooltip/Tooltip.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 17,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-03-25T16:15:38.101Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/Tooltip/Tooltip.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 20,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-03-25T16:16:00.231Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/Tooltip/Tooltip.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 122,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-03-25T16:16:15.523Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/Tooltip/Tooltip.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 33,
             "projectName": "cda",
             "content": {
               "added": [],
