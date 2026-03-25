@@ -4,18 +4,21 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2265                                          |
-| **Lines Removed** (➖) | 1356                                        |
-| **Net Change** (↕)    | 909                |
-| **Active Time** (⌚)   | 261 minutes |
+| **Lines Added** (➕)   | 2788                                          |
+| **Lines Removed** (➖) | 1390                                        |
+| **Net Change** (↕)    | 1398                |
+| **Active Time** (⌚)   | 270 minutes |
 
 
 ## Modified Files
 - **Tooltip.tsx** (+762, -616)
-- **tooltip.scss** (+637, -592)
+- **tooltip.scss** (+741, -592)
 - **Tooltip.stories.js** (+140, -3)
 - **tooltipPositioning.ts** (+225, -145)
-- **profileFieldsConfig.ts** (+501, -0)
+- **profileFieldsConfig.ts** (+501, -8)
+- **debug-storybook.log** (+27, -26)
+- **AttachmentDetailsPanel.test.tsx** (+98, -0)
+- **peopleview.js** (+294, -0)
 
 ## Visualizations
 
@@ -24,10 +27,11 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 1378
-".scss" : 1229
-".js" : 143
-".ts" : 871
+".tsx" : 1476
+".scss" : 1333
+".js" : 437
+".ts" : 879
+".log" : 53
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -41,8 +45,8 @@ title Coding activity by hour (count of changes)
 "13h" : 31
 "14h" : 31
 "15h" : 37
-"16h" : 24
+"16h" : 30
 ```
 
 
-> **Last Updated:** 25/03/2026, 16:47:35
+> **Last Updated:** 25/03/2026, 16:57:35
