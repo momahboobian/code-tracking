@@ -2,9 +2,9 @@
   "date": "2026-03-25",
   "projects": {
     "cda": {
-      "totalLinesAdded": 124,
+      "totalLinesAdded": 272,
       "totalLinesRemoved": 22,
-      "totalActiveTime": 1,
+      "totalActiveTime": 4,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/Tooltip/Tooltip.tsx": [
           {
@@ -34,6 +34,22 @@
             },
             "duration": 1,
             "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/Tooltip/tooltip.scss": [
+          {
+            "timestamp": "2026-03-25T10:28:34.442Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/Tooltip/tooltip.scss",
+            "fileType": ".scss",
+            "linesAdded": 148,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "scss"
           }
         ]
       },
