@@ -2,7 +2,7 @@
   "date": "2026-03-25",
   "projects": {
     "cda": {
-      "totalLinesAdded": 1764,
+      "totalLinesAdded": 2265,
       "totalLinesRemoved": 1356,
       "totalActiveTime": 261,
       "files": {
@@ -2973,6 +2973,22 @@
             "fileType": ".ts",
             "linesAdded": 0,
             "linesRemoved": 125,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/components/ProfileFields/utils/profileFieldsConfig.ts": [
+          {
+            "timestamp": "2026-03-25T16:46:01.597Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/components/ProfileFields/utils/profileFieldsConfig.ts",
+            "fileType": ".ts",
+            "linesAdded": 501,
+            "linesRemoved": 0,
             "projectName": "cda",
             "content": {
               "added": [],
