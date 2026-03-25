@@ -2,9 +2,9 @@
   "date": "2026-03-25",
   "projects": {
     "cda": {
-      "totalLinesAdded": 3956,
-      "totalLinesRemoved": 2325,
-      "totalActiveTime": 326,
+      "totalLinesAdded": 3983,
+      "totalLinesRemoved": 2348,
+      "totalActiveTime": 330,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/Tooltip/Tooltip.tsx": [
           {
@@ -2920,6 +2920,48 @@
             },
             "duration": 1,
             "language": "scss"
+          },
+          {
+            "timestamp": "2026-03-25T18:44:43.385Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/Tooltip/tooltip.scss",
+            "fileType": ".scss",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2026-03-25T18:45:07.011Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/Tooltip/tooltip.scss",
+            "fileType": ".scss",
+            "linesAdded": 23,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2026-03-25T18:46:00.857Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/Tooltip/tooltip.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 23,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/docs/components/Tooltip/Tooltip.stories.js": [
@@ -3231,6 +3273,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-03-25T18:47:08.203Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/Tooltip/utils/tooltipPositioning.ts",
+            "fileType": ".ts",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "ts"
           }
         ],
