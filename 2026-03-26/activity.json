@@ -2,9 +2,9 @@
   "date": "2026-03-26",
   "projects": {
     "cda": {
-      "totalLinesAdded": 239,
-      "totalLinesRemoved": 34,
-      "totalActiveTime": 17,
+      "totalLinesAdded": 262,
+      "totalLinesRemoved": 218,
+      "totalActiveTime": 22,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/Tooltip/Tooltip.tsx": [
           {
@@ -146,6 +146,34 @@
             },
             "duration": 2,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2026-03-26T16:00:01.817Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/Tooltip/Tooltip.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-03-26T16:00:34.931Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/Tooltip/Tooltip.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/Tooltip/utils/tooltipPositioning copy.ts": [
@@ -154,6 +182,36 @@
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/Tooltip/utils/tooltipPositioning copy.ts",
             "fileType": ".ts",
             "linesAdded": 205,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-03-26T15:57:48.247Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/Tooltip/utils/tooltipPositioning copy.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 184,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/Tooltip/utils/getClippingContainer.ts": [
+          {
+            "timestamp": "2026-03-26T15:58:04.811Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/Tooltip/utils/getClippingContainer.ts",
+            "fileType": ".ts",
+            "linesAdded": 21,
             "linesRemoved": 0,
             "projectName": "cda",
             "content": {
