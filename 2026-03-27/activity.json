@@ -2,7 +2,7 @@
   "date": "2026-03-27",
   "projects": {
     "cda": {
-      "totalLinesAdded": 42566,
+      "totalLinesAdded": 43008,
       "totalLinesRemoved": 196,
       "totalActiveTime": 122,
       "files": {
@@ -1214,6 +1214,22 @@
             },
             "duration": 1,
             "language": "lock"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/src/declarations.d.ts": [
+          {
+            "timestamp": "2026-03-27T15:31:51.438Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/src/declarations.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 442,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
           }
         ]
       },
