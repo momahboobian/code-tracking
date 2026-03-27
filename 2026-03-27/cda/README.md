@@ -4,17 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 57781                                          |
-| **Lines Removed** (➖) | 323                                        |
-| **Net Change** (↕)    | 57458                |
-| **Active Time** (⌚)   | 157 minutes |
+| **Lines Added** (➕)   | 58172                                          |
+| **Lines Removed** (➖) | 328                                        |
+| **Net Change** (↕)    | 57844                |
+| **Active Time** (⌚)   | 164 minutes |
 
 
 ## Modified Files
 - **Tooltip.test.tsx** (+251, -8)
 - **tooltipPositionin.test.ts** (+316, -151)
 - **getClippingContaine.test.ts** (+108, -1)
-- **package.json** (+132, -1)
+- **package.json** (+133, -2)
 - **ConstructDefinitionListItem.tsx** (+152, -0)
 - **package.json** (+73, -0)
 - **CondensedFaultTable.tsx** (+237, -17)
@@ -35,8 +35,9 @@
 - **Tooltip.stories.js** (+2, -4)
 - **yarn.lock** (+13238, -0)
 - **tooltip.scss** (+0, -82)
-- **fieldUtils.ts** (+204, -0)
+- **fieldUtils.ts** (+408, -4)
 - **queries.ts** (+785, -0)
+- **package.json** (+186, -0)
 
 ## Visualizations
 
@@ -46,8 +47,8 @@
 pie showData
 title Lines changed by file type
 ".tsx" : 1251
-".ts" : 2852
-".json" : 338
+".ts" : 3060
+".json" : 526
 ".lock" : 53575
 ".js" : 6
 ".scss" : 82
@@ -64,8 +65,8 @@ title Coding activity by hour (count of changes)
 "14h" : 22
 "15h" : 24
 "16h" : 3
-"17h" : 2
+"17h" : 7
 ```
 
 
-> **Last Updated:** 27/03/2026, 17:10:55
+> **Last Updated:** 27/03/2026, 17:15:55
