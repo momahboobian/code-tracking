@@ -2,9 +2,9 @@
   "date": "2026-03-27",
   "projects": {
     "cda": {
-      "totalLinesAdded": 43375,
-      "totalLinesRemoved": 198,
-      "totalActiveTime": 137,
+      "totalLinesAdded": 43377,
+      "totalLinesRemoved": 199,
+      "totalActiveTime": 143,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/Tooltip/Tooltip.test.tsx": [
           {
@@ -1321,6 +1321,48 @@
           },
           {
             "timestamp": "2026-03-27T15:42:32.529Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/src/components/TeamViewRow/TeamViewRow.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-03-27T15:46:09.739Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/src/components/TeamViewRow/TeamViewRow.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-03-27T15:46:55.702Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/src/components/TeamViewRow/TeamViewRow.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-03-27T15:47:10.240Z",
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/src/components/TeamViewRow/TeamViewRow.tsx",
             "fileType": ".tsx",
             "linesAdded": 1,
