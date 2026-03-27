@@ -4,14 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 203                                          |
-| **Lines Removed** (➖) | 8                                        |
-| **Net Change** (↕)    | 195                |
-| **Active Time** (⌚)   | 27 minutes |
+| **Lines Added** (➕)   | 600                                          |
+| **Lines Removed** (➖) | 159                                        |
+| **Net Change** (↕)    | 441                |
+| **Active Time** (⌚)   | 38 minutes |
 
 
 ## Modified Files
-- **Tooltip.test.tsx** (+203, -8)
+- **Tooltip.test.tsx** (+251, -8)
+- **tooltipPositionin.test.ts** (+250, -151)
+- **getClippingContaine.test.ts** (+99, -0)
 
 ## Visualizations
 
@@ -20,7 +22,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 211
+".tsx" : 259
+".ts" : 500
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -28,8 +31,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"11h" : 23
+"11h" : 32
 ```
 
 
-> **Last Updated:** 27/03/2026, 11:32:47
+> **Last Updated:** 27/03/2026, 11:37:47
