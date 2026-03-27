@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 43410                                          |
-| **Lines Removed** (➖) | 202                                        |
-| **Net Change** (↕)    | 43208                |
-| **Active Time** (⌚)   | 144 minutes |
+| **Lines Added** (➕)   | 56650                                          |
+| **Lines Removed** (➖) | 323                                        |
+| **Net Change** (↕)    | 56327                |
+| **Active Time** (⌚)   | 155 minutes |
 
 
 ## Modified Files
@@ -30,8 +30,11 @@
 - **yarn.lock** (+13644, -0)
 - **declarations.d.ts** (+445, -3)
 - **MonthlyViewRow.tsx** (+181, -1)
-- **TeamViewRow.tsx** (+185, -1)
-- **Tooltip.tsx** (+33, -0)
+- **TeamViewRow.tsx** (+185, -3)
+- **Tooltip.tsx** (+33, -33)
+- **Tooltip.stories.js** (+2, -4)
+- **yarn.lock** (+13238, -0)
+- **tooltip.scss** (+0, -82)
 
 ## Visualizations
 
@@ -40,10 +43,12 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 1140
+".tsx" : 1175
 ".ts" : 1863
 ".json" : 272
-".lock" : 40337
+".lock" : 53575
+".js" : 6
+".scss" : 82
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -55,8 +60,8 @@ title Coding activity by hour (count of changes)
 "12h" : 14
 "13h" : 4
 "14h" : 22
-"15h" : 17
+"15h" : 24
 ```
 
 
-> **Last Updated:** 27/03/2026, 15:52:48
+> **Last Updated:** 27/03/2026, 15:57:48
