@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2088                                          |
-| **Lines Removed** (➖) | 169                                        |
-| **Net Change** (↕)    | 1919                |
-| **Active Time** (⌚)   | 93 minutes |
+| **Lines Added** (➕)   | 2098                                          |
+| **Lines Removed** (➖) | 177                                        |
+| **Net Change** (↕)    | 1921                |
+| **Active Time** (⌚)   | 101 minutes |
 
 
 ## Modified Files
@@ -17,9 +17,9 @@
 - **package.json** (+66, -1)
 - **ConstructDefinitionListItem.tsx** (+76, -0)
 - **package.json** (+73, -0)
-- **CondensedFaultTable.tsx** (+232, -2)
+- **CondensedFaultTable.tsx** (+237, -6)
 - **FaultCodeToolTip.tsx** (+42, -6)
-- **EndCodeToolTip.tsx** (+35, -0)
+- **EndCodeToolTip.tsx** (+40, -4)
 - **index.ts** (+448, -0)
 - **index.d.ts** (+391, -0)
 - **Tooltip.tsx** (+50, -0)
@@ -31,7 +31,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 702
+".tsx" : 720
 ".ts" : 1415
 ".json" : 140
 ```
@@ -44,8 +44,8 @@ title Coding activity by hour (count of changes)
 "11h" : 40
 "12h" : 14
 "13h" : 4
-"14h" : 10
+"14h" : 16
 ```
 
 
-> **Last Updated:** 27/03/2026, 14:42:47
+> **Last Updated:** 27/03/2026, 14:47:47
