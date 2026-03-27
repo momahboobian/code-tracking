@@ -2,9 +2,9 @@
   "date": "2026-03-27",
   "projects": {
     "cda": {
-      "totalLinesAdded": 58528,
+      "totalLinesAdded": 58593,
       "totalLinesRemoved": 331,
-      "totalActiveTime": 168,
+      "totalActiveTime": 171,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/Tooltip/Tooltip.test.tsx": [
           {
@@ -620,6 +620,20 @@
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/package.json",
             "fileType": ".json",
             "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-03-27T17:21:52.834Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/package.json",
+            "fileType": ".json",
+            "linesAdded": 65,
             "linesRemoved": 0,
             "projectName": "cda",
             "content": {
