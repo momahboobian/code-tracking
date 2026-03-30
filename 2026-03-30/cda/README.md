@@ -4,16 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 713                                          |
+| **Lines Added** (➕)   | 852                                          |
 | **Lines Removed** (➖) | 4                                        |
-| **Net Change** (↕)    | 709                |
-| **Active Time** (⌚)   | 8 minutes |
+| **Net Change** (↕)    | 848                |
+| **Active Time** (⌚)   | 11 minutes |
 
 
 ## Modified Files
 - **TeamViewRow.tsx** (+185, -2)
 - **declarations.d.ts** (+446, -0)
 - **package.json** (+82, -2)
+- **Tooltip.stories.js** (+139, -0)
 
 ## Visualizations
 
@@ -25,6 +26,7 @@ title Lines changed by file type
 ".tsx" : 187
 ".ts" : 446
 ".json" : 84
+".js" : 139
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -33,8 +35,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "09h" : 7
-"10h" : 3
+"10h" : 4
 ```
 
 
-> **Last Updated:** 30/03/2026, 10:26:26
+> **Last Updated:** 30/03/2026, 10:31:26
