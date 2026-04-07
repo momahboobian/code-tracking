@@ -3,7 +3,7 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 437,
-      "totalLinesRemoved": 0,
+      "totalLinesRemoved": 26,
       "totalActiveTime": 3,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/docs/components/Tooltip/Tooltip.stories.js": [
@@ -27,6 +27,20 @@
             "fileType": ".js",
             "linesAdded": 26,
             "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-04-07T14:12:14.905Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/docs/components/Tooltip/Tooltip.stories.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 26,
             "projectName": "cda",
             "content": {
               "added": [],
