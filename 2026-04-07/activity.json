@@ -1,0 +1,117 @@
+{
+  "date": "2026-04-07",
+  "projects": {
+    "cda": {
+      "totalLinesAdded": 411,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 3,
+      "files": {
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/docs/components/Tooltip/Tooltip.stories.js": [
+          {
+            "timestamp": "2026-04-07T08:21:02.883Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/docs/components/Tooltip/Tooltip.stories.js",
+            "fileType": ".js",
+            "linesAdded": 137,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/package.json": [
+          {
+            "timestamp": "2026-04-07T08:21:02.891Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/package.json",
+            "fileType": ".json",
+            "linesAdded": 73,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/package.json": [
+          {
+            "timestamp": "2026-04-07T08:21:05.786Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/package.json",
+            "fileType": ".json",
+            "linesAdded": 66,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/uploader/package.json": [
+          {
+            "timestamp": "2026-04-07T08:21:05.787Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/uploader/package.json",
+            "fileType": ".json",
+            "linesAdded": 56,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/package.json": [
+          {
+            "timestamp": "2026-04-07T08:21:05.789Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/package.json",
+            "fileType": ".json",
+            "linesAdded": 79,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "js": 0,
+        "json": 3
+      },
+      "changeFrequency": {
+        "9": 3
+      },
+      "topFiles": [
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/docs/components/Tooltip/Tooltip.stories.js",
+        "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/package.json",
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/package.json",
+        "/Users/momahboobian/Documents/_BBC/cda/apps/uploader/package.json",
+        "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/package.json"
+      ],
+      "averageChangeSize": 82.2
+    }
+  },
+  "totalActiveTime": 4,
+  "totalProjects": 1,
+  "totalFiles": 5,
+  "mostActiveHours": [
+    9
+  ],
+  "mostUsedLanguages": [
+    "json",
+    "js"
+  ]
+}
