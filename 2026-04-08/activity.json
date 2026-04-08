@@ -2,7 +2,7 @@
   "date": "2026-04-08",
   "projects": {
     "cda": {
-      "totalLinesAdded": 1083,
+      "totalLinesAdded": 1819,
       "totalLinesRemoved": 4,
       "totalActiveTime": 14,
       "files": {
@@ -47,6 +47,20 @@
               "removed": []
             },
             "duration": 3,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-04-08T09:48:26.800Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/high-risk-schema/peopleview-queries.js",
+            "fileType": ".js",
+            "linesAdded": 736,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "js"
           }
         ],
