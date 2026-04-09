@@ -1,0 +1,91 @@
+{
+  "date": "2026-04-10",
+  "projects": {
+    "cda": {
+      "totalLinesAdded": 20,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 9,
+      "files": {
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/docs/components/DescriptionList/DescriptionList.stories.tsx": [
+          {
+            "timestamp": "2026-04-09T22:56:17.067Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/docs/components/DescriptionList/DescriptionList.stories.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 13,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-04-09T22:59:47.190Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/docs/components/DescriptionList/DescriptionList.stories.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-04-09T22:59:53.844Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/docs/components/DescriptionList/DescriptionList.stories.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-04-09T23:00:07.549Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/docs/components/DescriptionList/DescriptionList.stories.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "tsx": 9
+      },
+      "changeFrequency": {
+        "0": 1,
+        "23": 8
+      },
+      "topFiles": [
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/docs/components/DescriptionList/DescriptionList.stories.tsx"
+      ],
+      "averageChangeSize": 5.25
+    }
+  },
+  "totalActiveTime": 9,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    23,
+    0
+  ],
+  "mostUsedLanguages": [
+    "tsx"
+  ]
+}
