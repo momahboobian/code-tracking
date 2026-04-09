@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 16972,
-      "totalLinesRemoved": 2902,
-      "totalActiveTime": 272,
+      "totalLinesRemoved": 2910,
+      "totalActiveTime": 279,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/containers/MyTeam/MyTeam.tsx": [
           {
@@ -1240,6 +1240,20 @@
             },
             "duration": 1,
             "language": "scss"
+          },
+          {
+            "timestamp": "2026-04-09T22:45:59.412Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/DescriptionList/DescriptionList.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "scss"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/styles/_base.scss": [
@@ -2293,6 +2307,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-04-09T22:49:56.454Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/docs/components/DescriptionList/DescriptionList.stories.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "tsx"
           }
         ],
