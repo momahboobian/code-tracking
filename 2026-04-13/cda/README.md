@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1170                                          |
-| **Lines Removed** (➖) | 3                                        |
-| **Net Change** (↕)    | 1167                |
-| **Active Time** (⌚)   | 14 minutes |
+| **Lines Added** (➕)   | 1231                                          |
+| **Lines Removed** (➖) | 5                                        |
+| **Net Change** (↕)    | 1226                |
+| **Active Time** (⌚)   | 17 minutes |
 
 
 ## Modified Files
@@ -16,6 +16,9 @@
 - **20260407162117-replace-poepleview-profile-view.js** (+141, -0)
 - **peopleview-queries.js** (+785, -0)
 - **20260409084739-replace-peopleview-teams-view.js** (+75, -0)
+- **index.html** (+46, -0)
+- **setupTests.js** (+4, -2)
+- **version.ts** (+11, -0)
 
 ## Visualizations
 
@@ -26,7 +29,9 @@ pie showData
 title Lines changed by file type
 ".json" : 127
 ".tsx" : 45
-".js" : 1001
+".js" : 1007
+".html" : 46
+".ts" : 11
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -36,7 +41,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "16h" : 4
 "17h" : 11
+"23h" : 4
 ```
 
 
-> **Last Updated:** 13/04/2026, 17:14:33
+> **Last Updated:** 13/04/2026, 23:32:14
