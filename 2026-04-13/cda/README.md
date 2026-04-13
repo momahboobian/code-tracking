@@ -4,14 +4,18 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 60                                          |
+| **Lines Added** (➕)   | 1168                                          |
 | **Lines Removed** (➖) | 1                                        |
-| **Net Change** (↕)    | 59                |
-| **Active Time** (⌚)   | 2 minutes |
+| **Net Change** (↕)    | 1167                |
+| **Active Time** (⌚)   | 9 minutes |
 
 
 ## Modified Files
-- **package.json** (+60, -1)
+- **package.json** (+122, -1)
+- **App.tsx** (+45, -0)
+- **20260407162117-replace-poepleview-profile-view.js** (+141, -0)
+- **peopleview-queries.js** (+785, -0)
+- **20260409084739-replace-peopleview-teams-view.js** (+75, -0)
 
 ## Visualizations
 
@@ -20,7 +24,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".json" : 61
+".json" : 123
+".tsx" : 45
+".js" : 1001
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -29,7 +35,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "16h" : 4
+"17h" : 7
 ```
 
 
-> **Last Updated:** 13/04/2026, 16:40:37
+> **Last Updated:** 13/04/2026, 17:04:33
