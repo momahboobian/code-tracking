@@ -2,7 +2,7 @@
   "date": "2026-04-13",
   "projects": {
     "cda": {
-      "totalLinesAdded": 1231,
+      "totalLinesAdded": 1249,
       "totalLinesRemoved": 5,
       "totalActiveTime": 17,
       "files": {
@@ -286,6 +286,22 @@
             },
             "duration": 1,
             "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/src/index.tsx": [
+          {
+            "timestamp": "2026-04-13T22:50:46.589Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/src/index.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 18,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
           }
         ]
       },
