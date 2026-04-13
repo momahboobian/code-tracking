@@ -2,7 +2,7 @@
   "date": "2026-04-13",
   "projects": {
     "cda": {
-      "totalLinesAdded": 1168,
+      "totalLinesAdded": 1169,
       "totalLinesRemoved": 1,
       "totalActiveTime": 9,
       "files": {
@@ -89,6 +89,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-04-13T16:08:53.843Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/package.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "json"
           }
         ],
