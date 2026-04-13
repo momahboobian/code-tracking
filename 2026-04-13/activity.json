@@ -237,6 +237,71 @@
         "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/package.json"
       ],
       "averageChangeSize": 29.5
+    },
+    "ofcom": {
+      "totalLinesAdded": 44,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/tsconfig.json": [
+          {
+            "timestamp": "2026-04-13T22:23:14.599Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/tsconfig.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ofcom",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-04-13T22:23:14.602Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/tsconfig.json",
+            "fileType": ".json",
+            "linesAdded": 22,
+            "linesRemoved": 0,
+            "projectName": "ofcom",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/src/declarations.d.ts": [
+          {
+            "timestamp": "2026-04-13T22:23:14.608Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/src/declarations.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 21,
+            "linesRemoved": 0,
+            "projectName": "ofcom",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 0,
+        "ts": 0
+      },
+      "changeFrequency": {
+        "23": 0
+      },
+      "topFiles": [
+        "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/tsconfig.json",
+        "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/src/declarations.d.ts"
+      ],
+      "averageChangeSize": 14.666666666666666
     }
   },
   "totalActiveTime": 1,
