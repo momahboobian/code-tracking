@@ -4,16 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 10329                                          |
-| **Lines Removed** (➖) | 108                                        |
-| **Net Change** (↕)    | 10221                |
+| **Lines Added** (➕)   | 23643                                          |
+| **Lines Removed** (➖) | 136                                        |
+| **Net Change** (↕)    | 23507                |
 | **Active Time** (⌚)   | 135 minutes |
 
 
 ## Modified Files
 - **App.tsx** (+45, -0)
 - **package.json** (+930, -0)
-- **package.json** (+331, -1)
+- **package.json** (+331, -2)
 - **PersonCardLarge.tsx** (+77, -0)
 - **package.json** (+62, -0)
 - **Panel.scss** (+4, -0)
@@ -22,11 +22,11 @@
 - **tsconfig.json** (+23, -0)
 - **Lds.test.tsx** (+45, -31)
 - **manifest.json** (+21, -0)
-- **ProfileFields.tsx** (+87, -10)
+- **ProfileFields.tsx** (+87, -16)
 - **index.d.ts** (+4371, -0)
 - **index.ts** (+1606, -39)
 - **index.d.ts** (+818, -0)
-- **SearchBanners.test.tsx** (+76, -0)
+- **SearchBanners.test.tsx** (+152, -0)
 - **index.js** (+170, -0)
 - **DescriptionList.scss** (+214, -27)
 - **TreeLeaf.scss** (+124, -0)
@@ -35,11 +35,12 @@
 - **DescriptionItem.tsx** (+41, -0)
 - **DescriptionList.tsx** (+83, -0)
 - **PersonalDetailsPanel.scss** (+14, -0)
-- **PersonalDetailsPanel.tsx** (+185, -0)
+- **PersonalDetailsPanel.tsx** (+185, -4)
 - **PublicDetailsPanel.scss** (+64, -0)
 - **PublicDetailsPanel.tsx** (+183, -0)
 - **ProfilePublic.tsx** (+200, -0)
-- **ConstructDefinitionListItem.tsx** (+93, -0)
+- **ConstructDefinitionListItem.tsx** (+93, -17)
+- **yarn.lock** (+13238, -0)
 
 ## Visualizations
 
@@ -48,12 +49,13 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 1393
-".json" : 1368
+".tsx" : 1496
+".json" : 1369
 ".scss" : 626
 ".html" : 46
 ".ts" : 6834
 ".js" : 170
+".lock" : 13238
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -69,8 +71,8 @@ title Coding activity by hour (count of changes)
 "14h" : 29
 "15h" : 1
 "16h" : 8
-"17h" : 5
+"17h" : 11
 ```
 
 
-> **Last Updated:** 14/04/2026, 17:17:21
+> **Last Updated:** 14/04/2026, 17:32:21
