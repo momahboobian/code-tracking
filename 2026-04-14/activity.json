@@ -2,7 +2,7 @@
   "date": "2026-04-14",
   "projects": {
     "cda": {
-      "totalLinesAdded": 23643,
+      "totalLinesAdded": 24318,
       "totalLinesRemoved": 136,
       "totalActiveTime": 135,
       "files": {
@@ -227,6 +227,20 @@
             "fileType": ".json",
             "linesAdded": 0,
             "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-04-14T17:00:36.103Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/package.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
             "projectName": "cda",
             "content": {
               "added": [],
@@ -802,6 +816,20 @@
             },
             "duration": 1,
             "language": "ts"
+          },
+          {
+            "timestamp": "2026-04-14T17:00:36.100Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/types/index.ts",
+            "fileType": ".ts",
+            "linesAdded": 507,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/node_modules/@bbc/ise-web-components/dist/components/types/index.d.ts": [
@@ -891,6 +919,20 @@
               "removed": []
             },
             "duration": 4,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-04-14T17:00:36.098Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/index.js",
+            "fileType": ".js",
+            "linesAdded": 167,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "js"
           }
         ],
