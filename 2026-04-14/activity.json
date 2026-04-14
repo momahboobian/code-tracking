@@ -2,9 +2,9 @@
   "date": "2026-04-14",
   "projects": {
     "cda": {
-      "totalLinesAdded": 8951,
-      "totalLinesRemoved": 89,
-      "totalActiveTime": 84,
+      "totalLinesAdded": 9188,
+      "totalLinesRemoved": 90,
+      "totalActiveTime": 91,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/src/App.tsx": [
           {
@@ -1020,6 +1020,34 @@
             },
             "duration": 1,
             "language": "scss"
+          },
+          {
+            "timestamp": "2026-04-14T13:31:17.736Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/DescriptionList/DescriptionList.scss",
+            "fileType": ".scss",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2026-04-14T13:31:36.647Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/DescriptionList/DescriptionList.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/components/OrgChart/Tree/TreeLeaf.scss": [
@@ -1052,6 +1080,22 @@
             },
             "duration": 0,
             "language": "scss"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/docs/components/DescriptionList/DescriptionList.stories.tsx": [
+          {
+            "timestamp": "2026-04-14T13:30:08.012Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/docs/components/DescriptionList/DescriptionList.stories.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 236,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "tsx"
           }
         ]
       },
