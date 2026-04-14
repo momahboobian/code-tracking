@@ -2,9 +2,9 @@
   "date": "2026-04-14",
   "projects": {
     "cda": {
-      "totalLinesAdded": 5227,
+      "totalLinesAdded": 5738,
       "totalLinesRemoved": 35,
-      "totalActiveTime": 27,
+      "totalActiveTime": 35,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/src/App.tsx": [
           {
@@ -364,6 +364,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2026-04-14T09:30:05.757Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/components/ProfileFields/ProfileFields.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "tsx"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/node_modules/@types/react/index.d.ts": [
@@ -372,6 +386,36 @@
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/node_modules/@types/react/index.d.ts",
             "fileType": ".ts",
             "linesAdded": 4371,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/types/index.ts": [
+          {
+            "timestamp": "2026-04-14T09:33:10.494Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/types/index.ts",
+            "fileType": ".ts",
+            "linesAdded": 507,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-04-14T09:33:20.524Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/types/index.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
             "linesRemoved": 0,
             "projectName": "cda",
             "content": {
