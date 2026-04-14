@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 9324,
-      "totalLinesRemoved": 97,
-      "totalActiveTime": 109,
+      "totalLinesRemoved": 101,
+      "totalActiveTime": 113,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/src/App.tsx": [
           {
@@ -1223,6 +1223,34 @@
             "fileType": ".scss",
             "linesAdded": 1,
             "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2026-04-14T13:43:46.808Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/DescriptionList/DescriptionList.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2026-04-14T13:43:59.375Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/DescriptionList/DescriptionList.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "cda",
             "content": {
               "added": [],
