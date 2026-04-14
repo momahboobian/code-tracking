@@ -4,16 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 297                                          |
-| **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 297                |
-| **Active Time** (⌚)   | 0 minute |
+| **Lines Added** (➕)   | 375                                          |
+| **Lines Removed** (➖) | 1                                        |
+| **Net Change** (↕)    | 374                |
+| **Active Time** (⌚)   | 7 minutes |
 
 
 ## Modified Files
 - **App.tsx** (+45, -0)
 - **package.json** (+186, -0)
-- **package.json** (+66, -0)
+- **package.json** (+67, -1)
+- **PersonCardLarge.tsx** (+77, -0)
 
 ## Visualizations
 
@@ -22,8 +23,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 45
-".json" : 252
+".tsx" : 122
+".json" : 254
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -32,8 +33,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "08h" : 1
-"09h" : 3
+"09h" : 6
 ```
 
 
-> **Last Updated:** 14/04/2026, 09:34:13
+> **Last Updated:** 14/04/2026, 09:39:13
