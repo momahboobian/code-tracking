@@ -2,7 +2,7 @@
   "date": "2026-04-14",
   "projects": {
     "cda": {
-      "totalLinesAdded": 9576,
+      "totalLinesAdded": 9587,
       "totalLinesRemoved": 101,
       "totalActiveTime": 120,
       "files": {
@@ -1285,6 +1285,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2026-04-14T14:00:50.914Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/DescriptionList/DescriptionList.scss",
+            "fileType": ".scss",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "scss"
           }
         ],
