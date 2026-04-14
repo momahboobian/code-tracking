@@ -4,15 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 6976                                          |
-| **Lines Removed** (➖) | 53                                        |
-| **Net Change** (↕)    | 6923                |
-| **Active Time** (⌚)   | 48 minutes |
+| **Lines Added** (➕)   | 7692                                          |
+| **Lines Removed** (➖) | 74                                        |
+| **Net Change** (↕)    | 7618                |
+| **Active Time** (⌚)   | 55 minutes |
 
 
 ## Modified Files
 - **App.tsx** (+45, -0)
-- **package.json** (+558, -0)
+- **package.json** (+744, -0)
 - **package.json** (+199, -1)
 - **PersonCardLarge.tsx** (+77, -0)
 - **package.json** (+62, -0)
@@ -24,7 +24,7 @@
 - **manifest.json** (+21, -0)
 - **ProfileFields.tsx** (+28, -3)
 - **index.d.ts** (+4371, -0)
-- **index.ts** (+1076, -18)
+- **index.ts** (+1606, -39)
 - **index.d.ts** (+418, -0)
 
 ## Visualizations
@@ -35,10 +35,10 @@
 pie showData
 title Lines changed by file type
 ".tsx" : 229
-".json" : 864
+".json" : 1050
 ".scss" : 7
 ".html" : 46
-".ts" : 5883
+".ts" : 6434
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -49,8 +49,8 @@ title Coding activity by hour (count of changes)
 "08h" : 1
 "09h" : 11
 "10h" : 18
-"12h" : 7
+"12h" : 13
 ```
 
 
-> **Last Updated:** 14/04/2026, 12:19:15
+> **Last Updated:** 14/04/2026, 12:24:30
