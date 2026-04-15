@@ -351,6 +351,39 @@
         "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/src/containers/Lds/Lds.tsx"
       ],
       "averageChangeSize": 2
+    },
+    "ise-web-ofcom": {
+      "totalLinesAdded": 55,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/momahboobian/Documents/_BBC/ise-web-ofcom/src/components/DatabaseConnection/index.js": [
+          {
+            "timestamp": "2026-04-15T09:35:38.549Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/ise-web-ofcom/src/components/DatabaseConnection/index.js",
+            "fileType": ".js",
+            "linesAdded": 55,
+            "linesRemoved": 0,
+            "projectName": "ise-web-ofcom",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          }
+        ]
+      },
+      "languageStats": {
+        "js": 0
+      },
+      "changeFrequency": {
+        "10": 0
+      },
+      "topFiles": [
+        "/Users/momahboobian/Documents/_BBC/ise-web-ofcom/src/components/DatabaseConnection/index.js"
+      ],
+      "averageChangeSize": 55
     }
   },
   "totalActiveTime": 0,
