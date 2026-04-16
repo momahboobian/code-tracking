@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 10232                                          |
-| **Lines Removed** (➖) | 322                                        |
-| **Net Change** (↕)    | 9910                |
-| **Active Time** (⌚)   | 359 minutes |
+| **Lines Added** (➕)   | 10297                                          |
+| **Lines Removed** (➖) | 411                                        |
+| **Net Change** (↕)    | 9886                |
+| **Active Time** (⌚)   | 362 minutes |
 
 
 ## Modified Files
@@ -16,14 +16,15 @@
 - **DescriptionList.stories.tsx** (+339, -215)
 - **DescriptionList.tsx** (+21, -14)
 - **.env** (+109, -0)
-- **20260407162117-replace-poepleview-profile-view.js** (+144, -0)
-- **peopleview-queries.js** (+795, -0)
-- **20260409084739-replace-peopleview-teams-view.js** (+78, -0)
+- **20260407162117-replace-poepleview-profile-view.js** (+144, -3)
+- **peopleview-queries.js** (+795, -60)
+- **20260409084739-replace-peopleview-teams-view.js** (+78, -3)
 - **20260416145412-replace-poepleview-profile-view.js** (+144, -0)
 - **20260416145438-replace-peopleview-teams-view.js** (+78, -0)
-- **tables.ts** (+6608, -0)
+- **tables.ts** (+6608, -23)
 - **sap_views.ts** (+1674, -0)
 - **SearchBanners.test.tsx** (+76, -0)
+- **package.json** (+65, -0)
 
 ## Visualizations
 
@@ -35,8 +36,9 @@ title Lines changed by file type
 ".tsx" : 751
 ".scss" : 173
 "unknown" : 109
-".js" : 1239
-".ts" : 8282
+".js" : 1305
+".ts" : 8305
+".json" : 65
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -51,8 +53,8 @@ title Coding activity by hour (count of changes)
 "13h" : 31
 "14h" : 38
 "15h" : 15
-"16h" : 1
+"16h" : 7
 ```
 
 
-> **Last Updated:** 16/04/2026, 16:04:01
+> **Last Updated:** 16/04/2026, 16:14:01
