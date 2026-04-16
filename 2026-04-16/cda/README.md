@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 10787                                          |
-| **Lines Removed** (➖) | 429                                        |
-| **Net Change** (↕)    | 10358                |
-| **Active Time** (⌚)   | 395 minutes |
+| **Lines Added** (➕)   | 24227                                          |
+| **Lines Removed** (➖) | 454                                        |
+| **Net Change** (↕)    | 23773                |
+| **Active Time** (⌚)   | 397 minutes |
 
 
 ## Modified Files
@@ -23,12 +23,15 @@
 - **20260416145438-replace-peopleview-teams-view.js** (+78, -0)
 - **tables.ts** (+6608, -23)
 - **sap_views.ts** (+1674, -0)
-- **SearchBanners.test.tsx** (+86, -5)
-- **package.json** (+68, -2)
+- **SearchBanners.test.tsx** (+86, -10)
+- **package.json** (+68, -3)
 - **ProfilePublic.scss** (+176, -0)
 - **PublicDetailsPanel.tsx** (+183, -0)
 - **ProfileLabel.tsx** (+12, -0)
-- **ConstructDefinitionListItem.tsx** (+101, -6)
+- **ConstructDefinitionListItem.tsx** (+101, -25)
+- **ProfileFields.tsx** (+21, -0)
+- **yarn.lock** (+13238, -0)
+- **PersonalDetailsPanel.tsx** (+181, -0)
 
 ## Visualizations
 
@@ -37,12 +40,13 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 1078
+".tsx" : 1304
 ".scss" : 349
 "unknown" : 109
 ".js" : 1305
 ".ts" : 8305
-".json" : 70
+".json" : 71
+".lock" : 13238
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -58,7 +62,8 @@ title Coding activity by hour (count of changes)
 "14h" : 38
 "15h" : 15
 "16h" : 27
+"17h" : 6
 ```
 
 
-> **Last Updated:** 16/04/2026, 16:54:01
+> **Last Updated:** 16/04/2026, 17:04:01
