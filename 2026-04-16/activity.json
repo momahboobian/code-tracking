@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 526,
-      "totalLinesRemoved": 320,
-      "totalActiveTime": 344,
+      "totalLinesRemoved": 322,
+      "totalActiveTime": 345,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/DescriptionList/DescriptionListItem.tsx": [
           {
@@ -1411,6 +1411,34 @@
           },
           {
             "timestamp": "2026-04-16T13:34:12.282Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/DescriptionList/DescriptionList.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2026-04-16T14:00:09.908Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/DescriptionList/DescriptionList.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2026-04-16T14:00:40.629Z",
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/DescriptionList/DescriptionList.scss",
             "fileType": ".scss",
             "linesAdded": 0,
