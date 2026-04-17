@@ -2,8 +2,8 @@
   "date": "2026-04-17",
   "projects": {
     "cda": {
-      "totalLinesAdded": 83,
-      "totalLinesRemoved": 41,
+      "totalLinesAdded": 113,
+      "totalLinesRemoved": 124,
       "totalActiveTime": 6,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/components/ProfileFields/ConstructDefinitionListItem/ConstructDefinitionListItem.tsx": [
@@ -13,6 +13,20 @@
             "fileType": ".tsx",
             "linesAdded": 0,
             "linesRemoved": 19,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-04-17T10:01:35.300Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/components/ProfileFields/ConstructDefinitionListItem/ConstructDefinitionListItem.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 19,
+            "linesRemoved": 0,
             "projectName": "cda",
             "content": {
               "added": [],
@@ -36,6 +50,20 @@
             },
             "duration": 0,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2026-04-17T10:01:35.298Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/components/ProfileFields/ProfileFields.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/high-risk-schema/peopleview-queries.js": [
@@ -52,6 +80,20 @@
             },
             "duration": 0,
             "language": "js"
+          },
+          {
+            "timestamp": "2026-04-17T10:01:35.285Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/high-risk-schema/peopleview-queries.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 60,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/components/Search/SearchBanners/SearchBanners.test.tsx": [
@@ -61,6 +103,20 @@
             "fileType": ".tsx",
             "linesAdded": 0,
             "linesRemoved": 5,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-04-17T10:01:35.292Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/components/Search/SearchBanners/SearchBanners.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 5,
+            "linesRemoved": 0,
             "projectName": "cda",
             "content": {
               "added": [],
@@ -145,6 +201,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-04-17T10:01:35.305Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-table-types/src/types/tables.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 23,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "ts"
           }
         ]
