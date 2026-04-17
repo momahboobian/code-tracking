@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 19061                                          |
-| **Lines Removed** (➖) | 1667                                        |
-| **Net Change** (↕)    | 17394                |
-| **Active Time** (⌚)   | 156 minutes |
+| **Lines Added** (➕)   | 19078                                          |
+| **Lines Removed** (➖) | 1670                                        |
+| **Net Change** (↕)    | 17408                |
+| **Active Time** (⌚)   | 168 minutes |
 
 
 ## Modified Files
@@ -29,7 +29,7 @@
 - **ProfilePublic.scss** (+178, -2)
 - **fieldUtils.ts** (+204, -0)
 - **ConstructFieldRows.tsx** (+28, -5)
-- **PersonalDetailsPanel.tsx** (+201, -16)
+- **PersonalDetailsPanel.tsx** (+218, -19)
 - **ConstructDefinitionListItem.test.tsx** (+86, -0)
 - **CancelBooking.tsx** (+89, -24)
 - **ConfirmationModal.tsx** (+121, -0)
@@ -47,7 +47,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 1876
+".tsx" : 1896
 ".js" : 1177
 ".ts" : 769
 ".json" : 503
@@ -64,8 +64,8 @@ title Coding activity by hour (count of changes)
 "08h" : 9
 "11h" : 18
 "12h" : 32
-"13h" : 77
+"13h" : 85
 ```
 
 
-> **Last Updated:** 17/04/2026, 13:52:01
+> **Last Updated:** 17/04/2026, 13:57:01
