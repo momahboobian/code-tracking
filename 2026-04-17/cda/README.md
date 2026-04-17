@@ -5,9 +5,9 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 20928                                          |
-| **Lines Removed** (➖) | 2236                                        |
-| **Net Change** (↕)    | 18692                |
-| **Active Time** (⌚)   | 297 minutes |
+| **Lines Removed** (➖) | 2237                                        |
+| **Net Change** (↕)    | 18691                |
+| **Active Time** (⌚)   | 298 minutes |
 
 
 ## Modified Files
@@ -47,7 +47,7 @@
 - **DisabilityPayPanel.tsx** (+122, -22)
 - **BankDetailsPanel.tsx** (+157, -59)
 - **EmergencyContactPanel.tsx** (+121, -62)
-- **NextOfKinPanel.tsx** (+72, -15)
+- **NextOfKinPanel.tsx** (+72, -16)
 - **package.json** (+70, -0)
 - **Book.tsx** (+483, -65)
 
@@ -58,7 +58,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 4217
+".tsx" : 4218
 ".js" : 1177
 ".ts" : 769
 ".json" : 574
@@ -77,8 +77,8 @@ title Coding activity by hour (count of changes)
 "12h" : 32
 "13h" : 91
 "14h" : 58
-"15h" : 32
+"15h" : 33
 ```
 
 
-> **Last Updated:** 17/04/2026, 15:37:01
+> **Last Updated:** 17/04/2026, 15:37:14
