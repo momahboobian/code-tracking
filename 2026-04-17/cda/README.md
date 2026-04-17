@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3524                                          |
-| **Lines Removed** (➖) | 1257                                        |
-| **Net Change** (↕)    | 2267                |
-| **Active Time** (⌚)   | 51 minutes |
+| **Lines Added** (➕)   | 3526                                          |
+| **Lines Removed** (➖) | 1258                                        |
+| **Net Change** (↕)    | 2268                |
+| **Active Time** (⌚)   | 55 minutes |
 
 
 ## Modified Files
@@ -25,7 +25,7 @@
 - **package.json** (+131, -0)
 - **debug-storybook.log** (+1112, -1111)
 - **20260407162117-replace-poepleview-profile-view.js** (+141, -0)
-- **ConstructFieldContent.tsx** (+58, -10)
+- **ConstructFieldContent.tsx** (+60, -11)
 - **ProfilePublic.scss** (+178, -2)
 - **fieldUtils.ts** (+204, -0)
 - **ConstructFieldRows.tsx** (+28, -5)
@@ -37,7 +37,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 804
+".tsx" : 807
 ".js" : 1001
 ".ts" : 256
 ".json" : 317
@@ -52,8 +52,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "08h" : 9
 "11h" : 18
-"12h" : 19
+"12h" : 21
 ```
 
 
-> **Last Updated:** 17/04/2026, 12:42:01
+> **Last Updated:** 17/04/2026, 12:47:01
