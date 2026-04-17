@@ -4,15 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3143                                          |
-| **Lines Removed** (➖) | 1235                                        |
-| **Net Change** (↕)    | 1908                |
-| **Active Time** (⌚)   | 34 minutes |
+| **Lines Added** (➕)   | 3497                                          |
+| **Lines Removed** (➖) | 1237                                        |
+| **Net Change** (↕)    | 2260                |
+| **Active Time** (⌚)   | 43 minutes |
 
 
 ## Modified Files
-- **ConstructDefinitionListItem.tsx** (+95, -19)
-- **ProfileFields.tsx** (+27, -6)
+- **ConstructDefinitionListItem.tsx** (+190, -21)
+- **ProfileFields.tsx** (+54, -6)
 - **peopleview-queries.js** (+795, -60)
 - **SearchBanners.test.tsx** (+5, -5)
 - **20260416145412-replace-poepleview-profile-view.js** (+0, -2)
@@ -27,6 +27,8 @@
 - **20260407162117-replace-poepleview-profile-view.js** (+141, -0)
 - **ConstructFieldContent.tsx** (+58, -0)
 - **ProfilePublic.scss** (+178, -0)
+- **fieldUtils.ts** (+204, -0)
+- **ConstructFieldRows.tsx** (+28, -0)
 
 ## Visualizations
 
@@ -35,9 +37,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 607
+".tsx" : 759
 ".js" : 1001
-".ts" : 52
+".ts" : 256
 ".json" : 317
 ".log" : 2223
 ".scss" : 178
@@ -50,8 +52,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "08h" : 9
 "11h" : 18
-"12h" : 7
+"12h" : 13
 ```
 
 
-> **Last Updated:** 17/04/2026, 12:32:01
+> **Last Updated:** 17/04/2026, 12:37:01

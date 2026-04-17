@@ -2,9 +2,9 @@
   "date": "2026-04-17",
   "projects": {
     "cda": {
-      "totalLinesAdded": 3143,
-      "totalLinesRemoved": 1235,
-      "totalActiveTime": 34,
+      "totalLinesAdded": 3497,
+      "totalLinesRemoved": 1237,
+      "totalActiveTime": 43,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/components/ProfileFields/ConstructDefinitionListItem/ConstructDefinitionListItem.tsx": [
           {
@@ -41,6 +41,34 @@
             "fileType": ".tsx",
             "linesAdded": 76,
             "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-04-17T11:36:06.757Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/components/ProfileFields/ConstructDefinitionListItem/ConstructDefinitionListItem.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 95,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-04-17T11:36:22.372Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/components/ProfileFields/ConstructDefinitionListItem/ConstructDefinitionListItem.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
             "projectName": "cda",
             "content": {
               "added": [],
@@ -91,6 +119,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-04-17T11:33:03.013Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/components/ProfileFields/ProfileFields.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 27,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "tsx"
           }
         ],
@@ -512,6 +554,52 @@
             },
             "duration": 1,
             "language": "scss"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/components/ProfileFields/utils/fieldUtils.ts": [
+          {
+            "timestamp": "2026-04-17T11:35:31.503Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/components/ProfileFields/utils/fieldUtils.ts",
+            "fileType": ".ts",
+            "linesAdded": 204,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/components/ProfileFields/ConstructFieldRows/ConstructFieldRows.tsx": [
+          {
+            "timestamp": "2026-04-17T11:35:49.471Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/components/ProfileFields/ConstructFieldRows/ConstructFieldRows.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 23,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-04-17T11:35:56.308Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/components/ProfileFields/ConstructFieldRows/ConstructFieldRows.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ]
       },
