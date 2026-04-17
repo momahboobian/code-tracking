@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 19717                                          |
-| **Lines Removed** (➖) | 1917                                        |
-| **Net Change** (↕)    | 17800                |
-| **Active Time** (⌚)   | 214 minutes |
+| **Lines Added** (➕)   | 19881                                          |
+| **Lines Removed** (➖) | 2006                                        |
+| **Net Change** (↕)    | 17875                |
+| **Active Time** (⌚)   | 219 minutes |
 
 
 ## Modified Files
@@ -41,7 +41,8 @@
 - **EmploymentDetailsPanel.tsx** (+66, -12)
 - **HoursAndPayPanel.tsx** (+84, -14)
 - **GenderPayPanel.tsx** (+250, -112)
-- **EthnicityPayPanel.tsx** (+198, -0)
+- **EthnicityPayPanel.tsx** (+198, -87)
+- **PayTransparencyContainer.tsx** (+164, -2)
 
 ## Visualizations
 
@@ -50,7 +51,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 2782
+".tsx" : 3035
 ".js" : 1177
 ".ts" : 769
 ".json" : 503
@@ -68,8 +69,8 @@ title Coding activity by hour (count of changes)
 "11h" : 18
 "12h" : 32
 "13h" : 91
-"14h" : 25
+"14h" : 28
 ```
 
 
-> **Last Updated:** 17/04/2026, 14:27:01
+> **Last Updated:** 17/04/2026, 14:37:01
