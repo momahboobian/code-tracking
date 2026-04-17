@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 20928                                          |
+| **Lines Added** (➕)   | 21630                                          |
 | **Lines Removed** (➖) | 2237                                        |
-| **Net Change** (↕)    | 18691                |
-| **Active Time** (⌚)   | 298 minutes |
+| **Net Change** (↕)    | 19393                |
+| **Active Time** (⌚)   | 309 minutes |
 
 
 ## Modified Files
@@ -20,7 +20,7 @@
 - **sap_views.ts** (+0, -6)
 - **tables.ts** (+23, -23)
 - **package.json** (+372, -0)
-- **PublicDetailsPanel.tsx** (+366, -1)
+- **PublicDetailsPanel.tsx** (+549, -1)
 - **ProfileLabel.tsx** (+34, -8)
 - **package.json** (+132, -0)
 - **debug-storybook.log** (+1112, -1111)
@@ -29,7 +29,7 @@
 - **ProfilePublic.scss** (+178, -2)
 - **fieldUtils.ts** (+204, -0)
 - **ConstructFieldRows.tsx** (+28, -5)
-- **PersonalDetailsPanel.tsx** (+325, -141)
+- **PersonalDetailsPanel.tsx** (+509, -141)
 - **ConstructDefinitionListItem.test.tsx** (+86, -0)
 - **CancelBooking.tsx** (+89, -24)
 - **ConfirmationModal.tsx** (+121, -0)
@@ -38,16 +38,16 @@
 - **index.js** (+173, -3)
 - **index.ts** (+511, -2)
 - **DescriptionList.scss** (+201, -1)
-- **EmploymentDetailsPanel.tsx** (+66, -13)
-- **HoursAndPayPanel.tsx** (+84, -15)
+- **EmploymentDetailsPanel.tsx** (+119, -13)
+- **HoursAndPayPanel.tsx** (+153, -15)
 - **GenderPayPanel.tsx** (+250, -112)
 - **EthnicityPayPanel.tsx** (+198, -87)
 - **PayTransparencyContainer.tsx** (+164, -2)
 - **Panels.scss** (+21, -3)
 - **DisabilityPayPanel.tsx** (+122, -22)
-- **BankDetailsPanel.tsx** (+157, -59)
-- **EmergencyContactPanel.tsx** (+121, -62)
-- **NextOfKinPanel.tsx** (+72, -16)
+- **BankDetailsPanel.tsx** (+255, -59)
+- **EmergencyContactPanel.tsx** (+180, -62)
+- **NextOfKinPanel.tsx** (+128, -16)
 - **package.json** (+70, -0)
 - **Book.tsx** (+483, -65)
 
@@ -58,7 +58,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 4218
+".tsx" : 4920
 ".js" : 1177
 ".ts" : 769
 ".json" : 574
@@ -77,8 +77,8 @@ title Coding activity by hour (count of changes)
 "12h" : 32
 "13h" : 91
 "14h" : 58
-"15h" : 33
+"15h" : 40
 ```
 
 
-> **Last Updated:** 17/04/2026, 15:37:14
+> **Last Updated:** 17/04/2026, 15:42:23
