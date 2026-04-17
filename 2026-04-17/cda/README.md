@@ -4,15 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3526                                          |
-| **Lines Removed** (➖) | 1258                                        |
-| **Net Change** (↕)    | 2268                |
-| **Active Time** (⌚)   | 55 minutes |
+| **Lines Added** (➕)   | 3738                                          |
+| **Lines Removed** (➖) | 1308                                        |
+| **Net Change** (↕)    | 2430                |
+| **Active Time** (⌚)   | 76 minutes |
 
 
 ## Modified Files
-- **ConstructDefinitionListItem.tsx** (+217, -24)
-- **ProfileFields.tsx** (+54, -6)
+- **ConstructDefinitionListItem.tsx** (+236, -65)
+- **ProfileFields.tsx** (+60, -12)
 - **peopleview-queries.js** (+795, -60)
 - **SearchBanners.test.tsx** (+5, -5)
 - **20260416145412-replace-poepleview-profile-view.js** (+0, -2)
@@ -21,14 +21,15 @@
 - **tables.ts** (+23, -23)
 - **package.json** (+186, -0)
 - **PublicDetailsPanel.tsx** (+366, -0)
-- **ProfileLabel.tsx** (+26, -0)
+- **ProfileLabel.tsx** (+28, -2)
 - **package.json** (+131, -0)
 - **debug-storybook.log** (+1112, -1111)
 - **20260407162117-replace-poepleview-profile-view.js** (+141, -0)
-- **ConstructFieldContent.tsx** (+60, -11)
+- **ConstructFieldContent.tsx** (+60, -12)
 - **ProfilePublic.scss** (+178, -2)
 - **fieldUtils.ts** (+204, -0)
 - **ConstructFieldRows.tsx** (+28, -5)
+- **PersonalDetailsPanel.tsx** (+185, -0)
 
 ## Visualizations
 
@@ -37,7 +38,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 807
+".tsx" : 1069
 ".js" : 1001
 ".ts" : 256
 ".json" : 317
@@ -52,8 +53,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "08h" : 9
 "11h" : 18
-"12h" : 21
+"12h" : 31
 ```
 
 
-> **Last Updated:** 17/04/2026, 12:47:01
+> **Last Updated:** 17/04/2026, 12:52:01
