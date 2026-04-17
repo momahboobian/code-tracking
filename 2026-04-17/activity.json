@@ -2,9 +2,9 @@
   "date": "2026-04-17",
   "projects": {
     "cda": {
-      "totalLinesAdded": 19519,
-      "totalLinesRemoved": 1805,
-      "totalActiveTime": 206,
+      "totalLinesAdded": 19717,
+      "totalLinesRemoved": 1917,
+      "totalActiveTime": 214,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/components/ProfileFields/ConstructDefinitionListItem/ConstructDefinitionListItem.tsx": [
           {
@@ -2443,6 +2443,78 @@
               "removed": []
             },
             "duration": 4,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-04-17T13:23:22.313Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/components/PayTransparencyPanels/GenderPayPanel.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 112,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/components/PayTransparencyPanels/EthnicityPayPanel.tsx": [
+          {
+            "timestamp": "2026-04-17T13:22:49.309Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/components/PayTransparencyPanels/EthnicityPayPanel.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 110,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-04-17T13:23:00.758Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/components/PayTransparencyPanels/EthnicityPayPanel.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-04-17T13:24:52.401Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/components/PayTransparencyPanels/EthnicityPayPanel.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-04-17T13:25:19.147Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/components/PayTransparencyPanels/EthnicityPayPanel.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 69,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "tsx"
           }
         ]
