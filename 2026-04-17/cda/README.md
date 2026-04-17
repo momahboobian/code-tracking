@@ -4,16 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 656                                          |
-| **Lines Removed** (➖) | 124                                        |
-| **Net Change** (↕)    | 532                |
-| **Active Time** (⌚)   | 11 minutes |
+| **Lines Added** (➕)   | 2644                                          |
+| **Lines Removed** (➖) | 1235                                        |
+| **Net Change** (↕)    | 1409                |
+| **Active Time** (⌚)   | 19 minutes |
 
 
 ## Modified Files
 - **ConstructDefinitionListItem.tsx** (+95, -19)
 - **ProfileFields.tsx** (+27, -6)
-- **peopleview-queries.js** (+60, -60)
+- **peopleview-queries.js** (+795, -60)
 - **SearchBanners.test.tsx** (+5, -5)
 - **20260416145412-replace-poepleview-profile-view.js** (+0, -2)
 - **20260416145438-replace-peopleview-teams-view.js** (+0, -3)
@@ -23,6 +23,8 @@
 - **PublicDetailsPanel.tsx** (+183, -0)
 - **ProfileLabel.tsx** (+12, -0)
 - **package.json** (+65, -0)
+- **debug-storybook.log** (+1112, -1111)
+- **20260407162117-replace-poepleview-profile-view.js** (+141, -0)
 
 ## Visualizations
 
@@ -32,9 +34,10 @@
 pie showData
 title Lines changed by file type
 ".tsx" : 352
-".js" : 125
+".js" : 1001
 ".ts" : 52
 ".json" : 251
+".log" : 2223
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -43,8 +46,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "08h" : 9
-"11h" : 11
+"11h" : 15
 ```
 
 
-> **Last Updated:** 17/04/2026, 11:29:48
+> **Last Updated:** 17/04/2026, 11:34:48
