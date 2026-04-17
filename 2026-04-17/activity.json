@@ -2,9 +2,9 @@
   "date": "2026-04-17",
   "projects": {
     "cda": {
-      "totalLinesAdded": 18771,
-      "totalLinesRemoved": 1654,
-      "totalActiveTime": 129,
+      "totalLinesAdded": 18972,
+      "totalLinesRemoved": 1655,
+      "totalActiveTime": 134,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/components/ProfileFields/ConstructDefinitionListItem/ConstructDefinitionListItem.tsx": [
           {
@@ -1694,6 +1694,50 @@
             },
             "duration": 1,
             "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/DescriptionList/DescriptionList.scss": [
+          {
+            "timestamp": "2026-04-17T12:28:21.815Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/DescriptionList/DescriptionList.scss",
+            "fileType": ".scss",
+            "linesAdded": 200,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2026-04-17T12:28:30.528Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/DescriptionList/DescriptionList.scss",
+            "fileType": ".scss",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2026-04-17T12:29:37.674Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/DescriptionList/DescriptionList.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "scss"
           }
         ]
       },
