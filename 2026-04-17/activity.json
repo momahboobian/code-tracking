@@ -2,9 +2,9 @@
   "date": "2026-04-17",
   "projects": {
     "cda": {
-      "totalLinesAdded": 19902,
-      "totalLinesRemoved": 2009,
-      "totalActiveTime": 227,
+      "totalLinesAdded": 20024,
+      "totalLinesRemoved": 2026,
+      "totalActiveTime": 236,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/components/ProfileFields/ConstructDefinitionListItem/ConstructDefinitionListItem.tsx": [
           {
@@ -2632,6 +2632,64 @@
             },
             "duration": 2,
             "language": "scss"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/components/PayTransparencyPanels/DisabilityPayPanel.tsx": [
+          {
+            "timestamp": "2026-04-17T13:45:25.142Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/components/PayTransparencyPanels/DisabilityPayPanel.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 99,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-04-17T13:45:53.884Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/components/PayTransparencyPanels/DisabilityPayPanel.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 22,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-04-17T13:46:58.332Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/components/PayTransparencyPanels/DisabilityPayPanel.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 17,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-04-17T13:46:59.927Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/components/PayTransparencyPanels/DisabilityPayPanel.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ]
       },
