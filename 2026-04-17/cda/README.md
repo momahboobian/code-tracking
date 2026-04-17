@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 19267                                          |
-| **Lines Removed** (➖) | 1793                                        |
-| **Net Change** (↕)    | 17474                |
-| **Active Time** (⌚)   | 194 minutes |
+| **Lines Added** (➕)   | 19439                                          |
+| **Lines Removed** (➖) | 1805                                        |
+| **Net Change** (↕)    | 17634                |
+| **Active Time** (⌚)   | 202 minutes |
 
 
 ## Modified Files
@@ -29,7 +29,7 @@
 - **ProfilePublic.scss** (+178, -2)
 - **fieldUtils.ts** (+204, -0)
 - **ConstructFieldRows.tsx** (+28, -5)
-- **PersonalDetailsPanel.tsx** (+323, -140)
+- **PersonalDetailsPanel.tsx** (+325, -140)
 - **ConstructDefinitionListItem.test.tsx** (+86, -0)
 - **CancelBooking.tsx** (+89, -24)
 - **ConfirmationModal.tsx** (+121, -0)
@@ -39,7 +39,8 @@
 - **index.ts** (+511, -2)
 - **DescriptionList.scss** (+201, -1)
 - **EmploymentDetailsPanel.tsx** (+66, -12)
-- **HoursAndPayPanel.tsx** (+84, -2)
+- **HoursAndPayPanel.tsx** (+84, -14)
+- **GenderPayPanel.tsx** (+170, -0)
 
 ## Visualizations
 
@@ -48,7 +49,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 2208
+".tsx" : 2392
 ".js" : 1177
 ".ts" : 769
 ".json" : 503
@@ -66,8 +67,8 @@ title Coding activity by hour (count of changes)
 "11h" : 18
 "12h" : 32
 "13h" : 91
-"14h" : 13
+"14h" : 19
 ```
 
 
-> **Last Updated:** 17/04/2026, 14:12:01
+> **Last Updated:** 17/04/2026, 14:17:01
