@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 60                                          |
-| **Lines Removed** (➖) | 30                                        |
-| **Net Change** (↕)    | 30                |
-| **Active Time** (⌚)   | 0 minute |
+| **Lines Added** (➕)   | 83                                          |
+| **Lines Removed** (➖) | 41                                        |
+| **Net Change** (↕)    | 42                |
+| **Active Time** (⌚)   | 6 minutes |
 
 
 ## Modified Files
@@ -15,6 +15,10 @@
 - **ProfileFields.tsx** (+0, -6)
 - **peopleview-queries.js** (+60, -0)
 - **SearchBanners.test.tsx** (+0, -5)
+- **20260416145412-replace-poepleview-profile-view.js** (+0, -2)
+- **20260416145438-replace-peopleview-teams-view.js** (+0, -3)
+- **sap_views.ts** (+0, -6)
+- **tables.ts** (+23, -0)
 
 ## Visualizations
 
@@ -24,7 +28,8 @@
 pie showData
 title Lines changed by file type
 ".tsx" : 30
-".js" : 60
+".js" : 65
+".ts" : 29
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -32,8 +37,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"08h" : 4
+"08h" : 9
 ```
 
 
-> **Last Updated:** 17/04/2026, 08:54:02
+> **Last Updated:** 17/04/2026, 08:59:02
