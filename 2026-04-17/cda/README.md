@@ -4,9 +4,9 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2960                                          |
+| **Lines Added** (➕)   | 3143                                          |
 | **Lines Removed** (➖) | 1235                                        |
-| **Net Change** (↕)    | 1725                |
+| **Net Change** (↕)    | 1908                |
 | **Active Time** (⌚)   | 34 minutes |
 
 
@@ -20,7 +20,7 @@
 - **sap_views.ts** (+0, -6)
 - **tables.ts** (+23, -23)
 - **package.json** (+186, -0)
-- **PublicDetailsPanel.tsx** (+183, -0)
+- **PublicDetailsPanel.tsx** (+366, -0)
 - **ProfileLabel.tsx** (+26, -0)
 - **package.json** (+131, -0)
 - **debug-storybook.log** (+1112, -1111)
@@ -35,7 +35,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 424
+".tsx" : 607
 ".js" : 1001
 ".ts" : 52
 ".json" : 317
@@ -50,8 +50,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "08h" : 9
 "11h" : 18
-"12h" : 6
+"12h" : 7
 ```
 
 
-> **Last Updated:** 17/04/2026, 12:22:01
+> **Last Updated:** 17/04/2026, 12:32:01
