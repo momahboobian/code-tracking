@@ -35,9 +35,9 @@
       "averageChangeSize": 68
     },
     "cda": {
-      "totalLinesAdded": 16662,
+      "totalLinesAdded": 16663,
       "totalLinesRemoved": 2585,
-      "totalActiveTime": 181,
+      "totalActiveTime": 183,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/package.json": [
           {
@@ -1840,6 +1840,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "log"
+          },
+          {
+            "timestamp": "2026-04-20T15:02:30.498Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/debug-storybook.log",
+            "fileType": ".log",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "log"
           }
         ],
