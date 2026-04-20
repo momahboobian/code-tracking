@@ -35,9 +35,9 @@
       "averageChangeSize": 68
     },
     "cda": {
-      "totalLinesAdded": 16663,
+      "totalLinesAdded": 16712,
       "totalLinesRemoved": 2585,
-      "totalActiveTime": 183,
+      "totalActiveTime": 184,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/package.json": [
           {
@@ -1887,6 +1887,36 @@
             },
             "duration": 0,
             "language": "lock"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/docs/_demo.scss": [
+          {
+            "timestamp": "2026-04-20T15:07:48.137Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/docs/_demo.scss",
+            "fileType": ".scss",
+            "linesAdded": 48,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2026-04-20T15:07:48.207Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/docs/_demo.scss",
+            "fileType": ".scss",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
           }
         ]
       },
