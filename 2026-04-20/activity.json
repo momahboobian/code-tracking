@@ -33,6 +33,91 @@
         "/Users/momahboobian/archive-3.html"
       ],
       "averageChangeSize": 68
+    },
+    "cda": {
+      "totalLinesAdded": 521,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 2,
+      "files": {
+        "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/package.json": [
+          {
+            "timestamp": "2026-04-20T08:46:51.782Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/package.json",
+            "fileType": ".json",
+            "linesAdded": 65,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/desks/package.json": [
+          {
+            "timestamp": "2026-04-20T08:46:51.785Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/desks/package.json",
+            "fileType": ".json",
+            "linesAdded": 70,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/DescriptionList/DescriptionList.scss": [
+          {
+            "timestamp": "2026-04-20T08:46:51.871Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/DescriptionList/DescriptionList.scss",
+            "fileType": ".scss",
+            "linesAdded": 200,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/package.json": [
+          {
+            "timestamp": "2026-04-20T08:47:02.082Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/package.json",
+            "fileType": ".json",
+            "linesAdded": 186,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 1,
+        "scss": 1
+      },
+      "changeFrequency": {
+        "9": 2
+      },
+      "topFiles": [
+        "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/package.json",
+        "/Users/momahboobian/Documents/_BBC/cda/apps/desks/package.json",
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/DescriptionList/DescriptionList.scss",
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/package.json"
+      ],
+      "averageChangeSize": 130.25
     }
   },
   "totalActiveTime": 0,
