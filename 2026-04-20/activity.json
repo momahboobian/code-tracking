@@ -36,7 +36,7 @@
     },
     "cda": {
       "totalLinesAdded": 16741,
-      "totalLinesRemoved": 2672,
+      "totalLinesRemoved": 2673,
       "totalActiveTime": 191,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/package.json": [
@@ -1958,6 +1958,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2026-04-20T15:19:45.782Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/docs/_demo.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "scss"
           }
         ]
