@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 25523                                          |
+| **Lines Added** (➕)   | 25736                                          |
 | **Lines Removed** (➖) | 2689                                        |
-| **Net Change** (↕)    | 22834                |
-| **Active Time** (⌚)   | 219 minutes |
+| **Net Change** (↕)    | 23047                |
+| **Active Time** (⌚)   | 220 minutes |
 
 
 ## Modified Files
@@ -37,6 +37,8 @@
 - **yarn.lock** (+8678, -0)
 - **tooltip.scss** (+63, -16)
 - **.env** (+2, -0)
+- **RequestsTable.test.tsx** (+90, -0)
+- **CondensedFaultTable.test.tsx** (+123, -0)
 
 ## Visualizations
 
@@ -47,7 +49,7 @@ pie showData
 title Lines changed by file type
 ".json" : 520
 ".scss" : 565
-".tsx" : 2362
+".tsx" : 2575
 ".js" : 533
 ".ts" : 514
 ".mdx" : 50
@@ -68,8 +70,8 @@ title Coding activity by hour (count of changes)
 "14h" : 17
 "15h" : 24
 "16h" : 22
-"17h" : 4
+"17h" : 6
 ```
 
 
-> **Last Updated:** 20/04/2026, 17:11:32
+> **Last Updated:** 20/04/2026, 17:26:52
