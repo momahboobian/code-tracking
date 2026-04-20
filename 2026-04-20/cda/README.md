@@ -4,9 +4,9 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 521                                          |
+| **Lines Added** (➕)   | 885                                          |
 | **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 521                |
+| **Net Change** (↕)    | 885                |
 | **Active Time** (⌚)   | 2 minutes |
 
 
@@ -15,6 +15,8 @@
 - **package.json** (+70, -0)
 - **DescriptionList.scss** (+200, -0)
 - **package.json** (+186, -0)
+- **PublicDetailsPanel.tsx** (+183, -0)
+- **PersonalDetailsPanel.tsx** (+181, -0)
 
 ## Visualizations
 
@@ -25,6 +27,7 @@ pie showData
 title Lines changed by file type
 ".json" : 321
 ".scss" : 200
+".tsx" : 364
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -32,8 +35,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"09h" : 4
+"09h" : 6
 ```
 
 
-> **Last Updated:** 20/04/2026, 09:49:07
+> **Last Updated:** 20/04/2026, 09:54:07
