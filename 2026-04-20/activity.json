@@ -35,9 +35,9 @@
       "averageChangeSize": 68
     },
     "cda": {
-      "totalLinesAdded": 6078,
+      "totalLinesAdded": 16662,
       "totalLinesRemoved": 2585,
-      "totalActiveTime": 180,
+      "totalActiveTime": 181,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/package.json": [
           {
@@ -1827,6 +1827,20 @@
             },
             "duration": 2,
             "language": "log"
+          },
+          {
+            "timestamp": "2026-04-20T15:00:54.422Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/debug-storybook.log",
+            "fileType": ".log",
+            "linesAdded": 58,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "log"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/Tooltip/index.ts": [
@@ -1843,6 +1857,22 @@
             },
             "duration": 1,
             "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/yarn.lock": [
+          {
+            "timestamp": "2026-04-20T15:00:39.880Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/yarn.lock",
+            "fileType": ".lock",
+            "linesAdded": 10526,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "lock"
           }
         ]
       },
