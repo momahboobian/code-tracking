@@ -1332,7 +1332,7 @@
       "averageChangeSize": 50.5
     },
     "ise-web-ofcom": {
-      "totalLinesAdded": 270,
+      "totalLinesAdded": 287,
       "totalLinesRemoved": 9,
       "totalActiveTime": 8,
       "files": {
@@ -1454,6 +1454,22 @@
             },
             "duration": 4,
             "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/ise-web-ofcom/ofcom/src/containers/Lds/Lds.tsx": [
+          {
+            "timestamp": "2026-04-21T16:26:04.436Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/ise-web-ofcom/ofcom/src/containers/Lds/Lds.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 17,
+            "linesRemoved": 0,
+            "projectName": "ise-web-ofcom",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
           }
         ]
       },
