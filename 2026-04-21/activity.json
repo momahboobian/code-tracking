@@ -2,9 +2,9 @@
   "date": "2026-04-21",
   "projects": {
     "cda": {
-      "totalLinesAdded": 12600,
-      "totalLinesRemoved": 4,
-      "totalActiveTime": 11,
+      "totalLinesAdded": 12653,
+      "totalLinesRemoved": 9,
+      "totalActiveTime": 12,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/Tooltip/Tooltip.scss": [
           {
@@ -572,6 +572,36 @@
             },
             "duration": 0,
             "language": "unknown"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/providers/UserProvider.js": [
+          {
+            "timestamp": "2026-04-21T13:29:36.507Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/providers/UserProvider.js",
+            "fileType": ".js",
+            "linesAdded": 53,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-04-21T13:29:43.680Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/providers/UserProvider.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
           }
         ]
       },
