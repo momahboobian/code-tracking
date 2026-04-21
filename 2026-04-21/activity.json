@@ -1305,8 +1305,8 @@
     },
     "ise-web-ofcom": {
       "totalLinesAdded": 270,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 4,
+      "totalLinesRemoved": 9,
+      "totalActiveTime": 8,
       "files": {
         "/Users/momahboobian/Library/Application Support/Code/User/settings.json": [
           {
@@ -1411,6 +1411,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-04-21T15:43:12.662Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/ise-web-ofcom/ofcom/codegen.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 9,
+            "projectName": "ise-web-ofcom",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "ts"
           }
         ]
