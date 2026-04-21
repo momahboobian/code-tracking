@@ -1218,9 +1218,9 @@
       "averageChangeSize": 50.5
     },
     "ise-web-ofcom": {
-      "totalLinesAdded": 75,
+      "totalLinesAdded": 233,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 1,
+      "totalActiveTime": 3,
       "files": {
         "/Users/momahboobian/Library/Application Support/Code/User/settings.json": [
           {
@@ -1250,6 +1250,52 @@
             },
             "duration": 1,
             "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/ise-web-ofcom/ofcom/src/graphql/low-risk/queries.ts": [
+          {
+            "timestamp": "2026-04-21T15:31:25.086Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/ise-web-ofcom/ofcom/src/graphql/low-risk/queries.ts",
+            "fileType": ".ts",
+            "linesAdded": 77,
+            "linesRemoved": 0,
+            "projectName": "ise-web-ofcom",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/ise-web-ofcom/ofcom/src/graphql/low-risk/mutations.ts": [
+          {
+            "timestamp": "2026-04-21T15:31:30.407Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/ise-web-ofcom/ofcom/src/graphql/low-risk/mutations.ts",
+            "fileType": ".ts",
+            "linesAdded": 73,
+            "linesRemoved": 0,
+            "projectName": "ise-web-ofcom",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-04-21T15:31:30.951Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/ise-web-ofcom/ofcom/src/graphql/low-risk/mutations.ts",
+            "fileType": ".ts",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "ise-web-ofcom",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ]
       },
