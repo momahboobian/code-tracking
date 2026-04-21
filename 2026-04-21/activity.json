@@ -2,9 +2,9 @@
   "date": "2026-04-21",
   "projects": {
     "cda": {
-      "totalLinesAdded": 13522,
+      "totalLinesAdded": 13755,
       "totalLinesRemoved": 140,
-      "totalActiveTime": 54,
+      "totalActiveTime": 59,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/Tooltip/Tooltip.scss": [
           {
@@ -1036,6 +1036,20 @@
             },
             "duration": 2,
             "language": "ts"
+          },
+          {
+            "timestamp": "2026-04-21T15:40:09.673Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/src/graphql/low-risk/queries.ts",
+            "fileType": ".ts",
+            "linesAdded": 77,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/src/graphql/low-risk/mutations.ts": [
@@ -1080,6 +1094,20 @@
             },
             "duration": 1,
             "language": "ts"
+          },
+          {
+            "timestamp": "2026-04-21T15:40:03.552Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/src/graphql/low-risk/mutations.ts",
+            "fileType": ".ts",
+            "linesAdded": 81,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "ts"
           }
         ],
         "/Users/momahboobian/Library/Application Support/Code/User/settings.json": [
@@ -1103,6 +1131,34 @@
             "fileType": ".json",
             "linesAdded": 0,
             "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-04-21T15:37:42.301Z",
+            "fileName": "/Users/momahboobian/Library/Application Support/Code/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 74,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-04-21T15:37:42.349Z",
+            "fileName": "/Users/momahboobian/Library/Application Support/Code/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
             "projectName": "cda",
             "content": {
               "added": [],
