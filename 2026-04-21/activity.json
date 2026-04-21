@@ -2,9 +2,9 @@
   "date": "2026-04-21",
   "projects": {
     "cda": {
-      "totalLinesAdded": 232,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 3,
+      "totalLinesAdded": 271,
+      "totalLinesRemoved": 3,
+      "totalActiveTime": 4,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/Tooltip/Tooltip.scss": [
           {
@@ -50,6 +50,50 @@
             },
             "duration": 2,
             "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/vitest.config.js": [
+          {
+            "timestamp": "2026-04-21T09:55:36.870Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/vitest.config.js",
+            "fileType": ".js",
+            "linesAdded": 36,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-04-21T09:55:36.894Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/vitest.config.js",
+            "fileType": ".js",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-04-21T10:03:06.793Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/vitest.config.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
           }
         ]
       },
