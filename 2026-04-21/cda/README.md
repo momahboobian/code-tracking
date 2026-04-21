@@ -4,9 +4,9 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1478                                          |
+| **Lines Added** (➕)   | 11592                                          |
 | **Lines Removed** (➖) | 4                                        |
-| **Net Change** (↕)    | 1474                |
+| **Net Change** (↕)    | 11588                |
 | **Active Time** (⌚)   | 9 minutes |
 
 
@@ -21,6 +21,20 @@
 - **package.json** (+69, -0)
 - **index.ts** (+511, -0)
 - **index.js** (+170, -0)
+- **lambda-policy.json** (+126, -0)
+- **oracle-configs.d.ts** (+3, -0)
+- **lambda.json** (+195, -0)
+- **index.ts** (+403, -0)
+- **yarn.lock** (+8678, -0)
+- **OracleProcessor.js** (+8, -0)
+- **OracleProcessor.ts** (+17, -0)
+- **graphql.ts** (+236, -0)
+- **CSVReader.js** (+83, -0)
+- **oracle-configs.js** (+22, -0)
+- **OracleGrammar.js** (+55, -0)
+- **OracleGrammar.ts** (+79, -0)
+- **OracleGrammar.test.ts** (+178, -0)
+- **oracle-configs.ts** (+31, -0)
 
 ## Visualizations
 
@@ -30,9 +44,10 @@
 pie showData
 title Lines changed by file type
 ".scss" : 47
-".json" : 712
-".js" : 212
-".ts" : 511
+".json" : 1033
+".js" : 380
+".ts" : 1458
+".lock" : 8678
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -43,8 +58,8 @@ title Coding activity by hour (count of changes)
 "10h" : 5
 "11h" : 1
 "12h" : 1
-"13h" : 10
+"13h" : 24
 ```
 
 
-> **Last Updated:** 21/04/2026, 13:07:26
+> **Last Updated:** 21/04/2026, 13:27:26

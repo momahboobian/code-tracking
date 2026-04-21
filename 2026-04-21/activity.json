@@ -2,7 +2,7 @@
   "date": "2026-04-21",
   "projects": {
     "cda": {
-      "totalLinesAdded": 1478,
+      "totalLinesAdded": 11592,
       "totalLinesRemoved": 4,
       "totalActiveTime": 9,
       "files": {
@@ -262,6 +262,230 @@
             },
             "duration": 1,
             "language": "js"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/infrastructure/lambda-policy.json": [
+          {
+            "timestamp": "2026-04-21T12:26:28.233Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/infrastructure/lambda-policy.json",
+            "fileType": ".json",
+            "linesAdded": 126,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-databases/dist/configs/oracle-configs.d.ts": [
+          {
+            "timestamp": "2026-04-21T12:26:28.240Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-databases/dist/configs/oracle-configs.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/infrastructure/lambda.json": [
+          {
+            "timestamp": "2026-04-21T12:26:28.235Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/infrastructure/lambda.json",
+            "fileType": ".json",
+            "linesAdded": 195,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/index.ts": [
+          {
+            "timestamp": "2026-04-21T12:26:28.238Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/index.ts",
+            "fileType": ".ts",
+            "linesAdded": 403,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/yarn.lock": [
+          {
+            "timestamp": "2026-04-21T12:26:28.244Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/yarn.lock",
+            "fileType": ".lock",
+            "linesAdded": 8678,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "lock"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-databases/dist/query/processors/OracleProcessor.js": [
+          {
+            "timestamp": "2026-04-21T12:26:28.240Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-databases/dist/query/processors/OracleProcessor.js",
+            "fileType": ".js",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-databases/src/query/processors/OracleProcessor.ts": [
+          {
+            "timestamp": "2026-04-21T12:26:28.246Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-databases/src/query/processors/OracleProcessor.ts",
+            "fileType": ".ts",
+            "linesAdded": 17,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/types/graphql.ts": [
+          {
+            "timestamp": "2026-04-21T12:26:28.247Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/types/graphql.ts",
+            "fileType": ".ts",
+            "linesAdded": 236,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-csv-handler/src/CSVReader.js": [
+          {
+            "timestamp": "2026-04-21T12:26:28.248Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-csv-handler/src/CSVReader.js",
+            "fileType": ".js",
+            "linesAdded": 83,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-databases/dist/configs/oracle-configs.js": [
+          {
+            "timestamp": "2026-04-21T12:26:28.249Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-databases/dist/configs/oracle-configs.js",
+            "fileType": ".js",
+            "linesAdded": 22,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-databases/dist/query/grammars/OracleGrammar.js": [
+          {
+            "timestamp": "2026-04-21T12:26:28.249Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-databases/dist/query/grammars/OracleGrammar.js",
+            "fileType": ".js",
+            "linesAdded": 55,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-databases/src/query/grammars/OracleGrammar.ts": [
+          {
+            "timestamp": "2026-04-21T12:26:28.251Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-databases/src/query/grammars/OracleGrammar.ts",
+            "fileType": ".ts",
+            "linesAdded": 79,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-databases/tests/unit/query/grammars/OracleGrammar.test.ts": [
+          {
+            "timestamp": "2026-04-21T12:26:28.251Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-databases/tests/unit/query/grammars/OracleGrammar.test.ts",
+            "fileType": ".ts",
+            "linesAdded": 178,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-databases/src/configs/oracle-configs.ts": [
+          {
+            "timestamp": "2026-04-21T12:26:28.250Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-databases/src/configs/oracle-configs.ts",
+            "fileType": ".ts",
+            "linesAdded": 31,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
           }
         ]
       },
