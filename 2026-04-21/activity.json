@@ -1346,9 +1346,9 @@
       "averageChangeSize": 50.5
     },
     "ise-web-ofcom": {
-      "totalLinesAdded": 697,
-      "totalLinesRemoved": 9,
-      "totalActiveTime": 24,
+      "totalLinesAdded": 900,
+      "totalLinesRemoved": 270,
+      "totalActiveTime": 28,
       "files": {
         "/Users/momahboobian/Library/Application Support/Code/User/settings.json": [
           {
@@ -1484,6 +1484,20 @@
             },
             "duration": 0,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2026-04-21T17:57:23.645Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/ise-web-ofcom/ofcom/src/containers/Lds/Lds.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 79,
+            "linesRemoved": 0,
+            "projectName": "ise-web-ofcom",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/ise-web-ofcom/ofcom/src/components/Search/SearchLds.tsx": [
@@ -1555,6 +1569,34 @@
               "removed": []
             },
             "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-04-21T17:57:13.269Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/ise-web-ofcom/ofcom/src/components/Search/SearchLds.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 51,
+            "projectName": "ise-web-ofcom",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-04-21T17:57:27.305Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/ise-web-ofcom/ofcom/src/components/Search/SearchLds.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "ise-web-ofcom",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "tsx"
           }
         ],
@@ -1636,6 +1678,34 @@
             "fileName": "/Users/momahboobian/Documents/_BBC/ise-web-ofcom/ofcom/src/components/Search/SearchLds.test.tsx",
             "fileType": ".tsx",
             "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "ise-web-ofcom",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-04-21T17:57:48.090Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/ise-web-ofcom/ofcom/src/components/Search/SearchLds.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 209,
+            "projectName": "ise-web-ofcom",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-04-21T17:57:48.120Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/ise-web-ofcom/ofcom/src/components/Search/SearchLds.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 124,
             "linesRemoved": 0,
             "projectName": "ise-web-ofcom",
             "content": {
