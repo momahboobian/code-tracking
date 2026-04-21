@@ -587,9 +587,9 @@
       "averageChangeSize": 23
     },
     "skills": {
-      "totalLinesAdded": 263,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 0,
+      "totalLinesAdded": 316,
+      "totalLinesRemoved": 5,
+      "totalActiveTime": 2,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/skills/package.json": [
           {
@@ -649,6 +649,50 @@
             },
             "duration": 0,
             "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/providers/UserProvider.js": [
+          {
+            "timestamp": "2026-04-21T13:29:36.378Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/providers/UserProvider.js",
+            "fileType": ".js",
+            "linesAdded": 48,
+            "linesRemoved": 0,
+            "projectName": "skills",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-04-21T13:29:36.455Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/providers/UserProvider.js",
+            "fileType": ".js",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "skills",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-04-21T13:29:43.586Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/providers/UserProvider.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "skills",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
           }
         ]
       },
