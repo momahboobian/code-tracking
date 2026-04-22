@@ -2,9 +2,9 @@
   "date": "2026-04-22",
   "projects": {
     "cda": {
-      "totalLinesAdded": 174,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 6,
+      "totalLinesAdded": 417,
+      "totalLinesRemoved": 8,
+      "totalActiveTime": 13,
       "files": {
         "/Users/momahboobian/Library/Application Support/Code/User/settings.json": [
           {
@@ -121,6 +121,110 @@
             "duration": 1,
             "language": "json"
           }
+        ],
+        "/Users/momahboobian/Library/Application Support/Code/User/keybindings.json": [
+          {
+            "timestamp": "2026-04-22T10:04:15.829Z",
+            "fileName": "/Users/momahboobian/Library/Application Support/Code/User/keybindings.json",
+            "fileType": ".json",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-04-22T10:04:15.861Z",
+            "fileName": "/Users/momahboobian/Library/Application Support/Code/User/keybindings.json",
+            "fileType": ".json",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/src/components/Search/SearchLds.tsx": [
+          {
+            "timestamp": "2026-04-22T10:05:17.858Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/src/components/Search/SearchLds.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 127,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-04-22T10:05:22.135Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/src/components/Search/SearchLds.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-04-22T10:05:45.031Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/src/components/Search/SearchLds.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 8,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/src/containers/Lds/Lds.tsx": [
+          {
+            "timestamp": "2026-04-22T10:06:10.961Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/src/containers/Lds/Lds.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 99,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-04-22T10:06:15.286Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/src/containers/Lds/Lds.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
         ]
       },
       "languageStats": {
@@ -135,9 +239,9 @@
       "averageChangeSize": 25.666666666666668
     },
     "ise-web-ofcom": {
-      "totalLinesAdded": 4,
+      "totalLinesAdded": 653,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 1,
+      "totalActiveTime": 9,
       "files": {
         "/Users/momahboobian/Documents/_BBC/ise-web-ofcom/.vscode/settings.json": [
           {
@@ -159,6 +263,150 @@
             "fileName": "/Users/momahboobian/Documents/_BBC/ise-web-ofcom/.vscode/settings.json",
             "fileType": ".json",
             "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "ise-web-ofcom",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/ise-web-ofcom/ofcom/src/graphql/low-risk/mutations.ts": [
+          {
+            "timestamp": "2026-04-22T10:07:12.431Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/ise-web-ofcom/ofcom/src/graphql/low-risk/mutations.ts",
+            "fileType": ".ts",
+            "linesAdded": 81,
+            "linesRemoved": 0,
+            "projectName": "ise-web-ofcom",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/ise-web-ofcom/ofcom/codegen.ts": [
+          {
+            "timestamp": "2026-04-22T10:07:12.452Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/ise-web-ofcom/ofcom/codegen.ts",
+            "fileType": ".ts",
+            "linesAdded": 28,
+            "linesRemoved": 0,
+            "projectName": "ise-web-ofcom",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/ise-web-ofcom/ofcom/src/graphql/low-risk/queries.ts": [
+          {
+            "timestamp": "2026-04-22T10:07:12.505Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/ise-web-ofcom/ofcom/src/graphql/low-risk/queries.ts",
+            "fileType": ".ts",
+            "linesAdded": 77,
+            "linesRemoved": 0,
+            "projectName": "ise-web-ofcom",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/ise-web-ofcom/ofcom/src/components/Search/SearchLds.tsx": [
+          {
+            "timestamp": "2026-04-22T10:07:12.514Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/ise-web-ofcom/ofcom/src/components/Search/SearchLds.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 127,
+            "linesRemoved": 0,
+            "projectName": "ise-web-ofcom",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/ise-web-ofcom/ofcom/src/components/Search/SearchLds.scss": [
+          {
+            "timestamp": "2026-04-22T10:07:12.518Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/ise-web-ofcom/ofcom/src/components/Search/SearchLds.scss",
+            "fileType": ".scss",
+            "linesAdded": 16,
+            "linesRemoved": 0,
+            "projectName": "ise-web-ofcom",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/ise-web-ofcom/ofcom/src/containers/Lds/Lds.test.tsx": [
+          {
+            "timestamp": "2026-04-22T10:07:12.523Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/ise-web-ofcom/ofcom/src/containers/Lds/Lds.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 36,
+            "linesRemoved": 0,
+            "projectName": "ise-web-ofcom",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/ise-web-ofcom/ofcom/src/containers/Lds/Lds.tsx": [
+          {
+            "timestamp": "2026-04-22T10:07:12.549Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/ise-web-ofcom/ofcom/src/containers/Lds/Lds.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 101,
+            "linesRemoved": 0,
+            "projectName": "ise-web-ofcom",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/ise-web-ofcom/ofcom/src/components/Search/SearchLds.test.tsx": [
+          {
+            "timestamp": "2026-04-22T10:07:12.555Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/ise-web-ofcom/ofcom/src/components/Search/SearchLds.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 120,
+            "linesRemoved": 0,
+            "projectName": "ise-web-ofcom",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/ise-web-ofcom/ofcom/package.json": [
+          {
+            "timestamp": "2026-04-22T10:07:12.561Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/ise-web-ofcom/ofcom/package.json",
+            "fileType": ".json",
+            "linesAdded": 63,
             "linesRemoved": 0,
             "projectName": "ise-web-ofcom",
             "content": {
