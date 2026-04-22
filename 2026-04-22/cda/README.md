@@ -4,20 +4,21 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1127                                          |
+| **Lines Added** (➕)   | 1241                                          |
 | **Lines Removed** (➖) | 66                                        |
-| **Net Change** (↕)    | 1061                |
-| **Active Time** (⌚)   | 39 minutes |
+| **Net Change** (↕)    | 1175                |
+| **Active Time** (⌚)   | 48 minutes |
 
 
 ## Modified Files
 - **settings.json** (+160, -0)
 - **.skill-lock.json** (+97, -0)
 - **keybindings.json** (+8, -0)
-- **SearchLds.tsx** (+416, -35)
-- **Lds.tsx** (+343, -30)
+- **SearchLds.tsx** (+448, -35)
+- **Lds.tsx** (+377, -30)
 - **SearchLds.test.tsx** (+26, -1)
 - **queries.ts** (+77, -0)
+- **SearchLds.scss** (+48, -0)
 
 ## Visualizations
 
@@ -27,8 +28,9 @@
 pie showData
 title Lines changed by file type
 ".json" : 265
-".tsx" : 851
+".tsx" : 917
 ".ts" : 77
+".scss" : 48
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -40,8 +42,8 @@ title Coding activity by hour (count of changes)
 "10h" : 1
 "11h" : 11
 "12h" : 4
-"13h" : 17
+"13h" : 22
 ```
 
 
-> **Last Updated:** 22/04/2026, 13:51:58
+> **Last Updated:** 22/04/2026, 13:56:58
