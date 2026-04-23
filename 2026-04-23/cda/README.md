@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 11259                                          |
-| **Lines Removed** (➖) | 1316                                        |
-| **Net Change** (↕)    | 9943                |
-| **Active Time** (⌚)   | 304 minutes |
+| **Lines Added** (➕)   | 11396                                          |
+| **Lines Removed** (➖) | 1325                                        |
+| **Net Change** (↕)    | 10071                |
+| **Active Time** (⌚)   | 314 minutes |
 
 
 ## Modified Files
@@ -18,7 +18,7 @@
 - **ErrorBox.test.tsx** (+186, -0)
 - **LdsList.tsx** (+389, -77)
 - **SearchLds.scss** (+405, -126)
-- **LdsList.scss** (+375, -130)
+- **LdsList.scss** (+512, -139)
 - **mutations.ts** (+243, -0)
 - **OfcomReportingEventRepository.js** (+379, -2)
 - **.eslintrc.js** (+58, -5)
@@ -44,7 +44,7 @@
 pie showData
 title Lines changed by file type
 ".tsx" : 3924
-".scss" : 1036
+".scss" : 1182
 ".ts" : 7014
 ".js" : 444
 ".json" : 157
@@ -61,8 +61,8 @@ title Coding activity by hour (count of changes)
 "12h" : 33
 "13h" : 41
 "14h" : 45
-"15h" : 13
+"15h" : 22
 ```
 
 
-> **Last Updated:** 23/04/2026, 15:08:30
+> **Last Updated:** 23/04/2026, 15:13:30
