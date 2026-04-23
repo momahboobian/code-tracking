@@ -2,9 +2,9 @@
   "date": "2026-04-23",
   "projects": {
     "cda": {
-      "totalLinesAdded": 11251,
-      "totalLinesRemoved": 1312,
-      "totalActiveTime": 290,
+      "totalLinesAdded": 11259,
+      "totalLinesRemoved": 1316,
+      "totalActiveTime": 304,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/src/components/Search/SearchLds.tsx": [
           {
@@ -1962,6 +1962,62 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2026-04-23T14:06:45.347Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/src/components/LdsList/LdsList.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-04-23T14:06:54.821Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/src/components/LdsList/LdsList.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-04-23T14:07:30.548Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/src/components/LdsList/LdsList.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-04-23T14:07:47.146Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/src/components/LdsList/LdsList.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/src/components/Search/SearchLds.scss": [
@@ -2235,6 +2291,90 @@
           },
           {
             "timestamp": "2026-04-23T14:00:49.231Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/src/components/LdsList/LdsList.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2026-04-23T14:03:43.087Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/src/components/LdsList/LdsList.scss",
+            "fileType": ".scss",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2026-04-23T14:03:47.467Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/src/components/LdsList/LdsList.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2026-04-23T14:05:51.216Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/src/components/LdsList/LdsList.scss",
+            "fileType": ".scss",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2026-04-23T14:07:14.294Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/src/components/LdsList/LdsList.scss",
+            "fileType": ".scss",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2026-04-23T14:07:20.924Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/src/components/LdsList/LdsList.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2026-04-23T14:07:23.389Z",
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/src/components/LdsList/LdsList.scss",
             "fileType": ".scss",
             "linesAdded": 0,
