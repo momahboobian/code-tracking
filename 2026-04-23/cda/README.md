@@ -4,14 +4,14 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 11867                                          |
-| **Lines Removed** (➖) | 1640                                        |
-| **Net Change** (↕)    | 10227                |
-| **Active Time** (⌚)   | 458 minutes |
+| **Lines Added** (➕)   | 12301                                          |
+| **Lines Removed** (➖) | 1751                                        |
+| **Net Change** (↕)    | 10550                |
+| **Active Time** (⌚)   | 468 minutes |
 
 
 ## Modified Files
-- **SearchLds.tsx** (+1153, -828)
+- **SearchLds.tsx** (+1302, -850)
 - **Lds.tsx** (+421, -0)
 - **Lds.test.tsx** (+257, -0)
 - **ErrorBox.tsx** (+125, -0)
@@ -34,7 +34,7 @@
 - **graphql.ts** (+6731, -0)
 - **formaters.ts** (+18, -6)
 - **SearchLds.test.tsx** (+26, -0)
-- **LdsLis.test.tsx** (+453, -170)
+- **LdsLis.test.tsx** (+738, -259)
 - **FindUser.tsx** (+84, -0)
 
 ## Visualizations
@@ -44,7 +44,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 4344
+".tsx" : 4889
 ".scss" : 1548
 ".ts" : 7014
 ".js" : 444
@@ -64,8 +64,8 @@ title Coding activity by hour (count of changes)
 "14h" : 45
 "15h" : 34
 "16h" : 91
-"17h" : 7
+"17h" : 18
 ```
 
 
-> **Last Updated:** 23/04/2026, 17:13:30
+> **Last Updated:** 23/04/2026, 17:20:38
