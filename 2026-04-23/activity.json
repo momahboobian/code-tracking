@@ -2,9 +2,9 @@
   "date": "2026-04-23",
   "projects": {
     "cda": {
-      "totalLinesAdded": 1149,
-      "totalLinesRemoved": 349,
-      "totalActiveTime": 71,
+      "totalLinesAdded": 1243,
+      "totalLinesRemoved": 353,
+      "totalActiveTime": 76,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/src/components/Search/SearchLds.tsx": [
           {
@@ -654,6 +654,66 @@
             },
             "duration": 1,
             "language": "js"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/.eslintrc.js": [
+          {
+            "timestamp": "2026-04-23T09:45:55.437Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/.eslintrc.js",
+            "fileType": ".js",
+            "linesAdded": 26,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-04-23T09:48:45.112Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/.eslintrc.js",
+            "fileType": ".js",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-04-23T09:48:56.135Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/.eslintrc.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/package.json": [
+          {
+            "timestamp": "2026-04-23T09:47:32.744Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/package.json",
+            "fileType": ".json",
+            "linesAdded": 63,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
           }
         ]
       },
