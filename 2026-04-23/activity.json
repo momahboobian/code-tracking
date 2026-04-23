@@ -2,9 +2,9 @@
   "date": "2026-04-23",
   "projects": {
     "cda": {
-      "totalLinesAdded": 10969,
+      "totalLinesAdded": 11014,
       "totalLinesRemoved": 1116,
-      "totalActiveTime": 263,
+      "totalActiveTime": 266,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/src/components/Search/SearchLds.tsx": [
           {
@@ -2328,6 +2328,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2026-04-23T13:29:03.713Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/src/index.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 19,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/src/App.tsx": [
@@ -2554,6 +2568,22 @@
             },
             "duration": 5,
             "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/src/components/Search/SearchLds.test.tsx": [
+          {
+            "timestamp": "2026-04-23T13:29:39.230Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/src/components/Search/SearchLds.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 26,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ]
       },
