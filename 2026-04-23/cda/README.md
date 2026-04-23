@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 13228                                          |
-| **Lines Removed** (➖) | 1825                                        |
-| **Net Change** (↕)    | 11403                |
-| **Active Time** (⌚)   | 539 minutes |
+| **Lines Added** (➕)   | 13250                                          |
+| **Lines Removed** (➖) | 1838                                        |
+| **Net Change** (↕)    | 11412                |
+| **Active Time** (⌚)   | 546 minutes |
 
 
 ## Modified Files
@@ -16,9 +16,9 @@
 - **Lds.test.tsx** (+257, -0)
 - **ErrorBox.tsx** (+125, -0)
 - **ErrorBox.test.tsx** (+186, -0)
-- **LdsList.tsx** (+608, -108)
+- **LdsList.tsx** (+609, -109)
 - **SearchLds.scss** (+412, -126)
-- **LdsList.scss** (+719, -410)
+- **LdsList.scss** (+740, -422)
 - **mutations.ts** (+243, -0)
 - **OfcomReportingEventRepository.js** (+379, -2)
 - **.eslintrc.js** (+58, -5)
@@ -45,8 +45,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 5771
-".scss" : 1667
+".tsx" : 5773
+".scss" : 1700
 ".ts" : 7014
 ".js" : 444
 ".json" : 157
@@ -66,8 +66,8 @@ title Coding activity by hour (count of changes)
 "15h" : 34
 "16h" : 91
 "17h" : 57
-"18h" : 2
+"18h" : 10
 ```
 
 
-> **Last Updated:** 23/04/2026, 18:05:38
+> **Last Updated:** 23/04/2026, 18:10:38
