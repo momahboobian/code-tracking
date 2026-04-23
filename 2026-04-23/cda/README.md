@@ -4,23 +4,23 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 13305                                          |
+| **Lines Added** (➕)   | 14721                                          |
 | **Lines Removed** (➖) | 1891                                        |
-| **Net Change** (↕)    | 11414                |
-| **Active Time** (⌚)   | 584 minutes |
+| **Net Change** (↕)    | 12830                |
+| **Active Time** (⌚)   | 596 minutes |
 
 
 ## Modified Files
-- **SearchLds.tsx** (+1358, -907)
-- **Lds.tsx** (+564, -0)
-- **Lds.test.tsx** (+257, -0)
-- **ErrorBox.tsx** (+125, -0)
-- **ErrorBox.test.tsx** (+186, -0)
-- **LdsList.tsx** (+621, -124)
-- **SearchLds.scss** (+412, -126)
-- **LdsList.scss** (+780, -460)
-- **mutations.ts** (+243, -0)
-- **OfcomReportingEventRepository.js** (+379, -2)
+- **SearchLds.tsx** (+1484, -907)
+- **Lds.tsx** (+707, -0)
+- **Lds.test.tsx** (+343, -0)
+- **ErrorBox.tsx** (+167, -0)
+- **ErrorBox.test.tsx** (+248, -0)
+- **LdsList.tsx** (+807, -124)
+- **SearchLds.scss** (+428, -126)
+- **LdsList.scss** (+910, -460)
+- **mutations.ts** (+324, -0)
+- **OfcomReportingEventRepository.js** (+504, -2)
 - **.eslintrc.js** (+58, -5)
 - **package.json** (+63, -0)
 - **setupProxy.ts** (+8, -0)
@@ -32,11 +32,11 @@
 - **setupTests.ts** (+8, -0)
 - **SearchMessage.tsx** (+14, -0)
 - **graphql.ts** (+6731, -0)
-- **formaters.ts** (+18, -6)
-- **SearchLds.test.tsx** (+175, -0)
+- **formaters.ts** (+30, -6)
+- **SearchLds.test.tsx** (+324, -0)
 - **LdsLis.test.tsx** (+738, -259)
 - **FindUser.tsx** (+84, -0)
-- **LdsList.test.tsx** (+260, -2)
+- **LdsList.test.tsx** (+518, -2)
 
 ## Visualizations
 
@@ -45,10 +45,10 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 5803
-".scss" : 1778
-".ts" : 7014
-".js" : 444
+".tsx" : 6855
+".scss" : 1924
+".ts" : 7107
+".js" : 569
 ".json" : 157
 ```
 
@@ -66,8 +66,8 @@ title Coding activity by hour (count of changes)
 "15h" : 34
 "16h" : 91
 "17h" : 57
-"18h" : 40
+"18h" : 53
 ```
 
 
-> **Last Updated:** 23/04/2026, 18:45:38
+> **Last Updated:** 23/04/2026, 18:52:53
