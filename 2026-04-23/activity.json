@@ -2,7 +2,7 @@
   "date": "2026-04-23",
   "projects": {
     "cda": {
-      "totalLinesAdded": 1243,
+      "totalLinesAdded": 1247,
       "totalLinesRemoved": 353,
       "totalActiveTime": 76,
       "files": {
@@ -714,6 +714,22 @@
             },
             "duration": 2,
             "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/src/setupProxy.ts": [
+          {
+            "timestamp": "2026-04-23T09:57:41.612Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/src/setupProxy.ts",
+            "fileType": ".ts",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
           }
         ]
       },
