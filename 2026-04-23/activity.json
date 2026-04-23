@@ -2,9 +2,9 @@
   "date": "2026-04-23",
   "projects": {
     "cda": {
-      "totalLinesAdded": 3681,
-      "totalLinesRemoved": 630,
-      "totalActiveTime": 163,
+      "totalLinesAdded": 10412,
+      "totalLinesRemoved": 756,
+      "totalActiveTime": 164,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/src/components/Search/SearchLds.tsx": [
           {
@@ -1180,6 +1180,20 @@
             },
             "duration": 1,
             "language": "scss"
+          },
+          {
+            "timestamp": "2026-04-23T12:11:11.418Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/src/components/Search/SearchLds.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 126,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "scss"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/src/components/LdsList/LdsList.scss": [
@@ -1598,6 +1612,22 @@
             },
             "duration": 3,
             "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/src/gql-generated/low-risk/graphql.ts": [
+          {
+            "timestamp": "2026-04-23T12:11:55.111Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/src/gql-generated/low-risk/graphql.ts",
+            "fileType": ".ts",
+            "linesAdded": 6731,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ]
       },
