@@ -2,9 +2,9 @@
   "date": "2026-04-23",
   "projects": {
     "cda": {
-      "totalLinesAdded": 1332,
-      "totalLinesRemoved": 353,
-      "totalActiveTime": 82,
+      "totalLinesAdded": 1359,
+      "totalLinesRemoved": 354,
+      "totalActiveTime": 83,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/src/components/Search/SearchLds.tsx": [
           {
@@ -691,6 +691,34 @@
             "fileType": ".js",
             "linesAdded": 0,
             "linesRemoved": 4,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-04-23T10:30:29.672Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/.eslintrc.js",
+            "fileType": ".js",
+            "linesAdded": 27,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-04-23T10:30:30.658Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/.eslintrc.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "cda",
             "content": {
               "added": [],
