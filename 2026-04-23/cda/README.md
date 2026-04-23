@@ -4,23 +4,23 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2458                                          |
+| **Lines Added** (➕)   | 3424                                          |
 | **Lines Removed** (➖) | 356                                        |
-| **Net Change** (↕)    | 2102                |
-| **Active Time** (⌚)   | 123 minutes |
+| **Net Change** (↕)    | 3068                |
+| **Active Time** (⌚)   | 129 minutes |
 
 
 ## Modified Files
-- **SearchLds.tsx** (+569, -349)
-- **Lds.tsx** (+280, -0)
-- **Lds.test.tsx** (+171, -0)
-- **ErrorBox.tsx** (+83, -0)
-- **ErrorBox.test.tsx** (+124, -0)
-- **LdsList.tsx** (+133, -0)
-- **SearchLds.scss** (+270, -0)
+- **SearchLds.tsx** (+796, -349)
+- **Lds.tsx** (+421, -0)
+- **Lds.test.tsx** (+257, -0)
+- **ErrorBox.tsx** (+125, -0)
+- **ErrorBox.test.tsx** (+186, -0)
+- **LdsList.tsx** (+200, -0)
+- **SearchLds.scss** (+405, -0)
 - **LdsList.scss** (+71, -0)
-- **mutations.ts** (+162, -0)
-- **OfcomReportingEventRepository.js** (+254, -2)
+- **mutations.ts** (+243, -0)
+- **OfcomReportingEventRepository.js** (+379, -2)
 - **.eslintrc.js** (+58, -5)
 - **package.json** (+63, -0)
 - **setupProxy.ts** (+8, -0)
@@ -38,10 +38,10 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 1819
-".scss" : 341
-".ts" : 178
-".js" : 319
+".tsx" : 2444
+".scss" : 476
+".ts" : 259
+".js" : 444
 ".json" : 157
 ```
 
@@ -53,7 +53,8 @@ title Coding activity by hour (count of changes)
 "09h" : 37
 "10h" : 13
 "11h" : 26
+"12h" : 9
 ```
 
 
-> **Last Updated:** 23/04/2026, 11:49:01
+> **Last Updated:** 23/04/2026, 12:48:30
