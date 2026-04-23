@@ -4,16 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1359                                          |
+| **Lines Added** (➕)   | 1839                                          |
 | **Lines Removed** (➖) | 354                                        |
-| **Net Change** (↕)    | 1005                |
-| **Active Time** (⌚)   | 83 minutes |
+| **Net Change** (↕)    | 1485                |
+| **Active Time** (⌚)   | 90 minutes |
 
 
 ## Modified Files
-- **SearchLds.tsx** (+342, -349)
-- **Lds.tsx** (+139, -0)
-- **Lds.test.tsx** (+85, -0)
+- **SearchLds.tsx** (+565, -349)
+- **Lds.tsx** (+280, -0)
+- **Lds.test.tsx** (+171, -0)
 - **ErrorBox.tsx** (+41, -0)
 - **ErrorBox.test.tsx** (+62, -0)
 - **LdsList.tsx** (+66, -0)
@@ -23,10 +23,11 @@
 - **OfcomReportingEventRepository.js** (+127, -0)
 - **.eslintrc.js** (+58, -5)
 - **package.json** (+63, -0)
-- **setupProxy.ts** (+4, -0)
+- **setupProxy.ts** (+8, -0)
 - **index.tsx** (+18, -0)
 - **App.tsx** (+46, -0)
 - **manifest.json** (+21, -0)
+- **tsconfig.json** (+26, -0)
 
 ## Visualizations
 
@@ -35,11 +36,11 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 1148
+".tsx" : 1598
 ".scss" : 206
-".ts" : 85
+".ts" : 89
 ".js" : 190
-".json" : 84
+".json" : 110
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -49,8 +50,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "09h" : 37
 "10h" : 13
-"11h" : 7
+"11h" : 14
 ```
 
 
-> **Last Updated:** 23/04/2026, 11:32:20
+> **Last Updated:** 23/04/2026, 11:39:01
