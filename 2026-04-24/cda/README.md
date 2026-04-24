@@ -5,8 +5,8 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 17504                                          |
-| **Lines Removed** (➖) | 217                                        |
-| **Net Change** (↕)    | 17287                |
+| **Lines Removed** (➖) | 260                                        |
+| **Net Change** (↕)    | 17244                |
 | **Active Time** (⌚)   | 106 minutes |
 
 
@@ -31,7 +31,7 @@
 - **App.tsx** (+71, -5)
 - **PsbSummary.tsx** (+326, -185)
 - **index.ts** (+3, -0)
-- **PsbSummary.scss** (+47, -0)
+- **PsbSummary.scss** (+47, -43)
 - **SearchLds.tsx** (+128, -0)
 - **SummaryReport.tsx** (+148, -4)
 - **LdsSearch.test.tsx** (+149, -0)
@@ -46,7 +46,7 @@
 pie showData
 title Lines changed by file type
 ".tsx" : 3248
-".scss" : 193
+".scss" : 236
 ".js" : 125
 ".ts" : 168
 ".json" : 500
@@ -62,8 +62,8 @@ title Coding activity by hour (count of changes)
 "10h" : 16
 "11h" : 5
 "12h" : 35
-"13h" : 5
+"13h" : 6
 ```
 
 
-> **Last Updated:** 24/04/2026, 13:10:49
+> **Last Updated:** 24/04/2026, 13:15:49
