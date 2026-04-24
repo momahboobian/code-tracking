@@ -35,9 +35,9 @@
       "averageChangeSize": 63
     },
     "cda": {
-      "totalLinesAdded": 1773,
-      "totalLinesRemoved": 7,
-      "totalActiveTime": 22,
+      "totalLinesAdded": 1777,
+      "totalLinesRemoved": 11,
+      "totalActiveTime": 30,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/src/containers/Lds/Lds.tsx": [
           {
@@ -356,6 +356,34 @@
               "removed": []
             },
             "duration": 2,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-04-24T08:31:57.733Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/package.json",
+            "fileType": ".json",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-04-24T08:34:21.615Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/package.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "json"
           }
         ]
