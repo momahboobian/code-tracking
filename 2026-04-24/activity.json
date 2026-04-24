@@ -341,9 +341,9 @@
       "averageChangeSize": 63
     },
     "cda": {
-      "totalLinesAdded": 17429,
+      "totalLinesAdded": 17430,
       "totalLinesRemoved": 214,
-      "totalActiveTime": 97,
+      "totalActiveTime": 102,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/src/containers/Lds/Lds.tsx": [
           {
@@ -1508,6 +1508,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-04-24T11:56:42.621Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/src/components/SummaryReport/SummaryReport.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "tsx"
           }
         ],
