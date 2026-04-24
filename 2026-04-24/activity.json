@@ -2,9 +2,9 @@
   "date": "2026-04-24",
   "projects": {
     "ise-web-ofcom": {
-      "totalLinesAdded": 557,
+      "totalLinesAdded": 562,
       "totalLinesRemoved": 3,
-      "totalActiveTime": 18,
+      "totalActiveTime": 20,
       "files": {
         "/Users/momahboobian/Documents/_BBC/ise-web-ofcom/ofcom/package.json": [
           {
@@ -164,6 +164,20 @@
             },
             "duration": 1,
             "language": "scss"
+          },
+          {
+            "timestamp": "2026-04-24T11:33:54.714Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/ise-web-ofcom/ofcom/src/containers/Summary/Summary.scss",
+            "fileType": ".scss",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ise-web-ofcom",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/ise-web-ofcom/ofcom/src/containers/Summary/Summary.tsx": [
@@ -210,6 +224,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2026-04-24T11:33:39.879Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/ise-web-ofcom/ofcom/src/App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "ise-web-ofcom",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/ise-web-ofcom/ofcom/src/containers/Summary/index.ts": [
@@ -218,6 +246,20 @@
             "fileName": "/Users/momahboobian/Documents/_BBC/ise-web-ofcom/ofcom/src/containers/Summary/index.ts",
             "fileType": ".ts",
             "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "ise-web-ofcom",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-04-24T11:33:44.494Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/ise-web-ofcom/ofcom/src/containers/Summary/index.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
             "linesRemoved": 0,
             "projectName": "ise-web-ofcom",
             "content": {
