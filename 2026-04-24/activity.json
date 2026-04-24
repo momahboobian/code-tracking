@@ -1,0 +1,47 @@
+{
+  "date": "2026-04-24",
+  "projects": {
+    "ise-web-ofcom": {
+      "totalLinesAdded": 63,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/momahboobian/Documents/_BBC/ise-web-ofcom/ofcom/package.json": [
+          {
+            "timestamp": "2026-04-24T07:57:10.330Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/ise-web-ofcom/ofcom/package.json",
+            "fileType": ".json",
+            "linesAdded": 63,
+            "linesRemoved": 0,
+            "projectName": "ise-web-ofcom",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 0
+      },
+      "changeFrequency": {
+        "8": 0
+      },
+      "topFiles": [
+        "/Users/momahboobian/Documents/_BBC/ise-web-ofcom/ofcom/package.json"
+      ],
+      "averageChangeSize": 63
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    8
+  ],
+  "mostUsedLanguages": [
+    "json"
+  ]
+}
