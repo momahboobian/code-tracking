@@ -369,7 +369,7 @@
       "averageChangeSize": 63
     },
     "cda": {
-      "totalLinesAdded": 18617,
+      "totalLinesAdded": 18788,
       "totalLinesRemoved": 805,
       "totalActiveTime": 149,
       "files": {
@@ -1486,6 +1486,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-04-24T14:48:01.261Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/src/containers/PsbSummary/PsbSummary.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 171,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ],
