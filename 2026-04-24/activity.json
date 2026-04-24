@@ -369,9 +369,9 @@
       "averageChangeSize": 63
     },
     "cda": {
-      "totalLinesAdded": 18214,
-      "totalLinesRemoved": 771,
-      "totalActiveTime": 130,
+      "totalLinesAdded": 18221,
+      "totalLinesRemoved": 772,
+      "totalActiveTime": 137,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/src/containers/Lds/Lds.tsx": [
           {
@@ -1885,6 +1885,64 @@
             },
             "duration": 1,
             "language": "scss"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/.gitignore": [
+          {
+            "timestamp": "2026-04-24T14:06:18.984Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2026-04-24T14:06:19.791Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2026-04-24T14:06:34.463Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2026-04-24T14:08:57.380Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "unknown"
           }
         ]
       },
