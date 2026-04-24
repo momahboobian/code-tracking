@@ -35,9 +35,9 @@
       "averageChangeSize": 63
     },
     "cda": {
-      "totalLinesAdded": 1782,
-      "totalLinesRemoved": 11,
-      "totalActiveTime": 34,
+      "totalLinesAdded": 1870,
+      "totalLinesRemoved": 16,
+      "totalActiveTime": 41,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/src/containers/Lds/Lds.tsx": [
           {
@@ -413,6 +413,50 @@
             },
             "duration": 4,
             "language": "json"
+          },
+          {
+            "timestamp": "2026-04-24T08:52:59.568Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/package.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-04-24T08:53:05.318Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/package.json",
+            "fileType": ".json",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/desks/src/containers/FindUser/FindUser.tsx": [
+          {
+            "timestamp": "2026-04-24T08:54:33.921Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/desks/src/containers/FindUser/FindUser.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 84,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
           }
         ]
       },
