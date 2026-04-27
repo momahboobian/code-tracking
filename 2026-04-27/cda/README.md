@@ -4,14 +4,13 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 459                                          |
+| **Lines Added** (➕)   | 194                                          |
 | **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 459                |
+| **Net Change** (↕)    | 194                |
 | **Active Time** (⌚)   | 0 minute |
 
 
 ## Modified Files
-- **PsbSummary.test.tsx** (+265, -0)
 - **SummaryReport.test.tsx** (+194, -0)
 
 ## Visualizations
@@ -21,7 +20,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 459
+".tsx" : 194
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -29,8 +28,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"09h" : 2
+"09h" : 1
 ```
 
 
-> **Last Updated:** 27/04/2026, 09:16:29
+> **Last Updated:** 27/04/2026, 09:36:34
