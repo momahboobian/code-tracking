@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 10805,
-      "totalLinesRemoved": 974,
-      "totalActiveTime": 517,
+      "totalLinesRemoved": 989,
+      "totalActiveTime": 524,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/src/components/SummaryReport/SummaryReport.test.tsx": [
           {
@@ -2287,6 +2287,20 @@
               "removed": []
             },
             "duration": 3,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-04-27T16:55:19.706Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/src/containers/PsbSummary/PsbSummary.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 10,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "tsx"
           }
         ],
@@ -4924,6 +4938,20 @@
             },
             "duration": 2,
             "language": "scss"
+          },
+          {
+            "timestamp": "2026-04-27T16:58:29.693Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/src/components/ImportActions/ImportActions.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "scss"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/src/components/ImportActions/index.ts": [
@@ -5039,6 +5067,20 @@
               "removed": []
             },
             "duration": 4,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-04-27T16:54:09.434Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/src/containers/Import/Import.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "tsx"
           }
         ],
