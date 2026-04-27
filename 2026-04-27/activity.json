@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 4506,
-      "totalLinesRemoved": 153,
-      "totalActiveTime": 133,
+      "totalLinesRemoved": 154,
+      "totalActiveTime": 138,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/src/components/SummaryReport/SummaryReport.test.tsx": [
           {
@@ -245,6 +245,20 @@
               "removed": []
             },
             "duration": 3,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-04-27T10:55:18.049Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/src/components/LdsSearch/LdsSearch.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "tsx"
           }
         ],
