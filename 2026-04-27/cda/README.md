@@ -4,19 +4,19 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 7445                                          |
-| **Lines Removed** (➖) | 461                                        |
-| **Net Change** (↕)    | 6984                |
-| **Active Time** (⌚)   | 322 minutes |
+| **Lines Added** (➕)   | 7470                                          |
+| **Lines Removed** (➖) | 481                                        |
+| **Net Change** (↕)    | 6989                |
+| **Active Time** (⌚)   | 339 minutes |
 
 
 ## Modified Files
 - **SummaryReport.test.tsx** (+810, -42)
-- **LdsSearch.tsx** (+439, -71)
+- **LdsSearch.tsx** (+439, -73)
 - **ofcomConnectionDefaults.ts** (+171, -0)
 - **Lds.tsx** (+672, -27)
 - **PsbSummary.tsx** (+683, -58)
-- **SummaryReport.tsx** (+817, -74)
+- **SummaryReport.tsx** (+830, -88)
 - **ofcomConnectionDefaults.test.ts** (+72, -3)
 - **PsbSummary.test.tsx** (+1085, -3)
 - **Lds.test.tsx** (+318, -23)
@@ -33,8 +33,8 @@
 - **settings.json** (+6, -0)
 - **LdsList.scss** (+277, -17)
 - **LdsList.test.tsx** (+516, -2)
-- **SummaryReport.scss** (+40, -8)
-- **LdsSearch.scss** (+29, -13)
+- **SummaryReport.scss** (+50, -12)
+- **LdsSearch.scss** (+31, -13)
 - **Lds.scss** (+14, -6)
 - **App.scss** (+38, -0)
 - **PsbSummary.scss** (+9, -1)
@@ -46,11 +46,11 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 6976
+".tsx" : 7005
 ".ts" : 381
 ".jsx" : 91
 ".json" : 6
-".scss" : 452
+".scss" : 468
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -63,8 +63,8 @@ title Coding activity by hour (count of changes)
 "11h" : 52
 "12h" : 37
 "13h" : 45
-"14h" : 43
+"14h" : 58
 ```
 
 
-> **Last Updated:** 27/04/2026, 14:47:53
+> **Last Updated:** 27/04/2026, 14:52:53
