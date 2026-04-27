@@ -4,16 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3188                                          |
+| **Lines Added** (➕)   | 3245                                          |
 | **Lines Removed** (➖) | 61                                        |
-| **Net Change** (↕)    | 3127                |
-| **Active Time** (⌚)   | 62 minutes |
+| **Net Change** (↕)    | 3184                |
+| **Active Time** (⌚)   | 65 minutes |
 
 
 ## Modified Files
 - **SummaryReport.test.tsx** (+426, -0)
 - **LdsSearch.tsx** (+241, -54)
-- **ofcomConnectionDefaults.ts** (+114, -0)
+- **ofcomConnectionDefaults.ts** (+171, -0)
 - **Lds.tsx** (+489, -0)
 - **PsbSummary.tsx** (+357, -0)
 - **SummaryReport.tsx** (+430, -0)
@@ -32,7 +32,7 @@
 pie showData
 title Lines changed by file type
 ".tsx" : 2996
-".ts" : 162
+".ts" : 219
 ".jsx" : 91
 ```
 
@@ -42,8 +42,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "09h" : 5
-"10h" : 40
+"10h" : 41
 ```
 
 
-> **Last Updated:** 27/04/2026, 10:58:22
+> **Last Updated:** 27/04/2026, 11:03:22
