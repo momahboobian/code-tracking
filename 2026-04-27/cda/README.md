@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 10878                                          |
-| **Lines Removed** (➖) | 1049                                        |
-| **Net Change** (↕)    | 9829                |
-| **Active Time** (⌚)   | 576 minutes |
+| **Lines Added** (➕)   | 10889                                          |
+| **Lines Removed** (➖) | 1056                                        |
+| **Net Change** (↕)    | 9833                |
+| **Active Time** (⌚)   | 579 minutes |
 
 
 ## Modified Files
@@ -18,7 +18,7 @@
 - **PsbSummary.tsx** (+835, -73)
 - **SummaryReport.tsx** (+1014, -108)
 - **ofcomConnectionDefaults.test.ts** (+72, -3)
-- **PsbSummary.test.tsx** (+1355, -106)
+- **PsbSummary.test.tsx** (+1365, -106)
 - **Lds.test.tsx** (+453, -84)
 - **LdsSearch.test.tsx** (+756, -83)
 - **ConfirmRemoveModal.jsx** (+91, -0)
@@ -41,7 +41,7 @@
 - **types.d.ts** (+36, -0)
 - **index.tsx** (+3, -0)
 - **ImportActions.tsx** (+347, -94)
-- **ImportActions.scss** (+119, -7)
+- **ImportActions.scss** (+120, -14)
 - **index.ts** (+8, -0)
 - **Import.tsx** (+373, -33)
 - **Import.scss** (+16, -2)
@@ -57,11 +57,11 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 10585
+".tsx" : 10595
 ".ts" : 458
 ".jsx" : 91
 ".json" : 6
-".scss" : 787
+".scss" : 795
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -78,8 +78,8 @@ title Coding activity by hour (count of changes)
 "15h" : 33
 "16h" : 30
 "17h" : 58
-"18h" : 31
+"18h" : 35
 ```
 
 
-> **Last Updated:** 27/04/2026, 18:34:01
+> **Last Updated:** 27/04/2026, 18:39:01
