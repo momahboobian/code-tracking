@@ -4,22 +4,23 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1331                                          |
-| **Lines Removed** (➖) | 19                                        |
-| **Net Change** (↕)    | 1312                |
-| **Active Time** (⌚)   | 35 minutes |
+| **Lines Added** (➕)   | 1460                                          |
+| **Lines Removed** (➖) | 54                                        |
+| **Net Change** (↕)    | 1406                |
+| **Active Time** (⌚)   | 38 minutes |
 
 
 ## Modified Files
 - **SummaryReport.test.tsx** (+213, -0)
-- **LdsSearch.tsx** (+147, -19)
+- **LdsSearch.tsx** (+148, -54)
 - **ofcomConnectionDefaults.ts** (+57, -0)
-- **Lds.tsx** (+157, -0)
+- **Lds.tsx** (+162, -0)
 - **PsbSummary.tsx** (+178, -0)
 - **SummaryReport.tsx** (+215, -0)
 - **ofcomConnectionDefaults.test.ts** (+24, -0)
 - **PsbSummary.test.tsx** (+267, -0)
 - **Lds.test.tsx** (+73, -0)
+- **LdsSearch.test.tsx** (+123, -0)
 
 ## Visualizations
 
@@ -28,7 +29,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 1269
+".tsx" : 1433
 ".ts" : 81
 ```
 
@@ -38,8 +39,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "09h" : 5
-"10h" : 20
+"10h" : 24
 ```
 
 
-> **Last Updated:** 27/04/2026, 10:16:34
+> **Last Updated:** 27/04/2026, 10:31:34
