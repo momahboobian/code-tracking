@@ -4,29 +4,32 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 4062                                          |
-| **Lines Removed** (➖) | 91                                        |
-| **Net Change** (↕)    | 3971                |
-| **Active Time** (⌚)   | 109 minutes |
+| **Lines Added** (➕)   | 4506                                          |
+| **Lines Removed** (➖) | 145                                        |
+| **Net Change** (↕)    | 4361                |
+| **Active Time** (⌚)   | 128 minutes |
 
 
 ## Modified Files
 - **SummaryReport.test.tsx** (+426, -0)
 - **LdsSearch.tsx** (+335, -55)
 - **ofcomConnectionDefaults.ts** (+171, -0)
-- **Lds.tsx** (+509, -1)
-- **PsbSummary.tsx** (+536, -0)
+- **Lds.tsx** (+510, -27)
+- **PsbSummary.tsx** (+537, -28)
 - **SummaryReport.tsx** (+430, -0)
 - **ofcomConnectionDefaults.test.ts** (+72, -3)
-- **PsbSummary.test.tsx** (+534, -0)
-- **Lds.test.tsx** (+236, -21)
+- **PsbSummary.test.tsx** (+811, -0)
+- **Lds.test.tsx** (+242, -21)
 - **LdsSearch.test.tsx** (+377, -1)
 - **ConfirmRemoveModal.jsx** (+91, -0)
-- **App.tsx** (+66, -7)
+- **App.tsx** (+130, -7)
 - **LdsList.tsx** (+177, -0)
 - **ofcomConnections.ts** (+57, -0)
 - **ofcomConnections.test.ts** (+24, -3)
 - **getConnections.test.ts** (+21, -0)
+- **ofcomConnectionsContext.ts** (+25, -0)
+- **OfcomConnectionsProvider.tsx** (+65, -0)
+- **index.ts** (+5, -0)
 
 ## Visualizations
 
@@ -35,8 +38,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 3711
-".ts" : 351
+".tsx" : 4179
+".ts" : 381
 ".jsx" : 91
 ```
 
@@ -47,8 +50,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "09h" : 5
 "10h" : 41
-"11h" : 28
+"11h" : 48
 ```
 
 
-> **Last Updated:** 27/04/2026, 11:43:22
+> **Last Updated:** 27/04/2026, 11:48:22
