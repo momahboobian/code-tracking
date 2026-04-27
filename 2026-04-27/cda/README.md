@@ -4,25 +4,25 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 6038                                          |
+| **Lines Added** (➕)   | 7352                                          |
 | **Lines Removed** (➖) | 393                                        |
-| **Net Change** (↕)    | 5645                |
-| **Active Time** (⌚)   | 243 minutes |
+| **Net Change** (↕)    | 6959                |
+| **Active Time** (⌚)   | 262 minutes |
 
 
 ## Modified Files
-- **SummaryReport.test.tsx** (+639, -42)
+- **SummaryReport.test.tsx** (+810, -42)
 - **LdsSearch.tsx** (+439, -67)
 - **ofcomConnectionDefaults.ts** (+171, -0)
-- **Lds.tsx** (+510, -27)
-- **PsbSummary.tsx** (+537, -38)
-- **SummaryReport.tsx** (+645, -56)
+- **Lds.tsx** (+668, -27)
+- **PsbSummary.tsx** (+672, -38)
+- **SummaryReport.tsx** (+804, -56)
 - **ofcomConnectionDefaults.test.ts** (+72, -3)
-- **PsbSummary.test.tsx** (+811, -3)
-- **Lds.test.tsx** (+243, -22)
-- **LdsSearch.test.tsx** (+607, -83)
+- **PsbSummary.test.tsx** (+1085, -3)
+- **Lds.test.tsx** (+318, -22)
+- **LdsSearch.test.tsx** (+612, -83)
 - **ConfirmRemoveModal.jsx** (+91, -0)
-- **App.tsx** (+131, -8)
+- **App.tsx** (+195, -8)
 - **LdsList.tsx** (+354, -14)
 - **ofcomConnections.ts** (+57, -0)
 - **ofcomConnections.test.ts** (+24, -3)
@@ -32,8 +32,8 @@
 - **index.ts** (+5, -0)
 - **settings.json** (+6, -0)
 - **LdsList.scss** (+277, -17)
-- **LdsList.test.tsx** (+259, -2)
-- **SummaryReport.scss** (+16, -0)
+- **LdsList.test.tsx** (+516, -2)
+- **SummaryReport.scss** (+32, -0)
 - **LdsSearch.scss** (+25, -3)
 - **Lds.scss** (+8, -0)
 
@@ -44,11 +44,11 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 5607
+".tsx" : 6905
 ".ts" : 381
 ".jsx" : 91
 ".json" : 6
-".scss" : 346
+".scss" : 362
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -60,8 +60,8 @@ title Coding activity by hour (count of changes)
 "10h" : 41
 "11h" : 52
 "12h" : 37
-"13h" : 35
+"13h" : 45
 ```
 
 
-> **Last Updated:** 27/04/2026, 13:52:53
+> **Last Updated:** 27/04/2026, 13:57:53
