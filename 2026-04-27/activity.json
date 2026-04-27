@@ -2,9 +2,9 @@
   "date": "2026-04-27",
   "projects": {
     "cda": {
-      "totalLinesAdded": 10853,
-      "totalLinesRemoved": 1028,
-      "totalActiveTime": 553,
+      "totalLinesAdded": 10869,
+      "totalLinesRemoved": 1040,
+      "totalActiveTime": 562,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/src/components/SummaryReport/SummaryReport.test.tsx": [
           {
@@ -4978,6 +4978,90 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2026-04-27T17:19:46.257Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/src/components/ImportActions/ImportActions.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-04-27T17:19:50.964Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/src/components/ImportActions/ImportActions.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-04-27T17:21:27.963Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/src/components/ImportActions/ImportActions.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 10,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-04-27T17:21:59.058Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/src/components/ImportActions/ImportActions.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-04-27T17:22:03.548Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/src/components/ImportActions/ImportActions.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-04-27T17:22:15.987Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/src/components/ImportActions/ImportActions.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/src/components/ImportActions/ImportActions.scss": [
@@ -5119,6 +5203,20 @@
               "removed": []
             },
             "duration": 3,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2026-04-27T17:23:00.421Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/src/components/ImportActions/ImportActions.scss",
+            "fileType": ".scss",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "scss"
           }
         ],
