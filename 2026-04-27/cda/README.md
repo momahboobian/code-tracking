@@ -4,9 +4,9 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 5013                                          |
+| **Lines Added** (➕)   | 5014                                          |
 | **Lines Removed** (➖) | 261                                        |
-| **Net Change** (↕)    | 4752                |
+| **Net Change** (↕)    | 4753                |
 | **Active Time** (⌚)   | 201 minutes |
 
 
@@ -22,7 +22,7 @@
 - **Lds.test.tsx** (+243, -22)
 - **LdsSearch.test.tsx** (+468, -83)
 - **ConfirmRemoveModal.jsx** (+91, -0)
-- **App.tsx** (+130, -8)
+- **App.tsx** (+131, -8)
 - **LdsList.tsx** (+183, -12)
 - **ofcomConnections.ts** (+57, -0)
 - **ofcomConnections.test.ts** (+24, -3)
@@ -41,7 +41,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 4647
+".tsx" : 4648
 ".ts" : 381
 ".jsx" : 91
 ".json" : 6
@@ -57,8 +57,8 @@ title Coding activity by hour (count of changes)
 "10h" : 41
 "11h" : 52
 "12h" : 37
-"13h" : 3
+"13h" : 4
 ```
 
 
-> **Last Updated:** 27/04/2026, 13:03:22
+> **Last Updated:** 27/04/2026, 13:13:22
