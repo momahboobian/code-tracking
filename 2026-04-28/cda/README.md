@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 4601                                          |
-| **Lines Removed** (➖) | 563                                        |
-| **Net Change** (↕)    | 4038                |
-| **Active Time** (⌚)   | 171 minutes |
+| **Lines Added** (➕)   | 4717                                          |
+| **Lines Removed** (➖) | 586                                        |
+| **Net Change** (↕)    | 4131                |
+| **Active Time** (⌚)   | 185 minutes |
 
 
 ## Modified Files
@@ -19,8 +19,8 @@
 - **LdsSearch.tsx** (+91, -4)
 - **package.json** (+134, -0)
 - **ImportActions.test.tsx** (+248, -146)
-- **CompareResults.tsx** (+286, -48)
-- **CompareResults.scss** (+102, -4)
+- **CompareResults.tsx** (+286, -50)
+- **CompareResults.scss** (+102, -12)
 - **index.ts** (+4, -0)
 - **Compare.tsx** (+219, -36)
 - **Compare.scss** (+6, -0)
@@ -29,8 +29,8 @@
 - **ImportActions.tsx** (+136, -14)
 - **getConnections.ts** (+85, -14)
 - **getConnections.test.ts** (+75, -27)
-- **AdminConnection.tsx** (+120, -6)
-- **AdminConnection.scss** (+26, -0)
+- **AdminConnection.tsx** (+120, -11)
+- **AdminConnection.scss** (+26, -8)
 - **index.ts** (+2, -0)
 - **Admin.tsx** (+109, -7)
 - **Admin.scss** (+6, -0)
@@ -55,6 +55,10 @@
 - **ErrorBox.test.tsx** (+62, -0)
 - **mutations.ts** (+81, -0)
 - **OfcomReportingEventRepository.js** (+125, -0)
+- **queries.ts** (+77, -0)
+- **ActiveConnectionBadge.tsx** (+26, -0)
+- **ActiveConnectionBadge.scss** (+10, -0)
+- **index.ts** (+3, -0)
 
 ## Visualizations
 
@@ -63,11 +67,11 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 4127
-".ts" : 328
+".tsx" : 4160
+".ts" : 408
 "unknown" : 112
 ".json" : 134
-".scss" : 338
+".scss" : 364
 ".js" : 125
 ```
 
@@ -85,8 +89,8 @@ title Coding activity by hour (count of changes)
 "16h" : 19
 "17h" : 6
 "18h" : 23
-"19h" : 26
+"19h" : 37
 ```
 
 
-> **Last Updated:** 28/04/2026, 19:21:46
+> **Last Updated:** 28/04/2026, 19:31:46
