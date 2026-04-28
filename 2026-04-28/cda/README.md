@@ -4,14 +4,14 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 812                                          |
+| **Lines Added** (➕)   | 1360                                          |
 | **Lines Removed** (➖) | 400                                        |
-| **Net Change** (↕)    | 412                |
-| **Active Time** (⌚)   | 41 minutes |
+| **Net Change** (↕)    | 960                |
+| **Active Time** (⌚)   | 58 minutes |
 
 
 ## Modified Files
-- **App.tsx** (+97, -31)
+- **App.tsx** (+98, -31)
 - **formatters.ts** (+13, -13)
 - **Lds.tsx** (+147, -147)
 - **Lds.test.tsx** (+61, -61)
@@ -19,6 +19,13 @@
 - **LdsSearch.tsx** (+2, -2)
 - **package.json** (+134, -0)
 - **ImportActions.test.tsx** (+246, -146)
+- **CompareResults.tsx** (+133, -0)
+- **CompareResults.scss** (+46, -0)
+- **index.ts** (+4, -0)
+- **Compare.tsx** (+179, -0)
+- **Compare.scss** (+6, -0)
+- **index.ts** (+4, -0)
+- **Compare.test.tsx** (+175, -0)
 
 ## Visualizations
 
@@ -27,10 +34,11 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 940
-".ts" : 26
+".tsx" : 1428
+".ts" : 34
 "unknown" : 112
 ".json" : 134
+".scss" : 52
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -40,8 +48,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "09h" : 17
 "10h" : 14
-"11h" : 1
+"11h" : 19
 ```
 
 
-> **Last Updated:** 28/04/2026, 11:16:46
+> **Last Updated:** 28/04/2026, 11:31:46
