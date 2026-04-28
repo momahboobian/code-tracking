@@ -4,22 +4,22 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2985                                          |
-| **Lines Removed** (➖) | 543                                        |
-| **Net Change** (↕)    | 2442                |
-| **Active Time** (⌚)   | 146 minutes |
+| **Lines Added** (➕)   | 4589                                          |
+| **Lines Removed** (➖) | 559                                        |
+| **Net Change** (↕)    | 4030                |
+| **Active Time** (⌚)   | 167 minutes |
 
 
 ## Modified Files
 - **App.tsx** (+102, -35)
 - **formatters.ts** (+13, -13)
 - **Lds.tsx** (+309, -147)
-- **Lds.test.tsx** (+61, -61)
+- **Lds.test.tsx** (+135, -61)
 - **.env** (+112, -0)
 - **LdsSearch.tsx** (+91, -4)
 - **package.json** (+134, -0)
 - **ImportActions.test.tsx** (+248, -146)
-- **CompareResults.tsx** (+276, -32)
+- **CompareResults.tsx** (+286, -48)
 - **CompareResults.scss** (+94, -0)
 - **index.ts** (+4, -0)
 - **Compare.tsx** (+215, -36)
@@ -39,6 +39,22 @@
 - **Import.tsx** (+170, -0)
 - **LdsSearch.test.tsx** (+144, -0)
 - **SummaryReport.tsx** (+163, -0)
+- **PsbSummary.tsx** (+136, -0)
+- **PsbSummary.test.tsx** (+239, -0)
+- **SummaryReport.test.tsx** (+136, -0)
+- **LdsList.tsx** (+169, -0)
+- **LdsList.scss** (+125, -0)
+- **LdsList.test.tsx** (+257, -0)
+- **SummaryReport.scss** (+24, -0)
+- **ImportActions.scss** (+39, -0)
+- **index.ts** (+4, -0)
+- **Import.scss** (+6, -0)
+- **index.ts** (+4, -0)
+- **Import.test.tsx** (+74, -0)
+- **ErrorBox.tsx** (+39, -0)
+- **ErrorBox.test.tsx** (+62, -0)
+- **mutations.ts** (+81, -0)
+- **OfcomReportingEventRepository.js** (+125, -0)
 
 ## Visualizations
 
@@ -47,11 +63,12 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 2911
-".ts" : 239
+".tsx" : 4123
+".ts" : 328
 "unknown" : 112
 ".json" : 134
-".scss" : 132
+".scss" : 326
+".js" : 125
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -68,8 +85,8 @@ title Coding activity by hour (count of changes)
 "16h" : 19
 "17h" : 6
 "18h" : 23
-"19h" : 2
+"19h" : 21
 ```
 
 
-> **Last Updated:** 28/04/2026, 19:01:46
+> **Last Updated:** 28/04/2026, 19:11:46
