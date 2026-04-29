@@ -2,7 +2,7 @@
   "date": "2026-04-29",
   "projects": {
     "cda": {
-      "totalLinesAdded": 478,
+      "totalLinesAdded": 479,
       "totalLinesRemoved": 6,
       "totalActiveTime": 27,
       "files": {
@@ -227,6 +227,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-04-29T09:20:03.887Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/src/providers/ConnectionsProvider/ConnectionsProvider.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ],
