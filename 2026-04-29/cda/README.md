@@ -4,46 +4,47 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3806                                          |
-| **Lines Removed** (➖) | 237                                        |
-| **Net Change** (↕)    | 3569                |
-| **Active Time** (⌚)   | 183 minutes |
+| **Lines Added** (➕)   | 6606                                          |
+| **Lines Removed** (➖) | 241                                        |
+| **Net Change** (↕)    | 6365                |
+| **Active Time** (⌚)   | 200 minutes |
 
 
 ## Modified Files
-- **queries.ts** (+110, -11)
-- **NoPermission.tsx** (+115, -25)
-- **index.ts** (+8, -0)
-- **App.tsx** (+190, -121)
+- **queries.ts** (+198, -11)
+- **NoPermission.tsx** (+145, -25)
+- **index.ts** (+12, -0)
+- **App.tsx** (+254, -121)
 - **App.test.tsx** (+125, -1)
 - **.env** (+112, -0)
-- **ConnectionsProvider.tsx** (+276, -35)
+- **ConnectionsProvider.tsx** (+362, -35)
 - **UserProvider.tsx** (+189, -0)
-- **settings.json** (+96, -0)
-- **connectionsContext.ts** (+58, -2)
-- **getConnections.ts** (+57, -14)
-- **getConnections.test.ts** (+21, -27)
-- **PsbSummary.test.tsx** (+297, -0)
-- **SummaryReport.tsx** (+163, -0)
-- **PsbSummary.tsx** (+136, -0)
-- **SummaryReport.test.tsx** (+136, -0)
-- **LdsList.tsx** (+169, -0)
-- **LdsSearch.test.tsx** (+144, -0)
-- **LdsSearch.tsx** (+87, -0)
-- **Lds.test.tsx** (+101, -1)
-- **Lds.tsx** (+162, -0)
-- **LdsList.scss** (+125, -0)
-- **Import.scss** (+6, -0)
-- **index.ts** (+4, -0)
-- **Import.tsx** (+170, -0)
-- **ImportActions.tsx** (+122, -0)
-- **ImportActions.scss** (+39, -0)
-- **SummaryReport.scss** (+24, -0)
-- **LdsList.test.tsx** (+257, -0)
-- **ImportActions.test.tsx** (+102, -0)
-- **Import.test.tsx** (+100, -0)
-- **index.ts** (+4, -0)
+- **settings.json** (+192, -4)
+- **connectionsContext.ts** (+87, -2)
+- **getConnections.ts** (+114, -14)
+- **getConnections.test.ts** (+42, -27)
+- **PsbSummary.test.tsx** (+565, -0)
+- **SummaryReport.tsx** (+326, -0)
+- **PsbSummary.tsx** (+272, -0)
+- **SummaryReport.test.tsx** (+272, -0)
+- **LdsList.tsx** (+338, -0)
+- **LdsSearch.test.tsx** (+288, -0)
+- **LdsSearch.tsx** (+174, -0)
+- **Lds.test.tsx** (+201, -1)
+- **Lds.tsx** (+324, -0)
+- **LdsList.scss** (+250, -0)
+- **Import.scss** (+12, -0)
+- **index.ts** (+8, -0)
+- **Import.tsx** (+340, -0)
+- **ImportActions.tsx** (+244, -0)
+- **ImportActions.scss** (+78, -0)
+- **SummaryReport.scss** (+48, -0)
+- **LdsList.test.tsx** (+514, -0)
+- **ImportActions.test.tsx** (+204, -0)
+- **Import.test.tsx** (+200, -0)
+- **index.ts** (+8, -0)
 - **Admin.test.tsx** (+101, -0)
+- **settings.json** (+7, -0)
 
 ## Visualizations
 
@@ -52,11 +53,11 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 316
-".tsx" : 3325
+".ts" : 523
+".tsx" : 5621
 "unknown" : 112
-".json" : 96
-".scss" : 194
+".json" : 203
+".scss" : 388
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -68,8 +69,8 @@ title Coding activity by hour (count of changes)
 "10h" : 20
 "11h" : 45
 "12h" : 4
-"14h" : 45
+"14h" : 77
 ```
 
 
-> **Last Updated:** 29/04/2026, 14:41:40
+> **Last Updated:** 29/04/2026, 14:55:25
