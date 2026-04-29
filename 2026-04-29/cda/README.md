@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 6886                                          |
+| **Lines Added** (➕)   | 7196                                          |
 | **Lines Removed** (➖) | 245                                        |
-| **Net Change** (↕)    | 6641                |
-| **Active Time** (⌚)   | 206 minutes |
+| **Net Change** (↕)    | 6951                |
+| **Active Time** (⌚)   | 210 minutes |
 
 
 ## Modified Files
@@ -25,7 +25,7 @@
 - **getConnections.test.ts** (+42, -27)
 - **PsbSummary.test.tsx** (+565, -0)
 - **SummaryReport.tsx** (+326, -0)
-- **PsbSummary.tsx** (+272, -0)
+- **PsbSummary.tsx** (+410, -0)
 - **SummaryReport.test.tsx** (+272, -0)
 - **LdsList.tsx** (+338, -0)
 - **LdsSearch.test.tsx** (+288, -0)
@@ -35,7 +35,7 @@
 - **LdsList.scss** (+250, -0)
 - **Import.scss** (+12, -0)
 - **index.ts** (+8, -0)
-- **Import.tsx** (+340, -0)
+- **Import.tsx** (+512, -0)
 - **ImportActions.tsx** (+244, -0)
 - **ImportActions.scss** (+78, -0)
 - **SummaryReport.scss** (+48, -0)
@@ -54,7 +54,7 @@
 pie showData
 title Lines changed by file type
 ".ts" : 523
-".tsx" : 5901
+".tsx" : 6211
 "unknown" : 112
 ".json" : 207
 ".scss" : 388
@@ -70,8 +70,8 @@ title Coding activity by hour (count of changes)
 "11h" : 45
 "12h" : 4
 "14h" : 79
-"15h" : 4
+"15h" : 9
 ```
 
 
-> **Last Updated:** 29/04/2026, 15:46:14
+> **Last Updated:** 29/04/2026, 15:51:14
