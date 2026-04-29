@@ -4,23 +4,25 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 689                                          |
-| **Lines Removed** (➖) | 106                                        |
-| **Net Change** (↕)    | 583                |
-| **Active Time** (⌚)   | 108 minutes |
+| **Lines Added** (➕)   | 742                                          |
+| **Lines Removed** (➖) | 203                                        |
+| **Net Change** (↕)    | 539                |
+| **Active Time** (⌚)   | 128 minutes |
 
 
 ## Modified Files
-- **queries.ts** (+11, -0)
+- **queries.ts** (+22, -11)
 - **NoPermission.tsx** (+55, -25)
 - **index.ts** (+4, -0)
-- **App.tsx** (+84, -76)
+- **App.tsx** (+106, -101)
 - **App.test.tsx** (+125, -1)
 - **.env** (+112, -0)
-- **ConnectionsProvider.tsx** (+82, -4)
+- **ConnectionsProvider.tsx** (+100, -22)
 - **UserProvider.tsx** (+94, -0)
 - **settings.json** (+95, -0)
-- **connectionsContext.ts** (+27, -0)
+- **connectionsContext.ts** (+29, -2)
+- **getConnections.ts** (+0, -14)
+- **getConnections.test.ts** (+0, -27)
 
 ## Visualizations
 
@@ -29,8 +31,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 42
-".tsx" : 546
+".ts" : 109
+".tsx" : 629
 "unknown" : 112
 ".json" : 95
 ```
@@ -42,8 +44,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "09h" : 13
 "10h" : 20
-"11h" : 30
+"11h" : 44
 ```
 
 
-> **Last Updated:** 29/04/2026, 11:27:40
+> **Last Updated:** 29/04/2026, 11:32:40
