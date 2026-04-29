@@ -2,9 +2,9 @@
   "date": "2026-04-29",
   "projects": {
     "cda": {
-      "totalLinesAdded": 496,
+      "totalLinesAdded": 510,
       "totalLinesRemoved": 50,
-      "totalActiveTime": 41,
+      "totalActiveTime": 49,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/src/graphql/low-risk/queries.ts": [
           {
@@ -221,6 +221,48 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-04-29T09:43:05.527Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/src/App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-04-29T09:44:06.213Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/src/App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-04-29T09:46:38.053Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/src/App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "tsx"
           }
         ],
