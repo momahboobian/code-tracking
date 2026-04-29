@@ -4,21 +4,21 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3798                                          |
-| **Lines Removed** (➖) | 217                                        |
-| **Net Change** (↕)    | 3581                |
-| **Active Time** (⌚)   | 179 minutes |
+| **Lines Added** (➕)   | 3806                                          |
+| **Lines Removed** (➖) | 237                                        |
+| **Net Change** (↕)    | 3569                |
+| **Active Time** (⌚)   | 183 minutes |
 
 
 ## Modified Files
 - **queries.ts** (+110, -11)
 - **NoPermission.tsx** (+115, -25)
 - **index.ts** (+8, -0)
-- **App.tsx** (+190, -101)
+- **App.tsx** (+190, -121)
 - **App.test.tsx** (+125, -1)
 - **.env** (+112, -0)
-- **ConnectionsProvider.tsx** (+271, -35)
-- **UserProvider.tsx** (+188, -0)
+- **ConnectionsProvider.tsx** (+276, -35)
+- **UserProvider.tsx** (+189, -0)
 - **settings.json** (+96, -0)
 - **connectionsContext.ts** (+58, -2)
 - **getConnections.ts** (+57, -14)
@@ -30,7 +30,7 @@
 - **LdsList.tsx** (+169, -0)
 - **LdsSearch.test.tsx** (+144, -0)
 - **LdsSearch.tsx** (+87, -0)
-- **Lds.test.tsx** (+100, -1)
+- **Lds.test.tsx** (+101, -1)
 - **Lds.tsx** (+162, -0)
 - **LdsList.scss** (+125, -0)
 - **Import.scss** (+6, -0)
@@ -41,7 +41,7 @@
 - **SummaryReport.scss** (+24, -0)
 - **LdsList.test.tsx** (+257, -0)
 - **ImportActions.test.tsx** (+102, -0)
-- **Import.test.tsx** (+99, -0)
+- **Import.test.tsx** (+100, -0)
 - **index.ts** (+4, -0)
 - **Admin.test.tsx** (+101, -0)
 
@@ -53,7 +53,7 @@
 pie showData
 title Lines changed by file type
 ".ts" : 316
-".tsx" : 3297
+".tsx" : 3325
 "unknown" : 112
 ".json" : 96
 ".scss" : 194
@@ -68,8 +68,8 @@ title Coding activity by hour (count of changes)
 "10h" : 20
 "11h" : 45
 "12h" : 4
-"14h" : 40
+"14h" : 45
 ```
 
 
-> **Last Updated:** 29/04/2026, 14:36:40
+> **Last Updated:** 29/04/2026, 14:41:40
