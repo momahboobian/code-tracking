@@ -2,9 +2,9 @@
   "date": "2026-04-29",
   "projects": {
     "cda": {
-      "totalLinesAdded": 482,
-      "totalLinesRemoved": 6,
-      "totalActiveTime": 32,
+      "totalLinesAdded": 492,
+      "totalLinesRemoved": 49,
+      "totalActiveTime": 36,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/src/graphql/low-risk/queries.ts": [
           {
@@ -152,6 +152,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2026-04-29T09:37:36.453Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/src/App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 43,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/src/App.test.tsx": [
@@ -255,6 +269,48 @@
               "removed": []
             },
             "duration": 5,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-04-29T09:34:43.765Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/src/providers/ConnectionsProvider/ConnectionsProvider.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-04-29T09:35:21.546Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/src/providers/ConnectionsProvider/ConnectionsProvider.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-04-29T09:36:12.334Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/src/providers/ConnectionsProvider/ConnectionsProvider.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "tsx"
           }
         ],
