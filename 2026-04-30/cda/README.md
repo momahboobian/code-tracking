@@ -4,14 +4,14 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3986                                          |
-| **Lines Removed** (➖) | 42                                        |
+| **Lines Added** (➕)   | 3991                                          |
+| **Lines Removed** (➖) | 47                                        |
 | **Net Change** (↕)    | 3944                |
-| **Active Time** (⌚)   | 42 minutes |
+| **Active Time** (⌚)   | 48 minutes |
 
 
 ## Modified Files
-- **PsbSummary.tsx** (+143, -3)
+- **PsbSummary.tsx** (+148, -8)
 - **cspell.json** (+10, -0)
 - **skill-mutations.ts** (+532, -0)
 - **skill-admin-mutations.ts** (+283, -0)
@@ -54,7 +54,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 2642
+".tsx" : 2652
 ".json" : 17
 ".ts" : 1063
 "unknown" : 112
@@ -68,8 +68,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "10h" : 2
 "12h" : 4
-"13h" : 50
+"13h" : 53
 ```
 
 
-> **Last Updated:** 30/04/2026, 13:45:59
+> **Last Updated:** 30/04/2026, 13:50:59
