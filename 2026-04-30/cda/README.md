@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 6129                                          |
-| **Lines Removed** (➖) | 1182                                        |
-| **Net Change** (↕)    | 4947                |
-| **Active Time** (⌚)   | 323 minutes |
+| **Lines Added** (➕)   | 6135                                          |
+| **Lines Removed** (➖) | 1217                                        |
+| **Net Change** (↕)    | 4918                |
+| **Active Time** (⌚)   | 329 minutes |
 
 
 ## Modified Files
@@ -43,13 +43,13 @@
 - **index.ts** (+4, -0)
 - **ImportActions.scss** (+39, -0)
 - **connectionsContext.ts** (+29, -0)
-- **Compare.tsx** (+294, -104)
+- **Compare.tsx** (+294, -139)
 - **Admin.tsx** (+99, -2)
 - **settings.json** (+7, -0)
 - **csvHelpers.ts** (+65, -35)
 - **Compare.test.tsx** (+204, -0)
 - **config.ts** (+44, -18)
-- **CompareResults.tsx** (+401, -260)
+- **CompareResults.tsx** (+405, -260)
 - **testDataLoader.ts** (+154, -54)
 - **CompareList.tsx** (+183, -139)
 - **CompareList.scss** (+74, -63)
@@ -60,7 +60,7 @@
 - **index.ts** (+4, -1)
 - **CompareModal.scss** (+55, -0)
 - **CompareModal.test.tsx** (+128, -75)
-- **CompareResults.test.tsx** (+261, -152)
+- **CompareResults.test.tsx** (+263, -152)
 
 ## Visualizations
 
@@ -69,7 +69,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 5149
+".tsx" : 5190
 ".json" : 17
 ".ts" : 1443
 "unknown" : 112
@@ -87,8 +87,8 @@ title Coding activity by hour (count of changes)
 "14h" : 79
 "15h" : 50
 "16h" : 36
-"17h" : 41
+"17h" : 44
 ```
 
 
-> **Last Updated:** 30/04/2026, 17:55:59
+> **Last Updated:** 30/04/2026, 18:00:59
