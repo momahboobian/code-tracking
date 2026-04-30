@@ -2,7 +2,7 @@
   "date": "2026-04-30",
   "projects": {
     "cda": {
-      "totalLinesAdded": 136,
+      "totalLinesAdded": 146,
       "totalLinesRemoved": 0,
       "totalActiveTime": 0,
       "files": {
@@ -20,6 +20,22 @@
             },
             "duration": 0,
             "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/cspell.json": [
+          {
+            "timestamp": "2026-04-30T09:49:37.305Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/cspell.json",
+            "fileType": ".json",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
           }
         ]
       },
