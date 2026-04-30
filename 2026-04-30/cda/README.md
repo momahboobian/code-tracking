@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 4017                                          |
-| **Lines Removed** (➖) | 59                                        |
-| **Net Change** (↕)    | 3958                |
-| **Active Time** (⌚)   | 68 minutes |
+| **Lines Added** (➕)   | 4067                                          |
+| **Lines Removed** (➖) | 101                                        |
+| **Net Change** (↕)    | 3966                |
+| **Active Time** (⌚)   | 76 minutes |
 
 
 ## Modified Files
@@ -24,7 +24,7 @@
 - **LdsList.tsx** (+169, -0)
 - **LdsSearch.test.tsx** (+144, -0)
 - **LdsSearch.tsx** (+87, -0)
-- **ImportActions.tsx** (+126, -10)
+- **ImportActions.tsx** (+127, -10)
 - **SummaryReport.scss** (+24, -0)
 - **LdsList.test.tsx** (+257, -0)
 - **LdsList.scss** (+125, -0)
@@ -35,7 +35,7 @@
 - **queries.ts** (+88, -0)
 - **getConnections.test.ts** (+48, -0)
 - **getConnections.ts** (+71, -0)
-- **ImportActions.test.tsx** (+102, -0)
+- **ImportActions.test.tsx** (+104, -0)
 - **Import.test.tsx** (+100, -0)
 - **index.ts** (+4, -0)
 - **Import.scss** (+6, -0)
@@ -43,9 +43,10 @@
 - **index.ts** (+4, -0)
 - **ImportActions.scss** (+39, -0)
 - **connectionsContext.ts** (+29, -0)
-- **Compare.tsx** (+187, -2)
+- **Compare.tsx** (+190, -44)
 - **Admin.tsx** (+99, -2)
 - **settings.json** (+7, -0)
+- **csvHelpers.ts** (+44, -0)
 
 ## Visualizations
 
@@ -54,9 +55,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 2690
+".tsx" : 2738
 ".json" : 17
-".ts" : 1063
+".ts" : 1107
 "unknown" : 112
 ".scss" : 194
 ```
@@ -69,8 +70,8 @@ title Coding activity by hour (count of changes)
 "10h" : 2
 "12h" : 4
 "13h" : 64
-"14h" : 4
+"14h" : 9
 ```
 
 
-> **Last Updated:** 30/04/2026, 14:00:59
+> **Last Updated:** 30/04/2026, 14:05:59
