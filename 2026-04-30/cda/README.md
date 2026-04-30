@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 4293                                          |
-| **Lines Removed** (➖) | 118                                        |
-| **Net Change** (↕)    | 4175                |
-| **Active Time** (⌚)   | 89 minutes |
+| **Lines Added** (➕)   | 4328                                          |
+| **Lines Removed** (➖) | 154                                        |
+| **Net Change** (↕)    | 4174                |
+| **Active Time** (⌚)   | 95 minutes |
 
 
 ## Modified Files
@@ -46,9 +46,9 @@
 - **Compare.tsx** (+190, -44)
 - **Admin.tsx** (+99, -2)
 - **settings.json** (+7, -0)
-- **csvHelpers.ts** (+46, -17)
+- **csvHelpers.ts** (+65, -35)
 - **Compare.test.tsx** (+196, -0)
-- **config.ts** (+28, -0)
+- **config.ts** (+44, -18)
 
 ## Visualizations
 
@@ -59,7 +59,7 @@ pie showData
 title Lines changed by file type
 ".tsx" : 2934
 ".json" : 17
-".ts" : 1154
+".ts" : 1225
 "unknown" : 112
 ".scss" : 194
 ```
@@ -72,8 +72,8 @@ title Coding activity by hour (count of changes)
 "10h" : 2
 "12h" : 4
 "13h" : 64
-"14h" : 19
+"14h" : 25
 ```
 
 
-> **Last Updated:** 30/04/2026, 14:10:59
+> **Last Updated:** 30/04/2026, 14:15:59
