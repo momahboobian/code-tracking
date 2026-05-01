@@ -4,57 +4,58 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 7970                                          |
-| **Lines Removed** (➖) | 140                                        |
-| **Net Change** (↕)    | 7830                |
-| **Active Time** (⌚)   | 202 minutes |
+| **Lines Added** (➕)   | 12013                                          |
+| **Lines Removed** (➖) | 160                                        |
+| **Net Change** (↕)    | 11853                |
+| **Active Time** (⌚)   | 246 minutes |
 
 
 ## Modified Files
-- **ImportActions.test.tsx** (+207, -1)
-- **PsbSummary.tsx** (+282, -0)
-- **SummaryReport.tsx** (+320, -0)
-- **PsbSummary.test.tsx** (+536, -0)
-- **SummaryReport.test.tsx** (+248, -0)
-- **LdsSearch.tsx** (+174, -0)
-- **Lds.test.tsx** (+200, -0)
-- **Lds.tsx** (+330, -0)
-- **App.tsx** (+132, -0)
-- **LdsList.scss** (+250, -0)
-- **LdsList.tsx** (+338, -0)
-- **LdsSearch.test.tsx** (+288, -0)
-- **Import.test.tsx** (+200, -0)
-- **index.ts** (+8, -0)
-- **Import.scss** (+12, -0)
-- **Import.tsx** (+350, -0)
-- **index.ts** (+8, -0)
-- **ImportActions.scss** (+78, -0)
-- **ImportActions.tsx** (+234, -0)
-- **SummaryReport.scss** (+48, -0)
-- **LdsList.test.tsx** (+514, -0)
-- **CompareModal.test.tsx** (+106, -0)
-- **CompareList.test.tsx** (+140, -0)
-- **CompareModal.scss** (+110, -0)
-- **index.ts** (+6, -0)
-- **CompareModal.tsx** (+185, -7)
+- **ImportActions.test.tsx** (+310, -1)
+- **PsbSummary.tsx** (+423, -2)
+- **SummaryReport.tsx** (+480, -0)
+- **PsbSummary.test.tsx** (+804, -0)
+- **SummaryReport.test.tsx** (+372, -0)
+- **LdsSearch.tsx** (+261, -0)
+- **Lds.test.tsx** (+300, -0)
+- **Lds.tsx** (+495, -0)
+- **App.tsx** (+198, -0)
+- **LdsList.scss** (+375, -0)
+- **LdsList.tsx** (+507, -0)
+- **LdsSearch.test.tsx** (+432, -0)
+- **Import.test.tsx** (+300, -0)
+- **index.ts** (+12, -0)
+- **Import.scss** (+18, -0)
+- **Import.tsx** (+525, -2)
+- **index.ts** (+12, -0)
+- **ImportActions.scss** (+117, -0)
+- **ImportActions.tsx** (+351, -0)
+- **SummaryReport.scss** (+72, -0)
+- **LdsList.test.tsx** (+771, -0)
+- **CompareModal.test.tsx** (+159, -0)
+- **CompareList.test.tsx** (+211, -0)
+- **CompareModal.scss** (+165, -0)
+- **index.ts** (+9, -0)
+- **CompareModal.tsx** (+280, -7)
 - **CompareList.scss** (+72, -56)
-- **CompareList.tsx** (+95, -8)
-- **CompareResults.scss** (+100, -0)
-- **CompareResults.tsx** (+302, -14)
-- **testDataLoader.ts** (+291, -0)
-- **Compare.test.tsx** (+408, -0)
+- **CompareList.tsx** (+138, -8)
+- **CompareResults.scss** (+150, -0)
+- **CompareResults.tsx** (+443, -26)
+- **testDataLoader.ts** (+482, -0)
+- **Compare.test.tsx** (+612, -0)
 - **config.ts** (+26, -0)
-- **Compare.tsx** (+356, -50)
-- **csvHelpers.ts** (+60, -4)
-- **connectionsContext.ts** (+58, -0)
-- **ConnectionsProvider.tsx** (+172, -0)
-- **index.ts** (+8, -0)
-- **queries.ts** (+176, -0)
-- **NoPermission.tsx** (+60, -0)
-- **getConnections.test.ts** (+96, -0)
-- **getConnections.ts** (+142, -0)
-- **CompareResults.test.tsx** (+218, -0)
+- **Compare.tsx** (+509, -52)
+- **csvHelpers.ts** (+88, -4)
+- **connectionsContext.ts** (+89, -0)
+- **ConnectionsProvider.tsx** (+272, -0)
+- **index.ts** (+12, -0)
+- **queries.ts** (+264, -0)
+- **NoPermission.tsx** (+90, -0)
+- **getConnections.test.ts** (+144, -0)
+- **getConnections.ts** (+213, -0)
+- **CompareResults.test.tsx** (+327, -0)
 - **config.ts** (+26, -0)
+- **Admin.tsx** (+97, -2)
 
 ## Visualizations
 
@@ -63,9 +64,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 6475
-".scss" : 726
-".ts" : 909
+".tsx" : 9767
+".scss" : 1025
+".ts" : 1381
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -75,8 +76,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "08h" : 53
 "09h" : 15
-"13h" : 93
+"13h" : 142
 ```
 
 
-> **Last Updated:** 01/05/2026, 13:51:03
+> **Last Updated:** 01/05/2026, 13:58:01
