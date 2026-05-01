@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 4037                                          |
+| **Lines Added** (➕)   | 4254                                          |
 | **Lines Removed** (➖) | 76                                        |
-| **Net Change** (↕)    | 3961                |
-| **Active Time** (⌚)   | 89 minutes |
+| **Net Change** (↕)    | 4178                |
+| **Active Time** (⌚)   | 97 minutes |
 
 
 ## Modified Files
@@ -41,7 +41,7 @@
 - **CompareList.tsx** (+44, -0)
 - **CompareResults.scss** (+50, -0)
 - **CompareResults.tsx** (+158, -14)
-- **testDataLoader.ts** (+100, -0)
+- **testDataLoader.ts** (+291, -0)
 - **Compare.test.tsx** (+204, -0)
 - **config.ts** (+26, -0)
 - **Compare.tsx** (+203, -50)
@@ -54,6 +54,7 @@
 - **getConnections.test.ts** (+48, -0)
 - **getConnections.ts** (+71, -0)
 - **CompareResults.test.tsx** (+109, -0)
+- **config.ts** (+26, -0)
 
 ## Visualizations
 
@@ -64,7 +65,7 @@ pie showData
 title Lines changed by file type
 ".tsx" : 3390
 ".scss" : 310
-".ts" : 413
+".ts" : 630
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -74,8 +75,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "08h" : 53
 "09h" : 15
-"13h" : 9
+"13h" : 15
 ```
 
 
-> **Last Updated:** 01/05/2026, 13:26:03
+> **Last Updated:** 01/05/2026, 13:31:03
