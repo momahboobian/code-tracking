@@ -2,7 +2,7 @@
   "date": "2026-05-01",
   "projects": {
     "cda": {
-      "totalLinesAdded": 3935,
+      "totalLinesAdded": 4018,
       "totalLinesRemoved": 69,
       "totalActiveTime": 81,
       "files": {
@@ -433,6 +433,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-05-01T12:15:09.025Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/src/components/CompareModal/CompareModal.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 83,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ],
