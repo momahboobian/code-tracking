@@ -3,7 +3,7 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 16209,
-      "totalLinesRemoved": 253,
+      "totalLinesRemoved": 262,
       "totalActiveTime": 338,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/src/components/ImportActions/ImportActions.test.tsx": [
@@ -3361,6 +3361,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-05-01T13:54:20.780Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/ofcom/src/containers/Compare/Compare.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 9,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ],
