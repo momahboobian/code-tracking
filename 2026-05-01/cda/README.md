@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3882                                          |
-| **Lines Removed** (➖) | 2                                        |
-| **Net Change** (↕)    | 3880                |
-| **Active Time** (⌚)   | 52 minutes |
+| **Lines Added** (➕)   | 3885                                          |
+| **Lines Removed** (➖) | 6                                        |
+| **Net Change** (↕)    | 3879                |
+| **Active Time** (⌚)   | 55 minutes |
 
 
 ## Modified Files
@@ -44,8 +44,8 @@
 - **testDataLoader.ts** (+100, -0)
 - **Compare.test.tsx** (+204, -0)
 - **config.ts** (+26, -0)
-- **Compare.tsx** (+156, -1)
-- **csvHelpers.ts** (+30, -0)
+- **Compare.tsx** (+157, -1)
+- **csvHelpers.ts** (+32, -4)
 - **connectionsContext.ts** (+29, -0)
 - **ConnectionsProvider.tsx** (+86, -0)
 - **index.ts** (+4, -0)
@@ -62,9 +62,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 3167
+".tsx" : 3168
 ".scss" : 310
-".ts" : 407
+".ts" : 413
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -72,8 +72,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"08h" : 46
+"08h" : 49
 ```
 
 
-> **Last Updated:** 01/05/2026, 08:49:43
+> **Last Updated:** 01/05/2026, 08:54:43
