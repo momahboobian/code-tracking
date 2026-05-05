@@ -1,0 +1,375 @@
+{
+  "date": "2026-05-05",
+  "projects": {
+    "cda": {
+      "totalLinesAdded": 1901,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 29,
+      "files": {
+        "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/package.json": [
+          {
+            "timestamp": "2026-05-05T09:19:10.228Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/package.json",
+            "fileType": ".json",
+            "linesAdded": 80,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/package.json": [
+          {
+            "timestamp": "2026-05-05T09:20:16.938Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/package.json",
+            "fileType": ".json",
+            "linesAdded": 79,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/career-schemes/package.json": [
+          {
+            "timestamp": "2026-05-05T09:20:16.937Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/career-schemes/package.json",
+            "fileType": ".json",
+            "linesAdded": 63,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/driver-declaration-database/package.json": [
+          {
+            "timestamp": "2026-05-05T09:20:16.933Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/driver-declaration-database/package.json",
+            "fileType": ".json",
+            "linesAdded": 36,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/desks/package.json": [
+          {
+            "timestamp": "2026-05-05T09:20:16.939Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/desks/package.json",
+            "fileType": ".json",
+            "linesAdded": 68,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/directory/package.json": [
+          {
+            "timestamp": "2026-05-05T09:20:16.940Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/directory/package.json",
+            "fileType": ".json",
+            "linesAdded": 55,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/gateway-assistant/package.json": [
+          {
+            "timestamp": "2026-05-05T09:20:16.942Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/gateway-assistant/package.json",
+            "fileType": ".json",
+            "linesAdded": 51,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/infosec-forms/package.json": [
+          {
+            "timestamp": "2026-05-05T09:20:16.941Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/infosec-forms/package.json",
+            "fileType": ".json",
+            "linesAdded": 77,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/ipages-tag-viewer/package.json": [
+          {
+            "timestamp": "2026-05-05T09:20:16.943Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/ipages-tag-viewer/package.json",
+            "fileType": ".json",
+            "linesAdded": 62,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/admin/package.json": [
+          {
+            "timestamp": "2026-05-05T09:20:16.944Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/admin/package.json",
+            "fileType": ".json",
+            "linesAdded": 55,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/retrospective-boards/package.json": [
+          {
+            "timestamp": "2026-05-05T09:20:17.134Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/retrospective-boards/package.json",
+            "fileType": ".json",
+            "linesAdded": 66,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/pattern-library/package.json": [
+          {
+            "timestamp": "2026-05-05T09:20:17.136Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/pattern-library/package.json",
+            "fileType": ".json",
+            "linesAdded": 67,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/pension-modeller/package.json": [
+          {
+            "timestamp": "2026-05-05T09:20:17.137Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/pension-modeller/package.json",
+            "fileType": ".json",
+            "linesAdded": 61,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/photos-dashboard/package.json": [
+          {
+            "timestamp": "2026-05-05T09:20:17.138Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/photos-dashboard/package.json",
+            "fileType": ".json",
+            "linesAdded": 54,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/package.json": [
+          {
+            "timestamp": "2026-05-05T09:20:17.138Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/package.json",
+            "fileType": ".json",
+            "linesAdded": 68,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/online-abuse-reporting/package.json": [
+          {
+            "timestamp": "2026-05-05T09:20:17.142Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/online-abuse-reporting/package.json",
+            "fileType": ".json",
+            "linesAdded": 75,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/package.json": [
+          {
+            "timestamp": "2026-05-05T09:20:17.141Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/profile-hub/package.json",
+            "fileType": ".json",
+            "linesAdded": 82,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/policy-exceptions/package.json": [
+          {
+            "timestamp": "2026-05-05T09:20:17.140Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/policy-exceptions/package.json",
+            "fileType": ".json",
+            "linesAdded": 52,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/radar/package.json": [
+          {
+            "timestamp": "2026-05-05T09:20:17.144Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/radar/package.json",
+            "fileType": ".json",
+            "linesAdded": 69,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/types/index.ts": [
+          {
+            "timestamp": "2026-05-05T09:20:17.339Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/types/index.ts",
+            "fileType": ".ts",
+            "linesAdded": 511,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/index.js": [
+          {
+            "timestamp": "2026-05-05T09:20:17.340Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/index.js",
+            "fileType": ".js",
+            "linesAdded": 170,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 27,
+        "ts": 1,
+        "js": 1
+      },
+      "changeFrequency": {
+        "10": 29
+      },
+      "topFiles": [
+        "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/package.json",
+        "/Users/momahboobian/Documents/_BBC/cda/apps/clear-view/package.json",
+        "/Users/momahboobian/Documents/_BBC/cda/apps/career-schemes/package.json",
+        "/Users/momahboobian/Documents/_BBC/cda/apps/driver-declaration-database/package.json",
+        "/Users/momahboobian/Documents/_BBC/cda/apps/desks/package.json"
+      ],
+      "averageChangeSize": 90.52380952380952
+    }
+  },
+  "totalActiveTime": 15,
+  "totalProjects": 1,
+  "totalFiles": 21,
+  "mostActiveHours": [
+    10
+  ],
+  "mostUsedLanguages": [
+    "json",
+    "ts",
+    "js"
+  ]
+}
