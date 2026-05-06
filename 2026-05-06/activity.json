@@ -2,9 +2,9 @@
   "date": "2026-05-06",
   "projects": {
     "cda": {
-      "totalLinesAdded": 5054,
+      "totalLinesAdded": 5303,
       "totalLinesRemoved": 1,
-      "totalActiveTime": 12,
+      "totalActiveTime": 15,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/App.tsx": [
           {
@@ -174,6 +174,52 @@
             },
             "duration": 1,
             "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/.vscode/settings.json": [
+          {
+            "timestamp": "2026-05-06T09:48:39.870Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/.vscode/settings.json",
+            "fileType": ".json",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-transformers/src/peopleview/profile.js": [
+          {
+            "timestamp": "2026-05-06T09:50:28.402Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-transformers/src/peopleview/profile.js",
+            "fileType": ".js",
+            "linesAdded": 241,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-05-06T09:50:54.814Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-transformers/src/peopleview/profile.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
           }
         ]
       },
