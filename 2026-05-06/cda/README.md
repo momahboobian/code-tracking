@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 37275                                          |
-| **Lines Removed** (➖) | 52                                        |
-| **Net Change** (↕)    | 37223                |
-| **Active Time** (⌚)   | 173 minutes |
+| **Lines Added** (➕)   | 37476                                          |
+| **Lines Removed** (➖) | 53                                        |
+| **Net Change** (↕)    | 37423                |
+| **Active Time** (⌚)   | 178 minutes |
 
 
 ## Modified Files
@@ -73,6 +73,7 @@
 - **queries.ts** (+810, -0)
 - **peopleview-mutations.js** (+931, -0)
 - **ProfileContainer.tsx** (+86, -1)
+- **ProfilePublic.tsx** (+201, -1)
 
 ## Visualizations
 
@@ -81,7 +82,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 3336
+".tsx" : 3538
 ".js" : 4465
 "unknown" : 230
 ".ts" : 28893
@@ -97,8 +98,8 @@ title Coding activity by hour (count of changes)
 "10h" : 16
 "11h" : 18
 "12h" : 35
-"14h" : 52
+"14h" : 55
 ```
 
 
-> **Last Updated:** 06/05/2026, 14:56:20
+> **Last Updated:** 06/05/2026, 15:01:20
