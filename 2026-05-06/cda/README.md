@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 38341                                          |
-| **Lines Removed** (➖) | 58                                        |
-| **Net Change** (↕)    | 38283                |
-| **Active Time** (⌚)   | 209 minutes |
+| **Lines Added** (➕)   | 38467                                          |
+| **Lines Removed** (➖) | 59                                        |
+| **Net Change** (↕)    | 38408                |
+| **Active Time** (⌚)   | 215 minutes |
 
 
 ## Modified Files
@@ -19,7 +19,7 @@
 - **vulcan.ts** (+3181, -0)
 - **sap_tables.ts** (+1899, -0)
 - **sap_views.ts** (+3444, -0)
-- **settings.json** (+16, -0)
+- **settings.json** (+17, -0)
 - **profile.js** (+264, -0)
 - **peopleview.js** (+456, -1)
 - **profile.test.js** (+886, -7)
@@ -80,6 +80,7 @@
 - **ConstructFieldContent.tsx** (+57, -0)
 - **fieldUtils.ts** (+206, -1)
 - **ConstructDefinitionListItem.tsx** (+78, -0)
+- **ProfileFields.types.ts** (+125, -1)
 
 ## Visualizations
 
@@ -91,8 +92,8 @@ title Lines changed by file type
 ".tsx" : 3890
 ".js" : 4465
 "unknown" : 230
-".ts" : 29411
-".json" : 104
+".ts" : 29537
+".json" : 105
 ".scss" : 299
 ```
 
@@ -105,8 +106,8 @@ title Coding activity by hour (count of changes)
 "11h" : 18
 "12h" : 35
 "14h" : 55
-"15h" : 17
+"15h" : 22
 ```
 
 
-> **Last Updated:** 06/05/2026, 15:21:20
+> **Last Updated:** 06/05/2026, 15:26:20
