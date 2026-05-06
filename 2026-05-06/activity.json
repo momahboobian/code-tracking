@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 22543,
-      "totalLinesRemoved": 4,
-      "totalActiveTime": 46,
+      "totalLinesRemoved": 5,
+      "totalActiveTime": 49,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/App.tsx": [
           {
@@ -151,6 +151,20 @@
               "removed": []
             },
             "duration": 5,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-05-06T10:55:13.057Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-db-migration/src/migrations/sap/views/20260506091623-replce-peopleview-profilep-view.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "js"
           }
         ],
