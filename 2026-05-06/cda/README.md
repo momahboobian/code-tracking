@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 22661                                          |
-| **Lines Removed** (➖) | 5                                        |
-| **Net Change** (↕)    | 22656                |
-| **Active Time** (⌚)   | 55 minutes |
+| **Lines Added** (➕)   | 30698                                          |
+| **Lines Removed** (➖) | 6                                        |
+| **Net Change** (↕)    | 30692                |
+| **Active Time** (⌚)   | 67 minutes |
 
 
 ## Modified Files
@@ -16,17 +16,18 @@
 - **20260416145412-replace-poepleview-profile-view.js** (+143, -1)
 - **20260506091623-replce-peopleview-profilep-view.js** (+291, -1)
 - **.env** (+230, -0)
-- **vulcan.ts** (+1926, -0)
-- **sap_tables.ts** (+997, -0)
-- **sap_views.ts** (+1718, -0)
+- **vulcan.ts** (+3181, -0)
+- **sap_tables.ts** (+1899, -0)
+- **sap_views.ts** (+3444, -0)
 - **settings.json** (+16, -0)
-- **profile.js** (+243, -0)
+- **profile.js** (+245, -0)
 - **peopleview.js** (+448, -0)
-- **profile.test.js** (+875, -3)
+- **profile.test.js** (+876, -3)
 - **PeopleViewRepository.js** (+195, -0)
 - **settings.json** (+88, -0)
-- **Person.js** (+366, -0)
+- **Person.js** (+366, -1)
 - **resolvers-types.ts** (+15110, -0)
+- **clear_view_views.ts** (+4151, -0)
 
 ## Visualizations
 
@@ -36,9 +37,9 @@
 pie showData
 title Lines changed by file type
 ".tsx" : 2
-".js" : 2579
+".js" : 2583
 "unknown" : 230
-".ts" : 19751
+".ts" : 27785
 ".json" : 104
 ```
 
@@ -49,7 +50,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "10h" : 16
 "11h" : 18
+"12h" : 7
 ```
 
 
-> **Last Updated:** 06/05/2026, 12:03:25
+> **Last Updated:** 06/05/2026, 12:08:25
