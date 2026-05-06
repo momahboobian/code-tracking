@@ -2,9 +2,9 @@
   "date": "2026-05-06",
   "projects": {
     "cda": {
-      "totalLinesAdded": 35448,
+      "totalLinesAdded": 36258,
       "totalLinesRemoved": 51,
-      "totalActiveTime": 165,
+      "totalActiveTime": 166,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/App.tsx": [
           {
@@ -1704,6 +1704,36 @@
             },
             "duration": 1,
             "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/graphql/high-risk/queries.ts": [
+          {
+            "timestamp": "2026-05-06T13:40:37.021Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/graphql/high-risk/queries.ts",
+            "fileType": ".ts",
+            "linesAdded": 805,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-05-06T13:40:42.667Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/graphql/high-risk/queries.ts",
+            "fileType": ".ts",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ]
       },
