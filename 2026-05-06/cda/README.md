@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 5303                                          |
+| **Lines Added** (➕)   | 5752                                          |
 | **Lines Removed** (➖) | 1                                        |
-| **Net Change** (↕)    | 5302                |
-| **Active Time** (⌚)   | 15 minutes |
+| **Net Change** (↕)    | 5751                |
+| **Active Time** (⌚)   | 23 minutes |
 
 
 ## Modified Files
@@ -20,7 +20,8 @@
 - **sap_tables.ts** (+997, -0)
 - **sap_views.ts** (+1718, -0)
 - **settings.json** (+7, -0)
-- **profile.js** (+242, -0)
+- **profile.js** (+243, -0)
+- **peopleview.js** (+448, -0)
 
 ## Visualizations
 
@@ -30,7 +31,7 @@
 pie showData
 title Lines changed by file type
 ".tsx" : 2
-".js" : 542
+".js" : 991
 "unknown" : 112
 ".ts" : 4641
 ".json" : 7
@@ -41,8 +42,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"10h" : 14
+"10h" : 16
 ```
 
 
-> **Last Updated:** 06/05/2026, 10:53:24
+> **Last Updated:** 06/05/2026, 10:58:24
