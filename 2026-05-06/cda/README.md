@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 31611                                          |
+| **Lines Added** (➕)   | 31616                                          |
 | **Lines Removed** (➖) | 48                                        |
-| **Net Change** (↕)    | 31563                |
-| **Active Time** (⌚)   | 114 minutes |
+| **Net Change** (↕)    | 31568                |
+| **Active Time** (⌚)   | 119 minutes |
 
 
 ## Modified Files
@@ -28,7 +28,7 @@
 - **Person.js** (+366, -1)
 - **resolvers-types.ts** (+15127, -0)
 - **clear_view_views.ts** (+4151, -0)
-- **peopleview-queries.js** (+859, -37)
+- **peopleview-queries.js** (+864, -37)
 
 ## Visualizations
 
@@ -38,7 +38,7 @@
 pie showData
 title Lines changed by file type
 ".tsx" : 2
-".js" : 3521
+".js" : 3526
 "unknown" : 230
 ".ts" : 27802
 ".json" : 104
@@ -51,8 +51,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "10h" : 16
 "11h" : 18
-"12h" : 33
+"12h" : 35
 ```
 
 
-> **Last Updated:** 06/05/2026, 12:53:25
+> **Last Updated:** 06/05/2026, 12:58:25
