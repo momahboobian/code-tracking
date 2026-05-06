@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 38508                                          |
+| **Lines Added** (➕)   | 39022                                          |
 | **Lines Removed** (➖) | 67                                        |
-| **Net Change** (↕)    | 38441                |
-| **Active Time** (⌚)   | 236 minutes |
+| **Net Change** (↕)    | 38955                |
+| **Active Time** (⌚)   | 244 minutes |
 
 
 ## Modified Files
@@ -82,6 +82,7 @@
 - **ConstructDefinitionListItem.tsx** (+78, -0)
 - **ProfileFields.types.ts** (+125, -1)
 - **ConstructFieldRows.tsx** (+30, -1)
+- **profileFieldsConfig.ts** (+514, -0)
 
 ## Visualizations
 
@@ -93,7 +94,7 @@ title Lines changed by file type
 ".tsx" : 3921
 ".js" : 4465
 "unknown" : 230
-".ts" : 29555
+".ts" : 30069
 ".json" : 105
 ".scss" : 299
 ```
@@ -107,8 +108,8 @@ title Coding activity by hour (count of changes)
 "11h" : 18
 "12h" : 35
 "14h" : 55
-"15h" : 33
+"15h" : 36
 ```
 
 
-> **Last Updated:** 06/05/2026, 15:41:20
+> **Last Updated:** 06/05/2026, 15:46:20
