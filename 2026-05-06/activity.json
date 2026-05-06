@@ -2,7 +2,7 @@
   "date": "2026-05-06",
   "projects": {
     "cda": {
-      "totalLinesAdded": 22538,
+      "totalLinesAdded": 22542,
       "totalLinesRemoved": 4,
       "totalActiveTime": 41,
       "files": {
@@ -123,6 +123,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-05-06T10:48:14.809Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-db-migration/src/migrations/sap/views/20260506091623-replce-peopleview-profilep-view.js",
+            "fileType": ".js",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "js"
           }
         ],

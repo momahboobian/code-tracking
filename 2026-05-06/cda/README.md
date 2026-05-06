@@ -4,9 +4,9 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 22538                                          |
+| **Lines Added** (➕)   | 22542                                          |
 | **Lines Removed** (➖) | 4                                        |
-| **Net Change** (↕)    | 22534                |
+| **Net Change** (↕)    | 22538                |
 | **Active Time** (⌚)   | 41 minutes |
 
 
@@ -14,7 +14,7 @@
 - **App.tsx** (+2, -0)
 - **20260413103903-add-manager-id-to-person-data-table.js** (+13, -0)
 - **20260416145412-replace-poepleview-profile-view.js** (+143, -1)
-- **20260506091623-replce-peopleview-profilep-view.js** (+286, -0)
+- **20260506091623-replce-peopleview-profilep-view.js** (+290, -0)
 - **.env** (+112, -0)
 - **vulcan.ts** (+1926, -0)
 - **sap_tables.ts** (+997, -0)
@@ -36,7 +36,7 @@
 pie showData
 title Lines changed by file type
 ".tsx" : 2
-".js" : 2573
+".js" : 2577
 "unknown" : 112
 ".ts" : 19751
 ".json" : 104
@@ -48,8 +48,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "10h" : 16
-"11h" : 13
+"11h" : 14
 ```
 
 
-> **Last Updated:** 06/05/2026, 11:38:24
+> **Last Updated:** 06/05/2026, 11:48:25
