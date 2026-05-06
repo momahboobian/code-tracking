@@ -4,14 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2                                          |
-| **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 2                |
-| **Active Time** (⌚)   | 0 minute |
+| **Lines Added** (➕)   | 301                                          |
+| **Lines Removed** (➖) | 1                                        |
+| **Net Change** (↕)    | 300                |
+| **Active Time** (⌚)   | 7 minutes |
 
 
 ## Modified Files
 - **App.tsx** (+2, -0)
+- **20260413103903-add-manager-id-to-person-data-table.js** (+13, -0)
+- **20260416145412-replace-poepleview-profile-view.js** (+143, -1)
+- **20260506091623-replce-peopleview-profilep-view.js** (+143, -0)
 
 ## Visualizations
 
@@ -21,6 +24,7 @@
 pie showData
 title Lines changed by file type
 ".tsx" : 2
+".js" : 300
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -28,8 +32,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"10h" : 1
+"10h" : 7
 ```
 
 
-> **Last Updated:** 06/05/2026, 10:06:43
+> **Last Updated:** 06/05/2026, 10:16:43
