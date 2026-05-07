@@ -2,9 +2,9 @@
   "date": "2026-05-07",
   "projects": {
     "cda": {
-      "totalLinesAdded": 532,
-      "totalLinesRemoved": 25,
-      "totalActiveTime": 14,
+      "totalLinesAdded": 720,
+      "totalLinesRemoved": 32,
+      "totalActiveTime": 23,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/components/ProfileFields/utils/fieldUtils.ts": [
           {
@@ -182,6 +182,20 @@
             },
             "duration": 0,
             "language": "json"
+          },
+          {
+            "timestamp": "2026-05-07T10:42:16.277Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/package.json",
+            "fileType": ".json",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/components/ProfilePublic/ProfilePublic.tsx": [
@@ -213,6 +227,110 @@
               "removed": []
             },
             "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-05-07T10:42:16.276Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/ipages-academy-scraper/package.json",
+            "fileType": ".json",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/DescriptionList/DescriptionList.tsx": [
+          {
+            "timestamp": "2026-05-07T10:38:43.721Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/DescriptionList/DescriptionList.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 109,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-05-07T10:38:43.769Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/DescriptionList/DescriptionList.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-05-07T10:40:24.499Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/DescriptionList/DescriptionList.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/global.d.ts": [
+          {
+            "timestamp": "2026-05-07T10:40:17.820Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/global.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-05-07T10:40:18.144Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/global.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/skills/package.json": [
+          {
+            "timestamp": "2026-05-07T10:42:16.071Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/package.json",
+            "fileType": ".json",
+            "linesAdded": 65,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "json"
           }
         ]
