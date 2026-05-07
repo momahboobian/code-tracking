@@ -4,16 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 33063                                          |
-| **Lines Removed** (➖) | 336                                        |
-| **Net Change** (↕)    | 32727                |
+| **Lines Added** (➕)   | 34315                                          |
+| **Lines Removed** (➖) | 543                                        |
+| **Net Change** (↕)    | 33772                |
 | **Active Time** (⌚)   | 254 minutes |
 
 
 ## Modified Files
-- **fieldUtils.ts** (+697, -47)
-- **ConstructFieldContent.tsx** (+143, -15)
-- **ConstructDefinitionListItem.tsx** (+159, -2)
+- **fieldUtils.ts** (+697, -67)
+- **ConstructFieldContent.tsx** (+143, -29)
+- **ConstructDefinitionListItem.tsx** (+159, -3)
 - **settings.json** (+22, -0)
 - **package.json** (+68, -0)
 - **ProfilePublic.tsx** (+200, -0)
@@ -24,20 +24,20 @@
 - **DescriptionList.scss** (+512, -74)
 - **DescriptionList.stories.tsx** (+758, -5)
 - **DescriptionListItem.tsx** (+48, -0)
-- **peopleview.js** (+462, -8)
+- **peopleview.js** (+909, -8)
 - **resolvers-types.ts** (+15125, -0)
-- **queries.ts** (+818, -5)
+- **queries.ts** (+1623, -5)
 - **graphql.ts** (+8561, -0)
 - **gql.ts** (+224, -0)
-- **peopleview-queries.js** (+1692, -34)
-- **peopleview-mutations.js** (+1935, -73)
-- **ProfileFields.types.ts** (+129, -4)
-- **profileFieldsConfig.ts** (+520, -6)
-- **ConstructAction.tsx** (+45, -8)
+- **peopleview-queries.js** (+1692, -68)
+- **peopleview-mutations.js** (+1935, -146)
+- **ProfileFields.types.ts** (+129, -8)
+- **profileFieldsConfig.ts** (+520, -12)
+- **ConstructAction.tsx** (+45, -16)
 - **UserLink.tsx** (+24, -0)
-- **ConstructAction.test.tsx** (+68, -13)
-- **fieldUtils.test.ts** (+321, -30)
-- **Profile.types.ts** (+316, -5)
+- **ConstructAction.test.tsx** (+68, -26)
+- **fieldUtils.test.ts** (+321, -60)
+- **Profile.types.ts** (+316, -9)
 
 ## Visualizations
 
@@ -46,11 +46,11 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 26820
-".tsx" : 1601
+".ts" : 27689
+".tsx" : 1637
 ".json" : 188
 ".scss" : 586
-".js" : 4204
+".js" : 4758
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -65,7 +65,8 @@ title Coding activity by hour (count of changes)
 "14h" : 14
 "15h" : 33
 "16h" : 36
+"17h" : 13
 ```
 
 
-> **Last Updated:** 07/05/2026, 16:50:29
+> **Last Updated:** 07/05/2026, 17:30:29
