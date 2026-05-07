@@ -2,9 +2,9 @@
   "date": "2026-05-07",
   "projects": {
     "cda": {
-      "totalLinesAdded": 16944,
-      "totalLinesRemoved": 73,
-      "totalActiveTime": 138,
+      "totalLinesAdded": 26427,
+      "totalLinesRemoved": 74,
+      "totalActiveTime": 141,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/components/ProfileFields/utils/fieldUtils.ts": [
           {
@@ -1426,6 +1426,68 @@
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/types/gql-generated/high-risk/resolvers-types.ts",
             "fileType": ".ts",
             "linesAdded": 15125,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/graphql/high-risk/queries.ts": [
+          {
+            "timestamp": "2026-05-07T13:56:05.938Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/graphql/high-risk/queries.ts",
+            "fileType": ".ts",
+            "linesAdded": 810,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-05-07T13:56:06.278Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/graphql/high-risk/queries.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/gql-generated/high-risk/graphql.ts": [
+          {
+            "timestamp": "2026-05-07T13:56:33.593Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/gql-generated/high-risk/graphql.ts",
+            "fileType": ".ts",
+            "linesAdded": 8561,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/gql-generated/high-risk/gql.ts": [
+          {
+            "timestamp": "2026-05-07T13:56:36.723Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/gql-generated/high-risk/gql.ts",
+            "fileType": ".ts",
+            "linesAdded": 112,
             "linesRemoved": 0,
             "projectName": "cda",
             "content": {
