@@ -4,16 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 31571                                          |
+| **Lines Added** (➕)   | 31709                                          |
 | **Lines Removed** (➖) | 104                                        |
-| **Net Change** (↕)    | 31467                |
-| **Active Time** (⌚)   | 164 minutes |
+| **Net Change** (↕)    | 31605                |
+| **Active Time** (⌚)   | 178 minutes |
 
 
 ## Modified Files
-- **fieldUtils.ts** (+663, -23)
-- **ConstructFieldContent.tsx** (+115, -1)
-- **ConstructDefinitionListItem.tsx** (+157, -1)
+- **fieldUtils.ts** (+669, -23)
+- **ConstructFieldContent.tsx** (+129, -1)
+- **ConstructDefinitionListItem.tsx** (+158, -1)
 - **settings.json** (+22, -0)
 - **package.json** (+68, -0)
 - **ProfilePublic.tsx** (+200, -0)
@@ -31,8 +31,11 @@
 - **gql.ts** (+224, -0)
 - **peopleview-queries.js** (+1658, -0)
 - **peopleview-mutations.js** (+1862, -0)
-- **ProfileFields.types.ts** (+124, -0)
+- **ProfileFields.types.ts** (+125, -0)
 - **profileFieldsConfig.ts** (+514, -0)
+- **ConstructAction.tsx** (+37, -0)
+- **UserLink.tsx** (+24, -0)
+- **ConstructAction.test.tsx** (+55, -0)
 
 ## Visualizations
 
@@ -41,8 +44,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 26069
-".tsx" : 1022
+".ts" : 26076
+".tsx" : 1153
 ".json" : 188
 ".scss" : 406
 ".js" : 3990
@@ -58,8 +61,8 @@ title Coding activity by hour (count of changes)
 "12h" : 28
 "13h" : 35
 "14h" : 14
-"15h" : 21
+"15h" : 33
 ```
 
 
-> **Last Updated:** 07/05/2026, 15:55:29
+> **Last Updated:** 07/05/2026, 16:00:29
