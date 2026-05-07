@@ -2,9 +2,9 @@
   "date": "2026-05-07",
   "projects": {
     "cda": {
-      "totalLinesAdded": 26586,
-      "totalLinesRemoved": 85,
-      "totalActiveTime": 144,
+      "totalLinesAdded": 26597,
+      "totalLinesRemoved": 104,
+      "totalActiveTime": 146,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/components/ProfileFields/utils/fieldUtils.ts": [
           {
@@ -1314,6 +1314,20 @@
             },
             "duration": 2,
             "language": "scss"
+          },
+          {
+            "timestamp": "2026-05-07T14:27:02.747Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/DescriptionList/DescriptionList.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 19,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "scss"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/docs/components/DescriptionList/DescriptionList.stories.tsx": [
@@ -1460,6 +1474,20 @@
             },
             "duration": 0,
             "language": "js"
+          },
+          {
+            "timestamp": "2026-05-07T14:27:08.496Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/high-risk-schema/definitions/peopleview.js",
+            "fileType": ".js",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/types/gql-generated/high-risk/resolvers-types.ts": [
@@ -1519,6 +1547,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-05-07T14:27:08.480Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/graphql/high-risk/queries.ts",
+            "fileType": ".ts",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "ts"
           }
         ],
