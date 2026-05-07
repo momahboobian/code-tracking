@@ -4,16 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 35135                                          |
-| **Lines Removed** (➖) | 995                                        |
-| **Net Change** (↕)    | 34140                |
-| **Active Time** (⌚)   | 443 minutes |
+| **Lines Added** (➕)   | 35671                                          |
+| **Lines Removed** (➖) | 1181                                        |
+| **Net Change** (↕)    | 34490                |
+| **Active Time** (⌚)   | 461 minutes |
 
 
 ## Modified Files
 - **fieldUtils.ts** (+717, -87)
 - **ConstructFieldContent.tsx** (+157, -43)
-- **ConstructDefinitionListItem.tsx** (+200, -4)
+- **ConstructDefinitionListItem.tsx** (+200, -44)
 - **settings.json** (+22, -0)
 - **package.json** (+68, -0)
 - **ProfilePublic.tsx** (+200, -0)
@@ -21,8 +21,8 @@
 - **DescriptionList.tsx** (+348, -130)
 - **global.d.ts** (+7, -5)
 - **package.json** (+65, -0)
-- **DescriptionList.scss** (+594, -156)
-- **DescriptionList.stories.tsx** (+777, -19)
+- **DescriptionList.scss** (+745, -297)
+- **DescriptionList.stories.tsx** (+777, -24)
 - **DescriptionListItem.tsx** (+102, -6)
 - **peopleview.js** (+916, -15)
 - **resolvers-types.ts** (+15125, -0)
@@ -40,6 +40,9 @@
 - **Profile.types.ts** (+320, -13)
 - **ConnectionsProvider.tsx** (+100, -0)
 - **App.tsx** (+66, -0)
+- **ProfileFields.tsx** (+21, -0)
+- **PersonalDetailsPanel.tsx** (+181, -0)
+- **PublicDetailsPanel.tsx** (+183, -0)
 
 ## Visualizations
 
@@ -49,9 +52,9 @@
 pie showData
 title Lines changed by file type
 ".ts" : 27833
-".tsx" : 2373
+".tsx" : 2803
 ".json" : 188
-".scss" : 750
+".scss" : 1042
 ".js" : 4986
 ```
 
@@ -70,8 +73,8 @@ title Coding activity by hour (count of changes)
 "17h" : 27
 "18h" : 38
 "19h" : 65
-"20h" : 2
+"20h" : 19
 ```
 
 
-> **Last Updated:** 07/05/2026, 20:00:30
+> **Last Updated:** 07/05/2026, 20:05:30
