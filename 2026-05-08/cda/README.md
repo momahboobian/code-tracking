@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1084                                          |
-| **Lines Removed** (➖) | 356                                        |
+| **Lines Added** (➕)   | 1151                                          |
+| **Lines Removed** (➖) | 423                                        |
 | **Net Change** (↕)    | 728                |
-| **Active Time** (⌚)   | 89 minutes |
+| **Active Time** (⌚)   | 94 minutes |
 
 
 ## Modified Files
@@ -17,7 +17,7 @@
 - **ConstructFieldContent.tsx** (+18, -18)
 - **queries.ts** (+38, -38)
 - **peopleview.js** (+32, -32)
-- **DescriptionList.scss** (+158, -125)
+- **DescriptionList.scss** (+225, -192)
 - **DescriptionList.tsx** (+79, -66)
 - **DescriptionList.stories.tsx** (+20, -19)
 - **index.js** (+170, -0)
@@ -41,7 +41,7 @@ title Lines changed by file type
 ".ts" : 130
 ".tsx" : 607
 ".js" : 234
-".scss" : 283
+".scss" : 417
 ".json" : 68
 "unknown" : 118
 ```
@@ -54,8 +54,8 @@ title Coding activity by hour (count of changes)
 "09h" : 37
 "10h" : 20
 "11h" : 8
-"12h" : 6
+"12h" : 12
 ```
 
 
-> **Last Updated:** 08/05/2026, 12:25:31
+> **Last Updated:** 08/05/2026, 12:35:31
