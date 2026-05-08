@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1151                                          |
-| **Lines Removed** (➖) | 423                                        |
-| **Net Change** (↕)    | 728                |
-| **Active Time** (⌚)   | 94 minutes |
+| **Lines Added** (➕)   | 1154                                          |
+| **Lines Removed** (➖) | 425                                        |
+| **Net Change** (↕)    | 729                |
+| **Active Time** (⌚)   | 100 minutes |
 
 
 ## Modified Files
@@ -18,7 +18,7 @@
 - **queries.ts** (+38, -38)
 - **peopleview.js** (+32, -32)
 - **DescriptionList.scss** (+225, -192)
-- **DescriptionList.tsx** (+79, -66)
+- **DescriptionList.tsx** (+82, -68)
 - **DescriptionList.stories.tsx** (+20, -19)
 - **index.js** (+170, -0)
 - **package.json** (+67, -1)
@@ -39,7 +39,7 @@
 pie showData
 title Lines changed by file type
 ".ts" : 130
-".tsx" : 607
+".tsx" : 612
 ".js" : 234
 ".scss" : 417
 ".json" : 68
@@ -54,8 +54,8 @@ title Coding activity by hour (count of changes)
 "09h" : 37
 "10h" : 20
 "11h" : 8
-"12h" : 12
+"12h" : 16
 ```
 
 
-> **Last Updated:** 08/05/2026, 12:35:31
+> **Last Updated:** 08/05/2026, 12:40:31
