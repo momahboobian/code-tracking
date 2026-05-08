@@ -4,36 +4,36 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 12114                                          |
-| **Lines Removed** (➖) | 701                                        |
-| **Net Change** (↕)    | 11413                |
+| **Lines Added** (➕)   | 12324                                          |
+| **Lines Removed** (➖) | 801                                        |
+| **Net Change** (↕)    | 11523                |
 | **Active Time** (⌚)   | 208 minutes |
 
 
 ## Modified Files
-- **ProfileFields.types.ts** (+6, -2)
-- **fieldUtils.ts** (+42, -22)
-- **profileFieldsConfig.ts** (+8, -2)
-- **ConstructFieldContent.tsx** (+32, -18)
-- **queries.ts** (+46, -38)
-- **peopleview.js** (+39, -32)
-- **DescriptionList.scss** (+299, -237)
-- **DescriptionList.tsx** (+82, -115)
-- **DescriptionList.stories.tsx** (+171, -190)
+- **ProfileFields.types.ts** (+6, -6)
+- **fieldUtils.ts** (+42, -42)
+- **profileFieldsConfig.ts** (+8, -8)
+- **ConstructFieldContent.tsx** (+32, -32)
+- **queries.ts** (+46, -46)
+- **peopleview.js** (+39, -39)
+- **DescriptionList.scss** (+299, -247)
+- **DescriptionList.tsx** (+129, -115)
+- **DescriptionList.stories.tsx** (+321, -190)
 - **index.js** (+170, -0)
-- **package.json** (+68, -1)
-- **BankDetailsPanel.tsx** (+110, -12)
-- **ProfileFields.tsx** (+16, -10)
+- **package.json** (+68, -2)
+- **BankDetailsPanel.tsx** (+110, -21)
+- **ProfileFields.tsx** (+16, -16)
 - **ProfilePublic.tsx** (+200, -0)
 - **.env** (+118, -0)
 - **ConstructFieldRows.tsx** (+29, -6)
-- **PersonalDetailsPanel.tsx** (+6, -3)
+- **PersonalDetailsPanel.tsx** (+6, -6)
 - **calculateTermWidth.ts** (+2, -0)
-- **DescriptionListItem.tsx** (+13, -13)
+- **DescriptionListItem.tsx** (+26, -13)
 - **DescriptionList.test.tsx** (+131, -0)
 - **yarn.lock** (+10514, -0)
-- **ConstructAction.tsx** (+8, -0)
-- **Profile.types.ts** (+4, -0)
+- **ConstructAction.tsx** (+8, -8)
+- **Profile.types.ts** (+4, -4)
 
 ## Visualizations
 
@@ -42,11 +42,11 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 172
-".tsx" : 1165
-".js" : 241
-".scss" : 536
-".json" : 69
+".ts" : 214
+".tsx" : 1415
+".js" : 248
+".scss" : 546
+".json" : 70
 "unknown" : 118
 ".lock" : 10514
 ```
@@ -61,8 +61,8 @@ title Coding activity by hour (count of changes)
 "11h" : 8
 "12h" : 30
 "13h" : 37
-"14h" : 21
+"14h" : 37
 ```
 
 
-> **Last Updated:** 08/05/2026, 14:20:31
+> **Last Updated:** 08/05/2026, 14:35:31
