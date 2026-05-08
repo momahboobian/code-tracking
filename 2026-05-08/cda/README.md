@@ -4,30 +4,30 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 942                                          |
-| **Lines Removed** (➖) | 248                                        |
-| **Net Change** (↕)    | 694                |
-| **Active Time** (⌚)   | 60 minutes |
+| **Lines Added** (➕)   | 1021                                          |
+| **Lines Removed** (➖) | 355                                        |
+| **Net Change** (↕)    | 666                |
+| **Active Time** (⌚)   | 72 minutes |
 
 
 ## Modified Files
-- **ProfileFields.types.ts** (+1, -2)
-- **fieldUtils.ts** (+22, -2)
-- **profileFieldsConfig.ts** (+1, -2)
-- **ConstructFieldContent.tsx** (+9, -18)
-- **queries.ts** (+19, -38)
-- **peopleview.js** (+16, -32)
-- **DescriptionList.scss** (+124, -62)
-- **DescriptionList.tsx** (+33, -66)
+- **ProfileFields.types.ts** (+2, -2)
+- **fieldUtils.ts** (+22, -22)
+- **profileFieldsConfig.ts** (+2, -2)
+- **ConstructFieldContent.tsx** (+18, -18)
+- **queries.ts** (+38, -38)
+- **peopleview.js** (+32, -32)
+- **DescriptionList.scss** (+124, -124)
+- **DescriptionList.tsx** (+66, -66)
 - **DescriptionList.stories.tsx** (+19, -19)
 - **index.js** (+170, -0)
-- **package.json** (+67, -0)
-- **BankDetailsPanel.tsx** (+101, -3)
-- **ProfileFields.tsx** (+10, -4)
+- **package.json** (+67, -1)
+- **BankDetailsPanel.tsx** (+101, -12)
+- **ProfileFields.tsx** (+10, -10)
 - **ProfilePublic.tsx** (+200, -0)
 - **.env** (+118, -0)
-- **ConstructFieldRows.tsx** (+29, -0)
-- **PersonalDetailsPanel.tsx** (+3, -0)
+- **ConstructFieldRows.tsx** (+29, -6)
+- **PersonalDetailsPanel.tsx** (+3, -3)
 
 ## Visualizations
 
@@ -36,11 +36,11 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 87
-".tsx" : 514
-".js" : 218
-".scss" : 186
-".json" : 67
+".ts" : 128
+".tsx" : 580
+".js" : 234
+".scss" : 248
+".json" : 68
 "unknown" : 118
 ```
 
@@ -50,8 +50,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "09h" : 37
-"10h" : 7
+"10h" : 20
 ```
 
 
-> **Last Updated:** 08/05/2026, 10:45:31
+> **Last Updated:** 08/05/2026, 10:55:31
