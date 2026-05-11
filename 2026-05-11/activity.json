@@ -2,9 +2,9 @@
   "date": "2026-05-11",
   "projects": {
     "cda": {
-      "totalLinesAdded": 2864,
-      "totalLinesRemoved": 49,
-      "totalActiveTime": 77,
+      "totalLinesAdded": 2866,
+      "totalLinesRemoved": 50,
+      "totalActiveTime": 81,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/components/ProfilePublic/ProfilePublic.tsx": [
           {
@@ -321,6 +321,20 @@
               "removed": []
             },
             "duration": 3,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-05-11T15:14:38.855Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/components/BankDetailsPanel/BankDetailsPanel.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "tsx"
           }
         ],
@@ -825,6 +839,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-05-11T15:11:31.265Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/peopleview/src/components/PayTransparencyPanels/GenderPayPanel.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ]
