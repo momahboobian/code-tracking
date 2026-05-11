@@ -4,9 +4,9 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 985                                          |
+| **Lines Added** (➕)   | 986                                          |
 | **Lines Removed** (➖) | 27                                        |
-| **Net Change** (↕)    | 958                |
+| **Net Change** (↕)    | 959                |
 | **Active Time** (⌚)   | 27 minutes |
 
 
@@ -14,7 +14,7 @@
 - **ProfilePublic.tsx** (+200, -0)
 - **PublicDetailsPanel.tsx** (+183, -0)
 - **ProfileFields.tsx** (+27, -2)
-- **ConstructDefinitionListItem.tsx** (+107, -25)
+- **ConstructDefinitionListItem.tsx** (+108, -25)
 - **BankDetailsPanel.tsx** (+98, -0)
 - **DescriptionList.stories.tsx** (+370, -0)
 
@@ -25,7 +25,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 1012
+".tsx" : 1013
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -33,8 +33,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"14h" : 17
+"14h" : 18
 ```
 
 
-> **Last Updated:** 11/05/2026, 14:45:46
+> **Last Updated:** 11/05/2026, 14:50:46
