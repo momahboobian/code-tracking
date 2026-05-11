@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3685                                          |
+| **Lines Added** (➕)   | 4136                                          |
 | **Lines Removed** (➖) | 111                                        |
-| **Net Change** (↕)    | 3574                |
-| **Active Time** (⌚)   | 111 minutes |
+| **Net Change** (↕)    | 4025                |
+| **Active Time** (⌚)   | 114 minutes |
 
 
 ## Modified Files
@@ -36,6 +36,8 @@
 - **NextOfKinPanel.test.tsx** (+191, -0)
 - **EmergencyContactPanel.test.tsx** (+191, -0)
 - **package.json** (+68, -0)
+- **Book.tsx** (+307, -0)
+- **CreateBooking.tsx** (+144, -0)
 
 ## Visualizations
 
@@ -44,7 +46,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 2736
+".tsx" : 3187
 ".scss" : 210
 ".ts" : 782
 ".json" : 68
@@ -58,8 +60,8 @@ title Coding activity by hour (count of changes)
 "14h" : 31
 "15h" : 25
 "16h" : 27
-"17h" : 2
+"17h" : 5
 ```
 
 
-> **Last Updated:** 11/05/2026, 17:05:46
+> **Last Updated:** 11/05/2026, 17:15:46
