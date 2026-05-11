@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2896                                          |
-| **Lines Removed** (➖) | 89                                        |
-| **Net Change** (↕)    | 2807                |
-| **Active Time** (⌚)   | 92 minutes |
+| **Lines Added** (➕)   | 2976                                          |
+| **Lines Removed** (➖) | 102                                        |
+| **Net Change** (↕)    | 2874                |
+| **Active Time** (⌚)   | 102 minutes |
 
 
 ## Modified Files
@@ -15,7 +15,7 @@
 - **PublicDetailsPanel.tsx** (+185, -0)
 - **ProfileFields.tsx** (+27, -3)
 - **ConstructDefinitionListItem.tsx** (+108, -30)
-- **BankDetailsPanel.tsx** (+130, -39)
+- **BankDetailsPanel.tsx** (+153, -52)
 - **DescriptionList.stories.tsx** (+370, -0)
 - **DescriptionListItem.tsx** (+61, -0)
 - **DescriptionList.tsx** (+137, -0)
@@ -30,6 +30,7 @@
 - **ConstructFieldContent.tsx** (+88, -0)
 - **EmploymentDetailsPanel.tsx** (+54, -0)
 - **GenderPayPanel.tsx** (+139, -1)
+- **NextOfKinPanel.tsx** (+57, -0)
 
 ## Visualizations
 
@@ -38,7 +39,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 1993
+".tsx" : 2086
 ".scss" : 210
 ".ts" : 782
 ```
@@ -50,8 +51,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "14h" : 31
 "15h" : 25
-"16h" : 10
+"16h" : 19
 ```
 
 
-> **Last Updated:** 11/05/2026, 16:20:46
+> **Last Updated:** 11/05/2026, 16:25:46
