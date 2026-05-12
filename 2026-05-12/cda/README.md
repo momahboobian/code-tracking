@@ -4,32 +4,33 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 7000                                          |
-| **Lines Removed** (➖) | 390                                        |
-| **Net Change** (↕)    | 6610                |
-| **Active Time** (⌚)   | 103 minutes |
+| **Lines Added** (➕)   | 9057                                          |
+| **Lines Removed** (➖) | 391                                        |
+| **Net Change** (↕)    | 8666                |
+| **Active Time** (⌚)   | 107 minutes |
 
 
 ## Modified Files
-- **CreateBooking.tsx** (+940, -362)
+- **CreateBooking.tsx** (+940, -363)
 - **package.json** (+136, -0)
-- **profileFieldsConfig.ts** (+1544, -0)
-- **ConstructFieldContent.tsx** (+247, -0)
-- **ConstructFieldRows.tsx** (+129, -0)
-- **fieldUtils.ts** (+677, -0)
-- **ProfileFields.tsx** (+69, -0)
-- **ConstructDefinitionListItem.tsx** (+235, -0)
-- **DescriptionList.stories.tsx** (+1183, -0)
-- **AttachmentDetailsPanel.tsx** (+102, -0)
-- **PublicDetailsPanel.tsx** (+553, -0)
-- **BankDetailsPanel.tsx** (+291, -0)
+- **profileFieldsConfig.ts** (+2058, -0)
+- **ConstructFieldContent.tsx** (+318, -0)
+- **ConstructFieldRows.tsx** (+152, -0)
+- **fieldUtils.ts** (+902, -0)
+- **ProfileFields.tsx** (+90, -0)
+- **ConstructDefinitionListItem.tsx** (+314, -0)
+- **DescriptionList.stories.tsx** (+1626, -0)
+- **AttachmentDetailsPanel.tsx** (+134, -0)
+- **PublicDetailsPanel.tsx** (+736, -0)
+- **BankDetailsPanel.tsx** (+380, -0)
 - **EmergencyContactPanel.test.tsx** (+185, -0)
-- **package.json** (+374, -2)
+- **package.json** (+560, -2)
 - **card.scss** (+117, -0)
 - **alert.scss** (+29, -0)
 - **package.json** (+67, -0)
 - **rollup.config.mjs** (+91, -19)
 - **tsconfig.json** (+31, -7)
+- **DescriptionList.scss** (+191, -0)
 
 ## Visualizations
 
@@ -38,10 +39,10 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 4296
-".json" : 617
-".ts" : 2221
-".scss" : 146
+".tsx" : 5238
+".json" : 803
+".ts" : 2960
+".scss" : 337
 ".mjs" : 110
 ```
 
@@ -52,8 +53,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "09h" : 26
 "10h" : 41
-"11h" : 21
+"11h" : 36
 ```
 
 
-> **Last Updated:** 12/05/2026, 11:41:53
+> **Last Updated:** 12/05/2026, 11:51:53
