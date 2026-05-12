@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 6998,
-      "totalLinesRemoved": 365,
-      "totalActiveTime": 93,
+      "totalLinesRemoved": 367,
+      "totalActiveTime": 94,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/desks/src/components/CreateBooking/CreateBooking.tsx": [
           {
@@ -481,6 +481,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-05-12T10:27:31.038Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/desks/src/components/CreateBooking/CreateBooking.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "tsx"
           }
         ],
