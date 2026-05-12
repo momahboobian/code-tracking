@@ -4,27 +4,27 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2703                                          |
+| **Lines Added** (➕)   | 4784                                          |
 | **Lines Removed** (➖) | 296                                        |
-| **Net Change** (↕)    | 2407                |
-| **Active Time** (⌚)   | 37 minutes |
+| **Net Change** (↕)    | 4488                |
+| **Active Time** (⌚)   | 39 minutes |
 
 
 ## Modified Files
-- **CreateBooking.tsx** (+436, -294)
-- **package.json** (+68, -0)
-- **profileFieldsConfig.ts** (+514, -0)
-- **ConstructFieldContent.tsx** (+71, -0)
-- **ConstructFieldRows.tsx** (+23, -0)
-- **fieldUtils.ts** (+225, -0)
-- **ProfileFields.tsx** (+21, -0)
-- **ConstructDefinitionListItem.tsx** (+79, -0)
-- **DescriptionList.stories.tsx** (+443, -0)
-- **AttachmentDetailsPanel.tsx** (+32, -0)
-- **PublicDetailsPanel.tsx** (+183, -0)
-- **BankDetailsPanel.tsx** (+89, -0)
+- **CreateBooking.tsx** (+588, -294)
+- **package.json** (+136, -0)
+- **profileFieldsConfig.ts** (+1029, -0)
+- **ConstructFieldContent.tsx** (+159, -0)
+- **ConstructFieldRows.tsx** (+76, -0)
+- **fieldUtils.ts** (+451, -0)
+- **ProfileFields.tsx** (+45, -0)
+- **ConstructDefinitionListItem.tsx** (+157, -0)
+- **DescriptionList.stories.tsx** (+813, -0)
+- **AttachmentDetailsPanel.tsx** (+67, -0)
+- **PublicDetailsPanel.tsx** (+368, -0)
+- **BankDetailsPanel.tsx** (+190, -0)
 - **EmergencyContactPanel.test.tsx** (+185, -0)
-- **package.json** (+188, -2)
+- **package.json** (+374, -2)
 - **card.scss** (+117, -0)
 - **alert.scss** (+29, -0)
 
@@ -35,9 +35,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 1856
-".json" : 258
-".ts" : 739
+".tsx" : 2942
+".json" : 512
+".ts" : 1480
 ".scss" : 146
 ```
 
@@ -47,8 +47,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "09h" : 26
-"10h" : 2
+"10h" : 15
 ```
 
 
-> **Last Updated:** 12/05/2026, 10:16:31
+> **Last Updated:** 12/05/2026, 10:28:38
