@@ -2,9 +2,9 @@
   "date": "2026-05-12",
   "projects": {
     "cda": {
-      "totalLinesAdded": 6961,
-      "totalLinesRemoved": 337,
-      "totalActiveTime": 68,
+      "totalLinesAdded": 6965,
+      "totalLinesRemoved": 356,
+      "totalActiveTime": 78,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/desks/src/components/CreateBooking/CreateBooking.tsx": [
           {
@@ -321,6 +321,90 @@
             "fileType": ".tsx",
             "linesAdded": 2,
             "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-05-12T10:12:41.612Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/desks/src/components/CreateBooking/CreateBooking.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 16,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-05-12T10:13:45.671Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/desks/src/components/CreateBooking/CreateBooking.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-05-12T10:14:38.590Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/desks/src/components/CreateBooking/CreateBooking.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-05-12T10:14:41.963Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/desks/src/components/CreateBooking/CreateBooking.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-05-12T10:14:44.178Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/desks/src/components/CreateBooking/CreateBooking.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-05-12T10:14:47.022Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/desks/src/components/CreateBooking/CreateBooking.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
             "projectName": "cda",
             "content": {
               "added": [],
