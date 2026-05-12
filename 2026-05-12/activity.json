@@ -1,0 +1,47 @@
+{
+  "date": "2026-05-12",
+  "projects": {
+    "cda": {
+      "totalLinesAdded": 142,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/momahboobian/Documents/_BBC/cda/apps/desks/src/components/CreateBooking/CreateBooking.tsx": [
+          {
+            "timestamp": "2026-05-12T08:35:58.930Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/desks/src/components/CreateBooking/CreateBooking.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 142,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "tsx": 0
+      },
+      "changeFrequency": {
+        "9": 0
+      },
+      "topFiles": [
+        "/Users/momahboobian/Documents/_BBC/cda/apps/desks/src/components/CreateBooking/CreateBooking.tsx"
+      ],
+      "averageChangeSize": 142
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    9
+  ],
+  "mostUsedLanguages": [
+    "tsx"
+  ]
+}
