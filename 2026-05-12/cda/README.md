@@ -4,37 +4,37 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 20986                                          |
-| **Lines Removed** (➖) | 563                                        |
-| **Net Change** (↕)    | 20423                |
-| **Active Time** (⌚)   | 207 minutes |
+| **Lines Added** (➕)   | 23466                                          |
+| **Lines Removed** (➖) | 570                                        |
+| **Net Change** (↕)    | 22896                |
+| **Active Time** (⌚)   | 217 minutes |
 
 
 ## Modified Files
-- **CreateBooking.tsx** (+941, -364)
+- **CreateBooking.tsx** (+1083, -364)
 - **package.json** (+204, -0)
-- **profileFieldsConfig.ts** (+2059, -1)
-- **ConstructFieldContent.tsx** (+335, -17)
-- **ConstructFieldRows.tsx** (+182, -30)
-- **fieldUtils.ts** (+903, -1)
-- **ProfileFields.tsx** (+93, -3)
-- **ConstructDefinitionListItem.tsx** (+315, -1)
-- **DescriptionList.stories.tsx** (+1699, -73)
-- **AttachmentDetailsPanel.tsx** (+137, -3)
-- **PublicDetailsPanel.tsx** (+738, -2)
-- **BankDetailsPanel.tsx** (+392, -12)
+- **profileFieldsConfig.ts** (+2573, -1)
+- **ConstructFieldContent.tsx** (+406, -17)
+- **ConstructFieldRows.tsx** (+205, -30)
+- **fieldUtils.ts** (+1128, -1)
+- **ProfileFields.tsx** (+114, -3)
+- **ConstructDefinitionListItem.tsx** (+394, -1)
+- **DescriptionList.stories.tsx** (+2142, -73)
+- **AttachmentDetailsPanel.tsx** (+169, -3)
+- **PublicDetailsPanel.tsx** (+921, -2)
+- **BankDetailsPanel.tsx** (+481, -12)
 - **EmergencyContactPanel.test.tsx** (+185, -0)
-- **package.json** (+560, -2)
+- **package.json** (+746, -2)
 - **card.scss** (+117, -0)
 - **alert.scss** (+29, -0)
 - **package.json** (+134, -0)
-- **rollup.config.mjs** (+91, -19)
-- **tsconfig.json** (+31, -7)
+- **rollup.config.mjs** (+163, -19)
+- **tsconfig.json** (+55, -7)
 - **DescriptionList.scss** (+202, -17)
-- **DescriptionList.test.tsx** (+131, -0)
+- **DescriptionList.test.tsx** (+312, -1)
 - **yarn.lock** (+10514, -0)
 - **DescriptionListItem.tsx** (+48, -0)
-- **DescriptionList.tsx** (+90, -0)
+- **DescriptionList.tsx** (+227, -6)
 - **PersonalDetailsPanel.tsx** (+190, -0)
 - **EmergencyContactPanel.tsx** (+60, -0)
 - **EmploymentDetailsPanel.tsx** (+58, -0)
@@ -43,7 +43,7 @@
 - **DisabilityPayPanel.tsx** (+100, -0)
 - **EthnicityPayPanel.tsx** (+111, -0)
 - **GenderPayPanel.tsx** (+138, -0)
-- **calculateTermWidth.test.tsx** (+65, -7)
+- **calculateTermWidth.test.tsx** (+123, -7)
 
 ## Visualizations
 
@@ -52,11 +52,11 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 6658
-".json" : 938
-".ts" : 2964
+".tsx" : 8124
+".json" : 1148
+".ts" : 3703
 ".scss" : 365
-".mjs" : 110
+".mjs" : 182
 ".lock" : 10514
 ```
 
@@ -70,7 +70,8 @@ title Coding activity by hour (count of changes)
 "11h" : 56
 "12h" : 16
 "13h" : 16
+"14h" : 20
 ```
 
 
-> **Last Updated:** 12/05/2026, 13:56:53
+> **Last Updated:** 12/05/2026, 14:24:32
