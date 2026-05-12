@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 24462                                          |
+| **Lines Added** (➕)   | 24742                                          |
 | **Lines Removed** (➖) | 644                                        |
-| **Net Change** (↕)    | 23818                |
-| **Active Time** (⌚)   | 276 minutes |
+| **Net Change** (↕)    | 24098                |
+| **Active Time** (⌚)   | 281 minutes |
 
 
 ## Modified Files
@@ -19,7 +19,7 @@
 - **fieldUtils.ts** (+1128, -1)
 - **ProfileFields.tsx** (+114, -3)
 - **ConstructDefinitionListItem.tsx** (+394, -1)
-- **DescriptionList.stories.tsx** (+2622, -103)
+- **DescriptionList.stories.tsx** (+2636, -103)
 - **AttachmentDetailsPanel.tsx** (+169, -3)
 - **PublicDetailsPanel.tsx** (+921, -2)
 - **BankDetailsPanel.tsx** (+481, -12)
@@ -31,10 +31,10 @@
 - **rollup.config.mjs** (+163, -19)
 - **tsconfig.json** (+55, -7)
 - **DescriptionList.scss** (+562, -33)
-- **DescriptionList.test.tsx** (+331, -29)
+- **DescriptionList.test.tsx** (+524, -29)
 - **yarn.lock** (+10514, -0)
 - **DescriptionListItem.tsx** (+48, -0)
-- **DescriptionList.tsx** (+364, -6)
+- **DescriptionList.tsx** (+396, -6)
 - **PersonalDetailsPanel.tsx** (+190, -0)
 - **EmergencyContactPanel.tsx** (+60, -0)
 - **EmploymentDetailsPanel.tsx** (+58, -0)
@@ -44,6 +44,7 @@
 - **EthnicityPayPanel.tsx** (+111, -0)
 - **GenderPayPanel.tsx** (+138, -0)
 - **calculateTermWidth.test.tsx** (+123, -7)
+- **calculateTermWidth.ts** (+41, -0)
 
 ## Visualizations
 
@@ -52,9 +53,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 8818
+".tsx" : 9057
 ".json" : 1148
-".ts" : 3703
+".ts" : 3744
 ".scss" : 741
 ".mjs" : 182
 ".lock" : 10514
@@ -72,7 +73,8 @@ title Coding activity by hour (count of changes)
 "13h" : 16
 "14h" : 45
 "15h" : 20
+"19h" : 6
 ```
 
 
-> **Last Updated:** 12/05/2026, 15:43:03
+> **Last Updated:** 12/05/2026, 20:00:10
