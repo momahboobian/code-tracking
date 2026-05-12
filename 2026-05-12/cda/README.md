@@ -4,14 +4,14 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 142                                          |
-| **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 142                |
-| **Active Time** (⌚)   | 0 minute |
+| **Lines Added** (➕)   | 285                                          |
+| **Lines Removed** (➖) | 284                                        |
+| **Net Change** (↕)    | 1                |
+| **Active Time** (⌚)   | 8 minutes |
 
 
 ## Modified Files
-- **CreateBooking.tsx** (+142, -0)
+- **CreateBooking.tsx** (+285, -284)
 
 ## Visualizations
 
@@ -20,7 +20,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 142
+".tsx" : 569
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -28,8 +28,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"09h" : 1
+"09h" : 5
 ```
 
 
-> **Last Updated:** 12/05/2026, 09:36:31
+> **Last Updated:** 12/05/2026, 09:41:31
