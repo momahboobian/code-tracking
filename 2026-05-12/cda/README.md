@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 23702                                          |
+| **Lines Added** (➕)   | 24282                                          |
 | **Lines Removed** (➖) | 638                                        |
-| **Net Change** (↕)    | 23064                |
-| **Active Time** (⌚)   | 266 minutes |
+| **Net Change** (↕)    | 23644                |
+| **Active Time** (⌚)   | 267 minutes |
 
 
 ## Modified Files
@@ -19,7 +19,7 @@
 - **fieldUtils.ts** (+1128, -1)
 - **ProfileFields.tsx** (+114, -3)
 - **ConstructDefinitionListItem.tsx** (+394, -1)
-- **DescriptionList.stories.tsx** (+2172, -97)
+- **DescriptionList.stories.tsx** (+2621, -97)
 - **AttachmentDetailsPanel.tsx** (+169, -3)
 - **PublicDetailsPanel.tsx** (+921, -2)
 - **BankDetailsPanel.tsx** (+481, -12)
@@ -34,7 +34,7 @@
 - **DescriptionList.test.tsx** (+331, -29)
 - **yarn.lock** (+10514, -0)
 - **DescriptionListItem.tsx** (+48, -0)
-- **DescriptionList.tsx** (+227, -6)
+- **DescriptionList.tsx** (+358, -6)
 - **PersonalDetailsPanel.tsx** (+190, -0)
 - **EmergencyContactPanel.tsx** (+60, -0)
 - **EmploymentDetailsPanel.tsx** (+58, -0)
@@ -52,7 +52,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 8225
+".tsx" : 8805
 ".json" : 1148
 ".ts" : 3703
 ".scss" : 568
@@ -71,8 +71,8 @@ title Coding activity by hour (count of changes)
 "12h" : 16
 "13h" : 16
 "14h" : 45
-"15h" : 11
+"15h" : 13
 ```
 
 
-> **Last Updated:** 12/05/2026, 15:24:32
+> **Last Updated:** 12/05/2026, 15:38:03
