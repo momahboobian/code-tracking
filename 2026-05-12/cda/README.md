@@ -4,25 +4,25 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 20847                                          |
-| **Lines Removed** (➖) | 471                                        |
-| **Net Change** (↕)    | 20376                |
-| **Active Time** (⌚)   | 196 minutes |
+| **Lines Added** (➕)   | 20982                                          |
+| **Lines Removed** (➖) | 548                                        |
+| **Net Change** (↕)    | 20434                |
+| **Active Time** (⌚)   | 200 minutes |
 
 
 ## Modified Files
-- **CreateBooking.tsx** (+941, -363)
+- **CreateBooking.tsx** (+941, -364)
 - **package.json** (+204, -0)
-- **profileFieldsConfig.ts** (+2059, -0)
-- **ConstructFieldContent.tsx** (+335, -0)
-- **ConstructFieldRows.tsx** (+182, -0)
-- **fieldUtils.ts** (+903, -0)
-- **ProfileFields.tsx** (+93, -0)
-- **ConstructDefinitionListItem.tsx** (+314, -1)
-- **DescriptionList.stories.tsx** (+1626, -73)
-- **AttachmentDetailsPanel.tsx** (+137, -0)
-- **PublicDetailsPanel.tsx** (+738, -0)
-- **BankDetailsPanel.tsx** (+392, -0)
+- **profileFieldsConfig.ts** (+2059, -1)
+- **ConstructFieldContent.tsx** (+335, -17)
+- **ConstructFieldRows.tsx** (+182, -30)
+- **fieldUtils.ts** (+903, -1)
+- **ProfileFields.tsx** (+93, -3)
+- **ConstructDefinitionListItem.tsx** (+315, -1)
+- **DescriptionList.stories.tsx** (+1699, -73)
+- **AttachmentDetailsPanel.tsx** (+137, -3)
+- **PublicDetailsPanel.tsx** (+738, -2)
+- **BankDetailsPanel.tsx** (+392, -12)
 - **EmergencyContactPanel.test.tsx** (+185, -0)
 - **package.json** (+560, -2)
 - **card.scss** (+117, -0)
@@ -43,6 +43,7 @@
 - **DisabilityPayPanel.tsx** (+100, -0)
 - **EthnicityPayPanel.tsx** (+111, -0)
 - **GenderPayPanel.tsx** (+138, -0)
+- **calculateTermWidth.test.tsx** (+61, -7)
 
 ## Visualizations
 
@@ -51,9 +52,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 6444
+".tsx" : 6654
 ".json" : 938
-".ts" : 2962
+".ts" : 2964
 ".scss" : 350
 ".mjs" : 110
 ".lock" : 10514
@@ -68,7 +69,8 @@ title Coding activity by hour (count of changes)
 "10h" : 41
 "11h" : 56
 "12h" : 16
+"13h" : 13
 ```
 
 
-> **Last Updated:** 12/05/2026, 12:16:53
+> **Last Updated:** 12/05/2026, 13:51:53
