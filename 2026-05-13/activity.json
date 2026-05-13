@@ -2,7 +2,7 @@
   "date": "2026-05-13",
   "projects": {
     "cda": {
-      "totalLinesAdded": 11378,
+      "totalLinesAdded": 11671,
       "totalLinesRemoved": 187,
       "totalActiveTime": 137,
       "files": {
@@ -1397,6 +1397,38 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/package.json": [
+          {
+            "timestamp": "2026-05-13T14:44:13.647Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/package.json",
+            "fileType": ".json",
+            "linesAdded": 73,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/components/CondensedFaultTable/CondensedFaultTable.tsx": [
+          {
+            "timestamp": "2026-05-13T14:44:13.644Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/components/CondensedFaultTable/CondensedFaultTable.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 220,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ]
