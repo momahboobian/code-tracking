@@ -2,7 +2,7 @@
   "date": "2026-05-14",
   "projects": {
     "cda": {
-      "totalLinesAdded": 15979,
+      "totalLinesAdded": 15987,
       "totalLinesRemoved": 290,
       "totalActiveTime": 48,
       "files": {
@@ -578,6 +578,20 @@
             },
             "duration": 1,
             "language": "json"
+          },
+          {
+            "timestamp": "2026-05-14T12:48:22.947Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/package.json",
+            "fileType": ".json",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/Tooltip/Tooltip.scss": [
@@ -586,6 +600,20 @@
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/Tooltip/Tooltip.scss",
             "fileType": ".scss",
             "linesAdded": 45,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2026-05-14T12:48:22.952Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/Tooltip/Tooltip.scss",
+            "fileType": ".scss",
+            "linesAdded": 1,
             "linesRemoved": 0,
             "projectName": "cda",
             "content": {
