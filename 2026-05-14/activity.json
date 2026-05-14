@@ -2,9 +2,9 @@
   "date": "2026-05-14",
   "projects": {
     "cda": {
-      "totalLinesAdded": 15030,
+      "totalLinesAdded": 15267,
       "totalLinesRemoved": 107,
-      "totalActiveTime": 27,
+      "totalActiveTime": 28,
       "files": {
         "/Users/momahboobian/Library/Application Support/Code/User/settings.json": [
           {
@@ -392,6 +392,36 @@
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/components/CondensedFaultTable/CondensedFaultTable.tsx",
             "fileType": ".tsx",
             "linesAdded": 220,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/Tooltip/Tooltip.test.tsx": [
+          {
+            "timestamp": "2026-05-14T12:02:10.041Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/Tooltip/Tooltip.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 74,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-05-14T12:02:11.755Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/Tooltip/Tooltip.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 163,
             "linesRemoved": 0,
             "projectName": "cda",
             "content": {
