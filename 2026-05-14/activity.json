@@ -2,7 +2,7 @@
   "date": "2026-05-14",
   "projects": {
     "cda": {
-      "totalLinesAdded": 88,
+      "totalLinesAdded": 161,
       "totalLinesRemoved": 0,
       "totalActiveTime": 2,
       "files": {
@@ -47,6 +47,22 @@
               "removed": []
             },
             "duration": 1,
+            "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/package.json": [
+          {
+            "timestamp": "2026-05-14T10:02:24.453Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/package.json",
+            "fileType": ".json",
+            "linesAdded": 73,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "json"
           }
         ]
