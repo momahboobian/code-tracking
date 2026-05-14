@@ -4,31 +4,32 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 26796                                          |
-| **Lines Removed** (➖) | 393                                        |
-| **Net Change** (↕)    | 26403                |
-| **Active Time** (⌚)   | 113 minutes |
+| **Lines Added** (➕)   | 26870                                          |
+| **Lines Removed** (➖) | 439                                        |
+| **Net Change** (↕)    | 26431                |
+| **Active Time** (⌚)   | 120 minutes |
 
 
 ## Modified Files
 - **settings.json** (+88, -0)
-- **package.json** (+74, -0)
+- **package.json** (+74, -1)
 - **yarn.lock** (+13858, -94)
 - **BusinessCard.tsx** (+139, -0)
 - **FaultCodeToolTip.tsx** (+34, -2)
 - **settings.json** (+22, -0)
 - **Faults.tsx** (+391, -9)
-- **Home.tsx** (+219, -9)
+- **Home.tsx** (+219, -16)
 - **CondensedFaultTable.tsx** (+225, -6)
 - **Tooltip.test.tsx** (+237, -0)
 - **index.ts** (+74, -71)
 - **tooltip copy.scss** (+47, -0)
 - **Tooltip.stories.tsx** (+369, -105)
-- **package.json** (+200, -21)
-- **Tooltip.scss** (+49, -4)
+- **package.json** (+207, -21)
+- **Tooltip.scss** (+51, -4)
 - **yarn.lock** (+10509, -0)
-- **Tooltip.tsx** (+124, -72)
-- **App.tsx** (+137, -0)
+- **Tooltip.tsx** (+128, -73)
+- **App.tsx** (+146, -3)
+- **TooltipHost.tsx** (+52, -34)
 
 ## Visualizations
 
@@ -37,11 +38,11 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".json" : 405
+".json" : 413
 ".lock" : 24461
-".tsx" : 2078
+".tsx" : 2188
 ".ts" : 145
-".scss" : 100
+".scss" : 102
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -55,8 +56,8 @@ title Coding activity by hour (count of changes)
 "13h" : 15
 "14h" : 5
 "15h" : 35
-"16h" : 7
+"16h" : 17
 ```
 
 
-> **Last Updated:** 14/05/2026, 16:37:27
+> **Last Updated:** 14/05/2026, 16:42:27
