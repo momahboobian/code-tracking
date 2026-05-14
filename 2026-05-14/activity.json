@@ -3,7 +3,7 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 26659,
-      "totalLinesRemoved": 390,
+      "totalLinesRemoved": 391,
       "totalActiveTime": 104,
       "files": {
         "/Users/momahboobian/Library/Application Support/Code/User/settings.json": [
@@ -567,6 +567,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-05-14T15:30:06.705Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/components/CondensedFaultTable/CondensedFaultTable.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ],

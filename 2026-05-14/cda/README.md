@@ -5,8 +5,8 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 26659                                          |
-| **Lines Removed** (➖) | 390                                        |
-| **Net Change** (↕)    | 26269                |
+| **Lines Removed** (➖) | 391                                        |
+| **Net Change** (↕)    | 26268                |
 | **Active Time** (⌚)   | 104 minutes |
 
 
@@ -19,7 +19,7 @@
 - **settings.json** (+22, -0)
 - **Faults.tsx** (+391, -9)
 - **Home.tsx** (+219, -9)
-- **CondensedFaultTable.tsx** (+225, -3)
+- **CondensedFaultTable.tsx** (+225, -4)
 - **Tooltip.test.tsx** (+237, -0)
 - **index.ts** (+74, -71)
 - **tooltip copy.scss** (+47, -0)
@@ -38,7 +38,7 @@ pie showData
 title Lines changed by file type
 ".json" : 405
 ".lock" : 24461
-".tsx" : 1938
+".tsx" : 1939
 ".ts" : 145
 ".scss" : 100
 ```
@@ -54,8 +54,8 @@ title Coding activity by hour (count of changes)
 "13h" : 15
 "14h" : 5
 "15h" : 35
-"16h" : 1
+"16h" : 2
 ```
 
 
-> **Last Updated:** 14/05/2026, 16:02:27
+> **Last Updated:** 14/05/2026, 16:32:27
