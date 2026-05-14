@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 15934,
-      "totalLinesRemoved": 178,
-      "totalActiveTime": 41,
+      "totalLinesRemoved": 282,
+      "totalActiveTime": 46,
       "files": {
         "/Users/momahboobian/Library/Application Support/Code/User/settings.json": [
           {
@@ -519,6 +519,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-05-14T12:15:15.778Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/docs/components/Tooltip/Tooltip.stories.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 104,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "tsx"
           }
         ],

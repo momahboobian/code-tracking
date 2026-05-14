@@ -5,9 +5,9 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 15934                                          |
-| **Lines Removed** (➖) | 178                                        |
-| **Net Change** (↕)    | 15756                |
-| **Active Time** (⌚)   | 41 minutes |
+| **Lines Removed** (➖) | 282                                        |
+| **Net Change** (↕)    | 15652                |
+| **Active Time** (⌚)   | 46 minutes |
 
 
 ## Modified Files
@@ -23,7 +23,7 @@
 - **Tooltip.test.tsx** (+237, -0)
 - **index.ts** (+74, -71)
 - **tooltip copy.scss** (+47, -0)
-- **Tooltip.stories.tsx** (+360, -0)
+- **Tooltip.stories.tsx** (+360, -104)
 - **package.json** (+186, -0)
 
 ## Visualizations
@@ -35,7 +35,7 @@ pie showData
 title Lines changed by file type
 ".json" : 369
 ".lock" : 13952
-".tsx" : 1599
+".tsx" : 1703
 ".ts" : 145
 ".scss" : 47
 ```
@@ -48,8 +48,8 @@ title Coding activity by hour (count of changes)
 "09h" : 3
 "11h" : 14
 "12h" : 10
-"13h" : 9
+"13h" : 10
 ```
 
 
-> **Last Updated:** 14/05/2026, 13:12:27
+> **Last Updated:** 14/05/2026, 13:17:27
