@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 15934                                          |
-| **Lines Removed** (➖) | 282                                        |
-| **Net Change** (↕)    | 15652                |
-| **Active Time** (⌚)   | 46 minutes |
+| **Lines Added** (➕)   | 15979                                          |
+| **Lines Removed** (➖) | 290                                        |
+| **Net Change** (↕)    | 15689                |
+| **Active Time** (⌚)   | 48 minutes |
 
 
 ## Modified Files
@@ -19,12 +19,13 @@
 - **settings.json** (+22, -0)
 - **Faults.tsx** (+391, -9)
 - **Home.tsx** (+205, -2)
-- **CondensedFaultTable.tsx** (+220, -0)
+- **CondensedFaultTable.tsx** (+220, -1)
 - **Tooltip.test.tsx** (+237, -0)
 - **index.ts** (+74, -71)
 - **tooltip copy.scss** (+47, -0)
 - **Tooltip.stories.tsx** (+360, -104)
-- **package.json** (+186, -0)
+- **package.json** (+186, -7)
+- **Tooltip.scss** (+45, -0)
 
 ## Visualizations
 
@@ -33,11 +34,11 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".json" : 369
+".json" : 376
 ".lock" : 13952
-".tsx" : 1703
+".tsx" : 1704
 ".ts" : 145
-".scss" : 47
+".scss" : 92
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -48,8 +49,8 @@ title Coding activity by hour (count of changes)
 "09h" : 3
 "11h" : 14
 "12h" : 10
-"13h" : 10
+"13h" : 13
 ```
 
 
-> **Last Updated:** 14/05/2026, 13:17:27
+> **Last Updated:** 14/05/2026, 13:37:27
