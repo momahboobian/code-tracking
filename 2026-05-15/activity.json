@@ -2,9 +2,9 @@
   "date": "2026-05-15",
   "projects": {
     "cda": {
-      "totalLinesAdded": 40770,
-      "totalLinesRemoved": 856,
-      "totalActiveTime": 116,
+      "totalLinesAdded": 41481,
+      "totalLinesRemoved": 858,
+      "totalActiveTime": 127,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/Tooltip/TooltipHost.tsx": [
           {
@@ -826,6 +826,34 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2026-05-15T11:27:39.510Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/components/EndCodeToolTip/EndCodeToolTip.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-05-15T11:28:08.053Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/components/EndCodeToolTip/EndCodeToolTip.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/components/FaultCodeToolTip/FaultCodeToolTip.tsx": [
@@ -835,6 +863,34 @@
             "fileType": ".tsx",
             "linesAdded": 32,
             "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-05-15T11:28:47.928Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/components/FaultCodeToolTip/FaultCodeToolTip.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-05-15T11:29:01.341Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/components/FaultCodeToolTip/FaultCodeToolTip.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "cda",
             "content": {
               "added": [],
@@ -1169,6 +1225,84 @@
             "fileType": ".tsx",
             "linesAdded": 0,
             "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/components/FaultsTable/FaultsTable.test.tsx": [
+          {
+            "timestamp": "2026-05-15T11:29:11.998Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/components/FaultsTable/FaultsTable.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 115,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-05-15T11:29:22.035Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/components/FaultsTable/FaultsTable.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/components/CondensedFaultTable/CondensedFaultTable.test.tsx": [
+          {
+            "timestamp": "2026-05-15T11:29:12.016Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/components/CondensedFaultTable/CondensedFaultTable.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 87,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/components/RequestsTable/RequestsTable.test.tsx": [
+          {
+            "timestamp": "2026-05-15T11:29:12.157Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/components/RequestsTable/RequestsTable.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 52,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/containers/Faults/Faults.test.tsx": [
+          {
+            "timestamp": "2026-05-15T11:29:12.192Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/containers/Faults/Faults.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 452,
+            "linesRemoved": 0,
             "projectName": "cda",
             "content": {
               "added": [],
