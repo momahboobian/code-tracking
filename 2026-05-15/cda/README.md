@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 55673                                          |
+| **Lines Added** (➕)   | 55696                                          |
 | **Lines Removed** (➖) | 1077                                        |
-| **Net Change** (↕)    | 54596                |
-| **Active Time** (⌚)   | 247 minutes |
+| **Net Change** (↕)    | 54619                |
+| **Active Time** (⌚)   | 255 minutes |
 
 
 ## Modified Files
@@ -38,7 +38,7 @@
 - **Tooltip.scss** (+47, -0)
 - **DescriptionList.stories.tsx** (+564, -77)
 - **_alignment.scss** (+140, -1)
-- **DescriptionList.scss** (+174, -1)
+- **DescriptionList.scss** (+194, -1)
 - **AttachmentDetailsPanel.tsx** (+32, -0)
 - **PublicDetailsPanel.tsx** (+183, -0)
 - **ConstructDefinitionListItem.tsx** (+79, -0)
@@ -48,7 +48,7 @@
 - **ProfileFields.tsx** (+21, -0)
 - **DescriptionList.tsx** (+193, -7)
 - **calculateTermWidth.test.tsx** (+89, -0)
-- **DescriptionList.test.tsx** (+241, -0)
+- **DescriptionList.test.tsx** (+244, -0)
 - **CreateBooking.tsx** (+142, -0)
 - **rollup.config.mjs** (+72, -0)
 - **tsconfig.json** (+24, -0)
@@ -64,11 +64,11 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 4848
+".tsx" : 4851
 ".js" : 48
 ".lock" : 50073
 ".json" : 544
-".scss" : 363
+".scss" : 383
 ".ts" : 802
 ".mjs" : 72
 ```
@@ -83,8 +83,8 @@ title Coding activity by hour (count of changes)
 "11h" : 17
 "12h" : 58
 "13h" : 28
-"14h" : 36
+"14h" : 39
 ```
 
 
-> **Last Updated:** 15/05/2026, 14:35:55
+> **Last Updated:** 15/05/2026, 14:40:55
