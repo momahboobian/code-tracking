@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 41740                                          |
-| **Lines Removed** (➖) | 858                                        |
-| **Net Change** (↕)    | 40882                |
-| **Active Time** (⌚)   | 129 minutes |
+| **Lines Added** (➕)   | 52586                                          |
+| **Lines Removed** (➖) | 991                                        |
+| **Net Change** (↕)    | 51595                |
+| **Active Time** (⌚)   | 147 minutes |
 
 
 ## Modified Files
@@ -16,25 +16,26 @@
 - **index.js** (+0, -2)
 - **Tooltip.test.tsx** (+69, -101)
 - **Tooltip.stories.tsx** (+3, -112)
-- **yarn.lock** (+11002, -488)
-- **package.json** (+73, -0)
-- **package.json** (+186, -0)
+- **yarn.lock** (+21516, -493)
+- **package.json** (+147, -1)
+- **package.json** (+372, -0)
 - **Home.tsx** (+406, -0)
-- **yarn.lock** (+27831, -87)
-- **CondensedFaultTable.tsx** (+220, -1)
+- **yarn.lock** (+27841, -189)
+- **CondensedFaultTable.tsx** (+221, -1)
 - **EndCodeToolTip.tsx** (+34, -2)
 - **FaultCodeToolTip.tsx** (+33, -1)
-- **FaultsTable.tsx** (+218, -1)
+- **FaultsTable.tsx** (+219, -1)
 - **HistoricServiceImpactToolTips.tsx** (+42, -0)
-- **LocalDabFaultsTable.tsx** (+175, -2)
-- **PlannedWorksIcon.tsx** (+23, -5)
-- **HistoricPlannedWorkTable.tsx** (+181, -15)
-- **RequestsTable.tsx** (+195, -8)
-- **FaultsTable.test.tsx** (+118, -0)
+- **LocalDabFaultsTable.tsx** (+176, -2)
+- **PlannedWorksIcon.tsx** (+28, -5)
+- **HistoricPlannedWorkTable.tsx** (+181, -28)
+- **RequestsTable.tsx** (+201, -20)
+- **FaultsTable.test.tsx** (+119, -0)
 - **CondensedFaultTable.test.tsx** (+87, -0)
 - **RequestsTable.test.tsx** (+52, -0)
 - **Faults.test.tsx** (+452, -0)
 - **Home.test.tsx** (+259, -0)
+- **Tooltip.scss** (+47, -0)
 
 ## Visualizations
 
@@ -43,10 +44,11 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 2929
+".tsx" : 2969
 ".js" : 2
-".lock" : 39408
-".json" : 259
+".lock" : 50039
+".json" : 520
+".scss" : 47
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -57,8 +59,8 @@ title Coding activity by hour (count of changes)
 "09h" : 27
 "10h" : 10
 "11h" : 17
-"12h" : 37
+"12h" : 57
 ```
 
 
-> **Last Updated:** 15/05/2026, 12:35:55
+> **Last Updated:** 15/05/2026, 12:40:55
