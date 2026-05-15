@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 55441                                          |
+| **Lines Added** (➕)   | 55654                                          |
 | **Lines Removed** (➖) | 1070                                        |
-| **Net Change** (↕)    | 54371                |
-| **Active Time** (⌚)   | 231 minutes |
+| **Net Change** (↕)    | 54584                |
+| **Active Time** (⌚)   | 243 minutes |
 
 
 ## Modified Files
@@ -36,7 +36,7 @@
 - **Faults.test.tsx** (+452, -0)
 - **Home.test.tsx** (+259, -0)
 - **Tooltip.scss** (+47, -0)
-- **DescriptionList.stories.tsx** (+534, -77)
+- **DescriptionList.stories.tsx** (+564, -77)
 - **_alignment.scss** (+140, -1)
 - **DescriptionList.scss** (+174, -1)
 - **AttachmentDetailsPanel.tsx** (+32, -0)
@@ -46,15 +46,16 @@
 - **ConstructFieldRows.tsx** (+23, -0)
 - **fieldUtils.ts** (+225, -0)
 - **ProfileFields.tsx** (+21, -0)
-- **DescriptionList.tsx** (+160, -0)
-- **calculateTermWidth.test.tsx** (+58, -0)
-- **DescriptionList.test.tsx** (+193, -0)
+- **DescriptionList.tsx** (+187, -0)
+- **calculateTermWidth.test.tsx** (+89, -0)
+- **DescriptionList.test.tsx** (+228, -0)
 - **CreateBooking.tsx** (+142, -0)
 - **rollup.config.mjs** (+72, -0)
 - **tsconfig.json** (+24, -0)
 - **BankDetailsPanel.tsx** (+89, -0)
 - **profileFieldsConfig.ts** (+514, -0)
-- **calculateTermWidth.ts** (+41, -0)
+- **calculateTermWidth.ts** (+63, -0)
+- **DescriptionListItem.tsx** (+68, -0)
 
 ## Visualizations
 
@@ -63,12 +64,12 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 4631
+".tsx" : 4822
 ".js" : 48
 ".lock" : 50073
 ".json" : 544
 ".scss" : 363
-".ts" : 780
+".ts" : 802
 ".mjs" : 72
 ```
 
@@ -82,8 +83,8 @@ title Coding activity by hour (count of changes)
 "11h" : 17
 "12h" : 58
 "13h" : 28
-"14h" : 25
+"14h" : 33
 ```
 
 
-> **Last Updated:** 15/05/2026, 14:20:55
+> **Last Updated:** 15/05/2026, 14:25:55
