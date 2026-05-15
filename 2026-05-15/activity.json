@@ -2,7 +2,7 @@
   "date": "2026-05-15",
   "projects": {
     "cda": {
-      "totalLinesAdded": 25505,
+      "totalLinesAdded": 39361,
       "totalLinesRemoved": 736,
       "totalActiveTime": 64,
       "files": {
@@ -681,6 +681,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "lock"
+          },
+          {
+            "timestamp": "2026-05-15T10:46:04.086Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/yarn.lock",
+            "fileType": ".lock",
+            "linesAdded": 13856,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "lock"
           }
         ]
