@@ -4,16 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 53468                                          |
+| **Lines Added** (➕)   | 55441                                          |
 | **Lines Removed** (➖) | 1069                                        |
-| **Net Change** (↕)    | 52399                |
-| **Active Time** (⌚)   | 206 minutes |
+| **Net Change** (↕)    | 54372                |
+| **Active Time** (⌚)   | 227 minutes |
 
 
 ## Modified Files
 - **TooltipHost.tsx** (+39, -9)
 - **Tooltip.tsx** (+42, -24)
-- **index.js** (+0, -2)
+- **index.js** (+46, -2)
 - **Tooltip.test.tsx** (+69, -101)
 - **Tooltip.stories.tsx** (+3, -112)
 - **yarn.lock** (+21550, -493)
@@ -39,6 +39,22 @@
 - **DescriptionList.stories.tsx** (+534, -77)
 - **_alignment.scss** (+140, -0)
 - **DescriptionList.scss** (+174, -1)
+- **AttachmentDetailsPanel.tsx** (+32, -0)
+- **PublicDetailsPanel.tsx** (+183, -0)
+- **ConstructDefinitionListItem.tsx** (+79, -0)
+- **ConstructFieldContent.tsx** (+71, -0)
+- **ConstructFieldRows.tsx** (+23, -0)
+- **fieldUtils.ts** (+225, -0)
+- **ProfileFields.tsx** (+21, -0)
+- **DescriptionList.tsx** (+160, -0)
+- **calculateTermWidth.test.tsx** (+58, -0)
+- **DescriptionList.test.tsx** (+193, -0)
+- **CreateBooking.tsx** (+142, -0)
+- **rollup.config.mjs** (+72, -0)
+- **tsconfig.json** (+24, -0)
+- **BankDetailsPanel.tsx** (+89, -0)
+- **profileFieldsConfig.ts** (+514, -0)
+- **calculateTermWidth.ts** (+41, -0)
 
 ## Visualizations
 
@@ -47,11 +63,13 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 3580
-".js" : 2
+".tsx" : 4631
+".js" : 48
 ".lock" : 50073
-".json" : 520
+".json" : 544
 ".scss" : 362
+".ts" : 780
+".mjs" : 72
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -64,8 +82,8 @@ title Coding activity by hour (count of changes)
 "11h" : 17
 "12h" : 58
 "13h" : 28
-"14h" : 7
+"14h" : 24
 ```
 
 
-> **Last Updated:** 15/05/2026, 14:10:55
+> **Last Updated:** 15/05/2026, 14:15:55
