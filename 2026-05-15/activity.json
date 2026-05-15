@@ -2,9 +2,9 @@
   "date": "2026-05-15",
   "projects": {
     "cda": {
-      "totalLinesAdded": 56082,
-      "totalLinesRemoved": 1115,
-      "totalActiveTime": 273,
+      "totalLinesAdded": 56102,
+      "totalLinesRemoved": 1135,
+      "totalActiveTime": 279,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/Tooltip/TooltipHost.tsx": [
           {
@@ -2660,6 +2660,48 @@
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/DescriptionList/calculateTermWidth.ts",
             "fileType": ".ts",
             "linesAdded": 22,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-05-15T13:58:49.402Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/DescriptionList/calculateTermWidth.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 11,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-05-15T13:58:57.053Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/DescriptionList/calculateTermWidth.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 9,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-05-15T13:59:29.657Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/DescriptionList/calculateTermWidth.ts",
+            "fileType": ".ts",
+            "linesAdded": 20,
             "linesRemoved": 0,
             "projectName": "cda",
             "content": {
