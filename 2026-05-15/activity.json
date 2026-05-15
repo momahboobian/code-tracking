@@ -2,8 +2,8 @@
   "date": "2026-05-15",
   "projects": {
     "cda": {
-      "totalLinesAdded": 56109,
-      "totalLinesRemoved": 1149,
+      "totalLinesAdded": 56120,
+      "totalLinesRemoved": 1150,
       "totalActiveTime": 289,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/Tooltip/TooltipHost.tsx": [
@@ -704,6 +704,20 @@
             },
             "duration": 1,
             "language": "json"
+          },
+          {
+            "timestamp": "2026-05-15T14:27:00.128Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/package.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/package.json": [
@@ -905,6 +919,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "lock"
+          },
+          {
+            "timestamp": "2026-05-15T14:27:00.121Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/yarn.lock",
+            "fileType": ".lock",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "lock"
           }
         ],
@@ -2909,6 +2937,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2026-05-15T14:27:00.130Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/Badge/badge.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "scss"
           }
         ]
