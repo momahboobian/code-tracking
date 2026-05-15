@@ -5,9 +5,9 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 40770                                          |
-| **Lines Removed** (➖) | 846                                        |
-| **Net Change** (↕)    | 39924                |
-| **Active Time** (⌚)   | 101 minutes |
+| **Lines Removed** (➖) | 856                                        |
+| **Net Change** (↕)    | 39914                |
+| **Active Time** (⌚)   | 116 minutes |
 
 
 ## Modified Files
@@ -21,15 +21,15 @@
 - **package.json** (+186, -0)
 - **Home.tsx** (+406, -0)
 - **yarn.lock** (+27831, -87)
-- **CondensedFaultTable.tsx** (+220, -0)
+- **CondensedFaultTable.tsx** (+220, -1)
 - **EndCodeToolTip.tsx** (+33, -1)
 - **FaultCodeToolTip.tsx** (+32, -0)
-- **FaultsTable.tsx** (+218, -0)
+- **FaultsTable.tsx** (+218, -1)
 - **HistoricServiceImpactToolTips.tsx** (+42, -0)
-- **LocalDabFaultsTable.tsx** (+175, -1)
-- **PlannedWorksIcon.tsx** (+23, -0)
-- **HistoricPlannedWorkTable.tsx** (+181, -14)
-- **RequestsTable.tsx** (+195, -7)
+- **LocalDabFaultsTable.tsx** (+175, -2)
+- **PlannedWorksIcon.tsx** (+23, -5)
+- **HistoricPlannedWorkTable.tsx** (+181, -15)
+- **RequestsTable.tsx** (+195, -8)
 
 ## Visualizations
 
@@ -38,7 +38,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 1947
+".tsx" : 1957
 ".js" : 2
 ".lock" : 39408
 ".json" : 259
@@ -52,8 +52,8 @@ title Coding activity by hour (count of changes)
 "09h" : 27
 "10h" : 10
 "11h" : 17
-"12h" : 20
+"12h" : 27
 ```
 
 
-> **Last Updated:** 15/05/2026, 12:20:55
+> **Last Updated:** 15/05/2026, 12:25:55
