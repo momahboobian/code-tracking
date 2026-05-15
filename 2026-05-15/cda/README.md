@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 40371                                          |
-| **Lines Removed** (➖) | 824                                        |
-| **Net Change** (↕)    | 39547                |
-| **Active Time** (⌚)   | 80 minutes |
+| **Lines Added** (➕)   | 40557                                          |
+| **Lines Removed** (➖) | 825                                        |
+| **Net Change** (↕)    | 39732                |
+| **Active Time** (⌚)   | 87 minutes |
 
 
 ## Modified Files
@@ -26,7 +26,9 @@
 - **FaultCodeToolTip.tsx** (+32, -0)
 - **FaultsTable.tsx** (+218, -0)
 - **HistoricServiceImpactToolTips.tsx** (+42, -0)
-- **LocalDabFaultsTable.tsx** (+175, -0)
+- **LocalDabFaultsTable.tsx** (+175, -1)
+- **PlannedWorksIcon.tsx** (+23, -0)
+- **HistoricPlannedWorkTable.tsx** (+163, -0)
 
 ## Visualizations
 
@@ -35,7 +37,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 1526
+".tsx" : 1713
 ".js" : 2
 ".lock" : 39408
 ".json" : 259
@@ -49,8 +51,8 @@ title Coding activity by hour (count of changes)
 "09h" : 27
 "10h" : 10
 "11h" : 17
-"12h" : 7
+"12h" : 11
 ```
 
 
-> **Last Updated:** 15/05/2026, 12:05:55
+> **Last Updated:** 15/05/2026, 12:10:55
