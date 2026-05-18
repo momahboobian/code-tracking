@@ -2,9 +2,9 @@
   "date": "2026-05-18",
   "projects": {
     "cda": {
-      "totalLinesAdded": 13219,
+      "totalLinesAdded": 13327,
       "totalLinesRemoved": 85,
-      "totalActiveTime": 77,
+      "totalActiveTime": 78,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/package.json": [
           {
@@ -139,6 +139,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-05-18T13:40:15.177Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/Tooltip/TooltipHost.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "tsx"
           }
         ],
@@ -708,6 +722,22 @@
             },
             "duration": 2,
             "language": "js"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/node_modules/@types/react-dom/client.d.ts": [
+          {
+            "timestamp": "2026-05-18T13:40:11.271Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/node_modules/@types/react-dom/client.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 106,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
           }
         ]
       },
