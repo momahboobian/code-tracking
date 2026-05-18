@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 13449                                          |
-| **Lines Removed** (➖) | 147                                        |
-| **Net Change** (↕)    | 13302                |
-| **Active Time** (⌚)   | 99 minutes |
+| **Lines Added** (➕)   | 13587                                          |
+| **Lines Removed** (➖) | 150                                        |
+| **Net Change** (↕)    | 13437                |
+| **Active Time** (⌚)   | 105 minutes |
 
 
 ## Modified Files
@@ -29,6 +29,9 @@
 - **StatsBox.stories.js** (+245, -1)
 - **client.d.ts** (+106, -0)
 - **package.json** (+66, -0)
+- **PersonCard.tsx** (+92, -2)
+- **TreeLeaf.tsx** (+26, -1)
+- **TreeBranch.tsx** (+20, -0)
 
 ## Visualizations
 
@@ -40,7 +43,7 @@ title Lines changed by file type
 ".json" : 329
 ".lock" : 10862
 ".scss" : 683
-".tsx" : 987
+".tsx" : 1128
 ".js" : 629
 ".ts" : 106
 ```
@@ -55,8 +58,8 @@ title Coding activity by hour (count of changes)
 "12h" : 22
 "13h" : 19
 "14h" : 7
-"15h" : 9
+"15h" : 15
 ```
 
 
-> **Last Updated:** 18/05/2026, 15:32:24
+> **Last Updated:** 18/05/2026, 15:52:24
