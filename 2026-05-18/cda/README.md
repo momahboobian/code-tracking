@@ -4,24 +4,24 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 13588                                          |
-| **Lines Removed** (➖) | 156                                        |
-| **Net Change** (↕)    | 13432                |
-| **Active Time** (⌚)   | 110 minutes |
+| **Lines Added** (➕)   | 14010                                          |
+| **Lines Removed** (➖) | 651                                        |
+| **Net Change** (↕)    | 13359                |
+| **Active Time** (⌚)   | 123 minutes |
 
 
 ## Modified Files
 - **package.json** (+188, -2)
 - **package.json** (+73, -0)
-- **yarn.lock** (+10862, -0)
-- **Tooltip.scss** (+47, -0)
+- **yarn.lock** (+11210, -348)
+- **Tooltip.scss** (+48, -2)
 - **TooltipHost.tsx** (+90, -20)
 - **Tooltip.tsx** (+106, -30)
 - **index.js** (+46, -0)
-- **index.tsx** (+135, -14)
-- **index.tsx** (+125, -0)
-- **badge.scss** (+379, -0)
-- **statsBox.scss** (+257, -0)
+- **index.tsx** (+144, -32)
+- **index.tsx** (+128, -6)
+- **badge.scss** (+410, -61)
+- **statsBox.scss** (+287, -60)
 - **Tooltip.test.tsx** (+231, -31)
 - **Tooltip.stories.tsx** (+200, -5)
 - **Badge.stories.js** (+215, -12)
@@ -41,9 +41,9 @@
 pie showData
 title Lines changed by file type
 ".json" : 329
-".lock" : 10862
-".scss" : 683
-".tsx" : 1135
+".lock" : 11558
+".scss" : 868
+".tsx" : 1171
 ".js" : 629
 ".ts" : 106
 ```
@@ -59,7 +59,8 @@ title Coding activity by hour (count of changes)
 "13h" : 19
 "14h" : 7
 "15h" : 18
+"16h" : 18
 ```
 
 
-> **Last Updated:** 18/05/2026, 15:57:24
+> **Last Updated:** 18/05/2026, 16:07:24
