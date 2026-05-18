@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 12869                                          |
-| **Lines Removed** (➖) | 28                                        |
-| **Net Change** (↕)    | 12841                |
-| **Active Time** (⌚)   | 43 minutes |
+| **Lines Added** (➕)   | 12938                                          |
+| **Lines Removed** (➖) | 36                                        |
+| **Net Change** (↕)    | 12902                |
+| **Active Time** (⌚)   | 52 minutes |
 
 
 ## Modified Files
@@ -18,13 +18,14 @@
 - **TooltipHost.tsx** (+70, -0)
 - **Tooltip.tsx** (+76, -0)
 - **index.js** (+46, -0)
-- **index.tsx** (+121, -0)
+- **index.tsx** (+128, -7)
 - **index.tsx** (+125, -0)
 - **badge.scss** (+373, -0)
 - **statsBox.scss** (+251, -0)
 - **Tooltip.test.tsx** (+223, -19)
 - **Tooltip.stories.tsx** (+200, -5)
-- **Badge.stories.js** (+214, -2)
+- **Badge.stories.js** (+215, -3)
+- **badge.test.js** (+61, -0)
 
 ## Visualizations
 
@@ -36,8 +37,8 @@ title Lines changed by file type
 ".json" : 263
 ".lock" : 10862
 ".scss" : 671
-".tsx" : 839
-".js" : 262
+".tsx" : 853
+".js" : 325
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -48,8 +49,8 @@ title Coding activity by hour (count of changes)
 "10h" : 3
 "11h" : 4
 "12h" : 22
-"13h" : 2
+"13h" : 8
 ```
 
 
-> **Last Updated:** 18/05/2026, 13:02:24
+> **Last Updated:** 18/05/2026, 13:07:24
