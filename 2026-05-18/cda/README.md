@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 11356                                          |
+| **Lines Added** (➕)   | 12455                                          |
 | **Lines Removed** (➖) | 2                                        |
-| **Net Change** (↕)    | 11354                |
-| **Active Time** (⌚)   | 14 minutes |
+| **Net Change** (↕)    | 12453                |
+| **Active Time** (⌚)   | 23 minutes |
 
 
 ## Modified Files
@@ -16,8 +16,13 @@
 - **yarn.lock** (+10862, -0)
 - **Tooltip.scss** (+47, -0)
 - **TooltipHost.tsx** (+70, -0)
-- **Tooltip.tsx** (+70, -0)
+- **Tooltip.tsx** (+76, -0)
 - **index.js** (+46, -0)
+- **index.tsx** (+121, -0)
+- **index.tsx** (+125, -0)
+- **badge.scss** (+373, -0)
+- **statsBox.scss** (+251, -0)
+- **Tooltip.test.tsx** (+223, -0)
 
 ## Visualizations
 
@@ -28,8 +33,8 @@ pie showData
 title Lines changed by file type
 ".json" : 263
 ".lock" : 10862
-".scss" : 47
-".tsx" : 140
+".scss" : 671
+".tsx" : 615
 ".js" : 46
 ```
 
@@ -40,8 +45,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "10h" : 3
 "11h" : 4
-"12h" : 4
+"12h" : 14
 ```
 
 
-> **Last Updated:** 18/05/2026, 12:17:23
+> **Last Updated:** 18/05/2026, 12:22:23
