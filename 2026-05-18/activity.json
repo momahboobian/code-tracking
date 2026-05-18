@@ -2,7 +2,7 @@
   "date": "2026-05-18",
   "projects": {
     "cda": {
-      "totalLinesAdded": 12655,
+      "totalLinesAdded": 12858,
       "totalLinesRemoved": 26,
       "totalActiveTime": 36,
       "files": {
@@ -422,6 +422,22 @@
             },
             "duration": 1,
             "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/docs/components/Badge/Badge.stories.js": [
+          {
+            "timestamp": "2026-05-18T11:56:43.842Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/docs/components/Badge/Badge.stories.js",
+            "fileType": ".js",
+            "linesAdded": 203,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
           }
         ]
       },
