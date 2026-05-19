@@ -2,7 +2,7 @@
   "date": "2026-05-19",
   "projects": {
     "cda": {
-      "totalLinesAdded": 118,
+      "totalLinesAdded": 190,
       "totalLinesRemoved": 72,
       "totalActiveTime": 5,
       "files": {
@@ -13,6 +13,20 @@
             "fileType": ".tsx",
             "linesAdded": 0,
             "linesRemoved": 9,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-05-19T16:18:56.318Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/Badge/index.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 9,
+            "linesRemoved": 0,
             "projectName": "cda",
             "content": {
               "added": [],
@@ -36,6 +50,20 @@
             },
             "duration": 0,
             "language": "scss"
+          },
+          {
+            "timestamp": "2026-05-19T16:18:56.314Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/Badge/badge.scss",
+            "fileType": ".scss",
+            "linesAdded": 30,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "scss"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/StatsBox/index.tsx": [
@@ -52,6 +80,20 @@
             },
             "duration": 0,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2026-05-19T16:18:56.322Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/StatsBox/index.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/StatsBox/statsBox.scss": [
@@ -61,6 +103,20 @@
             "fileType": ".scss",
             "linesAdded": 0,
             "linesRemoved": 30,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2026-05-19T16:18:56.321Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/StatsBox/statsBox.scss",
+            "fileType": ".scss",
+            "linesAdded": 30,
+            "linesRemoved": 0,
             "projectName": "cda",
             "content": {
               "added": [],
