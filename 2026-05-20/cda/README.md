@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 26746                                          |
-| **Lines Removed** (➖) | 107                                        |
-| **Net Change** (↕)    | 26639                |
-| **Active Time** (⌚)   | 149 minutes |
+| **Lines Added** (➕)   | 26753                                          |
+| **Lines Removed** (➖) | 115                                        |
+| **Net Change** (↕)    | 26638                |
+| **Active Time** (⌚)   | 153 minutes |
 
 
 ## Modified Files
@@ -28,7 +28,7 @@
 - **clear_view_controlled_tables.ts** (+677, -18)
 - **recordEmailSentToStarters.ts** (+36, -14)
 - **batchSnsMessages.ts** (+60, -0)
-- **RecipientsList.ts** (+101, -21)
+- **RecipientsList.ts** (+108, -29)
 
 ## Visualizations
 
@@ -40,7 +40,7 @@ title Lines changed by file type
 ".js" : 125
 ".sql" : 1469
 ".json" : 591
-".ts" : 24668
+".ts" : 24683
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -53,8 +53,8 @@ title Coding activity by hour (count of changes)
 "13h" : 22
 "14h" : 33
 "15h" : 27
-"16h" : 11
+"16h" : 15
 ```
 
 
-> **Last Updated:** 20/05/2026, 16:15:10
+> **Last Updated:** 20/05/2026, 16:25:10
