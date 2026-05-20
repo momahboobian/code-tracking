@@ -2,7 +2,7 @@
   "date": "2026-05-20",
   "projects": {
     "cda": {
-      "totalLinesAdded": 1554,
+      "totalLinesAdded": 1584,
       "totalLinesRemoved": 35,
       "totalActiveTime": 43,
       "files": {
@@ -495,6 +495,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-05-20T12:50:31.814Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-send-it-kit-starters-email/package.json",
+            "fileType": ".json",
+            "linesAdded": 30,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "json"
           }
         ]
