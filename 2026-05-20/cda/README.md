@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 26753                                          |
+| **Lines Added** (➕)   | 27139                                          |
 | **Lines Removed** (➖) | 115                                        |
-| **Net Change** (↕)    | 26638                |
-| **Active Time** (⌚)   | 153 minutes |
+| **Net Change** (↕)    | 27024                |
+| **Active Time** (⌚)   | 156 minutes |
 
 
 ## Modified Files
@@ -29,6 +29,8 @@
 - **recordEmailSentToStarters.ts** (+36, -14)
 - **batchSnsMessages.ts** (+60, -0)
 - **RecipientsList.ts** (+108, -29)
+- **RecipientsList.test.ts** (+219, -0)
+- **recordEmailSentToStarters.test.ts** (+167, -0)
 
 ## Visualizations
 
@@ -40,7 +42,7 @@ title Lines changed by file type
 ".js" : 125
 ".sql" : 1469
 ".json" : 591
-".ts" : 24683
+".ts" : 25069
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -53,8 +55,8 @@ title Coding activity by hour (count of changes)
 "13h" : 22
 "14h" : 33
 "15h" : 27
-"16h" : 15
+"16h" : 19
 ```
 
 
-> **Last Updated:** 20/05/2026, 16:25:10
+> **Last Updated:** 20/05/2026, 16:35:10
