@@ -2,7 +2,7 @@
   "date": "2026-05-20",
   "projects": {
     "cda": {
-      "totalLinesAdded": 26572,
+      "totalLinesAdded": 26573,
       "totalLinesRemoved": 65,
       "totalActiveTime": 98,
       "files": {
@@ -1115,6 +1115,22 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-send-it-kit-starters-email/src/lib/RecipientsList.ts": [
+          {
+            "timestamp": "2026-05-20T14:35:00.442Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-send-it-kit-starters-email/src/lib/RecipientsList.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "ts"
           }
         ]
