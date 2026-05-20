@@ -2,9 +2,9 @@
   "date": "2026-05-20",
   "projects": {
     "cda": {
-      "totalLinesAdded": 1462,
-      "totalLinesRemoved": 29,
-      "totalActiveTime": 32,
+      "totalLinesAdded": 1520,
+      "totalLinesRemoved": 32,
+      "totalActiveTime": 37,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-db-migration/src/migrations/staff/tables/20260520100754-create-it-kit-starter-email-sent.js": [
           {
@@ -321,6 +321,62 @@
               "removed": []
             },
             "duration": 3,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-05-20T12:30:56.200Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-send-it-kit-starters-email/infrastructure/lambda.json",
+            "fileType": ".json",
+            "linesAdded": 14,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-05-20T12:31:56.978Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-send-it-kit-starters-email/infrastructure/lambda.json",
+            "fileType": ".json",
+            "linesAdded": 14,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-05-20T12:33:09.348Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-send-it-kit-starters-email/infrastructure/lambda.json",
+            "fileType": ".json",
+            "linesAdded": 30,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-05-20T12:33:35.818Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-send-it-kit-starters-email/infrastructure/lambda.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "json"
           }
         ],
