@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 26573                                          |
-| **Lines Removed** (➖) | 65                                        |
-| **Net Change** (↕)    | 26508                |
-| **Active Time** (⌚)   | 98 minutes |
+| **Lines Added** (➕)   | 26608                                          |
+| **Lines Removed** (➖) | 75                                        |
+| **Net Change** (↕)    | 26533                |
+| **Active Time** (⌚)   | 105 minutes |
 
 
 ## Modified Files
@@ -18,7 +18,7 @@
 - **lambda.json** (+224, -32)
 - **lambda.json** (+242, -0)
 - **index.ts** (+37, -2)
-- **package.json** (+61, -0)
+- **package.json** (+93, -0)
 - **Controller.ts** (+127, -6)
 - **views.ts** (+9429, -2)
 - **tables.ts** (+6705, -0)
@@ -26,9 +26,9 @@
 - **sap_tables.ts** (+902, -0)
 - **clear_view_views.ts** (+4657, -0)
 - **clear_view_controlled_tables.ts** (+677, -18)
-- **recordEmailSentToStarters.ts** (+35, -3)
+- **recordEmailSentToStarters.ts** (+35, -13)
 - **batchSnsMessages.ts** (+60, -0)
-- **RecipientsList.ts** (+1, -0)
+- **RecipientsList.ts** (+4, -0)
 
 ## Visualizations
 
@@ -39,8 +39,8 @@ pie showData
 title Lines changed by file type
 ".js" : 125
 ".sql" : 1469
-".json" : 559
-".ts" : 24485
+".json" : 591
+".ts" : 24498
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -52,8 +52,8 @@ title Coding activity by hour (count of changes)
 "12h" : 3
 "13h" : 22
 "14h" : 33
-"15h" : 9
+"15h" : 13
 ```
 
 
-> **Last Updated:** 20/05/2026, 15:35:10
+> **Last Updated:** 20/05/2026, 15:40:10
