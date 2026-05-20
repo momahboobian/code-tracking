@@ -2,9 +2,9 @@
   "date": "2026-05-20",
   "projects": {
     "cda": {
-      "totalLinesAdded": 27139,
+      "totalLinesAdded": 27771,
       "totalLinesRemoved": 115,
-      "totalActiveTime": 156,
+      "totalActiveTime": 157,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-db-migration/src/migrations/staff/tables/20260520100754-create-it-kit-starter-email-sent.js": [
           {
@@ -1654,6 +1654,36 @@
             },
             "duration": 1,
             "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/docker/cda": [
+          {
+            "timestamp": "2026-05-20T15:50:50.417Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/docker/cda",
+            "fileType": "unknown",
+            "linesAdded": 630,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2026-05-20T15:51:02.451Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/docker/cda",
+            "fileType": "unknown",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
           }
         ]
       },
