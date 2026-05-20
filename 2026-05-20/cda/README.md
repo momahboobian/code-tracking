@@ -4,16 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 25925                                          |
-| **Lines Removed** (➖) | 43                                        |
-| **Net Change** (↕)    | 25882                |
-| **Active Time** (⌚)   | 78 minutes |
+| **Lines Added** (➕)   | 26415                                          |
+| **Lines Removed** (➖) | 62                                        |
+| **Net Change** (↕)    | 26353                |
+| **Active Time** (⌚)   | 81 minutes |
 
 
 ## Modified Files
 - **20260520100754-create-it-kit-starter-email-sent.js** (+41, -0)
 - **20260520101754-create-it-kit-starter-candidates.js** (+29, -1)
-- **create-users.sql** (+978, -0)
+- **create-users.sql** (+1468, -1)
 - **20260520101754-create-it-kit-starter-candidates.js** (+54, -0)
 - **lambda.json** (+224, -32)
 - **lambda.json** (+242, -0)
@@ -25,7 +25,7 @@
 - **sap_views.ts** (+1824, -0)
 - **sap_tables.ts** (+902, -0)
 - **clear_view_views.ts** (+4657, -0)
-- **clear_view_controlled_tables.ts** (+677, -0)
+- **clear_view_controlled_tables.ts** (+677, -18)
 
 ## Visualizations
 
@@ -35,9 +35,9 @@
 pie showData
 title Lines changed by file type
 ".js" : 125
-".sql" : 978
+".sql" : 1469
 ".json" : 559
-".ts" : 24306
+".ts" : 24324
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -48,8 +48,8 @@ title Coding activity by hour (count of changes)
 "11h" : 11
 "12h" : 3
 "13h" : 22
-"14h" : 24
+"14h" : 29
 ```
 
 
-> **Last Updated:** 20/05/2026, 14:35:09
+> **Last Updated:** 20/05/2026, 14:50:10
