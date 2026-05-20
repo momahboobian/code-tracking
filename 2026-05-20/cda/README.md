@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 27771                                          |
-| **Lines Removed** (➖) | 115                                        |
-| **Net Change** (↕)    | 27656                |
-| **Active Time** (⌚)   | 157 minutes |
+| **Lines Added** (➕)   | 27963                                          |
+| **Lines Removed** (➖) | 118                                        |
+| **Net Change** (↕)    | 27845                |
+| **Active Time** (⌚)   | 158 minutes |
 
 
 ## Modified Files
@@ -15,7 +15,7 @@
 - **20260520101754-create-it-kit-starter-candidates.js** (+29, -1)
 - **create-users.sql** (+1468, -1)
 - **20260520101754-create-it-kit-starter-candidates.js** (+54, -0)
-- **lambda.json** (+224, -32)
+- **lambda.json** (+416, -35)
 - **lambda.json** (+242, -0)
 - **index.ts** (+73, -2)
 - **package.json** (+93, -0)
@@ -42,7 +42,7 @@ pie showData
 title Lines changed by file type
 ".js" : 125
 ".sql" : 1469
-".json" : 591
+".json" : 786
 ".ts" : 25069
 "unknown" : 632
 ```
@@ -58,7 +58,8 @@ title Coding activity by hour (count of changes)
 "14h" : 33
 "15h" : 27
 "16h" : 21
+"17h" : 2
 ```
 
 
-> **Last Updated:** 20/05/2026, 16:55:10
+> **Last Updated:** 20/05/2026, 17:10:10
