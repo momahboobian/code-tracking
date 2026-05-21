@@ -1799,9 +1799,9 @@
       "averageChangeSize": 95.5
     },
     "cda-devops-infrastructure": {
-      "totalLinesAdded": 1079,
+      "totalLinesAdded": 1084,
       "totalLinesRemoved": 50,
-      "totalActiveTime": 3,
+      "totalActiveTime": 4,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda-devops-infrastructure/scripts/sql/database bootstrap.sql": [
           {
@@ -1852,6 +1852,34 @@
             "fileType": ".sql",
             "linesAdded": 0,
             "linesRemoved": 4,
+            "projectName": "cda-devops-infrastructure",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sql"
+          },
+          {
+            "timestamp": "2026-05-21T15:38:43.689Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda-devops-infrastructure/scripts/sql/database bootstrap.sql",
+            "fileType": ".sql",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "cda-devops-infrastructure",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "sql"
+          },
+          {
+            "timestamp": "2026-05-21T15:39:19.816Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda-devops-infrastructure/scripts/sql/database bootstrap.sql",
+            "fileType": ".sql",
+            "linesAdded": 1,
+            "linesRemoved": 0,
             "projectName": "cda-devops-infrastructure",
             "content": {
               "added": [],
