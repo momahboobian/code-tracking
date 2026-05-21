@@ -3,7 +3,7 @@
   "projects": {
     "PDF Invoice": {
       "totalLinesAdded": 3669,
-      "totalLinesRemoved": 519,
+      "totalLinesRemoved": 657,
       "totalActiveTime": 35,
       "files": {
         "/Users/momahboobian/Downloads/PDF Invoice/My Little Friends invoice.html": [
@@ -75,6 +75,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2026-05-21T10:18:42.004Z",
+            "fileName": "/Users/momahboobian/Downloads/PDF Invoice/My Little Friends invoice.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 138,
+            "projectName": "PDF Invoice",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "html"
           }
         ],
