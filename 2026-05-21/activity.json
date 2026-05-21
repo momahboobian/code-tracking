@@ -1,0 +1,125 @@
+{
+  "date": "2026-05-21",
+  "projects": {
+    "PDF Invoice": {
+      "totalLinesAdded": 1237,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 9,
+      "files": {
+        "/Users/momahboobian/Downloads/PDF Invoice/My Little Friends invoice.html": [
+          {
+            "timestamp": "2026-05-21T09:45:13.615Z",
+            "fileName": "/Users/momahboobian/Downloads/PDF Invoice/My Little Friends invoice.html",
+            "fileType": ".html",
+            "linesAdded": 717,
+            "linesRemoved": 0,
+            "projectName": "PDF Invoice",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "html"
+          },
+          {
+            "timestamp": "2026-05-21T09:45:14.734Z",
+            "fileName": "/Users/momahboobian/Downloads/PDF Invoice/My Little Friends invoice.html",
+            "fileType": ".html",
+            "linesAdded": 17,
+            "linesRemoved": 0,
+            "projectName": "PDF Invoice",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          }
+        ],
+        "/Users/momahboobian/Library/Application Support/Code/User/chatLanguageModels.json": [
+          {
+            "timestamp": "2026-05-21T09:47:24.538Z",
+            "fileName": "/Users/momahboobian/Library/Application Support/Code/User/chatLanguageModels.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "PDF Invoice",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-05-21T09:47:24.627Z",
+            "fileName": "/Users/momahboobian/Library/Application Support/Code/User/chatLanguageModels.json",
+            "fileType": ".json",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "PDF Invoice",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Downloads/PDF Invoice/test.html": [
+          {
+            "timestamp": "2026-05-21T09:49:34.975Z",
+            "fileName": "/Users/momahboobian/Downloads/PDF Invoice/test.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "PDF Invoice",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "html"
+          },
+          {
+            "timestamp": "2026-05-21T09:50:03.921Z",
+            "fileName": "/Users/momahboobian/Downloads/PDF Invoice/test.html",
+            "fileType": ".html",
+            "linesAdded": 490,
+            "linesRemoved": 0,
+            "projectName": "PDF Invoice",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          }
+        ]
+      },
+      "languageStats": {
+        "html": 5,
+        "json": 4
+      },
+      "changeFrequency": {
+        "10": 9
+      },
+      "topFiles": [
+        "/Users/momahboobian/Downloads/PDF Invoice/My Little Friends invoice.html",
+        "/Users/momahboobian/Library/Application Support/Code/User/chatLanguageModels.json",
+        "/Users/momahboobian/Downloads/PDF Invoice/test.html"
+      ],
+      "averageChangeSize": 206.16666666666666
+    }
+  },
+  "totalActiveTime": 9,
+  "totalProjects": 1,
+  "totalFiles": 3,
+  "mostActiveHours": [
+    10
+  ],
+  "mostUsedLanguages": [
+    "html",
+    "json"
+  ]
+}
