@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1582                                          |
-| **Lines Removed** (➖) | 3                                        |
-| **Net Change** (↕)    | 1579                |
-| **Active Time** (⌚)   | 18 minutes |
+| **Lines Added** (➕)   | 1884                                          |
+| **Lines Removed** (➖) | 4                                        |
+| **Net Change** (↕)    | 1880                |
+| **Active Time** (⌚)   | 25 minutes |
 
 
 ## Modified Files
@@ -20,6 +20,8 @@
 - **recordEmailSentToUsers.test.ts** (+219, -0)
 - **package.json** (+32, -0)
 - **package.json** (+30, -0)
+- **RecipientsList.test.ts** (+220, -1)
+- **RecipientsList.ts** (+82, -0)
 
 ## Visualizations
 
@@ -30,7 +32,7 @@ pie showData
 title Lines changed by file type
 ".json" : 752
 ".js" : 35
-".ts" : 798
+".ts" : 1101
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -39,8 +41,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "15h" : 4
-"16h" : 12
+"16h" : 17
 ```
 
 
-> **Last Updated:** 21/05/2026, 16:14:24
+> **Last Updated:** 21/05/2026, 16:24:24
