@@ -2,9 +2,9 @@
   "date": "2026-05-21",
   "projects": {
     "PDF Invoice": {
-      "totalLinesAdded": 1237,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 9,
+      "totalLinesAdded": 1404,
+      "totalLinesRemoved": 483,
+      "totalActiveTime": 15,
       "files": {
         "/Users/momahboobian/Downloads/PDF Invoice/My Little Friends invoice.html": [
           {
@@ -33,6 +33,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2026-05-21T09:53:37.816Z",
+            "fileName": "/Users/momahboobian/Downloads/PDF Invoice/My Little Friends invoice.html",
+            "fileType": ".html",
+            "linesAdded": 165,
+            "linesRemoved": 0,
+            "projectName": "PDF Invoice",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "html"
           }
         ],
@@ -87,6 +101,48 @@
             "fileType": ".html",
             "linesAdded": 490,
             "linesRemoved": 0,
+            "projectName": "PDF Invoice",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2026-05-21T09:50:56.745Z",
+            "fileName": "/Users/momahboobian/Downloads/PDF Invoice/test.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 481,
+            "projectName": "PDF Invoice",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2026-05-21T09:51:18.582Z",
+            "fileName": "/Users/momahboobian/Downloads/PDF Invoice/test.html",
+            "fileType": ".html",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "PDF Invoice",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2026-05-21T09:51:23.560Z",
+            "fileName": "/Users/momahboobian/Downloads/PDF Invoice/test.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 2,
             "projectName": "PDF Invoice",
             "content": {
               "added": [],
