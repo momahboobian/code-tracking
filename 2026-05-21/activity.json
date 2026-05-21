@@ -1408,7 +1408,7 @@
       "averageChangeSize": 206.16666666666666
     },
     "cda": {
-      "totalLinesAdded": 189,
+      "totalLinesAdded": 415,
       "totalLinesRemoved": 2,
       "totalActiveTime": 1,
       "files": {
@@ -1439,6 +1439,22 @@
               "removed": []
             },
             "duration": 1,
+            "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-send-it-kit-requests-chaser-email/infastructure/lambda.json": [
+          {
+            "timestamp": "2026-05-21T14:59:14.854Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-send-it-kit-requests-chaser-email/infastructure/lambda.json",
+            "fileType": ".json",
+            "linesAdded": 226,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "json"
           }
         ]
