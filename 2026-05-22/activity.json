@@ -2,9 +2,9 @@
   "date": "2026-05-22",
   "projects": {
     "cda": {
-      "totalLinesAdded": 34,
-      "totalLinesRemoved": 104,
-      "totalActiveTime": 4,
+      "totalLinesAdded": 7480,
+      "totalLinesRemoved": 204,
+      "totalActiveTime": 27,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-send-it-kit-leavers-email/tests/integration/RecipientsList.test.ts": [
           {
@@ -19,6 +19,34 @@
               "removed": []
             },
             "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-05-22T09:36:36.444Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-send-it-kit-leavers-email/tests/integration/RecipientsList.test.ts",
+            "fileType": ".ts",
+            "linesAdded": 51,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-05-22T09:38:51.715Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-send-it-kit-leavers-email/tests/integration/RecipientsList.test.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 51,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "ts"
           }
         ],
@@ -35,6 +63,34 @@
               "removed": []
             },
             "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-05-22T09:36:36.449Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-send-it-kit-leavers-email/tests/integration/recordEmailSentToUsers.test.ts",
+            "fileType": ".ts",
+            "linesAdded": 49,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-05-22T09:38:51.720Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-send-it-kit-leavers-email/tests/integration/recordEmailSentToUsers.test.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 49,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "ts"
           }
         ],
@@ -96,6 +152,54 @@
             },
             "duration": 1,
             "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/docker/cda": [
+          {
+            "timestamp": "2026-05-22T09:38:51.722Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/docker/cda",
+            "fileType": "unknown",
+            "linesAdded": 630,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "unknown"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-send-it-kit-leavers-email/yarn.lock": [
+          {
+            "timestamp": "2026-05-22T09:38:51.732Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-send-it-kit-leavers-email/yarn.lock",
+            "fileType": ".lock",
+            "linesAdded": 3339,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "lock"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-send-it-kit-requests-chaser-email/yarn.lock": [
+          {
+            "timestamp": "2026-05-22T09:38:51.747Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-send-it-kit-requests-chaser-email/yarn.lock",
+            "fileType": ".lock",
+            "linesAdded": 3377,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "lock"
           }
         ]
       },
