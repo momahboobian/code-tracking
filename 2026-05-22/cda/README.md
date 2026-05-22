@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 8561                                          |
-| **Lines Removed** (➖) | 680                                        |
-| **Net Change** (↕)    | 7881                |
-| **Active Time** (⌚)   | 161 minutes |
+| **Lines Added** (➕)   | 8575                                          |
+| **Lines Removed** (➖) | 692                                        |
+| **Net Change** (↕)    | 7883                |
+| **Active Time** (⌚)   | 170 minutes |
 
 
 ## Modified Files
@@ -22,7 +22,7 @@
 - **html.pug** (+477, -423)
 - **subject.pug** (+2, -0)
 - **style.css** (+302, -7)
-- **RecipientsList.ts** (+1, -5)
+- **RecipientsList.ts** (+15, -17)
 - **recordEmailSentToStarters.test.ts** (+173, -6)
 - **RecipientsList.test.ts** (+0, -34)
 
@@ -33,7 +33,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 619
+".ts" : 645
 "unknown" : 647
 ".json" : 48
 ".lock" : 6716
@@ -51,8 +51,8 @@ title Coding activity by hour (count of changes)
 "12h" : 10
 "13h" : 11
 "14h" : 16
-"15h" : 18
+"15h" : 23
 ```
 
 
-> **Last Updated:** 22/05/2026, 15:54:26
+> **Last Updated:** 22/05/2026, 15:59:26
