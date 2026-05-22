@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 8575                                          |
+| **Lines Added** (➕)   | 11525                                          |
 | **Lines Removed** (➖) | 692                                        |
-| **Net Change** (↕)    | 7883                |
-| **Active Time** (⌚)   | 170 minutes |
+| **Net Change** (↕)    | 10833                |
+| **Active Time** (⌚)   | 172 minutes |
 
 
 ## Modified Files
@@ -25,6 +25,8 @@
 - **RecipientsList.ts** (+15, -17)
 - **recordEmailSentToStarters.test.ts** (+173, -6)
 - **RecipientsList.test.ts** (+0, -34)
+- **package.json** (+1, -0)
+- **yarn.lock** (+2949, -0)
 
 ## Visualizations
 
@@ -35,8 +37,8 @@ pie showData
 title Lines changed by file type
 ".ts" : 645
 "unknown" : 647
-".json" : 48
-".lock" : 6716
+".json" : 49
+".lock" : 9665
 ".pug" : 902
 ".css" : 309
 ```
@@ -51,8 +53,8 @@ title Coding activity by hour (count of changes)
 "12h" : 10
 "13h" : 11
 "14h" : 16
-"15h" : 23
+"15h" : 25
 ```
 
 
-> **Last Updated:** 22/05/2026, 15:59:26
+> **Last Updated:** 22/05/2026, 16:04:26
