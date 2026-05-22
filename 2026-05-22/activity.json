@@ -2,9 +2,9 @@
   "date": "2026-05-22",
   "projects": {
     "cda": {
-      "totalLinesAdded": 7933,
+      "totalLinesAdded": 8225,
       "totalLinesRemoved": 556,
-      "totalActiveTime": 75,
+      "totalActiveTime": 81,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-send-it-kit-leavers-email/tests/integration/RecipientsList.test.ts": [
           {
@@ -484,6 +484,20 @@
             },
             "duration": 1,
             "language": "pug"
+          },
+          {
+            "timestamp": "2026-05-22T11:48:02.629Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-mailer/src/templates/itkit-starter-manager/html.pug",
+            "fileType": ".pug",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "pug"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-mailer/src/templates/itkit-starter-manager/subject.pug": [
@@ -500,6 +514,36 @@
             },
             "duration": 5,
             "language": "pug"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-mailer/src/templates/itkit-starter-manager/style.css": [
+          {
+            "timestamp": "2026-05-22T11:46:41.270Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-mailer/src/templates/itkit-starter-manager/style.css",
+            "fileType": ".css",
+            "linesAdded": 280,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "css"
+          },
+          {
+            "timestamp": "2026-05-22T11:46:45.982Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-mailer/src/templates/itkit-starter-manager/style.css",
+            "fileType": ".css",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
           }
         ]
       },
