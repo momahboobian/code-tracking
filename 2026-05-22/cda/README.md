@@ -5,16 +5,16 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 8287                                          |
-| **Lines Removed** (➖) | 634                                        |
-| **Net Change** (↕)    | 7653                |
-| **Active Time** (⌚)   | 146 minutes |
+| **Lines Removed** (➖) | 635                                        |
+| **Net Change** (↕)    | 7652                |
+| **Active Time** (⌚)   | 150 minutes |
 
 
 ## Modified Files
 - **RecipientsList.test.ts** (+51, -102)
 - **recordEmailSentToUsers.test.ts** (+49, -98)
 - **itkit-leaver-starterjson** (+17, -0)
-- **itkit-starter-manager.json** (+18, -4)
+- **itkit-starter-manager.json** (+18, -5)
 - **cda** (+630, -0)
 - **yarn.lock** (+3339, -0)
 - **yarn.lock** (+3377, -0)
@@ -32,7 +32,7 @@ pie showData
 title Lines changed by file type
 ".ts" : 300
 "unknown" : 647
-".json" : 47
+".json" : 48
 ".lock" : 6716
 ".pug" : 902
 ".css" : 309
@@ -48,8 +48,8 @@ title Coding activity by hour (count of changes)
 "12h" : 10
 "13h" : 11
 "14h" : 16
-"15h" : 7
+"15h" : 8
 ```
 
 
-> **Last Updated:** 22/05/2026, 15:29:26
+> **Last Updated:** 22/05/2026, 15:34:26

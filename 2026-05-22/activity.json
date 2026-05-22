@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 8287,
-      "totalLinesRemoved": 634,
-      "totalActiveTime": 146,
+      "totalLinesRemoved": 635,
+      "totalActiveTime": 150,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-send-it-kit-leavers-email/tests/integration/RecipientsList.test.ts": [
           {
@@ -165,6 +165,20 @@
               "removed": []
             },
             "duration": 3,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-05-22T14:32:19.261Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-mailer/context/itkit-starter-manager.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "json"
           }
         ],
