@@ -4,15 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 11526                                          |
+| **Lines Added** (➕)   | 12995                                          |
 | **Lines Removed** (➖) | 693                                        |
-| **Net Change** (↕)    | 10833                |
-| **Active Time** (⌚)   | 173 minutes |
+| **Net Change** (↕)    | 12302                |
+| **Active Time** (⌚)   | 185 minutes |
 
 
 ## Modified Files
-- **RecipientsList.test.ts** (+102, -102)
-- **recordEmailSentToUsers.test.ts** (+98, -98)
+- **RecipientsList.test.ts** (+681, -102)
+- **recordEmailSentToUsers.test.ts** (+317, -98)
 - **itkit-leaver-starterjson** (+17, -0)
 - **itkit-starter-manager.json** (+18, -5)
 - **cda** (+630, -0)
@@ -22,11 +22,15 @@
 - **html.pug** (+477, -423)
 - **subject.pug** (+2, -0)
 - **style.css** (+302, -7)
-- **RecipientsList.ts** (+16, -18)
+- **RecipientsList.ts** (+96, -18)
 - **recordEmailSentToStarters.test.ts** (+173, -6)
-- **RecipientsList.test.ts** (+0, -34)
+- **RecipientsList.test.ts** (+185, -34)
 - **package.json** (+1, -0)
 - **yarn.lock** (+2949, -0)
+- **lambda.json** (+187, -0)
+- **20250814161854-replace-it-kit-people-end-date-view.js** (+33, -0)
+- **Controller.ts** (+59, -0)
+- **.env** (+127, -0)
 
 ## Visualizations
 
@@ -35,12 +39,13 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 647
-"unknown" : 647
-".json" : 49
+".ts" : 1769
+"unknown" : 774
+".json" : 236
 ".lock" : 9665
 ".pug" : 902
 ".css" : 309
+".js" : 33
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -54,8 +59,8 @@ title Coding activity by hour (count of changes)
 "13h" : 11
 "14h" : 16
 "15h" : 25
-"16h" : 2
+"16h" : 11
 ```
 
 
-> **Last Updated:** 22/05/2026, 16:09:26
+> **Last Updated:** 22/05/2026, 16:24:11
