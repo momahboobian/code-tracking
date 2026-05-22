@@ -3,7 +3,7 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 12995,
-      "totalLinesRemoved": 698,
+      "totalLinesRemoved": 699,
       "totalActiveTime": 192,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-send-it-kit-leavers-email/tests/integration/RecipientsList.test.ts": [
@@ -1541,6 +1541,20 @@
               "removed": []
             },
             "duration": 3,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2026-05-22T15:44:45.983Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/.env",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "unknown"
           }
         ]
