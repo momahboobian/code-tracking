@@ -2,9 +2,9 @@
   "date": "2026-05-22",
   "projects": {
     "cda": {
-      "totalLinesAdded": 8233,
-      "totalLinesRemoved": 573,
-      "totalActiveTime": 101,
+      "totalLinesAdded": 8252,
+      "totalLinesRemoved": 611,
+      "totalActiveTime": 107,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-send-it-kit-leavers-email/tests/integration/RecipientsList.test.ts": [
           {
@@ -623,6 +623,76 @@
               "removed": []
             },
             "duration": 0,
+            "language": "pug"
+          },
+          {
+            "timestamp": "2026-05-22T12:55:28.497Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-mailer/src/templates/itkit-starter-manager/html.pug",
+            "fileType": ".pug",
+            "linesAdded": 0,
+            "linesRemoved": 8,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "pug"
+          },
+          {
+            "timestamp": "2026-05-22T12:56:58.234Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-mailer/src/templates/itkit-starter-manager/html.pug",
+            "fileType": ".pug",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "pug"
+          },
+          {
+            "timestamp": "2026-05-22T12:57:27.526Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-mailer/src/templates/itkit-starter-manager/html.pug",
+            "fileType": ".pug",
+            "linesAdded": 0,
+            "linesRemoved": 9,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "pug"
+          },
+          {
+            "timestamp": "2026-05-22T12:58:16.418Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-mailer/src/templates/itkit-starter-manager/html.pug",
+            "fileType": ".pug",
+            "linesAdded": 19,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "pug"
+          },
+          {
+            "timestamp": "2026-05-22T12:59:25.945Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-mailer/src/templates/itkit-starter-manager/html.pug",
+            "fileType": ".pug",
+            "linesAdded": 0,
+            "linesRemoved": 19,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "pug"
           }
         ],
