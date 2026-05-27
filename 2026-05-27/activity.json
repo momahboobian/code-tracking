@@ -3,7 +3,7 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 1402,
-      "totalLinesRemoved": 22,
+      "totalLinesRemoved": 122,
       "totalActiveTime": 28,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-send-it-kit-starters-email/infrastructure/lambda.json": [
@@ -52,6 +52,20 @@
             },
             "duration": 1,
             "language": "ts"
+          },
+          {
+            "timestamp": "2026-05-27T12:51:07.138Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-send-it-kit-leavers-email/tests/integration/RecipientsList.test.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 51,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-send-it-kit-leavers-email/tests/integration/recordEmailSentToUsers.test.ts": [
@@ -67,6 +81,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-05-27T12:51:07.139Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-send-it-kit-leavers-email/tests/integration/recordEmailSentToUsers.test.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 49,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "ts"
           }
         ],

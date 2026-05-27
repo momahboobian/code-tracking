@@ -5,16 +5,16 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 1402                                          |
-| **Lines Removed** (➖) | 22                                        |
-| **Net Change** (↕)    | 1380                |
+| **Lines Removed** (➖) | 122                                        |
+| **Net Change** (↕)    | 1280                |
 | **Active Time** (⌚)   | 28 minutes |
 
 
 ## Modified Files
 - **lambda.json** (+187, -0)
 - **20250814161854-replace-it-kit-people-end-date-view.js** (+33, -0)
-- **RecipientsList.test.ts** (+579, -0)
-- **recordEmailSentToUsers.test.ts** (+219, -0)
+- **RecipientsList.test.ts** (+579, -51)
+- **recordEmailSentToUsers.test.ts** (+219, -49)
 - **RecipientsList.ts** (+88, -8)
 - **RecipientsList.test.ts** (+185, -9)
 - **Controller.ts** (+79, -5)
@@ -29,7 +29,7 @@ pie showData
 title Lines changed by file type
 ".json" : 219
 ".js" : 33
-".ts" : 1172
+".ts" : 1272
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -39,7 +39,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "09h" : 9
 "10h" : 11
+"13h" : 2
 ```
 
 
-> **Last Updated:** 27/05/2026, 10:52:19
+> **Last Updated:** 27/05/2026, 13:52:20
