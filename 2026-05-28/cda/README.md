@@ -5,8 +5,8 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 2277                                          |
-| **Lines Removed** (➖) | 17                                        |
-| **Net Change** (↕)    | 2260                |
+| **Lines Removed** (➖) | 39                                        |
+| **Net Change** (↕)    | 2238                |
 | **Active Time** (⌚)   | 16 minutes |
 
 
@@ -16,8 +16,8 @@
 - **lambda.json** (+187, -0)
 - **20250814161854-replace-it-kit-people-end-date-view.js** (+33, -0)
 - **package.json** (+32, -0)
-- **Controller.ts** (+83, -1)
-- **RecipientsList.ts** (+94, -0)
+- **Controller.ts** (+83, -9)
+- **RecipientsList.ts** (+94, -14)
 - **RecipientsList.test.ts** (+176, -0)
 - **batchSnsMessages.ts** (+76, -16)
 
@@ -28,7 +28,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 2042
+".ts" : 2064
 ".json" : 219
 ".js" : 33
 ```
@@ -40,8 +40,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "10h" : 2
 "17h" : 14
-"18h" : 1
+"18h" : 3
 ```
 
 
-> **Last Updated:** 28/05/2026, 18:02:05
+> **Last Updated:** 28/05/2026, 18:17:05
