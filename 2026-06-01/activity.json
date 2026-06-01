@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 65526,
-      "totalLinesRemoved": 809,
-      "totalActiveTime": 137,
+      "totalLinesRemoved": 816,
+      "totalActiveTime": 142,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/containers/SkillAdmin/SkillAdmin.tsx": [
           {
@@ -1653,6 +1653,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "pug"
+          },
+          {
+            "timestamp": "2026-06-01T14:42:45.794Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-mailer/src/templates/itkit-starter-manager/html.pug",
+            "fileType": ".pug",
+            "linesAdded": 0,
+            "linesRemoved": 7,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "pug"
           }
         ],
