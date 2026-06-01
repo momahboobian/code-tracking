@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 65807                                          |
-| **Lines Removed** (➖) | 817                                        |
-| **Net Change** (↕)    | 64990                |
-| **Active Time** (⌚)   | 149 minutes |
+| **Lines Added** (➕)   | 65891                                          |
+| **Lines Removed** (➖) | 950                                        |
+| **Net Change** (↕)    | 64941                |
+| **Active Time** (⌚)   | 153 minutes |
 
 
 ## Modified Files
@@ -23,7 +23,7 @@
 - **queries.js** (+148, -48)
 - **codegen.ts** (+28, -0)
 - **mutations.js** (+98, -15)
-- **skill-queries.ts** (+671, -470)
+- **skill-queries.ts** (+671, -548)
 - **skills.ts** (+244, -0)
 - **20260601085728-create-profile-skill-group-table.js** (+24, -1)
 - **20260601092204-create-profile-skill-group-to-person-table.js** (+21, -0)
@@ -38,7 +38,7 @@
 - **.env** (+121, -0)
 - **settings.json** (+27, -0)
 - **skill-groups.ts** (+154, -28)
-- **skill-mutations.ts** (+243, -28)
+- **skill-mutations.ts** (+243, -83)
 - **resolvers-types.ts** (+15522, -0)
 - **resolvers-types.ts** (+11609, -0)
 - **settings.json** (+98, -10)
@@ -61,6 +61,7 @@
 - **html.pug** (+61, -7)
 - **style.css** (+314, -12)
 - **style.css** (+290, -10)
+- **SkillGroups.ts** (+84, -0)
 
 ## Visualizations
 
@@ -70,7 +71,7 @@
 pie showData
 title Lines changed by file type
 ".tsx" : 242
-".ts" : 64319
+".ts" : 64536
 ".js" : 816
 "unknown" : 121
 ".json" : 354
@@ -90,8 +91,8 @@ title Coding activity by hour (count of changes)
 "12h" : 4
 "13h" : 21
 "14h" : 19
-"15h" : 36
+"15h" : 41
 ```
 
 
-> **Last Updated:** 01/06/2026, 15:48:36
+> **Last Updated:** 01/06/2026, 15:58:36
