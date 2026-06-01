@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 52562                                          |
-| **Lines Removed** (➖) | 406                                        |
-| **Net Change** (↕)    | 52156                |
-| **Active Time** (⌚)   | 94 minutes |
+| **Lines Added** (➕)   | 63141                                          |
+| **Lines Removed** (➖) | 416                                        |
+| **Net Change** (↕)    | 62725                |
+| **Active Time** (⌚)   | 102 minutes |
 
 
 ## Modified Files
@@ -23,7 +23,7 @@
 - **queries.js** (+148, -11)
 - **codegen.ts** (+28, -0)
 - **mutations.js** (+98, -15)
-- **skill-queries.ts** (+526, -311)
+- **skill-queries.ts** (+529, -311)
 - **skills.ts** (+244, -0)
 - **20260601085728-create-profile-skill-group-table.js** (+24, -1)
 - **20260601092204-create-profile-skill-group-to-person-table.js** (+21, -0)
@@ -32,7 +32,7 @@
 - **20260529085728-create-profile-skill-group-table.js** (+25, -1)
 - **vulcan_views.ts** (+155, -0)
 - **vulcan.ts** (+1950, -0)
-- **views.ts** (+9528, -0)
+- **views.ts** (+9538, -10)
 - **tables.ts** (+6755, -0)
 - **clear_view_views.ts** (+4797, -0)
 - **.env** (+121, -0)
@@ -42,6 +42,8 @@
 - **resolvers-types.ts** (+15522, -0)
 - **resolvers-types.ts** (+11609, -0)
 - **settings.json** (+98, -10)
+- **desks.ts** (+1038, -0)
+- **views.ts** (+9528, -0)
 
 ## Visualizations
 
@@ -51,7 +53,7 @@
 pie showData
 title Lines changed by file type
 ".tsx" : 216
-".ts" : 51863
+".ts" : 62452
 ".js" : 633
 "unknown" : 121
 ".json" : 135
@@ -67,8 +69,8 @@ title Coding activity by hour (count of changes)
 "11h" : 13
 "12h" : 4
 "13h" : 21
-"14h" : 10
+"14h" : 15
 ```
 
 
-> **Last Updated:** 01/06/2026, 14:33:36
+> **Last Updated:** 01/06/2026, 14:38:36
