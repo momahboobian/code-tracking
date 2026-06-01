@@ -2,9 +2,9 @@
   "date": "2026-06-01",
   "projects": {
     "cda": {
-      "totalLinesAdded": 63199,
+      "totalLinesAdded": 64869,
       "totalLinesRemoved": 788,
-      "totalActiveTime": 115,
+      "totalActiveTime": 127,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/containers/SkillAdmin/SkillAdmin.tsx": [
           {
@@ -1416,6 +1416,214 @@
             },
             "duration": 4,
             "language": "pug"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-send-it-kit-starters-email/infrastructure/lambda.json": [
+          {
+            "timestamp": "2026-06-01T14:19:38.421Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-send-it-kit-starters-email/infrastructure/lambda.json",
+            "fileType": ".json",
+            "linesAdded": 187,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-db-migration/src/migrations/sap/views/20250814161854-replace-it-kit-people-end-date-view.js": [
+          {
+            "timestamp": "2026-06-01T14:19:38.442Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-db-migration/src/migrations/sap/views/20250814161854-replace-it-kit-people-end-date-view.js",
+            "fileType": ".js",
+            "linesAdded": 33,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-send-it-kit-leavers-email/tests/integration/RecipientsList.test.ts": [
+          {
+            "timestamp": "2026-06-01T14:19:38.451Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-send-it-kit-leavers-email/tests/integration/RecipientsList.test.ts",
+            "fileType": ".ts",
+            "linesAdded": 579,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-send-it-kit-leavers-email/tests/integration/recordEmailSentToUsers.test.ts": [
+          {
+            "timestamp": "2026-06-01T14:19:38.470Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-send-it-kit-leavers-email/tests/integration/recordEmailSentToUsers.test.ts",
+            "fileType": ".ts",
+            "linesAdded": 219,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-send-it-kit-starters-email/tests/integration/RecipientsList.test.ts": [
+          {
+            "timestamp": "2026-06-01T14:19:38.476Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-send-it-kit-starters-email/tests/integration/RecipientsList.test.ts",
+            "fileType": ".ts",
+            "linesAdded": 176,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-send-it-kit-starters-email/src/lib/RecipientsList.ts": [
+          {
+            "timestamp": "2026-06-01T14:19:38.482Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-send-it-kit-starters-email/src/lib/RecipientsList.ts",
+            "fileType": ".ts",
+            "linesAdded": 80,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-send-it-kit-starters-email/src/Controller.ts": [
+          {
+            "timestamp": "2026-06-01T14:19:38.486Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-send-it-kit-starters-email/src/Controller.ts",
+            "fileType": ".ts",
+            "linesAdded": 74,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-send-it-kit-starters-email/package.json": [
+          {
+            "timestamp": "2026-06-01T14:19:38.490Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-send-it-kit-starters-email/package.json",
+            "fileType": ".json",
+            "linesAdded": 32,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-send-it-kit-starters-email/src/lib/batchSnsMessages.ts": [
+          {
+            "timestamp": "2026-06-01T14:19:38.498Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-send-it-kit-starters-email/src/lib/batchSnsMessages.ts",
+            "fileType": ".ts",
+            "linesAdded": 60,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-db-migration/src/migrations/staff/tables/20260520100754-create-it-kit-starter-email-sent.js": [
+          {
+            "timestamp": "2026-06-01T14:20:17.693Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-db-migration/src/migrations/staff/tables/20260520100754-create-it-kit-starter-email-sent.js",
+            "fileType": ".js",
+            "linesAdded": 21,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-send-it-kit-starters-email/src/lib/recordEmailSentToStarters.ts": [
+          {
+            "timestamp": "2026-06-01T14:20:17.700Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-send-it-kit-starters-email/src/lib/recordEmailSentToStarters.ts",
+            "fileType": ".ts",
+            "linesAdded": 22,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-send-it-kit-starters-email/tests/integration/recordEmailSentToStarters.test.ts": [
+          {
+            "timestamp": "2026-06-01T14:20:17.727Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-send-it-kit-starters-email/tests/integration/recordEmailSentToStarters.test.ts",
+            "fileType": ".ts",
+            "linesAdded": 167,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-send-it-kit-starters-email/jest.config.cjs": [
+          {
+            "timestamp": "2026-06-01T14:20:17.746Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-send-it-kit-starters-email/jest.config.cjs",
+            "fileType": ".cjs",
+            "linesAdded": 20,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cjs"
           }
         ]
       },

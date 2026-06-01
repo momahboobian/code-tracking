@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 63199                                          |
+| **Lines Added** (➕)   | 64869                                          |
 | **Lines Removed** (➖) | 788                                        |
-| **Net Change** (↕)    | 62411                |
-| **Active Time** (⌚)   | 115 minutes |
+| **Net Change** (↕)    | 64081                |
+| **Active Time** (⌚)   | 127 minutes |
 
 
 ## Modified Files
@@ -45,6 +45,19 @@
 - **desks.ts** (+1038, -0)
 - **views.ts** (+9528, -0)
 - **html.pug** (+58, -0)
+- **lambda.json** (+187, -0)
+- **20250814161854-replace-it-kit-people-end-date-view.js** (+33, -0)
+- **RecipientsList.test.ts** (+579, -0)
+- **recordEmailSentToUsers.test.ts** (+219, -0)
+- **RecipientsList.test.ts** (+176, -0)
+- **RecipientsList.ts** (+80, -0)
+- **Controller.ts** (+74, -0)
+- **package.json** (+32, -0)
+- **batchSnsMessages.ts** (+60, -0)
+- **20260520100754-create-it-kit-starter-email-sent.js** (+21, -0)
+- **recordEmailSentToStarters.ts** (+22, -0)
+- **recordEmailSentToStarters.test.ts** (+167, -0)
+- **jest.config.cjs** (+20, -0)
 
 ## Visualizations
 
@@ -54,11 +67,12 @@
 pie showData
 title Lines changed by file type
 ".tsx" : 242
-".ts" : 62715
-".js" : 716
+".ts" : 64092
+".js" : 770
 "unknown" : 121
-".json" : 135
+".json" : 354
 ".pug" : 58
+".cjs" : 20
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -72,8 +86,8 @@ title Coding activity by hour (count of changes)
 "12h" : 4
 "13h" : 21
 "14h" : 19
-"15h" : 7
+"15h" : 20
 ```
 
 
-> **Last Updated:** 01/06/2026, 15:08:36
+> **Last Updated:** 01/06/2026, 15:23:36
