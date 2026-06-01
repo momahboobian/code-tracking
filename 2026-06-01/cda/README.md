@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1469                                          |
+| **Lines Added** (➕)   | 24654                                          |
 | **Lines Removed** (➖) | 78                                        |
-| **Net Change** (↕)    | 1391                |
-| **Active Time** (⌚)   | 39 minutes |
+| **Net Change** (↕)    | 24576                |
+| **Active Time** (⌚)   | 43 minutes |
 
 
 ## Modified Files
@@ -30,6 +30,11 @@
 - **20260529102439-create-profile-skill-groups-view.js** (+32, -0)
 - **20260529104332-create-profile-skill-group-members-view.js** (+29, -0)
 - **20260529085728-create-profile-skill-group-table.js** (+25, -1)
+- **vulcan_views.ts** (+155, -0)
+- **vulcan.ts** (+1950, -0)
+- **views.ts** (+9528, -0)
+- **tables.ts** (+6755, -0)
+- **clear_view_views.ts** (+4797, -0)
 
 ## Visualizations
 
@@ -39,7 +44,7 @@
 pie showData
 title Lines changed by file type
 ".tsx" : 210
-".ts" : 754
+".ts" : 23939
 ".js" : 583
 ```
 
@@ -50,7 +55,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "09h" : 21
 "10h" : 11
+"11h" : 5
 ```
 
 
-> **Last Updated:** 01/06/2026, 10:53:36
+> **Last Updated:** 01/06/2026, 11:18:36
