@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 65918                                          |
-| **Lines Removed** (➖) | 950                                        |
-| **Net Change** (↕)    | 64968                |
-| **Active Time** (⌚)   | 154 minutes |
+| **Lines Added** (➕)   | 65925                                          |
+| **Lines Removed** (➖) | 987                                        |
+| **Net Change** (↕)    | 64938                |
+| **Active Time** (⌚)   | 164 minutes |
 
 
 ## Modified Files
@@ -23,7 +23,7 @@
 - **queries.js** (+148, -48)
 - **codegen.ts** (+28, -0)
 - **mutations.js** (+98, -15)
-- **skill-queries.ts** (+671, -548)
+- **skill-queries.ts** (+671, -553)
 - **skills.ts** (+244, -0)
 - **20260601085728-create-profile-skill-group-table.js** (+24, -1)
 - **20260601092204-create-profile-skill-group-to-person-table.js** (+21, -0)
@@ -36,9 +36,9 @@
 - **tables.ts** (+6755, -0)
 - **clear_view_views.ts** (+4797, -0)
 - **.env** (+121, -0)
-- **settings.json** (+27, -0)
+- **settings.json** (+28, -0)
 - **skill-groups.ts** (+154, -28)
-- **skill-mutations.ts** (+256, -83)
+- **skill-mutations.ts** (+257, -91)
 - **resolvers-types.ts** (+15522, -0)
 - **resolvers-types.ts** (+11609, -0)
 - **settings.json** (+98, -10)
@@ -61,7 +61,7 @@
 - **html.pug** (+61, -7)
 - **style.css** (+314, -12)
 - **style.css** (+290, -10)
-- **SkillGroups.ts** (+98, -0)
+- **SkillGroups.ts** (+103, -24)
 
 ## Visualizations
 
@@ -71,10 +71,10 @@
 pie showData
 title Lines changed by file type
 ".tsx" : 242
-".ts" : 64563
+".ts" : 64606
 ".js" : 816
 "unknown" : 121
-".json" : 354
+".json" : 355
 ".pug" : 126
 ".cjs" : 20
 ".css" : 626
@@ -92,8 +92,8 @@ title Coding activity by hour (count of changes)
 "13h" : 21
 "14h" : 19
 "15h" : 41
-"16h" : 2
+"16h" : 9
 ```
 
 
-> **Last Updated:** 01/06/2026, 16:13:36
+> **Last Updated:** 01/06/2026, 16:18:36
