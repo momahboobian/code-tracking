@@ -2,7 +2,7 @@
   "date": "2026-06-01",
   "projects": {
     "cda": {
-      "totalLinesAdded": 52561,
+      "totalLinesAdded": 52562,
       "totalLinesRemoved": 406,
       "totalActiveTime": 94,
       "files": {
@@ -477,6 +477,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-06-01T13:33:00.286Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/high-risk-schema/resolvers/skill-queries.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "ts"
           }
         ],
