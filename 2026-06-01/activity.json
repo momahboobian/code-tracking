@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 63141,
-      "totalLinesRemoved": 448,
-      "totalActiveTime": 107,
+      "totalLinesRemoved": 450,
+      "totalActiveTime": 109,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/containers/SkillAdmin/SkillAdmin.tsx": [
           {
@@ -519,6 +519,20 @@
               "removed": []
             },
             "duration": 4,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-06-01T13:43:40.620Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/high-risk-schema/resolvers/skill-queries.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "ts"
           }
         ],
