@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 66391                                          |
-| **Lines Removed** (➖) | 1005                                        |
-| **Net Change** (↕)    | 65386                |
-| **Active Time** (⌚)   | 183 minutes |
+| **Lines Added** (➕)   | 68835                                          |
+| **Lines Removed** (➖) | 1129                                        |
+| **Net Change** (↕)    | 67706                |
+| **Active Time** (⌚)   | 199 minutes |
 
 
 ## Modified Files
@@ -19,12 +19,12 @@
 - **20260529110030-create-profile-skill-group-to-person-table.js** (+22, -1)
 - **20260529110100-create-profile-skill-groups-view.js** (+32, -0)
 - **20260529110130-create-profile-skill-group-members-view.js** (+29, -0)
-- **skills.js** (+153, -59)
+- **skills.js** (+247, -105)
 - **queries.js** (+148, -48)
 - **codegen.ts** (+28, -0)
 - **mutations.js** (+98, -15)
-- **skill-queries.ts** (+671, -553)
-- **skills.ts** (+244, -0)
+- **skill-queries.ts** (+789, -612)
+- **skills.ts** (+518, -0)
 - **20260601085728-create-profile-skill-group-table.js** (+24, -1)
 - **20260601092204-create-profile-skill-group-to-person-table.js** (+21, -0)
 - **20260529102439-create-profile-skill-groups-view.js** (+32, -0)
@@ -61,10 +61,13 @@
 - **html.pug** (+61, -7)
 - **style.css** (+314, -12)
 - **style.css** (+290, -10)
-- **SkillGroups.ts** (+103, -24)
-- **SkillGroups.test.ts** (+153, -10)
-- **skill-group-queries.ts** (+155, -6)
-- **skill-group-mutations.ts** (+158, -2)
+- **SkillGroups.ts** (+182, -43)
+- **SkillGroups.test.ts** (+301, -10)
+- **skill-group-queries.ts** (+304, -6)
+- **skill-group-mutations.ts** (+314, -2)
+- **skills.js** (+397, -0)
+- **skill-queries.ts** (+283, -0)
+- **skill-mutations.ts** (+746, -0)
 
 ## Visualizations
 
@@ -74,8 +77,8 @@
 pie showData
 title Lines changed by file type
 ".tsx" : 242
-".ts" : 65090
-".js" : 816
+".ts" : 67121
+".js" : 1353
 "unknown" : 121
 ".json" : 355
 ".pug" : 126
@@ -96,7 +99,8 @@ title Coding activity by hour (count of changes)
 "14h" : 19
 "15h" : 41
 "16h" : 25
+"19h" : 17
 ```
 
 
-> **Last Updated:** 01/06/2026, 16:33:36
+> **Last Updated:** 01/06/2026, 19:12:47
