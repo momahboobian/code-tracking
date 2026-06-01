@@ -2,9 +2,9 @@
   "date": "2026-06-01",
   "projects": {
     "cda": {
-      "totalLinesAdded": 64869,
-      "totalLinesRemoved": 788,
-      "totalActiveTime": 127,
+      "totalLinesAdded": 65519,
+      "totalLinesRemoved": 798,
+      "totalActiveTime": 132,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/containers/SkillAdmin/SkillAdmin.tsx": [
           {
@@ -1624,6 +1624,82 @@
             },
             "duration": 1,
             "language": "cjs"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-mailer/src/templates/itkit-starter-manager/html.pug": [
+          {
+            "timestamp": "2026-06-01T14:25:38.837Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-mailer/src/templates/itkit-starter-manager/html.pug",
+            "fileType": ".pug",
+            "linesAdded": 54,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "pug"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-mailer/src/templates/itkit-starter-manager/style.css": [
+          {
+            "timestamp": "2026-06-01T14:25:45.508Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-mailer/src/templates/itkit-starter-manager/style.css",
+            "fileType": ".css",
+            "linesAdded": 306,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-mailer/src/templates/itkit-leaver-staff/style.css": [
+          {
+            "timestamp": "2026-06-01T14:25:56.297Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-mailer/src/templates/itkit-leaver-staff/style.css",
+            "fileType": ".css",
+            "linesAdded": 280,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2026-06-01T14:25:56.501Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-mailer/src/templates/itkit-leaver-staff/style.css",
+            "fileType": ".css",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2026-06-01T14:27:42.530Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-mailer/src/templates/itkit-leaver-staff/style.css",
+            "fileType": ".css",
+            "linesAdded": 0,
+            "linesRemoved": 10,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "css"
           }
         ]
       },
