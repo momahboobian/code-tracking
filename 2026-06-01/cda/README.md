@@ -5,9 +5,9 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 63141                                          |
-| **Lines Removed** (➖) | 416                                        |
-| **Net Change** (↕)    | 62725                |
-| **Active Time** (⌚)   | 102 minutes |
+| **Lines Removed** (➖) | 448                                        |
+| **Net Change** (↕)    | 62693                |
+| **Active Time** (⌚)   | 107 minutes |
 
 
 ## Modified Files
@@ -23,7 +23,7 @@
 - **queries.js** (+148, -11)
 - **codegen.ts** (+28, -0)
 - **mutations.js** (+98, -15)
-- **skill-queries.ts** (+529, -311)
+- **skill-queries.ts** (+529, -326)
 - **skills.ts** (+244, -0)
 - **20260601085728-create-profile-skill-group-table.js** (+24, -1)
 - **20260601092204-create-profile-skill-group-to-person-table.js** (+21, -0)
@@ -38,7 +38,7 @@
 - **.env** (+121, -0)
 - **settings.json** (+27, -0)
 - **skill-groups.ts** (+154, -28)
-- **skill-mutations.ts** (+243, -9)
+- **skill-mutations.ts** (+243, -26)
 - **resolvers-types.ts** (+15522, -0)
 - **resolvers-types.ts** (+11609, -0)
 - **settings.json** (+98, -10)
@@ -53,7 +53,7 @@
 pie showData
 title Lines changed by file type
 ".tsx" : 216
-".ts" : 62452
+".ts" : 62484
 ".js" : 633
 "unknown" : 121
 ".json" : 135
@@ -69,8 +69,8 @@ title Coding activity by hour (count of changes)
 "11h" : 13
 "12h" : 4
 "13h" : 21
-"14h" : 15
+"14h" : 17
 ```
 
 
-> **Last Updated:** 01/06/2026, 14:38:36
+> **Last Updated:** 01/06/2026, 14:43:36
