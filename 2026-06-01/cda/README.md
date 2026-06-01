@@ -5,25 +5,25 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 63141                                          |
-| **Lines Removed** (➖) | 452                                        |
-| **Net Change** (↕)    | 62689                |
-| **Active Time** (⌚)   | 109 minutes |
+| **Lines Removed** (➖) | 788                                        |
+| **Net Change** (↕)    | 62353                |
+| **Active Time** (⌚)   | 111 minutes |
 
 
 ## Modified Files
-- **SkillAdmin.tsx** (+55, -0)
+- **SkillAdmin.tsx** (+55, -5)
 - **index.ts** (+4, -0)
 - **ManageGroupsTab.tsx** (+64, -6)
-- **SkillAdmin.test.tsx** (+91, -0)
+- **SkillAdmin.test.tsx** (+91, -21)
 - **20260529110000-create-profile-skill-group-table.js** (+24, -0)
 - **20260529110030-create-profile-skill-group-to-person-table.js** (+22, -1)
 - **20260529110100-create-profile-skill-groups-view.js** (+32, -0)
 - **20260529110130-create-profile-skill-group-members-view.js** (+29, -0)
-- **skills.js** (+107, -13)
-- **queries.js** (+148, -11)
+- **skills.js** (+107, -59)
+- **queries.js** (+148, -48)
 - **codegen.ts** (+28, -0)
 - **mutations.js** (+98, -15)
-- **skill-queries.ts** (+529, -328)
+- **skill-queries.ts** (+529, -470)
 - **skills.ts** (+244, -0)
 - **20260601085728-create-profile-skill-group-table.js** (+24, -1)
 - **20260601092204-create-profile-skill-group-to-person-table.js** (+21, -0)
@@ -32,7 +32,7 @@
 - **20260529085728-create-profile-skill-group-table.js** (+25, -1)
 - **vulcan_views.ts** (+155, -0)
 - **vulcan.ts** (+1950, -0)
-- **views.ts** (+9538, -10)
+- **views.ts** (+9538, -95)
 - **tables.ts** (+6755, -0)
 - **clear_view_views.ts** (+4797, -0)
 - **.env** (+121, -0)
@@ -52,9 +52,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 216
-".ts" : 62488
-".js" : 633
+".tsx" : 242
+".ts" : 62715
+".js" : 716
 "unknown" : 121
 ".json" : 135
 ```
@@ -70,7 +70,8 @@ title Coding activity by hour (count of changes)
 "12h" : 4
 "13h" : 21
 "14h" : 19
+"15h" : 6
 ```
 
 
-> **Last Updated:** 01/06/2026, 14:53:36
+> **Last Updated:** 01/06/2026, 15:03:36
