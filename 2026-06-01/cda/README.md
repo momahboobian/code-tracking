@@ -4,26 +4,26 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 24775                                          |
-| **Lines Removed** (➖) | 78                                        |
-| **Net Change** (↕)    | 24697                |
-| **Active Time** (⌚)   | 43 minutes |
+| **Lines Added** (➕)   | 24781                                          |
+| **Lines Removed** (➖) | 120                                        |
+| **Net Change** (↕)    | 24661                |
+| **Active Time** (⌚)   | 52 minutes |
 
 
 ## Modified Files
 - **SkillAdmin.tsx** (+55, -0)
 - **index.ts** (+4, -0)
-- **ManageGroupsTab.tsx** (+64, -0)
+- **ManageGroupsTab.tsx** (+64, -6)
 - **SkillAdmin.test.tsx** (+91, -0)
 - **20260529110000-create-profile-skill-group-table.js** (+24, -0)
 - **20260529110030-create-profile-skill-group-to-person-table.js** (+22, -1)
 - **20260529110100-create-profile-skill-groups-view.js** (+32, -0)
 - **20260529110130-create-profile-skill-group-members-view.js** (+29, -0)
-- **skills.js** (+107, -1)
-- **queries.js** (+121, -0)
+- **skills.js** (+107, -13)
+- **queries.js** (+121, -5)
 - **codegen.ts** (+28, -0)
 - **mutations.js** (+98, -15)
-- **skill-queries.ts** (+419, -59)
+- **skill-queries.ts** (+425, -78)
 - **skills.ts** (+244, -0)
 - **20260601085728-create-profile-skill-group-table.js** (+24, -1)
 - **20260601092204-create-profile-skill-group-to-person-table.js** (+21, -0)
@@ -44,9 +44,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 210
-".ts" : 23939
-".js" : 583
+".tsx" : 216
+".ts" : 23964
+".js" : 600
 "unknown" : 121
 ```
 
@@ -57,8 +57,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "09h" : 21
 "10h" : 11
-"11h" : 6
+"11h" : 13
 ```
 
 
-> **Last Updated:** 01/06/2026, 11:28:36
+> **Last Updated:** 01/06/2026, 11:33:36
