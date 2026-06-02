@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 34855                                          |
+| **Lines Added** (➕)   | 36108                                          |
 | **Lines Removed** (➖) | 124                                        |
-| **Net Change** (↕)    | 34731                |
-| **Active Time** (⌚)   | 143 minutes |
+| **Net Change** (↕)    | 35984                |
+| **Active Time** (⌚)   | 155 minutes |
 
 
 ## Modified Files
@@ -22,14 +22,14 @@
 - **html.pug** (+58, -0)
 - **batchSnsMessages.ts** (+60, -0)
 - **style.css** (+280, -0)
-- **skill-queries.ts** (+59, -0)
+- **skill-queries.ts** (+118, -0)
 - **SkillGroups.test.ts** (+140, -0)
 - **skill-group-queries.ts** (+149, -0)
 - **SkillGroups.ts** (+60, -0)
 - **skills.ts** (+274, -0)
 - **skill-group-mutations.ts** (+156, -0)
-- **skills.js** (+48, -0)
-- **skills.js** (+397, -0)
+- **skills.js** (+96, -0)
+- **skills.js** (+794, -0)
 - **skill-queries.ts** (+284, -0)
 - **skill-mutations.ts** (+746, -0)
 - **resolvers-types.ts** (+11745, -0)
@@ -37,15 +37,15 @@
 - **package.json** (+69, -0)
 - **settings.json** (+30, -0)
 - **.env** (+242, -0)
-- **queries.js** (+137, -37)
+- **queries.js** (+237, -37)
 - **queries.js** (+339, -0)
 - **mutations.js** (+707, -0)
-- **ManageGroupsTab.tsx** (+341, -7)
+- **ManageGroupsTab.tsx** (+675, -7)
 - **ManageGroupsTab.scss** (+18, -8)
-- **SkillAdmin.test.tsx** (+112, -1)
-- **codegen.ts** (+28, -0)
+- **SkillAdmin.test.tsx** (+223, -1)
+- **codegen.ts** (+56, -0)
 - **ManageGroupsTab.test.tsx** (+109, -0)
-- **SkillAdmin.tsx** (+60, -0)
+- **SkillAdmin.tsx** (+120, -0)
 - **ManageGroupsV2Tab.tsx** (+134, -10)
 - **ManageGroupsV2Tab.scss** (+6, -0)
 - **index.ts** (+4, -0)
@@ -58,6 +58,9 @@
 - **ManageSkillsTab.tsx** (+111, -0)
 - **SkillTopicUsers.tsx** (+230, -0)
 - **TagUserOverview.tsx** (+66, -2)
+- **index.ts** (+4, -0)
+- **20260529085728-create-profile-skill-group-table.js** (+24, -0)
+- **settings.json** (+88, -0)
 
 ## Visualizations
 
@@ -66,13 +69,13 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".json" : 318
-".js" : 1698
-".ts" : 30220
+".json" : 406
+".js" : 2267
+".ts" : 30311
 ".pug" : 58
 ".css" : 280
 "unknown" : 242
-".tsx" : 1928
+".tsx" : 2433
 ".scss" : 235
 ```
 
@@ -86,8 +89,8 @@ title Coding activity by hour (count of changes)
 "12h" : 42
 "13h" : 25
 "14h" : 24
-"15h" : 3
+"15h" : 14
 ```
 
 
-> **Last Updated:** 02/06/2026, 15:03:20
+> **Last Updated:** 02/06/2026, 16:00:33
