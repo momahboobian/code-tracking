@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 50513                                          |
+| **Lines Added** (➕)   | 50910                                          |
 | **Lines Removed** (➖) | 196                                        |
-| **Net Change** (↕)    | 50317                |
-| **Active Time** (⌚)   | 200 minutes |
+| **Net Change** (↕)    | 50714                |
+| **Active Time** (⌚)   | 205 minutes |
 
 
 ## Modified Files
@@ -23,7 +23,7 @@
 - **batchSnsMessages.ts** (+60, -0)
 - **style.css** (+280, -0)
 - **skill-queries.ts** (+118, -0)
-- **SkillGroups.test.ts** (+277, -0)
+- **SkillGroups.test.ts** (+320, -0)
 - **skill-group-queries.ts** (+149, -0)
 - **SkillGroups.ts** (+137, -12)
 - **skills.ts** (+553, -2)
@@ -38,7 +38,7 @@
 - **settings.json** (+30, -0)
 - **.env** (+242, -0)
 - **queries.js** (+237, -37)
-- **queries.js** (+339, -0)
+- **queries.js** (+693, -0)
 - **mutations.js** (+707, -0)
 - **ManageGroupsTab.tsx** (+675, -7)
 - **ManageGroupsTab.scss** (+18, -8)
@@ -70,8 +70,8 @@
 pie showData
 title Lines changed by file type
 ".json" : 406
-".js" : 2294
-".ts" : 44761
+".js" : 2648
+".ts" : 44804
 ".pug" : 58
 ".css" : 280
 "unknown" : 242
@@ -91,8 +91,9 @@ title Coding activity by hour (count of changes)
 "14h" : 24
 "15h" : 14
 "16h" : 15
-"17h" : 18
+"17h" : 19
+"18h" : 4
 ```
 
 
-> **Last Updated:** 02/06/2026, 17:54:02
+> **Last Updated:** 02/06/2026, 18:04:02
