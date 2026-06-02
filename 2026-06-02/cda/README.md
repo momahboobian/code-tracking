@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 33335                                          |
-| **Lines Removed** (➖) | 41                                        |
-| **Net Change** (↕)    | 33294                |
-| **Active Time** (⌚)   | 44 minutes |
+| **Lines Added** (➕)   | 34061                                          |
+| **Lines Removed** (➖) | 45                                        |
+| **Net Change** (↕)    | 34016                |
+| **Active Time** (⌚)   | 68 minutes |
 
 
 ## Modified Files
@@ -42,10 +42,19 @@
 - **mutations.js** (+707, -0)
 - **ManageGroupsTab.tsx** (+287, -3)
 - **ManageGroupsTab.scss** (+18, -0)
-- **SkillAdmin.test.tsx** (+95, -1)
+- **SkillAdmin.test.tsx** (+112, -1)
 - **codegen.ts** (+28, -0)
 - **ManageGroupsTab.test.tsx** (+109, -0)
-- **SkillAdmin.tsx** (+55, -0)
+- **SkillAdmin.tsx** (+60, -0)
+- **ManageGroupsV2Tab.tsx** (+130, -4)
+- **ManageGroupsV2Tab.scss** (+6, -0)
+- **index.ts** (+4, -0)
+- **ManageGroupDetails.tsx** (+205, -0)
+- **ManageGroupDetails.scss** (+13, -0)
+- **index.ts** (+4, -0)
+- **App.tsx** (+219, -0)
+- **ManageGroupsV2Tab.test.tsx** (+48, -0)
+- **ManageGroupDetails.test.tsx** (+75, -0)
 
 ## Visualizations
 
@@ -56,12 +65,12 @@ pie showData
 title Lines changed by file type
 ".json" : 318
 ".js" : 1698
-".ts" : 30212
+".ts" : 30220
 ".pug" : 58
 ".css" : 280
 "unknown" : 242
-".tsx" : 550
-".scss" : 18
+".tsx" : 1253
+".scss" : 37
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -71,8 +80,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "08h" : 23
 "09h" : 4
-"12h" : 19
+"12h" : 42
 ```
 
 
-> **Last Updated:** 02/06/2026, 12:23:20
+> **Last Updated:** 02/06/2026, 12:58:20
