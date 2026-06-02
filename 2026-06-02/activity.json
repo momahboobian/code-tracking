@@ -2,9 +2,9 @@
   "date": "2026-06-02",
   "projects": {
     "cda": {
-      "totalLinesAdded": 50280,
-      "totalLinesRemoved": 167,
-      "totalActiveTime": 187,
+      "totalLinesAdded": 50340,
+      "totalLinesRemoved": 179,
+      "totalActiveTime": 191,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-send-it-kit-starters-email/infrastructure/lambda.json": [
           {
@@ -251,6 +251,34 @@
             "fileType": ".ts",
             "linesAdded": 60,
             "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-06-02T16:40:49.496Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/utils/skills/SkillGroups.ts",
+            "fileType": ".ts",
+            "linesAdded": 60,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-06-02T16:40:49.538Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/utils/skills/SkillGroups.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 12,
             "projectName": "cda",
             "content": {
               "added": [],
