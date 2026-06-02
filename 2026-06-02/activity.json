@@ -2,9 +2,9 @@
   "date": "2026-06-02",
   "projects": {
     "cda": {
-      "totalLinesAdded": 31318,
+      "totalLinesAdded": 31439,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 23,
+      "totalActiveTime": 26,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-send-it-kit-starters-email/infrastructure/lambda.json": [
           {
@@ -418,6 +418,22 @@
             },
             "duration": 1,
             "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/.env": [
+          {
+            "timestamp": "2026-06-02T08:03:40.716Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/.env",
+            "fileType": "unknown",
+            "linesAdded": 121,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "unknown"
           }
         ]
       },
