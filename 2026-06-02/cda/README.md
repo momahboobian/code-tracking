@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 50910                                          |
+| **Lines Added** (➕)   | 51396                                          |
 | **Lines Removed** (➖) | 196                                        |
-| **Net Change** (↕)    | 50714                |
-| **Active Time** (⌚)   | 205 minutes |
+| **Net Change** (↕)    | 51200                |
+| **Active Time** (⌚)   | 212 minutes |
 
 
 ## Modified Files
@@ -49,8 +49,8 @@
 - **ManageGroupsV2Tab.tsx** (+134, -10)
 - **ManageGroupsV2Tab.scss** (+6, -0)
 - **index.ts** (+4, -0)
-- **ManageGroupDetails.tsx** (+364, -37)
-- **ManageGroupDetails.scss** (+181, -22)
+- **ManageGroupDetails.tsx** (+691, -37)
+- **ManageGroupDetails.scss** (+340, -22)
 - **index.ts** (+4, -0)
 - **App.tsx** (+219, -0)
 - **ManageGroupsV2Tab.test.tsx** (+48, -0)
@@ -75,8 +75,8 @@ title Lines changed by file type
 ".pug" : 58
 ".css" : 280
 "unknown" : 242
-".tsx" : 2433
-".scss" : 235
+".tsx" : 2760
+".scss" : 394
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -92,8 +92,8 @@ title Coding activity by hour (count of changes)
 "15h" : 14
 "16h" : 15
 "17h" : 19
-"18h" : 4
+"18h" : 6
 ```
 
 
-> **Last Updated:** 02/06/2026, 18:04:02
+> **Last Updated:** 02/06/2026, 18:09:02
