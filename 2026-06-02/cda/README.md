@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 34174                                          |
-| **Lines Removed** (➖) | 49                                        |
-| **Net Change** (↕)    | 34125                |
-| **Active Time** (⌚)   | 73 minutes |
+| **Lines Added** (➕)   | 34275                                          |
+| **Lines Removed** (➖) | 57                                        |
+| **Net Change** (↕)    | 34218                |
+| **Active Time** (⌚)   | 78 minutes |
 
 
 ## Modified Files
@@ -40,8 +40,8 @@
 - **queries.js** (+137, -37)
 - **queries.js** (+339, -0)
 - **mutations.js** (+707, -0)
-- **ManageGroupsTab.tsx** (+289, -5)
-- **ManageGroupsTab.scss** (+18, -0)
+- **ManageGroupsTab.tsx** (+329, -5)
+- **ManageGroupsTab.scss** (+18, -8)
 - **SkillAdmin.test.tsx** (+112, -1)
 - **codegen.ts** (+28, -0)
 - **ManageGroupsTab.test.tsx** (+109, -0)
@@ -49,8 +49,8 @@
 - **ManageGroupsV2Tab.tsx** (+130, -6)
 - **ManageGroupsV2Tab.scss** (+6, -0)
 - **index.ts** (+4, -0)
-- **ManageGroupDetails.tsx** (+205, -0)
-- **ManageGroupDetails.scss** (+13, -0)
+- **ManageGroupDetails.tsx** (+238, -0)
+- **ManageGroupDetails.scss** (+41, -0)
 - **index.ts** (+4, -0)
 - **App.tsx** (+219, -0)
 - **ManageGroupsV2Tab.test.tsx** (+48, -0)
@@ -70,8 +70,8 @@ title Lines changed by file type
 ".pug" : 58
 ".css" : 280
 "unknown" : 242
-".tsx" : 1370
-".scss" : 37
+".tsx" : 1443
+".scss" : 73
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -82,8 +82,8 @@ title Coding activity by hour (count of changes)
 "08h" : 23
 "09h" : 4
 "12h" : 42
-"13h" : 4
+"13h" : 10
 ```
 
 
-> **Last Updated:** 02/06/2026, 13:08:20
+> **Last Updated:** 02/06/2026, 13:23:20
