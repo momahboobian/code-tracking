@@ -4,18 +4,18 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 7496                                          |
-| **Lines Removed** (➖) | 1847                                        |
-| **Net Change** (↕)    | 5649                |
-| **Active Time** (⌚)   | 80 minutes |
+| **Lines Added** (➕)   | 8630                                          |
+| **Lines Removed** (➖) | 1923                                        |
+| **Net Change** (↕)    | 6707                |
+| **Active Time** (⌚)   | 83 minutes |
 
 
 ## Modified Files
-- **Group.tsx** (+192, -0)
-- **SkillAdmin.tsx** (+72, -0)
+- **Group.tsx** (+192, -10)
+- **SkillAdmin.tsx** (+72, -22)
 - **ManageGroupsTab.tsx** (+344, -0)
 - **index.ts** (+4, -0)
-- **SkillAdmin.test.tsx** (+112, -0)
+- **SkillAdmin.test.tsx** (+112, -42)
 - **codegen.ts** (+28, -0)
 - **queries.js** (+100, -0)
 - **skills.js** (+48, -0)
@@ -48,9 +48,12 @@
 - **SortableDataTable.tsx** (+95, -0)
 - **SortableDataTable.scss** (+5, -0)
 - **index.ts** (+4, -0)
-- **index.js** (+175, -0)
+- **index.js** (+175, -2)
 - **GroupManagementComponent.tsx** (+422, -189)
 - **SearchResults.tsx** (+270, -0)
+- **App.tsx** (+217, -0)
+- **NewGroup.tsx** (+531, -0)
+- **NewGroupPanel.tsx** (+386, -0)
 
 ## Visualizations
 
@@ -59,9 +62,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 6113
+".tsx" : 7321
 ".ts" : 1986
-".js" : 749
+".js" : 751
 ".scss" : 495
 ```
 
@@ -74,7 +77,8 @@ title Coding activity by hour (count of changes)
 "09h" : 48
 "10h" : 9
 "11h" : 17
+"15h" : 7
 ```
 
 
-> **Last Updated:** 10/06/2026, 12:03:28
+> **Last Updated:** 10/06/2026, 15:58:28
