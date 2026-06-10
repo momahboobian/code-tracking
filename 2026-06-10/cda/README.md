@@ -4,15 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 8840                                          |
-| **Lines Removed** (➖) | 1928                                        |
-| **Net Change** (↕)    | 6912                |
-| **Active Time** (⌚)   | 91 minutes |
+| **Lines Added** (➕)   | 9326                                          |
+| **Lines Removed** (➖) | 1933                                        |
+| **Net Change** (↕)    | 7393                |
+| **Active Time** (⌚)   | 98 minutes |
 
 
 ## Modified Files
 - **Group.tsx** (+192, -10)
-- **SkillAdmin.tsx** (+72, -22)
+- **SkillAdmin.tsx** (+94, -22)
 - **ManageGroupsTab.tsx** (+344, -0)
 - **index.ts** (+4, -0)
 - **SkillAdmin.test.tsx** (+112, -42)
@@ -51,11 +51,12 @@
 - **index.js** (+175, -2)
 - **GroupManagementComponent.tsx** (+422, -189)
 - **SearchResults.tsx** (+270, -0)
-- **App.tsx** (+217, -0)
+- **App.tsx** (+219, -0)
 - **NewGroup.tsx** (+531, -0)
 - **NewGroupPanel.tsx** (+386, -0)
 - **package.json** (+68, -0)
-- **CreateBooking.tsx** (+142, -5)
+- **CreateBooking.tsx** (+147, -10)
+- **Book.test.tsx** (+457, -0)
 
 ## Visualizations
 
@@ -64,7 +65,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 7468
+".tsx" : 7959
 ".ts" : 1986
 ".js" : 751
 ".scss" : 495
@@ -82,7 +83,8 @@ title Coding activity by hour (count of changes)
 "11h" : 17
 "15h" : 8
 "16h" : 2
+"17h" : 5
 ```
 
 
-> **Last Updated:** 10/06/2026, 16:03:28
+> **Last Updated:** 10/06/2026, 17:23:28
