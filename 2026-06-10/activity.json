@@ -2,9 +2,9 @@
   "date": "2026-06-10",
   "projects": {
     "cda": {
-      "totalLinesAdded": 13763,
-      "totalLinesRemoved": 1933,
-      "totalActiveTime": 128,
+      "totalLinesAdded": 13931,
+      "totalLinesRemoved": 1945,
+      "totalActiveTime": 131,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/Group/Group.tsx": [
           {
@@ -1818,6 +1818,50 @@
             },
             "duration": 3,
             "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Downloads/stream.sh": [
+          {
+            "timestamp": "2026-06-10T19:27:01.151Z",
+            "fileName": "/Users/momahboobian/Downloads/stream.sh",
+            "fileType": ".sh",
+            "linesAdded": 166,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "sh"
+          },
+          {
+            "timestamp": "2026-06-10T19:28:27.170Z",
+            "fileName": "/Users/momahboobian/Downloads/stream.sh",
+            "fileType": ".sh",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "sh"
+          },
+          {
+            "timestamp": "2026-06-10T19:28:57.511Z",
+            "fileName": "/Users/momahboobian/Downloads/stream.sh",
+            "fileType": ".sh",
+            "linesAdded": 0,
+            "linesRemoved": 12,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sh"
           }
         ]
       },
