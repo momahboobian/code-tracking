@@ -2,7 +2,7 @@
   "date": "2026-06-11",
   "projects": {
     "cda": {
-      "totalLinesAdded": 4634,
+      "totalLinesAdded": 4864,
       "totalLinesRemoved": 0,
       "totalActiveTime": 36,
       "files": {
@@ -546,6 +546,22 @@
             },
             "duration": 1,
             "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/GroupManagement/GroupManagement.tsx": [
+          {
+            "timestamp": "2026-06-11T08:52:44.377Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/GroupManagement/GroupManagement.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 230,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
           }
         ]
       },
