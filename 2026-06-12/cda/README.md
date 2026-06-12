@@ -4,18 +4,18 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1073                                          |
+| **Lines Added** (➕)   | 1108                                          |
 | **Lines Removed** (➖) | 769                                        |
-| **Net Change** (↕)    | 304                |
-| **Active Time** (⌚)   | 143 minutes |
+| **Net Change** (↕)    | 339                |
+| **Active Time** (⌚)   | 144 minutes |
 
 
 ## Modified Files
 - **storyData.ts** (+14, -10)
 - **.gitignore** (+60, -0)
 - **useStorySearch.ts** (+4, -7)
-- **GroupManagement.stories.tsx** (+362, -344)
-- **GroupManagement.tsx** (+15, -140)
+- **GroupManagement.stories.tsx** (+371, -344)
+- **GroupManagement.tsx** (+41, -140)
 - **GroupManagement.test.tsx** (+197, -268)
 - **package.json** (+186, -0)
 - **useGroupManagementState.ts** (+172, -0)
@@ -30,7 +30,7 @@ pie showData
 title Lines changed by file type
 ".ts" : 207
 "unknown" : 60
-".tsx" : 1389
+".tsx" : 1424
 ".json" : 186
 ```
 
@@ -44,7 +44,8 @@ title Coding activity by hour (count of changes)
 "15h" : 37
 "16h" : 12
 "17h" : 2
+"20h" : 2
 ```
 
 
-> **Last Updated:** 12/06/2026, 17:44:05
+> **Last Updated:** 12/06/2026, 20:44:05
