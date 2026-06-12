@@ -4,15 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 51                                          |
-| **Lines Removed** (➖) | 9                                        |
-| **Net Change** (↕)    | 42                |
-| **Active Time** (⌚)   | 6 minutes |
+| **Lines Added** (➕)   | 63                                          |
+| **Lines Removed** (➖) | 16                                        |
+| **Net Change** (↕)    | 47                |
+| **Active Time** (⌚)   | 13 minutes |
 
 
 ## Modified Files
 - **storyData.ts** (+1, -9)
-- **.gitignore** (+50, -0)
+- **.gitignore** (+60, -0)
+- **useStorySearch.ts** (+2, -7)
 
 ## Visualizations
 
@@ -21,8 +22,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 10
-"unknown" : 50
+".ts" : 19
+"unknown" : 60
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -30,8 +31,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"13h" : 4
+"13h" : 8
 ```
 
 
-> **Last Updated:** 12/06/2026, 13:39:05
+> **Last Updated:** 12/06/2026, 13:44:05
