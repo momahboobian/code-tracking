@@ -1,0 +1,94 @@
+{
+  "date": "2026-06-12",
+  "projects": {
+    "cda": {
+      "totalLinesAdded": 51,
+      "totalLinesRemoved": 9,
+      "totalActiveTime": 6,
+      "files": {
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/docs/components/GroupManagement/utils/storyData.ts": [
+          {
+            "timestamp": "2026-06-12T12:34:29.949Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/docs/components/GroupManagement/utils/storyData.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-06-12T12:36:35.643Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/docs/components/GroupManagement/utils/storyData.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 7,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-06-12T12:36:53.355Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/docs/components/GroupManagement/utils/storyData.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/.gitignore": [
+          {
+            "timestamp": "2026-06-12T12:38:39.692Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 50,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "unknown"
+          }
+        ]
+      },
+      "languageStats": {
+        "ts": 4,
+        "unknown": 2
+      },
+      "changeFrequency": {
+        "13": 6
+      },
+      "topFiles": [
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/docs/components/GroupManagement/utils/storyData.ts",
+        "/Users/momahboobian/Documents/_BBC/cda/.gitignore"
+      ],
+      "averageChangeSize": 15
+    }
+  },
+  "totalActiveTime": 6,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    13
+  ],
+  "mostUsedLanguages": [
+    "ts",
+    "unknown"
+  ]
+}
