@@ -5,9 +5,9 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 8459                                          |
-| **Lines Removed** (➖) | 328                                        |
-| **Net Change** (↕)    | 8131                |
-| **Active Time** (⌚)   | 186 minutes |
+| **Lines Removed** (➖) | 332                                        |
+| **Net Change** (↕)    | 8127                |
+| **Active Time** (⌚)   | 191 minutes |
 
 
 ## Modified Files
@@ -60,7 +60,7 @@
 - **useTabFilter.ts** (+75, -2)
 - **index.js** (+69, -12)
 - **CreateBooking.scss** (+165, -158)
-- **CreateBooking.tsx** (+157, -13)
+- **CreateBooking.tsx** (+157, -17)
 
 ## Visualizations
 
@@ -69,7 +69,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 3794
+".tsx" : 3798
 ".ts" : 2398
 ".js" : 832
 ".scss" : 486
@@ -90,8 +90,8 @@ title Coding activity by hour (count of changes)
 "17h" : 19
 "18h" : 29
 "19h" : 22
-"20h" : 5
+"20h" : 6
 ```
 
 
-> **Last Updated:** 15/06/2026, 20:08:18
+> **Last Updated:** 15/06/2026, 20:13:18
