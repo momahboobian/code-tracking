@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 8485                                          |
-| **Lines Removed** (➖) | 339                                        |
-| **Net Change** (↕)    | 8146                |
-| **Active Time** (⌚)   | 212 minutes |
+| **Lines Added** (➕)   | 8493                                          |
+| **Lines Removed** (➖) | 350                                        |
+| **Net Change** (↕)    | 8143                |
+| **Active Time** (⌚)   | 218 minutes |
 
 
 ## Modified Files
@@ -59,7 +59,7 @@
 - **settings.json** (+16, -1)
 - **useTabFilter.ts** (+75, -2)
 - **index.js** (+69, -12)
-- **CreateBooking.scss** (+186, -160)
+- **CreateBooking.scss** (+194, -171)
 - **CreateBooking.tsx** (+162, -22)
 
 ## Visualizations
@@ -72,7 +72,7 @@ title Lines changed by file type
 ".tsx" : 3808
 ".ts" : 2398
 ".js" : 832
-".scss" : 509
+".scss" : 528
 ".json" : 1277
 ```
 
@@ -90,8 +90,8 @@ title Coding activity by hour (count of changes)
 "17h" : 19
 "18h" : 29
 "19h" : 22
-"20h" : 21
+"20h" : 24
 ```
 
 
-> **Last Updated:** 15/06/2026, 20:23:18
+> **Last Updated:** 15/06/2026, 20:28:18
