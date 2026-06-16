@@ -4,19 +4,19 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 17930                                          |
-| **Lines Removed** (➖) | 504                                        |
-| **Net Change** (↕)    | 17426                |
-| **Active Time** (⌚)   | 93 minutes |
+| **Lines Added** (➕)   | 18178                                          |
+| **Lines Removed** (➖) | 563                                        |
+| **Net Change** (↕)    | 17615                |
+| **Active Time** (⌚)   | 96 minutes |
 
 
 ## Modified Files
 - **index.js** (+181, -8)
 - **CreateBooking.tsx** (+144, -2)
-- **queries.js** (+354, -0)
+- **queries.js** (+408, -54)
 - **SkillAdmin.tsx** (+72, -22)
 - **SkillAdmin.test.tsx** (+112, -42)
-- **App.tsx** (+222, -0)
+- **App.tsx** (+227, -5)
 - **yarn.lock** (+13854, -0)
 - **package.json** (+68, -0)
 - **Book.test.tsx** (+457, -0)
@@ -33,6 +33,7 @@
 - **GroupCreate.tsx** (+224, -218)
 - **.gitignore** (+50, -0)
 - **mutations.js** (+707, -0)
+- **Group.tsx** (+189, -0)
 
 ## Visualizations
 
@@ -41,8 +42,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".js" : 1250
-".tsx" : 2510
+".js" : 1358
+".tsx" : 2709
 ".lock" : 13854
 ".json" : 68
 ".ts" : 702
@@ -55,8 +56,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "19h" : 39
-"20h" : 22
+"20h" : 28
 ```
 
 
-> **Last Updated:** 16/06/2026, 20:17:58
+> **Last Updated:** 16/06/2026, 20:22:58
