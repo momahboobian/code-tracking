@@ -1,0 +1,255 @@
+{
+  "date": "2026-06-16",
+  "projects": {
+    "cda": {
+      "totalLinesAdded": 15337,
+      "totalLinesRemoved": 4,
+      "totalActiveTime": 13,
+      "files": {
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/index.js": [
+          {
+            "timestamp": "2026-06-16T18:16:01.575Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/index.js",
+            "fileType": ".js",
+            "linesAdded": 173,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-06-16T18:16:15.365Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/index.js",
+            "fileType": ".js",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-06-16T18:17:39.113Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/index.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-06-16T18:17:49.919Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/index.js",
+            "fileType": ".js",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/desks/src/components/CreateBooking/CreateBooking.tsx": [
+          {
+            "timestamp": "2026-06-16T18:16:33.676Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/desks/src/components/CreateBooking/CreateBooking.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 142,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-06-16T18:17:12.390Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/desks/src/components/CreateBooking/CreateBooking.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-06-16T18:17:49.923Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/desks/src/components/CreateBooking/CreateBooking.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/graphql/low-risk/queries.js": [
+          {
+            "timestamp": "2026-06-16T18:17:39.106Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/graphql/low-risk/queries.js",
+            "fileType": ".js",
+            "linesAdded": 300,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/containers/SkillAdmin/SkillAdmin.tsx": [
+          {
+            "timestamp": "2026-06-16T18:17:39.108Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/containers/SkillAdmin/SkillAdmin.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 50,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/containers/SkillAdmin/SkillAdmin.test.tsx": [
+          {
+            "timestamp": "2026-06-16T18:17:39.111Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/containers/SkillAdmin/SkillAdmin.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 70,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/App.tsx": [
+          {
+            "timestamp": "2026-06-16T18:17:39.140Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 217,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/desks/yarn.lock": [
+          {
+            "timestamp": "2026-06-16T18:17:49.980Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/desks/yarn.lock",
+            "fileType": ".lock",
+            "linesAdded": 13854,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "lock"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/desks/package.json": [
+          {
+            "timestamp": "2026-06-16T18:17:49.985Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/desks/package.json",
+            "fileType": ".json",
+            "linesAdded": 68,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/desks/src/containers/Book/Book.test.tsx": [
+          {
+            "timestamp": "2026-06-16T18:17:49.988Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/desks/src/containers/Book/Book.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 457,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "js": 4,
+        "tsx": 7,
+        "lock": 1,
+        "json": 1
+      },
+      "changeFrequency": {
+        "19": 13
+      },
+      "topFiles": [
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/index.js",
+        "/Users/momahboobian/Documents/_BBC/cda/apps/desks/src/components/CreateBooking/CreateBooking.tsx",
+        "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/graphql/low-risk/queries.js",
+        "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/containers/SkillAdmin/SkillAdmin.tsx",
+        "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/containers/SkillAdmin/SkillAdmin.test.tsx"
+      ],
+      "averageChangeSize": 1095.7857142857142
+    }
+  },
+  "totalActiveTime": 12,
+  "totalProjects": 1,
+  "totalFiles": 9,
+  "mostActiveHours": [
+    19
+  ],
+  "mostUsedLanguages": [
+    "tsx",
+    "js",
+    "lock",
+    "json"
+  ]
+}
