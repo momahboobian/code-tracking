@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 18506                                          |
-| **Lines Removed** (➖) | 641                                        |
-| **Net Change** (↕)    | 17865                |
-| **Active Time** (⌚)   | 112 minutes |
+| **Lines Added** (➕)   | 32901                                          |
+| **Lines Removed** (➖) | 642                                        |
+| **Net Change** (↕)    | 32259                |
+| **Active Time** (⌚)   | 124 minutes |
 
 
 ## Modified Files
@@ -15,8 +15,8 @@
 - **CreateBooking.tsx** (+144, -2)
 - **queries.js** (+462, -108)
 - **SkillAdmin.tsx** (+72, -22)
-- **SkillAdmin.test.tsx** (+112, -42)
-- **App.tsx** (+232, -10)
+- **SkillAdmin.test.tsx** (+127, -42)
+- **App.tsx** (+236, -10)
 - **yarn.lock** (+13854, -0)
 - **package.json** (+68, -0)
 - **Book.test.tsx** (+457, -0)
@@ -28,14 +28,15 @@
 - **useGroupManagementState.test.tsx** (+69, -0)
 - **index.ts** (+4, -0)
 - **GroupDetails.tsx** (+264, -0)
-- **index.ts** (+3, -0)
-- **GroupCreate.test.tsx** (+131, -130)
-- **GroupCreate.tsx** (+224, -218)
+- **index.ts** (+4, -1)
+- **GroupCreate.test.tsx** (+165, -130)
+- **GroupCreate.tsx** (+379, -218)
 - **.gitignore** (+50, -0)
 - **mutations.js** (+707, -0)
 - **Group.tsx** (+196, -7)
 - **package.json** (+186, -0)
 - **package.json** (+64, -0)
+- **yarn.lock** (+14186, -0)
 
 ## Visualizations
 
@@ -45,10 +46,10 @@
 pie showData
 title Lines changed by file type
 ".js" : 1490
-".tsx" : 2733
-".lock" : 13854
+".tsx" : 2941
+".lock" : 28040
 ".json" : 318
-".ts" : 702
+".ts" : 704
 "unknown" : 50
 ```
 
@@ -58,8 +59,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "19h" : 39
-"20h" : 41
+"20h" : 50
 ```
 
 
-> **Last Updated:** 16/06/2026, 20:47:58
+> **Last Updated:** 16/06/2026, 20:52:58

@@ -2,9 +2,9 @@
   "date": "2026-06-16",
   "projects": {
     "cda": {
-      "totalLinesAdded": 18506,
-      "totalLinesRemoved": 641,
-      "totalActiveTime": 112,
+      "totalLinesAdded": 32901,
+      "totalLinesRemoved": 642,
+      "totalActiveTime": 124,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/index.js": [
           {
@@ -420,6 +420,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2026-06-16T19:50:03.811Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/containers/SkillAdmin/SkillAdmin.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 15,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/App.tsx": [
@@ -533,6 +547,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-06-16T19:50:03.629Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "tsx"
           }
         ],
@@ -964,6 +992,34 @@
             },
             "duration": 2,
             "language": "ts"
+          },
+          {
+            "timestamp": "2026-06-16T19:48:00.601Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/containers/GroupCreate/index.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-06-16T19:48:02.698Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/containers/GroupCreate/index.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/containers/GroupCreate/GroupCreate.test.tsx": [
@@ -987,6 +1043,20 @@
             "fileType": ".tsx",
             "linesAdded": 0,
             "linesRemoved": 130,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-06-16T19:50:03.816Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/containers/GroupCreate/GroupCreate.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 34,
+            "linesRemoved": 0,
             "projectName": "cda",
             "content": {
               "added": [],
@@ -1045,6 +1115,48 @@
             "fileType": ".tsx",
             "linesAdded": 0,
             "linesRemoved": 2,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-06-16T19:48:45.660Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/containers/GroupCreate/GroupCreate.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-06-16T19:48:54.042Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/containers/GroupCreate/GroupCreate.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-06-16T19:50:03.709Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/containers/GroupCreate/GroupCreate.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 153,
+            "linesRemoved": 0,
             "projectName": "cda",
             "content": {
               "added": [],
@@ -1174,6 +1286,22 @@
             },
             "duration": 1,
             "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/skills/yarn.lock": [
+          {
+            "timestamp": "2026-06-16T19:49:23.739Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/yarn.lock",
+            "fileType": ".lock",
+            "linesAdded": 14186,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "lock"
           }
         ]
       },
