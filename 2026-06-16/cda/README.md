@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 38107                                          |
-| **Lines Removed** (➖) | 654                                        |
-| **Net Change** (↕)    | 37453                |
-| **Active Time** (⌚)   | 180 minutes |
+| **Lines Added** (➕)   | 38135                                          |
+| **Lines Removed** (➖) | 714                                        |
+| **Net Change** (↕)    | 37421                |
+| **Active Time** (⌚)   | 194 minutes |
 
 
 ## Modified Files
@@ -16,7 +16,7 @@
 - **queries.js** (+462, -108)
 - **SkillAdmin.tsx** (+122, -22)
 - **SkillAdmin.test.tsx** (+212, -42)
-- **App.tsx** (+469, -12)
+- **App.tsx** (+476, -13)
 - **yarn.lock** (+13854, -0)
 - **package.json** (+68, -0)
 - **Book.test.tsx** (+457, -0)
@@ -27,7 +27,7 @@
 - **GroupManagement.stories.tsx** (+333, -68)
 - **useGroupManagementState.test.tsx** (+69, -0)
 - **index.ts** (+4, -0)
-- **GroupDetails.tsx** (+528, -0)
+- **GroupDetails.tsx** (+528, -20)
 - **index.ts** (+4, -1)
 - **GroupCreate.test.tsx** (+209, -131)
 - **GroupCreate.tsx** (+576, -226)
@@ -40,7 +40,7 @@
 - **index.ts** (+4, -0)
 - **GroupDetails.tsx** (+264, -0)
 - **GroupDetails.scss** (+150, -0)
-- **GroupDetails.test.tsx** (+78, -1)
+- **GroupDetails.test.tsx** (+78, -14)
 - **GroupMembersList.tsx** (+210, -0)
 - **skills.js** (+48, -0)
 - **codegen.ts** (+28, -0)
@@ -59,9 +59,9 @@
 - **index.js** (+57, -0)
 - **SearchResults.tsx** (+270, -0)
 - **MultiSelect.tsx** (+292, -0)
-- **Groups.test.tsx** (+62, -0)
+- **Groups.test.tsx** (+80, -13)
 - **index.ts** (+3, -0)
-- **Groups.tsx** (+144, -0)
+- **Groups.tsx** (+147, -13)
 
 ## Visualizations
 
@@ -71,7 +71,7 @@
 pie showData
 title Lines changed by file type
 ".js" : 2294
-".tsx" : 5240
+".tsx" : 5328
 ".lock" : 28040
 ".json" : 318
 ".ts" : 2664
@@ -86,8 +86,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "19h" : 39
 "20h" : 55
-"21h" : 41
+"21h" : 52
 ```
 
 
-> **Last Updated:** 16/06/2026, 21:24:50
+> **Last Updated:** 16/06/2026, 21:29:50
