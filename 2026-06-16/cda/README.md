@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 15353                                          |
-| **Lines Removed** (➖) | 16                                        |
-| **Net Change** (↕)    | 15337                |
-| **Active Time** (⌚)   | 19 minutes |
+| **Lines Added** (➕)   | 16020                                          |
+| **Lines Removed** (➖) | 19                                        |
+| **Net Change** (↕)    | 16001                |
+| **Active Time** (⌚)   | 28 minutes |
 
 
 ## Modified Files
@@ -21,6 +21,9 @@
 - **package.json** (+68, -0)
 - **Book.test.tsx** (+457, -0)
 - **index.ts** (+14, -11)
+- **index.ts** (+507, -0)
+- **useStorySearch.ts** (+39, -0)
+- **storyData.ts** (+121, -3)
 
 ## Visualizations
 
@@ -33,7 +36,7 @@ title Lines changed by file type
 ".tsx" : 940
 ".lock" : 13854
 ".json" : 68
-".ts" : 25
+".ts" : 695
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -41,8 +44,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"19h" : 19
+"19h" : 24
 ```
 
 
-> **Last Updated:** 16/06/2026, 19:22:58
+> **Last Updated:** 16/06/2026, 19:27:58
