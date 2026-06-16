@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 38135                                          |
-| **Lines Removed** (➖) | 714                                        |
-| **Net Change** (↕)    | 37421                |
-| **Active Time** (⌚)   | 194 minutes |
+| **Lines Added** (➕)   | 38158                                          |
+| **Lines Removed** (➖) | 741                                        |
+| **Net Change** (↕)    | 37417                |
+| **Active Time** (⌚)   | 202 minutes |
 
 
 ## Modified Files
@@ -16,7 +16,7 @@
 - **queries.js** (+462, -108)
 - **SkillAdmin.tsx** (+122, -22)
 - **SkillAdmin.test.tsx** (+212, -42)
-- **App.tsx** (+476, -13)
+- **App.tsx** (+482, -13)
 - **yarn.lock** (+13854, -0)
 - **package.json** (+68, -0)
 - **Book.test.tsx** (+457, -0)
@@ -30,7 +30,7 @@
 - **GroupDetails.tsx** (+528, -20)
 - **index.ts** (+4, -1)
 - **GroupCreate.test.tsx** (+209, -131)
-- **GroupCreate.tsx** (+576, -226)
+- **GroupCreate.tsx** (+593, -226)
 - **.gitignore** (+50, -0)
 - **mutations.js** (+707, -0)
 - **Group.tsx** (+196, -7)
@@ -59,9 +59,9 @@
 - **index.js** (+57, -0)
 - **SearchResults.tsx** (+270, -0)
 - **MultiSelect.tsx** (+292, -0)
-- **Groups.test.tsx** (+80, -13)
+- **Groups.test.tsx** (+80, -31)
 - **index.ts** (+3, -0)
-- **Groups.tsx** (+147, -13)
+- **Groups.tsx** (+147, -22)
 
 ## Visualizations
 
@@ -71,7 +71,7 @@
 pie showData
 title Lines changed by file type
 ".js" : 2294
-".tsx" : 5328
+".tsx" : 5378
 ".lock" : 28040
 ".json" : 318
 ".ts" : 2664
@@ -86,8 +86,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "19h" : 39
 "20h" : 55
-"21h" : 52
+"21h" : 57
 ```
 
 
-> **Last Updated:** 16/06/2026, 21:29:50
+> **Last Updated:** 16/06/2026, 21:34:50
