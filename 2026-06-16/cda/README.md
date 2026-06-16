@@ -4,19 +4,19 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 33348                                          |
-| **Lines Removed** (➖) | 651                                        |
-| **Net Change** (↕)    | 32697                |
-| **Active Time** (⌚)   | 141 minutes |
+| **Lines Added** (➕)   | 37631                                          |
+| **Lines Removed** (➖) | 654                                        |
+| **Net Change** (↕)    | 36977                |
+| **Active Time** (⌚)   | 173 minutes |
 
 
 ## Modified Files
-- **index.js** (+193, -20)
+- **index.js** (+366, -20)
 - **CreateBooking.tsx** (+144, -2)
 - **queries.js** (+462, -108)
-- **SkillAdmin.tsx** (+72, -22)
-- **SkillAdmin.test.tsx** (+127, -42)
-- **App.tsx** (+238, -10)
+- **SkillAdmin.tsx** (+122, -22)
+- **SkillAdmin.test.tsx** (+212, -42)
+- **App.tsx** (+466, -12)
 - **yarn.lock** (+13854, -0)
 - **package.json** (+68, -0)
 - **Book.test.tsx** (+457, -0)
@@ -29,8 +29,8 @@
 - **index.ts** (+4, -0)
 - **GroupDetails.tsx** (+264, -0)
 - **index.ts** (+4, -1)
-- **GroupCreate.test.tsx** (+170, -131)
-- **GroupCreate.tsx** (+401, -226)
+- **GroupCreate.test.tsx** (+209, -131)
+- **GroupCreate.tsx** (+576, -226)
 - **.gitignore** (+50, -0)
 - **mutations.js** (+707, -0)
 - **Group.tsx** (+196, -7)
@@ -40,6 +40,25 @@
 - **index.ts** (+4, -0)
 - **GroupDetails.tsx** (+264, -0)
 - **GroupDetails.scss** (+150, -0)
+- **GroupDetails.test.tsx** (+78, -1)
+- **GroupMembersList.tsx** (+210, -0)
+- **skills.js** (+48, -0)
+- **codegen.ts** (+28, -0)
+- **queries.js** (+100, -0)
+- **skill-queries.ts** (+59, -0)
+- **20260529085728-create-profile-skill-group-table.js** (+24, -0)
+- **skills.js** (+402, -0)
+- **skills.ts** (+277, -0)
+- **skill-mutations.ts** (+779, -0)
+- **skill-queries.ts** (+299, -0)
+- **SkillGroups.ts** (+93, -0)
+- **SkillGroups.test.ts** (+414, -0)
+- **index.ts** (+4, -0)
+- **SortableDataTable.scss** (+5, -0)
+- **SortableDataTable.tsx** (+94, -0)
+- **index.js** (+57, -0)
+- **SearchResults.tsx** (+270, -0)
+- **MultiSelect.tsx** (+292, -0)
 
 ## Visualizations
 
@@ -48,13 +67,13 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".js" : 1490
-".tsx" : 3243
+".js" : 2294
+".tsx" : 4767
 ".lock" : 28040
 ".json" : 318
-".ts" : 708
+".ts" : 2661
 "unknown" : 50
-".scss" : 150
+".scss" : 155
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -64,8 +83,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "19h" : 39
 "20h" : 55
-"21h" : 6
+"21h" : 33
 ```
 
 
-> **Last Updated:** 16/06/2026, 21:07:58
+> **Last Updated:** 16/06/2026, 21:14:50
