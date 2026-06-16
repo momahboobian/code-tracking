@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 16348,
-      "totalLinesRemoved": 21,
-      "totalActiveTime": 41,
+      "totalLinesRemoved": 29,
+      "totalActiveTime": 44,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/index.js": [
           {
@@ -465,6 +465,34 @@
               "removed": []
             },
             "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-06-16T18:38:14.171Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/docs/components/GroupManagement/GroupManagement.stories.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-06-16T18:39:03.143Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/docs/components/GroupManagement/GroupManagement.stories.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "tsx"
           }
         ]
