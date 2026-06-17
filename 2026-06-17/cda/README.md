@@ -4,24 +4,24 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 9642                                          |
+| **Lines Added** (➕)   | 10225                                          |
 | **Lines Removed** (➖) | 1013                                        |
-| **Net Change** (↕)    | 8629                |
-| **Active Time** (⌚)   | 289 minutes |
+| **Net Change** (↕)    | 9212                |
+| **Active Time** (⌚)   | 299 minutes |
 
 
 ## Modified Files
 - **GroupCreate.tsx** (+11, -17)
 - **SortableDataTable.tsx** (+94, -0)
 - **GroupMembersList.scss** (+18, -6)
-- **ConfirmationModal.tsx** (+181, -43)
+- **ConfirmationModal.tsx** (+262, -43)
 - **GroupMembersList.tsx** (+2, -1)
 - **ConfirmationModal.scss** (+81, -80)
 - **SortableDataTable.scss** (+37, -18)
 - **GroupCreate.test.tsx** (+0, -2)
 - **Group.tsx** (+189, -0)
-- **SkillAdmin.test.tsx** (+100, -45)
-- **App.tsx** (+293, -100)
+- **SkillAdmin.test.tsx** (+185, -45)
+- **App.tsx** (+537, -100)
 - **allocate.js** (+1066, -0)
 - **allocate.js** (+337, -0)
 - **SkillAdmin.tsx** (+50, -0)
@@ -36,7 +36,7 @@
 - **skill-queries.ts** (+299, -0)
 - **SkillGroups.ts** (+93, -0)
 - **SkillGroups.test.ts** (+414, -0)
-- **index.js** (+182, -6)
+- **index.js** (+355, -6)
 - **MultiSelect.tsx** (+292, -0)
 - **SearchResults.tsx** (+270, -0)
 - **index.js** (+57, -0)
@@ -61,9 +61,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 4878
+".tsx" : 5288
 ".scss" : 420
-".js" : 2222
+".js" : 2395
 ".ts" : 2949
 ".json" : 186
 ```
@@ -85,8 +85,8 @@ title Coding activity by hour (count of changes)
 "18h" : 18
 "19h" : 2
 "20h" : 31
-"21h" : 7
+"21h" : 11
 ```
 
 
-> **Last Updated:** 17/06/2026, 21:07:46
+> **Last Updated:** 17/06/2026, 21:12:46
