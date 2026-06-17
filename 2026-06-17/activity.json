@@ -2,9 +2,9 @@
   "date": "2026-06-17",
   "projects": {
     "cda": {
-      "totalLinesAdded": 8701,
-      "totalLinesRemoved": 584,
-      "totalActiveTime": 230,
+      "totalLinesAdded": 8955,
+      "totalLinesRemoved": 757,
+      "totalActiveTime": 237,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/containers/GroupCreate/GroupCreate.tsx": [
           {
@@ -1772,6 +1772,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2026-06-17T18:01:00.058Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/docs/components/GroupManagement/GroupManagement.stories.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 37,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/GroupManagement/GroupManagement.tsx": [
@@ -2375,6 +2389,34 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-06-17T17:58:32.922Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/docs/components/GroupManagement/utils/storyData.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 173,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-06-17T18:00:16.532Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/docs/components/GroupManagement/utils/storyData.ts",
+            "fileType": ".ts",
+            "linesAdded": 217,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "ts"
           }
         ]
