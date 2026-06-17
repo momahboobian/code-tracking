@@ -4,16 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 117                                          |
+| **Lines Added** (➕)   | 194                                          |
 | **Lines Removed** (➖) | 17                                        |
-| **Net Change** (↕)    | 100                |
-| **Active Time** (⌚)   | 8 minutes |
+| **Net Change** (↕)    | 177                |
+| **Active Time** (⌚)   | 11 minutes |
 
 
 ## Modified Files
 - **GroupCreate.tsx** (+11, -17)
 - **SortableDataTable.tsx** (+94, -0)
 - **GroupMembersList.scss** (+12, -0)
+- **ConfirmationModal.tsx** (+77, -0)
 
 ## Visualizations
 
@@ -22,7 +23,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 122
+".tsx" : 199
 ".scss" : 12
 ```
 
@@ -31,8 +32,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"09h" : 7
+"09h" : 9
 ```
 
 
-> **Last Updated:** 17/06/2026, 09:24:50
+> **Last Updated:** 17/06/2026, 09:29:50
