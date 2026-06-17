@@ -4,9 +4,9 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 520                                          |
+| **Lines Added** (➕)   | 1923                                          |
 | **Lines Removed** (➖) | 182                                        |
-| **Net Change** (↕)    | 338                |
+| **Net Change** (↕)    | 1741                |
 | **Active Time** (⌚)   | 74 minutes |
 
 
@@ -22,6 +22,8 @@
 - **Group.tsx** (+189, -0)
 - **SkillAdmin.test.tsx** (+0, -15)
 - **App.tsx** (+0, -24)
+- **allocate.js** (+1066, -0)
+- **allocate.js** (+337, -0)
 
 ## Visualizations
 
@@ -32,6 +34,7 @@ pie showData
 title Lines changed by file type
 ".tsx" : 462
 ".scss" : 240
+".js" : 1403
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -41,7 +44,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "09h" : 49
 "10h" : 6
+"11h" : 2
 ```
 
 
-> **Last Updated:** 17/06/2026, 10:39:50
+> **Last Updated:** 17/06/2026, 11:18:49
