@@ -2,9 +2,9 @@
   "date": "2026-06-18",
   "projects": {
     "cda": {
-      "totalLinesAdded": 6747,
-      "totalLinesRemoved": 99,
-      "totalActiveTime": 111,
+      "totalLinesAdded": 7102,
+      "totalLinesRemoved": 104,
+      "totalActiveTime": 114,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/types/index.ts": [
           {
@@ -702,6 +702,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2026-06-18T11:58:17.024Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/containers/GroupDetails/GroupDetails.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/containers/Groups/Groups.test.tsx": [
@@ -1008,6 +1022,20 @@
             },
             "duration": 0,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2026-06-18T11:59:42.867Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/containers/GroupCreate/GroupCreate.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/graphql/low-risk/mutations.js": [
@@ -1023,6 +1051,22 @@
               "removed": []
             },
             "duration": 0,
+            "language": "js"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/graphql/low-risk/queries.js": [
+          {
+            "timestamp": "2026-06-18T12:00:30.344Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/graphql/low-risk/queries.js",
+            "fileType": ".js",
+            "linesAdded": 354,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "js"
           }
         ]
