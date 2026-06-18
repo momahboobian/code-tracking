@@ -5,8 +5,8 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 7102                                          |
-| **Lines Removed** (➖) | 105                                        |
-| **Net Change** (↕)    | 6997                |
+| **Lines Removed** (➖) | 111                                        |
+| **Net Change** (↕)    | 6991                |
 | **Active Time** (⌚)   | 115 minutes |
 
 
@@ -40,7 +40,7 @@
 - **GroupDetails.tsx** (+273, -69)
 - **Groups.test.tsx** (+49, -0)
 - **GroupDetails.test.tsx** (+66, -0)
-- **GroupDetails.scss** (+199, -28)
+- **GroupDetails.scss** (+199, -34)
 - **GroupEdit.tsx** (+175, -0)
 - **index.ts** (+3, -0)
 - **GroupCreate.tsx** (+229, -1)
@@ -58,7 +58,7 @@ title Lines changed by file type
 ".js" : 1865
 ".json" : 186
 ".tsx" : 2472
-".scss" : 227
+".scss" : 233
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -69,8 +69,8 @@ title Coding activity by hour (count of changes)
 "10h" : 60
 "11h" : 6
 "12h" : 4
-"13h" : 2
+"13h" : 3
 ```
 
 
-> **Last Updated:** 18/06/2026, 13:05:49
+> **Last Updated:** 18/06/2026, 13:20:49
