@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 5626,
-      "totalLinesRemoved": 78,
-      "totalActiveTime": 90,
+      "totalLinesRemoved": 80,
+      "totalActiveTime": 92,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/types/index.ts": [
           {
@@ -777,6 +777,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2026-06-18T09:51:01.895Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/containers/GroupDetails/GroupDetails.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "scss"
           }
         ]
