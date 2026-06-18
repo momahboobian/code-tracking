@@ -4,18 +4,18 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 7942                                          |
-| **Lines Removed** (➖) | 344                                        |
-| **Net Change** (↕)    | 7598                |
-| **Active Time** (⌚)   | 164 minutes |
+| **Lines Added** (➕)   | 8124                                          |
+| **Lines Removed** (➖) | 359                                        |
+| **Net Change** (↕)    | 7765                |
+| **Active Time** (⌚)   | 172 minutes |
 
 
 ## Modified Files
 - **index.ts** (+505, -0)
-- **index.js** (+176, -0)
+- **index.js** (+176, -3)
 - **package.json** (+186, -0)
 - **SkillAdmin.tsx** (+50, -0)
-- **SkillAdmin.test.tsx** (+85, -15)
+- **SkillAdmin.test.tsx** (+100, -15)
 - **skills.js** (+48, -0)
 - **queries.js** (+100, -0)
 - **codegen.ts** (+28, -0)
@@ -30,8 +30,8 @@
 - **MultiSelect.tsx** (+292, -0)
 - **SearchResults.tsx** (+270, -0)
 - **index.js** (+57, -0)
-- **App.tsx** (+246, -29)
-- **ConfirmationModal.tsx** (+81, -12)
+- **App.tsx** (+274, -29)
+- **ConfirmationModal.tsx** (+93, -12)
 - **SortableItem.tsx** (+41, -0)
 - **SortableList.tsx** (+107, -0)
 - **SortableDataTable.tsx** (+94, -0)
@@ -43,9 +43,9 @@
 - **GroupDetails.scss** (+248, -77)
 - **GroupEdit.tsx** (+175, -0)
 - **index.ts** (+3, -0)
-- **GroupCreate.tsx** (+229, -1)
+- **GroupCreate.tsx** (+238, -13)
 - **mutations.js** (+707, -0)
-- **queries.js** (+354, -54)
+- **queries.js** (+408, -54)
 - **InlineUpdateButton.scss** (+105, -18)
 - **GroupManagement.tsx** (+371, -59)
 - **types.ts** (+159, -4)
@@ -53,6 +53,7 @@
 - **GroupManagement.d.ts** (+11, -0)
 - **InputField.tsx** (+134, -0)
 - **toTItle.ts** (+3, -0)
+- **package.json** (+64, -0)
 
 ## Visualizations
 
@@ -62,9 +63,9 @@
 pie showData
 title Lines changed by file type
 ".ts" : 2639
-".js" : 1922
-".json" : 186
-".tsx" : 3091
+".js" : 1979
+".json" : 250
+".tsx" : 3167
 ".scss" : 448
 ```
 
@@ -77,7 +78,8 @@ title Coding activity by hour (count of changes)
 "11h" : 6
 "12h" : 4
 "13h" : 46
+"14h" : 10
 ```
 
 
-> **Last Updated:** 18/06/2026, 13:40:49
+> **Last Updated:** 18/06/2026, 14:50:49
