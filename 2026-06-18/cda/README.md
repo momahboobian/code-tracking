@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 25071                                          |
-| **Lines Removed** (➖) | 612                                        |
-| **Net Change** (↕)    | 24459                |
-| **Active Time** (⌚)   | 313 minutes |
+| **Lines Added** (➕)   | 25100                                          |
+| **Lines Removed** (➖) | 618                                        |
+| **Net Change** (↕)    | 24482                |
+| **Active Time** (⌚)   | 320 minutes |
 
 
 ## Modified Files
@@ -35,7 +35,7 @@
 - **SortableItem.tsx** (+41, -0)
 - **SortableList.tsx** (+107, -0)
 - **SortableDataTable.tsx** (+94, -0)
-- **GroupMembersList.tsx** (+217, -8)
+- **GroupMembersList.tsx** (+246, -14)
 - **Groups.tsx** (+126, -6)
 - **GroupDetails.tsx** (+295, -98)
 - **Groups.test.tsx** (+49, -0)
@@ -73,7 +73,7 @@ title Lines changed by file type
 ".ts" : 18896
 ".js" : 2192
 ".json" : 250
-".tsx" : 3837
+".tsx" : 3872
 ".scss" : 508
 ```
 
@@ -90,8 +90,8 @@ title Coding activity by hour (count of changes)
 "15h" : 45
 "16h" : 6
 "17h" : 20
-"18h" : 16
+"18h" : 20
 ```
 
 
-> **Last Updated:** 18/06/2026, 18:20:49
+> **Last Updated:** 18/06/2026, 18:25:49
