@@ -2,9 +2,9 @@
   "date": "2026-06-18",
   "projects": {
     "cda": {
-      "totalLinesAdded": 7799,
-      "totalLinesRemoved": 334,
-      "totalActiveTime": 148,
+      "totalLinesAdded": 7804,
+      "totalLinesRemoved": 341,
+      "totalActiveTime": 155,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/types/index.ts": [
           {
@@ -1506,6 +1506,34 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2026-06-18T12:34:08.098Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/GroupManagement/GroupManagement.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-06-18T12:34:51.158Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/GroupManagement/GroupManagement.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/GroupManagement/types.ts": [
@@ -1529,6 +1557,34 @@
             "fileType": ".ts",
             "linesAdded": 58,
             "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-06-18T12:33:26.536Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/GroupManagement/types.ts",
+            "fileType": ".ts",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-06-18T12:33:40.946Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/GroupManagement/types.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 4,
             "projectName": "cda",
             "content": {
               "added": [],
