@@ -4,18 +4,18 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 7102                                          |
-| **Lines Removed** (➖) | 111                                        |
-| **Net Change** (↕)    | 6991                |
-| **Active Time** (⌚)   | 115 minutes |
+| **Lines Added** (➕)   | 7259                                          |
+| **Lines Removed** (➖) | 281                                        |
+| **Net Change** (↕)    | 6978                |
+| **Active Time** (⌚)   | 140 minutes |
 
 
 ## Modified Files
 - **index.ts** (+505, -0)
-- **index.js** (+173, -0)
+- **index.js** (+176, -0)
 - **package.json** (+186, -0)
 - **SkillAdmin.tsx** (+50, -0)
-- **SkillAdmin.test.tsx** (+85, -0)
+- **SkillAdmin.test.tsx** (+85, -15)
 - **skills.js** (+48, -0)
 - **queries.js** (+100, -0)
 - **codegen.ts** (+28, -0)
@@ -30,8 +30,8 @@
 - **MultiSelect.tsx** (+292, -0)
 - **SearchResults.tsx** (+270, -0)
 - **index.js** (+57, -0)
-- **App.tsx** (+246, -1)
-- **ConfirmationModal.tsx** (+81, -0)
+- **App.tsx** (+246, -29)
+- **ConfirmationModal.tsx** (+81, -12)
 - **SortableItem.tsx** (+41, -0)
 - **SortableList.tsx** (+107, -0)
 - **SortableDataTable.tsx** (+94, -0)
@@ -40,12 +40,13 @@
 - **GroupDetails.tsx** (+273, -69)
 - **Groups.test.tsx** (+49, -0)
 - **GroupDetails.test.tsx** (+66, -0)
-- **GroupDetails.scss** (+199, -34)
+- **GroupDetails.scss** (+248, -77)
 - **GroupEdit.tsx** (+175, -0)
 - **index.ts** (+3, -0)
 - **GroupCreate.tsx** (+229, -1)
 - **mutations.js** (+707, -0)
-- **queries.js** (+354, -0)
+- **queries.js** (+354, -54)
+- **InlineUpdateButton.scss** (+105, -18)
 
 ## Visualizations
 
@@ -55,10 +56,10 @@
 pie showData
 title Lines changed by file type
 ".ts" : 2457
-".js" : 1865
+".js" : 1922
 ".json" : 186
-".tsx" : 2472
-".scss" : 233
+".tsx" : 2527
+".scss" : 448
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -69,8 +70,8 @@ title Coding activity by hour (count of changes)
 "10h" : 60
 "11h" : 6
 "12h" : 4
-"13h" : 3
+"13h" : 28
 ```
 
 
-> **Last Updated:** 18/06/2026, 13:20:49
+> **Last Updated:** 18/06/2026, 13:25:49
