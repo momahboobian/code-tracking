@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 24958                                          |
-| **Lines Removed** (➖) | 505                                        |
-| **Net Change** (↕)    | 24453                |
-| **Active Time** (⌚)   | 256 minutes |
+| **Lines Added** (➕)   | 24971                                          |
+| **Lines Removed** (➖) | 525                                        |
+| **Net Change** (↕)    | 24446                |
+| **Active Time** (⌚)   | 258 minutes |
 
 
 ## Modified Files
@@ -43,7 +43,7 @@
 - **GroupDetails.scss** (+248, -77)
 - **GroupEdit.tsx** (+175, -0)
 - **index.ts** (+3, -0)
-- **GroupCreate.tsx** (+406, -137)
+- **GroupCreate.tsx** (+419, -137)
 - **mutations.js** (+707, -0)
 - **queries.js** (+408, -54)
 - **InlineUpdateButton.scss** (+105, -18)
@@ -61,7 +61,7 @@
 - **graphql.ts** (+8759, -0)
 - **gql.ts** (+268, -0)
 - **graphql.ts** (+7086, -0)
-- **people.js** (+173, -20)
+- **people.js** (+173, -40)
 
 ## Visualizations
 
@@ -71,9 +71,9 @@
 pie showData
 title Lines changed by file type
 ".ts" : 18896
-".js" : 2172
+".js" : 2192
 ".json" : 250
-".tsx" : 3637
+".tsx" : 3650
 ".scss" : 508
 ```
 
@@ -89,7 +89,8 @@ title Coding activity by hour (count of changes)
 "14h" : 18
 "15h" : 45
 "16h" : 6
+"17h" : 2
 ```
 
 
-> **Last Updated:** 18/06/2026, 16:40:49
+> **Last Updated:** 18/06/2026, 17:05:49
