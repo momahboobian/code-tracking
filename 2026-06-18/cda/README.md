@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 7259                                          |
-| **Lines Removed** (➖) | 281                                        |
-| **Net Change** (↕)    | 6978                |
-| **Active Time** (⌚)   | 140 minutes |
+| **Lines Added** (➕)   | 7799                                          |
+| **Lines Removed** (➖) | 334                                        |
+| **Net Change** (↕)    | 7465                |
+| **Active Time** (⌚)   | 148 minutes |
 
 
 ## Modified Files
@@ -47,6 +47,10 @@
 - **mutations.js** (+707, -0)
 - **queries.js** (+354, -54)
 - **InlineUpdateButton.scss** (+105, -18)
+- **GroupManagement.tsx** (+369, -53)
+- **types.ts** (+155, -0)
+- **index.ts** (+5, -0)
+- **GroupManagement.d.ts** (+11, -0)
 
 ## Visualizations
 
@@ -55,10 +59,10 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 2457
+".ts" : 2628
 ".js" : 1922
 ".json" : 186
-".tsx" : 2527
+".tsx" : 2949
 ".scss" : 448
 ```
 
@@ -70,8 +74,8 @@ title Coding activity by hour (count of changes)
 "10h" : 60
 "11h" : 6
 "12h" : 4
-"13h" : 28
+"13h" : 37
 ```
 
 
-> **Last Updated:** 18/06/2026, 13:25:49
+> **Last Updated:** 18/06/2026, 13:30:49
