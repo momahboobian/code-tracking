@@ -2,7 +2,7 @@
   "date": "2026-07-12",
   "projects": {
     "Downloads": {
-      "totalLinesAdded": 69,
+      "totalLinesAdded": 70,
       "totalLinesRemoved": 0,
       "totalActiveTime": 3,
       "files": {
@@ -75,6 +75,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "yml"
+          },
+          {
+            "timestamp": "2026-07-12T13:00:57.042Z",
+            "fileName": "/Users/momahboobian/Downloads/docker-compose.yml",
+            "fileType": ".yml",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Downloads",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "yml"
           }
         ]
