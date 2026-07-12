@@ -1,0 +1,47 @@
+{
+  "date": "2026-07-12",
+  "projects": {
+    "Downloads": {
+      "totalLinesAdded": 64,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/momahboobian/Downloads/docker-compose.yml": [
+          {
+            "timestamp": "2026-07-12T11:11:30.814Z",
+            "fileName": "/Users/momahboobian/Downloads/docker-compose.yml",
+            "fileType": ".yml",
+            "linesAdded": 64,
+            "linesRemoved": 0,
+            "projectName": "Downloads",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "yml"
+          }
+        ]
+      },
+      "languageStats": {
+        "yml": 0
+      },
+      "changeFrequency": {
+        "12": 0
+      },
+      "topFiles": [
+        "/Users/momahboobian/Downloads/docker-compose.yml"
+      ],
+      "averageChangeSize": 64
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    12
+  ],
+  "mostUsedLanguages": [
+    "yml"
+  ]
+}
