@@ -4,15 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 6685                                          |
-| **Lines Removed** (➖) | 782                                        |
-| **Net Change** (↕)    | 5903                |
-| **Active Time** (⌚)   | 65 minutes |
+| **Lines Added** (➕)   | 6831                                          |
+| **Lines Removed** (➖) | 1078                                        |
+| **Net Change** (↕)    | 5753                |
+| **Active Time** (⌚)   | 70 minutes |
 
 
 ## Modified Files
 - **package.json** (+186, -0)
-- **GroupManagement.tsx** (+312, -65)
+- **GroupManagement.tsx** (+366, -65)
 - **SkillAdmin.test.tsx** (+70, -0)
 - **SkillAdmin.tsx** (+50, -0)
 - **skills.js** (+48, -0)
@@ -43,7 +43,7 @@
 - **GroupMultiSelect.tsx** (+146, -0)
 - **GroupManagementTabs.tsx** (+62, -0)
 - **useGroupManagementState.test.tsx** (+69, -22)
-- **GroupManagement.test.tsx** (+746, -449)
+- **GroupManagement.test.tsx** (+838, -745)
 
 ## Visualizations
 
@@ -53,7 +53,7 @@
 pie showData
 title Lines changed by file type
 ".json" : 186
-".tsx" : 3554
+".tsx" : 3996
 ".js" : 940
 ".ts" : 2787
 ```
@@ -64,8 +64,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "10h" : 27
-"11h" : 29
+"11h" : 32
 ```
 
 
-> **Last Updated:** 14/07/2026, 11:52:32
+> **Last Updated:** 14/07/2026, 11:57:32
