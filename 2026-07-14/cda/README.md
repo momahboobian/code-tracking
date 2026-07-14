@@ -4,15 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 6831                                          |
-| **Lines Removed** (➖) | 1078                                        |
-| **Net Change** (↕)    | 5753                |
-| **Active Time** (⌚)   | 70 minutes |
+| **Lines Added** (➕)   | 6949                                          |
+| **Lines Removed** (➖) | 1085                                        |
+| **Net Change** (↕)    | 5864                |
+| **Active Time** (⌚)   | 77 minutes |
 
 
 ## Modified Files
 - **package.json** (+186, -0)
-- **GroupManagement.tsx** (+366, -65)
+- **GroupManagement.tsx** (+400, -66)
 - **SkillAdmin.test.tsx** (+70, -0)
 - **SkillAdmin.tsx** (+50, -0)
 - **skills.js** (+48, -0)
@@ -32,18 +32,18 @@
 - **index.js** (+57, -0)
 - **App.tsx** (+217, -0)
 - **ConfirmationModal.tsx** (+69, -0)
-- **types.ts** (+155, -3)
-- **index.ts** (+12, -0)
+- **types.ts** (+197, -5)
+- **index.ts** (+16, -0)
 - **types.d.ts** (+124, -0)
 - **people.js** (+133, -0)
 - **storyData.ts** (+213, -13)
-- **GroupManagement.stories.tsx** (+414, -60)
+- **GroupManagement.stories.tsx** (+414, -64)
 - **useGroupManagementState.ts** (+187, -131)
 - **GroupSearch.tsx** (+202, -39)
 - **GroupMultiSelect.tsx** (+146, -0)
 - **GroupManagementTabs.tsx** (+62, -0)
 - **useGroupManagementState.test.tsx** (+69, -22)
-- **GroupManagement.test.tsx** (+838, -745)
+- **GroupManagement.test.tsx** (+876, -745)
 
 ## Visualizations
 
@@ -53,9 +53,9 @@
 pie showData
 title Lines changed by file type
 ".json" : 186
-".tsx" : 3996
+".tsx" : 4073
 ".js" : 940
-".ts" : 2787
+".ts" : 2835
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -65,7 +65,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "10h" : 27
 "11h" : 32
+"12h" : 8
 ```
 
 
-> **Last Updated:** 14/07/2026, 11:57:32
+> **Last Updated:** 14/07/2026, 12:42:32
