@@ -2,7 +2,7 @@
   "date": "2026-07-14",
   "projects": {
     "cda": {
-      "totalLinesAdded": 4639,
+      "totalLinesAdded": 4852,
       "totalLinesRemoved": 1,
       "totalActiveTime": 34,
       "files": {
@@ -418,6 +418,22 @@
             },
             "duration": 1,
             "language": "js"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/docs/components/GroupManagement/utils/storyData.ts": [
+          {
+            "timestamp": "2026-07-14T09:57:19.697Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/docs/components/GroupManagement/utils/storyData.ts",
+            "fileType": ".ts",
+            "linesAdded": 213,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
           }
         ]
       },
