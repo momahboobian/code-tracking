@@ -4,15 +4,38 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 498                                          |
-| **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 498                |
-| **Active Time** (⌚)   | 0 minute |
+| **Lines Added** (➕)   | 4639                                          |
+| **Lines Removed** (➖) | 1                                        |
+| **Net Change** (↕)    | 4638                |
+| **Active Time** (⌚)   | 34 minutes |
 
 
 ## Modified Files
 - **package.json** (+186, -0)
-- **GroupManagement.tsx** (+312, -0)
+- **GroupManagement.tsx** (+312, -1)
+- **SkillAdmin.test.tsx** (+70, -0)
+- **SkillAdmin.tsx** (+50, -0)
+- **skills.js** (+48, -0)
+- **skill-queries.ts** (+59, -0)
+- **codegen.ts** (+28, -0)
+- **queries.js** (+100, -0)
+- **20260529085728-create-profile-skill-group-table.js** (+24, -0)
+- **skills.js** (+402, -0)
+- **skills.ts** (+277, -0)
+- **skill-mutations.ts** (+779, -0)
+- **skill-queries.ts** (+299, -0)
+- **SkillGroups.ts** (+93, -0)
+- **SkillGroups.test.ts** (+414, -0)
+- **index.js** (+176, -0)
+- **MultiSelect.tsx** (+292, -0)
+- **SearchResults.tsx** (+270, -0)
+- **index.js** (+57, -0)
+- **App.tsx** (+217, -0)
+- **ConfirmationModal.tsx** (+69, -0)
+- **types.ts** (+155, -0)
+- **index.ts** (+5, -0)
+- **types.d.ts** (+124, -0)
+- **people.js** (+133, -0)
 
 ## Visualizations
 
@@ -22,7 +45,9 @@
 pie showData
 title Lines changed by file type
 ".json" : 186
-".tsx" : 312
+".tsx" : 1281
+".js" : 940
+".ts" : 2233
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -30,8 +55,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"10h" : 2
+"10h" : 26
 ```
 
 
-> **Last Updated:** 14/07/2026, 10:37:32
+> **Last Updated:** 14/07/2026, 10:42:32
