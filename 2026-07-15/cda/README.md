@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 6162                                          |
+| **Lines Added** (➕)   | 6363                                          |
 | **Lines Removed** (➖) | 413                                        |
-| **Net Change** (↕)    | 5749                |
-| **Active Time** (⌚)   | 158 minutes |
+| **Net Change** (↕)    | 5950                |
+| **Active Time** (⌚)   | 162 minutes |
 
 
 ## Modified Files
@@ -34,7 +34,7 @@
 - **ConfirmationModal.tsx** (+69, -0)
 - **GroupManagement.tsx** (+334, -0)
 - **types.ts** (+226, -8)
-- **index.ts** (+16, -12)
+- **index.ts** (+17, -12)
 - **types.d.ts** (+124, -0)
 - **people.js** (+133, -0)
 - **useGroupManagementState.ts** (+66, -0)
@@ -43,6 +43,7 @@
 - **GroupManagement.test.tsx** (+231, -0)
 - **useStorySearch.ts** (+39, -0)
 - **TextInputCore.scss** (+30, -0)
+- **storyData.ts** (+200, -0)
 
 ## Visualizations
 
@@ -54,7 +55,7 @@ title Lines changed by file type
 ".tsx" : 3021
 ".scss" : 174
 ".js" : 940
-".ts" : 2440
+".ts" : 2641
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -67,8 +68,8 @@ title Coding activity by hour (count of changes)
 "16h" : 31
 "17h" : 22
 "18h" : 22
-"19h" : 3
+"19h" : 5
 ```
 
 
-> **Last Updated:** 15/07/2026, 19:09:16
+> **Last Updated:** 15/07/2026, 19:14:16
