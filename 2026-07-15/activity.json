@@ -2,9 +2,9 @@
   "date": "2026-07-15",
   "projects": {
     "cda": {
-      "totalLinesAdded": 5587,
-      "totalLinesRemoved": 1,
-      "totalActiveTime": 24,
+      "totalLinesAdded": 5599,
+      "totalLinesRemoved": 60,
+      "totalActiveTime": 28,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/docs/components/GroupManagement/GroupManagement.stories.tsx": [
           {
@@ -472,6 +472,48 @@
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/GroupManagement/GroupSearch.tsx",
             "fileType": ".tsx",
             "linesAdded": 179,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-07-15T14:14:36.596Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/GroupManagement/GroupSearch.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 59,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-07-15T14:15:07.254Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/GroupManagement/GroupSearch.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-07-15T14:15:35.723Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/GroupManagement/GroupSearch.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 5,
             "linesRemoved": 0,
             "projectName": "cda",
             "content": {
