@@ -4,15 +4,44 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 464                                          |
+| **Lines Added** (➕)   | 5587                                          |
 | **Lines Removed** (➖) | 1                                        |
-| **Net Change** (↕)    | 463                |
-| **Active Time** (⌚)   | 1 minute |
+| **Net Change** (↕)    | 5586                |
+| **Active Time** (⌚)   | 24 minutes |
 
 
 ## Modified Files
 - **GroupManagement.stories.tsx** (+350, -0)
 - **GroupManagement.scss** (+114, -1)
+- **skills.js** (+48, -0)
+- **SkillAdmin.test.tsx** (+70, -0)
+- **SkillAdmin.tsx** (+50, -0)
+- **queries.js** (+100, -0)
+- **skill-queries.ts** (+59, -0)
+- **codegen.ts** (+28, -0)
+- **20260529085728-create-profile-skill-group-table.js** (+24, -0)
+- **skills.js** (+402, -0)
+- **skills.ts** (+277, -0)
+- **skill-mutations.ts** (+779, -0)
+- **skill-queries.ts** (+299, -0)
+- **SkillGroups.ts** (+93, -0)
+- **SkillGroups.test.ts** (+414, -0)
+- **index.js** (+176, -0)
+- **MultiSelect.tsx** (+292, -0)
+- **SearchResults.tsx** (+270, -0)
+- **index.js** (+57, -0)
+- **App.tsx** (+217, -0)
+- **ConfirmationModal.tsx** (+69, -0)
+- **GroupManagement.tsx** (+334, -0)
+- **types.ts** (+192, -0)
+- **index.ts** (+16, -0)
+- **types.d.ts** (+124, -0)
+- **people.js** (+133, -0)
+- **useGroupManagementState.ts** (+66, -0)
+- **GroupSearch.tsx** (+179, -0)
+- **GroupMultiSelect.tsx** (+146, -0)
+- **GroupManagement.test.tsx** (+170, -0)
+- **useStorySearch.ts** (+39, -0)
 
 ## Visualizations
 
@@ -21,8 +50,10 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 350
+".tsx" : 2147
 ".scss" : 115
+".js" : 940
+".ts" : 2386
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -31,8 +62,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "14h" : 2
-"15h" : 2
+"15h" : 31
 ```
 
 
-> **Last Updated:** 15/07/2026, 15:09:16
+> **Last Updated:** 15/07/2026, 15:14:16
