@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 6061                                          |
-| **Lines Removed** (➖) | 363                                        |
-| **Net Change** (↕)    | 5698                |
-| **Active Time** (⌚)   | 143 minutes |
+| **Lines Added** (➕)   | 6063                                          |
+| **Lines Removed** (➖) | 369                                        |
+| **Net Change** (↕)    | 5694                |
+| **Active Time** (⌚)   | 148 minutes |
 
 
 ## Modified Files
@@ -27,19 +27,19 @@
 - **SkillGroups.ts** (+93, -0)
 - **SkillGroups.test.ts** (+414, -0)
 - **index.js** (+176, -0)
-- **MultiSelect.tsx** (+297, -0)
+- **MultiSelect.tsx** (+297, -5)
 - **SearchResults.tsx** (+270, -0)
 - **index.js** (+57, -0)
 - **App.tsx** (+217, -0)
 - **ConfirmationModal.tsx** (+69, -0)
 - **GroupManagement.tsx** (+334, -0)
-- **types.ts** (+201, -6)
+- **types.ts** (+201, -7)
 - **index.ts** (+16, -12)
 - **types.d.ts** (+124, -0)
 - **people.js** (+133, -0)
 - **useGroupManagementState.ts** (+66, -0)
 - **GroupSearch.tsx** (+208, -59)
-- **GroupMultiSelect.tsx** (+171, -0)
+- **GroupMultiSelect.tsx** (+173, -0)
 - **GroupManagement.test.tsx** (+172, -0)
 - **useStorySearch.ts** (+39, -0)
 - **TextInputCore.scss** (+30, -0)
@@ -51,10 +51,10 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 2897
+".tsx" : 2904
 ".scss" : 174
 ".js" : 940
-".ts" : 2413
+".ts" : 2414
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -66,8 +66,8 @@ title Coding activity by hour (count of changes)
 "15h" : 38
 "16h" : 31
 "17h" : 22
-"18h" : 13
+"18h" : 16
 ```
 
 
-> **Last Updated:** 15/07/2026, 18:34:16
+> **Last Updated:** 15/07/2026, 18:39:16
