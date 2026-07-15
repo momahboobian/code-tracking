@@ -2,7 +2,7 @@
   "date": "2026-07-15",
   "projects": {
     "cda": {
-      "totalLinesAdded": 350,
+      "totalLinesAdded": 459,
       "totalLinesRemoved": 0,
       "totalActiveTime": 0,
       "files": {
@@ -20,6 +20,22 @@
             },
             "duration": 0,
             "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/GroupManagement/GroupManagement.scss": [
+          {
+            "timestamp": "2026-07-15T13:55:36.078Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/GroupManagement/GroupManagement.scss",
+            "fileType": ".scss",
+            "linesAdded": 109,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "scss"
           }
         ]
       },
