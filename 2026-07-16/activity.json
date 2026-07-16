@@ -3,7 +3,7 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 6005,
-      "totalLinesRemoved": 50,
+      "totalLinesRemoved": 53,
       "totalActiveTime": 52,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/containers/SkillAdmin/SkillAdmin.tsx": [
@@ -469,6 +469,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-07-16T13:35:57.573Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/dist/components/GroupManagement/types.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "ts"
           }
         ],
