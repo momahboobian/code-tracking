@@ -1,0 +1,75 @@
+{
+  "date": "2026-07-17",
+  "projects": {
+    "cda": {
+      "totalLinesAdded": 89,
+      "totalLinesRemoved": 111,
+      "totalActiveTime": 2,
+      "files": {
+        "/Users/momahboobian/Downloads/main.py": [
+          {
+            "timestamp": "2026-07-17T08:43:45.700Z",
+            "fileName": "/Users/momahboobian/Downloads/main.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 111,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-07-17T08:44:06.553Z",
+            "fileName": "/Users/momahboobian/Downloads/main.py",
+            "fileType": ".py",
+            "linesAdded": 67,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-07-17T08:44:18.152Z",
+            "fileName": "/Users/momahboobian/Downloads/main.py",
+            "fileType": ".py",
+            "linesAdded": 22,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ]
+      },
+      "languageStats": {
+        "py": 2
+      },
+      "changeFrequency": {
+        "9": 2
+      },
+      "topFiles": [
+        "/Users/momahboobian/Downloads/main.py"
+      ],
+      "averageChangeSize": 66.66666666666667
+    }
+  },
+  "totalActiveTime": 2,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    9
+  ],
+  "mostUsedLanguages": [
+    "py"
+  ]
+}
