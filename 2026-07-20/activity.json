@@ -2,9 +2,9 @@
   "date": "2026-07-20",
   "projects": {
     "cda": {
-      "totalLinesAdded": 6085,
-      "totalLinesRemoved": 26,
-      "totalActiveTime": 30,
+      "totalLinesAdded": 6101,
+      "totalLinesRemoved": 81,
+      "totalActiveTime": 33,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/containers/SkillAdmin/SkillAdmin.tsx": [
           {
@@ -75,6 +75,20 @@
             "fileType": ".tsx",
             "linesAdded": 15,
             "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-07-20T11:33:42.017Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/containers/SkillAdmin/SkillAdmin.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 15,
             "projectName": "cda",
             "content": {
               "added": [],
@@ -348,6 +362,20 @@
             },
             "duration": 0,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2026-07-20T11:33:42.020Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 28,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/components/ConfirmationModal/ConfirmationModal.tsx": [
@@ -371,6 +399,20 @@
             "fileType": ".tsx",
             "linesAdded": 12,
             "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-07-20T11:33:42.022Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/components/ConfirmationModal/ConfirmationModal.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 12,
             "projectName": "cda",
             "content": {
               "added": [],
@@ -554,6 +596,34 @@
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/GroupManagement/GroupMultiSelect.tsx",
             "fileType": ".tsx",
             "linesAdded": 163,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-07-20T11:35:14.820Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/GroupManagement/GroupMultiSelect.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-07-20T11:35:18.524Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/GroupManagement/GroupMultiSelect.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 9,
             "linesRemoved": 0,
             "projectName": "cda",
             "content": {
