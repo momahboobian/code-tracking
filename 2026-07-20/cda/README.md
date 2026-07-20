@@ -4,17 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 5963                                          |
-| **Lines Removed** (➖) | 23                                        |
-| **Net Change** (↕)    | 5940                |
-| **Active Time** (⌚)   | 29 minutes |
+| **Lines Added** (➕)   | 6021                                          |
+| **Lines Removed** (➖) | 26                                        |
+| **Net Change** (↕)    | 5995                |
+| **Active Time** (⌚)   | 30 minutes |
 
 
 ## Modified Files
 - **SkillAdmin.tsx** (+50, -0)
 - **queries.js** (+100, -0)
 - **skills.js** (+48, -0)
-- **SkillAdmin.test.tsx** (+70, -0)
+- **SkillAdmin.test.tsx** (+85, -0)
 - **skill-queries.ts** (+59, -0)
 - **codegen.ts** (+28, -0)
 - **20260529085728-create-profile-skill-group-table.js** (+24, -0)
@@ -24,12 +24,12 @@
 - **skill-queries.ts** (+299, -0)
 - **SkillGroups.ts** (+93, -0)
 - **MultiSelect.tsx** (+292, -0)
-- **index.js** (+176, -0)
+- **index.js** (+179, -3)
 - **SkillGroups.test.ts** (+414, -0)
 - **SearchResults.tsx** (+270, -0)
 - **index.js** (+57, -0)
-- **App.tsx** (+217, -0)
-- **ConfirmationModal.tsx** (+69, -0)
+- **App.tsx** (+245, -0)
+- **ConfirmationModal.tsx** (+81, -0)
 - **GroupManagement.tsx** (+325, -0)
 - **types.ts** (+214, -0)
 - **index.ts** (+5, -0)
@@ -51,8 +51,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 2317
-".js" : 940
+".tsx" : 2372
+".js" : 946
 ".ts" : 2422
 ".scss" : 121
 ".json" : 186
@@ -64,8 +64,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "09h" : 34
-"10h" : 5
+"10h" : 10
 ```
 
 
-> **Last Updated:** 20/07/2026, 10:05:30
+> **Last Updated:** 20/07/2026, 10:10:30
