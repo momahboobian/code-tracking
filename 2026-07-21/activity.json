@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 18,
-      "totalLinesRemoved": 32,
-      "totalActiveTime": 9,
+      "totalLinesRemoved": 41,
+      "totalActiveTime": 21,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/GroupManagement/GroupMultiSelect.tsx": [
           {
@@ -47,6 +47,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-07-21T09:15:49.515Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/GroupManagement/GroupMultiSelect.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "tsx"
           }
         ],
@@ -93,6 +107,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-07-21T09:15:49.511Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/GroupManagement/GroupManagement.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "tsx"
           }
         ],
@@ -193,6 +221,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2026-07-21T09:15:49.508Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/GroupManagement/GroupManagement.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "scss"
           }
         ]
