@@ -2,7 +2,7 @@
   "date": "2026-07-21",
   "projects": {
     "cda": {
-      "totalLinesAdded": 18,
+      "totalLinesAdded": 27,
       "totalLinesRemoved": 41,
       "totalActiveTime": 21,
       "files": {
@@ -61,6 +61,20 @@
               "removed": []
             },
             "duration": 4,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-07-21T09:30:04.421Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/GroupManagement/GroupMultiSelect.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ],
@@ -121,6 +135,20 @@
               "removed": []
             },
             "duration": 4,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-07-21T09:30:04.415Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/GroupManagement/GroupManagement.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ],
@@ -235,6 +263,20 @@
               "removed": []
             },
             "duration": 4,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2026-07-21T09:30:04.413Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/GroupManagement/GroupManagement.scss",
+            "fileType": ".scss",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "scss"
           }
         ]
