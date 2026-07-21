@@ -2,9 +2,9 @@
   "date": "2026-07-21",
   "projects": {
     "cda": {
-      "totalLinesAdded": 1548,
-      "totalLinesRemoved": 128,
-      "totalActiveTime": 63,
+      "totalLinesAdded": 17816,
+      "totalLinesRemoved": 129,
+      "totalActiveTime": 68,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/GroupManagement/GroupMultiSelect.tsx": [
           {
@@ -818,6 +818,68 @@
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/low-risk-schema/skills/skill-group-mutations.ts",
             "fileType": ".ts",
             "linesAdded": 112,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-07-21T14:06:08.269Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/low-risk-schema/skills/skill-group-mutations.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/generated/low-risk/graphql.ts": [
+          {
+            "timestamp": "2026-07-21T14:06:34.298Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/generated/low-risk/graphql.ts",
+            "fileType": ".ts",
+            "linesAdded": 7241,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/generated/high-risk/graphql.ts": [
+          {
+            "timestamp": "2026-07-21T14:07:27.662Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/generated/high-risk/graphql.ts",
+            "fileType": ".ts",
+            "linesAdded": 8759,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/generated/low-risk/gql.ts": [
+          {
+            "timestamp": "2026-07-21T14:07:38.882Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/generated/low-risk/gql.ts",
+            "fileType": ".ts",
+            "linesAdded": 268,
             "linesRemoved": 0,
             "projectName": "cda",
             "content": {
