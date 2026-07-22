@@ -4,18 +4,19 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 233                                          |
-| **Lines Removed** (➖) | 45                                        |
-| **Net Change** (↕)    | 188                |
-| **Active Time** (⌚)   | 8 minutes |
+| **Lines Added** (➕)   | 252                                          |
+| **Lines Removed** (➖) | 51                                        |
+| **Net Change** (↕)    | 201                |
+| **Active Time** (⌚)   | 20 minutes |
 
 
 ## Modified Files
 - **GroupCreate.test.tsx** (+4, -21)
 - **GroupCreate.tsx** (+7, -23)
 - **Groups.test.tsx** (+49, -0)
-- **skill-queries.ts** (+141, -1)
+- **skill-queries.ts** (+145, -7)
 - **settings.json** (+32, -0)
+- **skills.js** (+15, -0)
 
 ## Visualizations
 
@@ -25,8 +26,9 @@
 pie showData
 title Lines changed by file type
 ".tsx" : 104
-".ts" : 142
+".ts" : 152
 ".json" : 32
+".js" : 15
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -35,8 +37,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "09h" : 7
-"10h" : 4
+"10h" : 12
 ```
 
 
-> **Last Updated:** 22/07/2026, 10:45:07
+> **Last Updated:** 22/07/2026, 10:50:07
