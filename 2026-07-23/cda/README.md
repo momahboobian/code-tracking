@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 6772                                          |
+| **Lines Added** (➕)   | 10572                                          |
 | **Lines Removed** (➖) | 562                                        |
-| **Net Change** (↕)    | 6210                |
-| **Active Time** (⌚)   | 166 minutes |
+| **Net Change** (↕)    | 10010                |
+| **Active Time** (⌚)   | 176 minutes |
 
 
 ## Modified Files
@@ -18,19 +18,19 @@
 - **SkillTeam.tsx** (+135, -0)
 - **SkillTeamUser.tsx** (+35, -0)
 - **Groups.tsx** (+68, -8)
-- **GroupDetails.tsx** (+355, -17)
-- **GroupCreate.tsx** (+705, -25)
-- **GroupCreate.test.tsx** (+384, -6)
-- **Groups.test.tsx** (+98, -0)
-- **skill-queries.ts** (+501, -105)
-- **skills.js** (+140, -0)
-- **skill-team-queries.ts** (+1051, -1)
-- **queries.js** (+282, -22)
-- **skills.js** (+402, -0)
-- **skill-mutations.ts** (+789, -0)
-- **mutations.js** (+707, -0)
+- **GroupDetails.tsx** (+518, -17)
+- **GroupCreate.tsx** (+1045, -25)
+- **GroupCreate.test.tsx** (+573, -6)
+- **Groups.test.tsx** (+147, -0)
+- **skill-queries.ts** (+659, -105)
+- **skills.js** (+210, -0)
+- **skill-team-queries.ts** (+1576, -1)
+- **queries.js** (+412, -22)
+- **skills.js** (+804, -0)
+- **skill-mutations.ts** (+1578, -0)
+- **mutations.js** (+1414, -0)
 - **GroupDetails.test.tsx** (+66, -2)
-- **skill-group-mutations.ts** (+278, -0)
+- **skill-group-mutations.ts** (+556, -0)
 - **GroupDetails.scss** (+171, -134)
 
 ## Visualizations
@@ -40,11 +40,11 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 2485
+".tsx" : 3226
 ".scss" : 364
 ".jsx" : 207
-".ts" : 2725
-".js" : 1553
+".ts" : 4475
+".js" : 2862
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -55,7 +55,8 @@ title Coding activity by hour (count of changes)
 "10h" : 16
 "11h" : 61
 "12h" : 38
+"14h" : 12
 ```
 
 
-> **Last Updated:** 23/07/2026, 12:52:59
+> **Last Updated:** 23/07/2026, 14:44:10
