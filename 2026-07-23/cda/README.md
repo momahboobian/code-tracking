@@ -4,14 +4,14 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 758                                          |
-| **Lines Removed** (➖) | 40                                        |
-| **Net Change** (↕)    | 718                |
-| **Active Time** (⌚)   | 49 minutes |
+| **Lines Added** (➕)   | 766                                          |
+| **Lines Removed** (➖) | 68                                        |
+| **Net Change** (↕)    | 698                |
+| **Active Time** (⌚)   | 55 minutes |
 
 
 ## Modified Files
-- **GroupMembersList.tsx** (+303, -31)
+- **GroupMembersList.tsx** (+311, -59)
 - **GroupMembersList.scss** (+28, -9)
 - **SkillExplore.jsx** (+207, -0)
 - **SkillAdmin.tsx** (+50, -0)
@@ -25,7 +25,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 554
+".tsx" : 590
 ".scss" : 37
 ".jsx" : 207
 ```
@@ -36,8 +36,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "10h" : 16
-"11h" : 17
+"11h" : 21
 ```
 
 
-> **Last Updated:** 23/07/2026, 11:23:04
+> **Last Updated:** 23/07/2026, 11:28:04
