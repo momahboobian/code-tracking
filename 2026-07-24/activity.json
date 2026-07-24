@@ -2,9 +2,9 @@
   "date": "2026-07-24",
   "projects": {
     "cda": {
-      "totalLinesAdded": 920,
+      "totalLinesAdded": 924,
       "totalLinesRemoved": 660,
-      "totalActiveTime": 18,
+      "totalActiveTime": 19,
       "files": {
         "/Users/momahboobian/Downloads/main.py": [
           {
@@ -337,6 +337,20 @@
             "fileType": ".js",
             "linesAdded": 0,
             "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-07-24T14:29:31.807Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-db-migration/src/migrations/staff/tables/20260724142439-create-profile-skill-group-to-skill-tag-table.js",
+            "fileType": ".js",
+            "linesAdded": 4,
+            "linesRemoved": 0,
             "projectName": "cda",
             "content": {
               "added": [],
