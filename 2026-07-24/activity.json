@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 271,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 5,
+      "totalLinesRemoved": 28,
+      "totalActiveTime": 7,
       "files": {
         "/Users/momahboobian/Downloads/main.py": [
           {
@@ -75,6 +75,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-07-24T11:19:25.280Z",
+            "fileName": "/Users/momahboobian/Downloads/main.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 28,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "py"
           }
         ]
