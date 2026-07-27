@@ -2,7 +2,7 @@
   "date": "2026-07-27",
   "projects": {
     "cda": {
-      "totalLinesAdded": 64457,
+      "totalLinesAdded": 64589,
       "totalLinesRemoved": 1065,
       "totalActiveTime": 134,
       "files": {
@@ -1362,6 +1362,22 @@
             },
             "duration": 2,
             "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/low-risk-schema/skills/skill-label-mutations.ts": [
+          {
+            "timestamp": "2026-07-27T11:07:06.508Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/low-risk-schema/skills/skill-label-mutations.ts",
+            "fileType": ".ts",
+            "linesAdded": 132,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
           }
         ]
       },
