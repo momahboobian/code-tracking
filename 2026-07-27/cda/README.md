@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 32826                                          |
-| **Lines Removed** (➖) | 339                                        |
-| **Net Change** (↕)    | 32487                |
-| **Active Time** (⌚)   | 65 minutes |
+| **Lines Added** (➕)   | 32838                                          |
+| **Lines Removed** (➖) | 405                                        |
+| **Net Change** (↕)    | 32433                |
+| **Active Time** (⌚)   | 73 minutes |
 
 
 ## Modified Files
@@ -19,8 +19,8 @@
 - **skills.ts** (+310, -0)
 - **SkillGroups.ts** (+214, -0)
 - **SkillGroups.test.ts** (+642, -0)
-- **skill-group-queries.ts** (+731, -106)
-- **skill-group-mutations.ts** (+1055, -106)
+- **skill-group-queries.ts** (+731, -118)
+- **skill-group-mutations.ts** (+1067, -160)
 - **settings.json** (+33, -0)
 
 ## Visualizations
@@ -31,7 +31,7 @@
 pie showData
 title Lines changed by file type
 ".js" : 17
-".ts" : 33115
+".ts" : 33193
 ".json" : 33
 ```
 
@@ -41,8 +41,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "09h" : 38
-"10h" : 12
+"10h" : 16
 ```
 
 
-> **Last Updated:** 27/07/2026, 10:22:26
+> **Last Updated:** 27/07/2026, 10:27:26
