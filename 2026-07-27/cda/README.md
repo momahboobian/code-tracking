@@ -4,18 +4,19 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 29841                                          |
-| **Lines Removed** (➖) | 4                                        |
-| **Net Change** (↕)    | 29837                |
-| **Active Time** (⌚)   | 18 minutes |
+| **Lines Added** (➕)   | 30151                                          |
+| **Lines Removed** (➖) | 15                                        |
+| **Net Change** (↕)    | 30136                |
+| **Active Time** (⌚)   | 24 minutes |
 
 
 ## Modified Files
 - **skills.js** (+17, -0)
 - **resolvers-types.ts** (+17073, -1)
 - **resolvers-types.ts** (+12116, -0)
-- **skill-queries.ts** (+346, -3)
+- **skill-queries.ts** (+346, -14)
 - **skill-mutations.ts** (+289, -0)
+- **skills.ts** (+310, -0)
 
 ## Visualizations
 
@@ -25,7 +26,7 @@
 pie showData
 title Lines changed by file type
 ".js" : 17
-".ts" : 29828
+".ts" : 30149
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -33,8 +34,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"09h" : 15
+"09h" : 18
 ```
 
 
-> **Last Updated:** 27/07/2026, 09:28:58
+> **Last Updated:** 27/07/2026, 09:33:58
