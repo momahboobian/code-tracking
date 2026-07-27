@@ -2,9 +2,9 @@
   "date": "2026-07-27",
   "projects": {
     "cda": {
-      "totalLinesAdded": 77349,
-      "totalLinesRemoved": 1175,
-      "totalActiveTime": 226,
+      "totalLinesAdded": 77355,
+      "totalLinesRemoved": 1183,
+      "totalActiveTime": 234,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/low-risk-schema/definitions/skills.js": [
           {
@@ -2476,6 +2476,48 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2026-07-27T14:02:29.305Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/containers/SkillExplore/SkillExplore.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-07-27T14:03:43.857Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/containers/SkillExplore/SkillExplore.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 7,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-07-27T14:07:14.344Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/containers/SkillExplore/SkillExplore.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "tsx"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/containers/SkillExplore/SkillExplore.test.tsx": [
@@ -2498,6 +2540,34 @@
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/containers/SkillExplore/SkillExplore.test.tsx",
             "fileType": ".tsx",
             "linesAdded": 273,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-07-27T14:02:37.299Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/containers/SkillExplore/SkillExplore.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-07-27T14:02:44.643Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/containers/SkillExplore/SkillExplore.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 3,
             "linesRemoved": 0,
             "projectName": "cda",
             "content": {
