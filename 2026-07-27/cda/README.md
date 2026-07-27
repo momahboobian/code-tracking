@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 76360                                          |
-| **Lines Removed** (➖) | 1137                                        |
-| **Net Change** (↕)    | 75223                |
-| **Active Time** (⌚)   | 186 minutes |
+| **Lines Added** (➕)   | 76467                                          |
+| **Lines Removed** (➖) | 1138                                        |
+| **Net Change** (↕)    | 75329                |
+| **Active Time** (⌚)   | 194 minutes |
 
 
 ## Modified Files
@@ -33,12 +33,13 @@
 - **SkillAddButton.jsx** (+38, -0)
 - **TagOverview.jsx** (+41, -0)
 - **SkillExplore.jsx** (+284, -4)
-- **GroupDetails.test.tsx** (+83, -0)
+- **GroupDetails.test.tsx** (+102, -0)
 - **SkillAddButton.test.js** (+60, -4)
 - **SkillAddButton.test.ts** (+58, -0)
 - **SkillAddButton.tsx** (+54, -7)
 - **SkillAddButton.test.tsx** (+58, -2)
-- **GroupMembersList.tsx** (+159, -0)
+- **GroupMembersList.tsx** (+171, -1)
+- **TagUserSkillOverview.tsx** (+76, -0)
 
 ## Visualizations
 
@@ -50,7 +51,7 @@ title Lines changed by file type
 ".js" : 1626
 ".ts" : 74851
 ".json" : 33
-".tsx" : 620
+".tsx" : 728
 ".jsx" : 367
 ```
 
@@ -63,8 +64,8 @@ title Coding activity by hour (count of changes)
 "10h" : 29
 "11h" : 27
 "12h" : 15
-"13h" : 34
+"13h" : 39
 ```
 
 
-> **Last Updated:** 27/07/2026, 13:22:26
+> **Last Updated:** 27/07/2026, 13:27:26
