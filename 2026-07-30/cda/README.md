@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 8329                                          |
-| **Lines Removed** (➖) | 44                                        |
+| **Lines Added** (➕)   | 8342                                          |
+| **Lines Removed** (➖) | 57                                        |
 | **Net Change** (↕)    | 8285                |
-| **Active Time** (⌚)   | 74 minutes |
+| **Active Time** (⌚)   | 84 minutes |
 
 
 ## Modified Files
@@ -18,7 +18,7 @@
 - **skills.js** (+70, -0)
 - **skill-team-queries.ts** (+525, -0)
 - **queries.js** (+130, -0)
-- **GroupDetails.tsx** (+183, -34)
+- **GroupDetails.tsx** (+196, -47)
 - **skills.js** (+419, -0)
 - **skill-mutations.ts** (+988, -0)
 - **mutations.js** (+737, -0)
@@ -47,7 +47,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 2113
+".tsx" : 2139
 ".ts" : 4463
 ".js" : 1733
 ".json" : 64
@@ -59,8 +59,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "09h" : 28
-"10h" : 29
+"10h" : 34
 ```
 
 
-> **Last Updated:** 30/07/2026, 10:39:19
+> **Last Updated:** 30/07/2026, 10:44:19
