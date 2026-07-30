@@ -4,40 +4,40 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 67268                                          |
+| **Lines Added** (➕)   | 75475                                          |
 | **Lines Removed** (➖) | 172                                        |
-| **Net Change** (↕)    | 67096                |
-| **Active Time** (⌚)   | 145 minutes |
+| **Net Change** (↕)    | 75303                |
+| **Active Time** (⌚)   | 172 minutes |
 
 
 ## Modified Files
-- **GroupCreate.tsx** (+340, -0)
-- **GroupCreate.test.tsx** (+189, -0)
-- **Groups.test.tsx** (+49, -0)
-- **skill-queries.ts** (+158, -0)
-- **skills.js** (+70, -0)
-- **skill-team-queries.ts** (+525, -0)
-- **queries.js** (+130, -0)
-- **GroupDetails.tsx** (+198, -52)
-- **skills.js** (+839, -0)
-- **skill-mutations.ts** (+988, -0)
-- **mutations.js** (+737, -0)
-- **skill-group-mutations.ts** (+996, -0)
-- **skill-queries.ts** (+1009, -34)
-- **skills.ts** (+927, -13)
-- **SkillGroups.ts** (+505, -0)
-- **SkillGroups.test.ts** (+642, -0)
-- **skill-group-queries.ts** (+270, -0)
-- **queries.js** (+755, -0)
-- **GroupDetails.test.tsx** (+120, -11)
-- **SkillAddButton.tsx** (+47, -0)
-- **TagUserSkillOverview.tsx** (+76, -0)
-- **GroupMembersList.tsx** (+396, -62)
-- **GroupMembersList.test.tsx** (+342, -0)
-- **SkillExplore.tsx** (+300, -0)
-- **TagOverview.tsx** (+57, -0)
-- **SkillExplore.test.tsx** (+285, -0)
-- **TagOverview.test.tsx** (+42, -0)
+- **GroupCreate.tsx** (+680, -0)
+- **GroupCreate.test.tsx** (+378, -0)
+- **Groups.test.tsx** (+98, -0)
+- **skill-queries.ts** (+316, -0)
+- **skills.js** (+140, -0)
+- **skill-team-queries.ts** (+1050, -0)
+- **queries.js** (+260, -0)
+- **GroupDetails.tsx** (+344, -52)
+- **skills.js** (+1259, -0)
+- **skill-mutations.ts** (+1976, -0)
+- **mutations.js** (+1474, -0)
+- **skill-group-mutations.ts** (+1992, -0)
+- **skill-queries.ts** (+1332, -34)
+- **skills.ts** (+1229, -13)
+- **SkillGroups.ts** (+765, -0)
+- **SkillGroups.test.ts** (+1314, -0)
+- **skill-group-queries.ts** (+540, -0)
+- **queries.js** (+1133, -0)
+- **GroupDetails.test.tsx** (+229, -11)
+- **SkillAddButton.tsx** (+94, -0)
+- **TagUserSkillOverview.tsx** (+152, -0)
+- **GroupMembersList.tsx** (+561, -62)
+- **GroupMembersList.test.tsx** (+515, -0)
+- **SkillExplore.tsx** (+600, -0)
+- **TagOverview.tsx** (+114, -0)
+- **SkillExplore.test.tsx** (+570, -0)
+- **TagOverview.test.tsx** (+84, -0)
 - **package.json** (+64, -0)
 - **graphql.ts** (+8948, -0)
 - **gql.ts** (+286, -0)
@@ -54,9 +54,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 2811
-".ts" : 62034
-".js" : 2531
+".tsx" : 4789
+".ts" : 66528
+".js" : 4266
 ".json" : 64
 ```
 
@@ -67,8 +67,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "09h" : 28
 "10h" : 48
-"11h" : 29
+"11h" : 57
 ```
 
 
-> **Last Updated:** 30/07/2026, 11:54:59
+> **Last Updated:** 30/07/2026, 12:00:53
