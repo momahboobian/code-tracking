@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 137690                                          |
-| **Lines Removed** (➖) | 260                                        |
-| **Net Change** (↕)    | 137430                |
-| **Active Time** (⌚)   | 247 minutes |
+| **Lines Added** (➕)   | 173884                                          |
+| **Lines Removed** (➖) | 273                                        |
+| **Net Change** (↕)    | 173611                |
+| **Active Time** (⌚)   | 258 minutes |
 
 
 ## Modified Files
@@ -23,11 +23,11 @@
 - **skill-mutations.ts** (+3952, -0)
 - **mutations.js** (+2948, -0)
 - **skill-group-mutations.ts** (+3984, -0)
-- **skill-queries.ts** (+1978, -34)
-- **skills.ts** (+1833, -23)
+- **skill-queries.ts** (+1979, -34)
+- **skills.ts** (+1833, -33)
 - **SkillGroups.ts** (+1285, -0)
 - **SkillGroups.test.ts** (+2667, -0)
-- **skill-group-queries.ts** (+1080, -0)
+- **skill-group-queries.ts** (+1080, -3)
 - **queries.js** (+1889, -10)
 - **GroupDetails.test.tsx** (+447, -11)
 - **SkillAddButton.tsx** (+188, -0)
@@ -39,15 +39,16 @@
 - **SkillExplore.test.tsx** (+1130, -14)
 - **TagOverview.test.tsx** (+168, -0)
 - **package.json** (+64, -0)
-- **graphql.ts** (+17896, -0)
+- **graphql.ts** (+26844, -0)
 - **gql.ts** (+572, -0)
-- **graphql.ts** (+14635, -0)
-- **resolvers-types.ts** (+34144, -0)
+- **graphql.ts** (+14638, -0)
+- **resolvers-types.ts** (+51216, -0)
 - **resolvers-types.ts** (+24216, -0)
 - **views.ts** (+10219, -0)
 - **App.tsx** (+245, -0)
 - **20260724142439-create-profile-skill-group-to-skill-tag-table.js** (+62, -2)
 - **20260724143808-profile-skill-group-skills-view.js** (+47, -31)
+- **views.ts** (+10170, -0)
 
 ## Visualizations
 
@@ -57,7 +58,7 @@
 pie showData
 title Lines changed by file type
 ".tsx" : 8738
-".ts" : 121250
+".ts" : 157457
 ".js" : 7898
 ".json" : 64
 ```
@@ -71,8 +72,8 @@ title Coding activity by hour (count of changes)
 "10h" : 48
 "11h" : 57
 "12h" : 67
-"13h" : 7
+"13h" : 16
 ```
 
 
-> **Last Updated:** 30/07/2026, 13:05:46
+> **Last Updated:** 30/07/2026, 13:10:46
