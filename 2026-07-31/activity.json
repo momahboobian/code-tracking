@@ -515,9 +515,9 @@
       "averageChangeSize": 284.8888888888889
     },
     "broadcaster-playout-dashboard": {
-      "totalLinesAdded": 2835,
-      "totalLinesRemoved": 640,
-      "totalActiveTime": 39,
+      "totalLinesAdded": 3581,
+      "totalLinesRemoved": 1330,
+      "totalActiveTime": 47,
       "files": {
         "/Users/momahboobian/Documents/_Git-repo/broadcaster-playout-dashboard/server/config/environment.ts": [
           {
@@ -823,6 +823,34 @@
             },
             "duration": 1,
             "language": "ts"
+          },
+          {
+            "timestamp": "2026-07-31T15:28:20.430Z",
+            "fileName": "/Users/momahboobian/Documents/_Git-repo/broadcaster-playout-dashboard/server.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 689,
+            "projectName": "broadcaster-playout-dashboard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-07-31T15:29:00.185Z",
+            "fileName": "/Users/momahboobian/Documents/_Git-repo/broadcaster-playout-dashboard/server.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "broadcaster-playout-dashboard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ],
         "/Users/momahboobian/Documents/_Git-repo/broadcaster-playout-dashboard/.vscode/settings.json": [
@@ -1051,6 +1079,66 @@
             "fileName": "/Users/momahboobian/Documents/_Git-repo/broadcaster-playout-dashboard/server/services/processInspection.service.ts",
             "fileType": ".ts",
             "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "broadcaster-playout-dashboard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_Git-repo/broadcaster-playout-dashboard/server/services/streamControl.service.ts": [
+          {
+            "timestamp": "2026-07-31T15:27:24.959Z",
+            "fileName": "/Users/momahboobian/Documents/_Git-repo/broadcaster-playout-dashboard/server/services/streamControl.service.ts",
+            "fileType": ".ts",
+            "linesAdded": 237,
+            "linesRemoved": 0,
+            "projectName": "broadcaster-playout-dashboard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-07-31T15:29:17.842Z",
+            "fileName": "/Users/momahboobian/Documents/_Git-repo/broadcaster-playout-dashboard/server/services/streamControl.service.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "broadcaster-playout-dashboard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_Git-repo/broadcaster-playout-dashboard/server/services/monitoringMetrics.service.ts": [
+          {
+            "timestamp": "2026-07-31T15:27:24.981Z",
+            "fileName": "/Users/momahboobian/Documents/_Git-repo/broadcaster-playout-dashboard/server/services/monitoringMetrics.service.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "broadcaster-playout-dashboard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-07-31T15:27:25.039Z",
+            "fileName": "/Users/momahboobian/Documents/_Git-repo/broadcaster-playout-dashboard/server/services/monitoringMetrics.service.ts",
+            "fileType": ".ts",
+            "linesAdded": 507,
             "linesRemoved": 0,
             "projectName": "broadcaster-playout-dashboard",
             "content": {
