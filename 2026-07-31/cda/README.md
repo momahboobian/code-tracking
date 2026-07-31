@@ -5,8 +5,8 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 24785                                          |
-| **Lines Removed** (➖) | 49                                        |
-| **Net Change** (↕)    | 24736                |
+| **Lines Removed** (➖) | 63                                        |
+| **Net Change** (↕)    | 24722                |
 | **Active Time** (⌚)   | 49 minutes |
 
 
@@ -39,7 +39,7 @@
 - **20260724142439-create-profile-skill-group-to-skill-tag-table.js** (+20, -0)
 - **20260724143808-profile-skill-group-skills-view.js** (+16, -0)
 - **skill-queries.ts** (+153, -22)
-- **SkillTopicUsers.tsx** (+271, -27)
+- **SkillTopicUsers.tsx** (+271, -41)
 - **graphql.ts** (+7371, -0)
 - **gql.ts** (+298, -0)
 - **graphql.ts** (+8948, -0)
@@ -51,7 +51,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 2167
+".tsx" : 2181
 ".ts" : 20884
 ".js" : 1783
 ```
@@ -63,7 +63,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "13h" : 27
 "16h" : 20
+"17h" : 1
 ```
 
 
-> **Last Updated:** 31/07/2026, 16:47:09
+> **Last Updated:** 31/07/2026, 17:27:09
