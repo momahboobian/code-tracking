@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 8144                                          |
+| **Lines Added** (➕)   | 24785                                          |
 | **Lines Removed** (➖) | 49                                        |
-| **Net Change** (↕)    | 8095                |
-| **Active Time** (⌚)   | 43 minutes |
+| **Net Change** (↕)    | 24736                |
+| **Active Time** (⌚)   | 49 minutes |
 
 
 ## Modified Files
@@ -18,7 +18,7 @@
 - **skills.js** (+70, -0)
 - **skill-team-queries.ts** (+525, -0)
 - **queries.js** (+130, -0)
-- **GroupDetails.tsx** (+145, -0)
+- **GroupDetails.tsx** (+165, -0)
 - **skills.js** (+416, -0)
 - **skill-mutations.ts** (+946, -0)
 - **mutations.js** (+737, -0)
@@ -39,7 +39,10 @@
 - **20260724142439-create-profile-skill-group-to-skill-tag-table.js** (+20, -0)
 - **20260724143808-profile-skill-group-skills-view.js** (+16, -0)
 - **skill-queries.ts** (+153, -22)
-- **SkillTopicUsers.tsx** (+267, -27)
+- **SkillTopicUsers.tsx** (+271, -27)
+- **graphql.ts** (+7371, -0)
+- **gql.ts** (+298, -0)
+- **graphql.ts** (+8948, -0)
 
 ## Visualizations
 
@@ -48,8 +51,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 2143
-".ts" : 4267
+".tsx" : 2167
+".ts" : 20884
 ".js" : 1783
 ```
 
@@ -59,8 +62,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "13h" : 27
-"16h" : 14
+"16h" : 20
 ```
 
 
-> **Last Updated:** 31/07/2026, 16:42:09
+> **Last Updated:** 31/07/2026, 16:47:09
