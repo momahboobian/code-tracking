@@ -501,9 +501,9 @@
       "averageChangeSize": 284.8888888888889
     },
     "broadcaster-playout-dashboard": {
-      "totalLinesAdded": 2490,
-      "totalLinesRemoved": 363,
-      "totalActiveTime": 27,
+      "totalLinesAdded": 2835,
+      "totalLinesRemoved": 640,
+      "totalActiveTime": 39,
       "files": {
         "/Users/momahboobian/Documents/_Git-repo/broadcaster-playout-dashboard/server/config/environment.ts": [
           {
@@ -767,6 +767,48 @@
             },
             "duration": 1,
             "language": "ts"
+          },
+          {
+            "timestamp": "2026-07-31T15:23:14.937Z",
+            "fileName": "/Users/momahboobian/Documents/_Git-repo/broadcaster-playout-dashboard/server.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 128,
+            "projectName": "broadcaster-playout-dashboard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-07-31T15:23:20.360Z",
+            "fileName": "/Users/momahboobian/Documents/_Git-repo/broadcaster-playout-dashboard/server.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "broadcaster-playout-dashboard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-07-31T15:24:22.828Z",
+            "fileName": "/Users/momahboobian/Documents/_Git-repo/broadcaster-playout-dashboard/server.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 148,
+            "projectName": "broadcaster-playout-dashboard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ],
         "/Users/momahboobian/Documents/_Git-repo/broadcaster-playout-dashboard/.vscode/settings.json": [
@@ -892,6 +934,110 @@
             "fileType": ".ts",
             "linesAdded": 0,
             "linesRemoved": 9,
+            "projectName": "broadcaster-playout-dashboard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_Git-repo/broadcaster-playout-dashboard/server/services/mediaLibrary.service.ts": [
+          {
+            "timestamp": "2026-07-31T15:23:01.174Z",
+            "fileName": "/Users/momahboobian/Documents/_Git-repo/broadcaster-playout-dashboard/server/services/mediaLibrary.service.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "broadcaster-playout-dashboard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-07-31T15:23:01.272Z",
+            "fileName": "/Users/momahboobian/Documents/_Git-repo/broadcaster-playout-dashboard/server/services/mediaLibrary.service.ts",
+            "fileType": ".ts",
+            "linesAdded": 110,
+            "linesRemoved": 0,
+            "projectName": "broadcaster-playout-dashboard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_Git-repo/broadcaster-playout-dashboard/server/services/playlistFile.service.ts": [
+          {
+            "timestamp": "2026-07-31T15:23:01.282Z",
+            "fileName": "/Users/momahboobian/Documents/_Git-repo/broadcaster-playout-dashboard/server/services/playlistFile.service.ts",
+            "fileType": ".ts",
+            "linesAdded": 60,
+            "linesRemoved": 0,
+            "projectName": "broadcaster-playout-dashboard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_Git-repo/broadcaster-playout-dashboard/server/services/processInspection.service.ts": [
+          {
+            "timestamp": "2026-07-31T15:24:01.019Z",
+            "fileName": "/Users/momahboobian/Documents/_Git-repo/broadcaster-playout-dashboard/server/services/processInspection.service.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "broadcaster-playout-dashboard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-07-31T15:24:01.055Z",
+            "fileName": "/Users/momahboobian/Documents/_Git-repo/broadcaster-playout-dashboard/server/services/processInspection.service.ts",
+            "fileType": ".ts",
+            "linesAdded": 159,
+            "linesRemoved": 0,
+            "projectName": "broadcaster-playout-dashboard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-07-31T15:24:51.794Z",
+            "fileName": "/Users/momahboobian/Documents/_Git-repo/broadcaster-playout-dashboard/server/services/processInspection.service.ts",
+            "fileType": ".ts",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "broadcaster-playout-dashboard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-07-31T15:25:02.848Z",
+            "fileName": "/Users/momahboobian/Documents/_Git-repo/broadcaster-playout-dashboard/server/services/processInspection.service.ts",
+            "fileType": ".ts",
+            "linesAdded": 2,
+            "linesRemoved": 0,
             "projectName": "broadcaster-playout-dashboard",
             "content": {
               "added": [],
