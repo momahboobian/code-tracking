@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 7846                                          |
-| **Lines Removed** (➖) | 4                                        |
-| **Net Change** (↕)    | 7842                |
-| **Active Time** (⌚)   | 31 minutes |
+| **Lines Added** (➕)   | 7851                                          |
+| **Lines Removed** (➖) | 22                                        |
+| **Net Change** (↕)    | 7829                |
+| **Active Time** (⌚)   | 38 minutes |
 
 
 ## Modified Files
@@ -38,7 +38,7 @@
 - **TagOverview.test.tsx** (+42, -0)
 - **20260724142439-create-profile-skill-group-to-skill-tag-table.js** (+20, -0)
 - **20260724143808-profile-skill-group-skills-view.js** (+16, -0)
-- **skill-queries.ts** (+148, -4)
+- **skill-queries.ts** (+153, -22)
 
 ## Visualizations
 
@@ -48,7 +48,7 @@
 pie showData
 title Lines changed by file type
 ".tsx" : 1849
-".ts" : 4244
+".ts" : 4267
 ".js" : 1757
 ```
 
@@ -58,8 +58,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "13h" : 27
-"16h" : 4
+"16h" : 8
 ```
 
 
-> **Last Updated:** 31/07/2026, 16:27:09
+> **Last Updated:** 31/07/2026, 16:32:09
