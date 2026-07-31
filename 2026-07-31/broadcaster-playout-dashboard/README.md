@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 5042                                          |
-| **Lines Removed** (➖) | 2693                                        |
-| **Net Change** (↕)    | 2349                |
-| **Active Time** (⌚)   | 74 minutes |
+| **Lines Added** (➕)   | 5256                                          |
+| **Lines Removed** (➖) | 2778                                        |
+| **Net Change** (↕)    | 2478                |
+| **Active Time** (⌚)   | 78 minutes |
 
 
 ## Modified Files
@@ -28,8 +28,10 @@
 - **apiRoutes.ts** (+721, -704)
 - **routeTypes.ts** (+13, -0)
 - **mediaRoutes.ts** (+82, -0)
-- **playlistRoutes.ts** (+296, -0)
-- **monitoringRoutes.ts** (+335, -0)
+- **playlistRoutes.ts** (+296, -3)
+- **monitoringRoutes.ts** (+337, -82)
+- **monitoringRouteHelpers.ts** (+95, -0)
+- **monitoring-route-helpers.test.ts** (+117, -0)
 
 ## Visualizations
 
@@ -38,7 +40,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 7727
+".ts" : 8026
 ".json" : 8
 ```
 
@@ -48,7 +50,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "16h" : 60
+"17h" : 6
 ```
 
 
-> **Last Updated:** 31/07/2026, 16:46:27
+> **Last Updated:** 31/07/2026, 17:21:27
