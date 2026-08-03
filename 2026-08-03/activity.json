@@ -111,9 +111,9 @@
       "averageChangeSize": 66.25
     },
     "cda": {
-      "totalLinesAdded": 98,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 2,
+      "totalLinesAdded": 163,
+      "totalLinesRemoved": 11,
+      "totalActiveTime": 22,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/packages/cda-aws/src/S3Service/S3Service.ts": [
           {
@@ -142,6 +142,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-08-03T09:00:40.953Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-aws/src/S3Service/S3Service.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 10,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "ts"
           }
         ],
@@ -172,6 +186,68 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-08-03T09:00:40.941Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-aws/src/S3Service/IS3Service.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-aws/dist/S3Service/IS3Service.d.ts": [
+          {
+            "timestamp": "2026-08-03T09:00:40.942Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-aws/dist/S3Service/IS3Service.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-aws/dist/S3Service/S3Service.js": [
+          {
+            "timestamp": "2026-08-03T09:00:40.947Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-aws/dist/S3Service/S3Service.js",
+            "fileType": ".js",
+            "linesAdded": 44,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "js"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-aws/dist/S3Service/S3Service.d.ts": [
+          {
+            "timestamp": "2026-08-03T09:00:40.954Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-aws/dist/S3Service/S3Service.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "ts"
           }
         ]
