@@ -3,7 +3,7 @@
   "projects": {
     "broadcaster-playout-dashboard": {
       "totalLinesAdded": 218,
-      "totalLinesRemoved": 49,
+      "totalLinesRemoved": 52,
       "totalActiveTime": 4,
       "files": {
         "/Users/momahboobian/Documents/_Git-repo/broadcaster-playout-dashboard/server/routes/monitoringRestartHelpers.ts": [
@@ -13,6 +13,20 @@
             "fileType": ".ts",
             "linesAdded": 126,
             "linesRemoved": 0,
+            "projectName": "broadcaster-playout-dashboard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-08-03T08:35:38.442Z",
+            "fileName": "/Users/momahboobian/Documents/_Git-repo/broadcaster-playout-dashboard/server/routes/monitoringRestartHelpers.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 3,
             "projectName": "broadcaster-playout-dashboard",
             "content": {
               "added": [],

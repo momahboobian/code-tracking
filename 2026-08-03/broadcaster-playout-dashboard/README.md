@@ -5,13 +5,13 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 218                                          |
-| **Lines Removed** (➖) | 49                                        |
-| **Net Change** (↕)    | 169                |
+| **Lines Removed** (➖) | 52                                        |
+| **Net Change** (↕)    | 166                |
 | **Active Time** (⌚)   | 4 minutes |
 
 
 ## Modified Files
-- **monitoringRestartHelpers.ts** (+126, -0)
+- **monitoringRestartHelpers.ts** (+126, -3)
 - **monitoring-restart-helpers.test.ts** (+92, -0)
 - **monitoringRoutes.ts** (+0, -49)
 
@@ -22,7 +22,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 267
+".ts" : 270
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -30,8 +30,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"09h" : 5
+"09h" : 6
 ```
 
 
-> **Last Updated:** 03/08/2026, 09:31:28
+> **Last Updated:** 03/08/2026, 09:36:28
