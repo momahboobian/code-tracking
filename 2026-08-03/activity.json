@@ -111,9 +111,9 @@
       "averageChangeSize": 66.25
     },
     "cda": {
-      "totalLinesAdded": 450,
-      "totalLinesRemoved": 65,
-      "totalActiveTime": 46,
+      "totalLinesAdded": 541,
+      "totalLinesRemoved": 101,
+      "totalActiveTime": 63,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/packages/cda-aws/src/S3Service/S3Service.ts": [
           {
@@ -156,6 +156,48 @@
               "removed": []
             },
             "duration": 4,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-08-03T11:21:04.218Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-aws/src/S3Service/S3Service.ts",
+            "fileType": ".ts",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-08-03T11:21:57.847Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-aws/src/S3Service/S3Service.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 7,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-08-03T11:21:59.544Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-aws/src/S3Service/S3Service.ts",
+            "fileType": ".ts",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "ts"
           }
         ],
@@ -335,6 +377,76 @@
             },
             "duration": 1,
             "language": "ts"
+          },
+          {
+            "timestamp": "2026-08-03T11:20:11.266Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/low-risk-schema/resolvers/skill-queries.ts",
+            "fileType": ".ts",
+            "linesAdded": 19,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-08-03T11:20:53.878Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/low-risk-schema/resolvers/skill-queries.ts",
+            "fileType": ".ts",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-08-03T11:21:18.515Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/low-risk-schema/resolvers/skill-queries.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 19,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-08-03T11:21:57.842Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/low-risk-schema/resolvers/skill-queries.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-08-03T11:21:59.534Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/low-risk-schema/resolvers/skill-queries.ts",
+            "fileType": ".ts",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ],
         "/Users/momahboobian/Documents/_CBC/cda/lambdas/cda-graphql-staff/src/low-risk-schema/resolvers/skill-queries.ts": [
@@ -465,6 +577,34 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2026-08-03T11:21:57.845Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/containers/GroupDetails/GroupDetails.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-08-03T11:21:59.536Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/containers/GroupDetails/GroupDetails.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 6,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/infrastructure/lambda-policy.json": [
@@ -508,6 +648,50 @@
               "removed": []
             },
             "duration": 0,
+            "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/.vscode/settings.json": [
+          {
+            "timestamp": "2026-08-03T11:20:41.093Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/.vscode/settings.json",
+            "fileType": ".json",
+            "linesAdded": 42,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-08-03T11:20:41.127Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/.vscode/settings.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-08-03T11:20:47.989Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/.vscode/settings.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "json"
           }
         ]
