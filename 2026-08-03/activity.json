@@ -109,6 +109,84 @@
         "/Users/momahboobian/Documents/_Git-repo/broadcaster-playout-dashboard/server/routes/monitoringRoutes.ts"
       ],
       "averageChangeSize": 66.25
+    },
+    "cda": {
+      "totalLinesAdded": 98,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 2,
+      "files": {
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-aws/src/S3Service/S3Service.ts": [
+          {
+            "timestamp": "2026-08-03T08:57:02.079Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-aws/src/S3Service/S3Service.ts",
+            "fileType": ".ts",
+            "linesAdded": 71,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-08-03T08:57:02.142Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-aws/src/S3Service/S3Service.ts",
+            "fileType": ".ts",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-aws/src/S3Service/IS3Service.ts": [
+          {
+            "timestamp": "2026-08-03T08:57:02.077Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-aws/src/S3Service/IS3Service.ts",
+            "fileType": ".ts",
+            "linesAdded": 16,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-08-03T08:57:02.139Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-aws/src/S3Service/IS3Service.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ]
+      },
+      "languageStats": {
+        "ts": 2
+      },
+      "changeFrequency": {
+        "9": 2
+      },
+      "topFiles": [
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-aws/src/S3Service/S3Service.ts",
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-aws/src/S3Service/IS3Service.ts"
+      ],
+      "averageChangeSize": 24.5
     }
   },
   "totalActiveTime": 3,
