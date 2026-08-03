@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 560                                          |
-| **Lines Removed** (➖) | 108                                        |
-| **Net Change** (↕)    | 452                |
-| **Active Time** (⌚)   | 69 minutes |
+| **Lines Added** (➕)   | 566                                          |
+| **Lines Removed** (➖) | 137                                        |
+| **Net Change** (↕)    | 429                |
+| **Active Time** (⌚)   | 72 minutes |
 
 
 ## Modified Files
@@ -16,9 +16,9 @@
 - **IS3Service.d.ts** (+9, -0)
 - **S3Service.js** (+44, -0)
 - **S3Service.d.ts** (+12, -0)
-- **skill-queries.ts** (+109, -38)
+- **skill-queries.ts** (+109, -61)
 - **skill-queries.ts** (+1, -0)
-- **GroupDetails.tsx** (+21, -17)
+- **GroupDetails.tsx** (+27, -23)
 - **lambda-policy.json** (+208, -28)
 - **settings.json** (+44, -0)
 
@@ -29,9 +29,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 306
+".ts" : 329
 ".js" : 44
-".tsx" : 38
+".tsx" : 50
 ".json" : 280
 ```
 
@@ -43,8 +43,8 @@ title Coding activity by hour (count of changes)
 "09h" : 4
 "10h" : 8
 "11h" : 7
-"12h" : 23
+"12h" : 26
 ```
 
 
-> **Last Updated:** 03/08/2026, 12:27:11
+> **Last Updated:** 03/08/2026, 12:32:11
