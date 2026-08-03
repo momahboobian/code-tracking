@@ -111,9 +111,9 @@
       "averageChangeSize": 66.25
     },
     "cda": {
-      "totalLinesAdded": 224,
+      "totalLinesAdded": 432,
       "totalLinesRemoved": 13,
-      "totalActiveTime": 36,
+      "totalActiveTime": 37,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/packages/cda-aws/src/S3Service/S3Service.ts": [
           {
@@ -367,6 +367,36 @@
             },
             "duration": 2,
             "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/infrastructure/lambda-policy.json": [
+          {
+            "timestamp": "2026-08-03T10:52:37.508Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/infrastructure/lambda-policy.json",
+            "fileType": ".json",
+            "linesAdded": 180,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-08-03T10:52:37.618Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/infrastructure/lambda-policy.json",
+            "fileType": ".json",
+            "linesAdded": 28,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ]
       },
