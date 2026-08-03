@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 877                                          |
+| **Lines Added** (➕)   | 1122                                          |
 | **Lines Removed** (➖) | 142                                        |
-| **Net Change** (↕)    | 735                |
-| **Active Time** (⌚)   | 94 minutes |
+| **Net Change** (↕)    | 980                |
+| **Active Time** (⌚)   | 96 minutes |
 
 
 ## Modified Files
@@ -24,6 +24,8 @@
 - **IS3Service.d.ts** (+9, -0)
 - **skill-export.test.ts** (+284, -4)
 - **jest.config.cjs** (+18, -1)
+- **skill-people-queries.ts** (+242, -0)
+- **skill-group-queries.ts** (+3, -0)
 
 ## Visualizations
 
@@ -32,7 +34,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 626
+".ts" : 871
 ".js" : 44
 ".tsx" : 50
 ".json" : 280
@@ -48,8 +50,8 @@ title Coding activity by hour (count of changes)
 "10h" : 8
 "11h" : 7
 "12h" : 27
-"20h" : 20
+"20h" : 23
 ```
 
 
-> **Last Updated:** 03/08/2026, 20:27:11
+> **Last Updated:** 03/08/2026, 20:32:11

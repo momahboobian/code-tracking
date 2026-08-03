@@ -111,9 +111,9 @@
       "averageChangeSize": 66.25
     },
     "cda": {
-      "totalLinesAdded": 877,
+      "totalLinesAdded": 1122,
       "totalLinesRemoved": 142,
-      "totalActiveTime": 94,
+      "totalActiveTime": 96,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/packages/cda-aws/src/S3Service/S3Service.ts": [
           {
@@ -1063,6 +1063,52 @@
             },
             "duration": 1,
             "language": "cjs"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/low-risk-schema/skills/skill-people-queries.ts": [
+          {
+            "timestamp": "2026-08-03T19:29:47.720Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/low-risk-schema/skills/skill-people-queries.ts",
+            "fileType": ".ts",
+            "linesAdded": 239,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-08-03T19:29:53.866Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/low-risk-schema/skills/skill-people-queries.ts",
+            "fileType": ".ts",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/low-risk-schema/skills/skill-group-queries.ts": [
+          {
+            "timestamp": "2026-08-03T19:29:52.387Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/low-risk-schema/skills/skill-group-queries.ts",
+            "fileType": ".ts",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ]
       },
