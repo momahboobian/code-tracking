@@ -4,9 +4,9 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3602                                          |
-| **Lines Removed** (➖) | 906                                        |
-| **Net Change** (↕)    | 2696                |
+| **Lines Added** (➕)   | 3627                                          |
+| **Lines Removed** (➖) | 983                                        |
+| **Net Change** (↕)    | 2644                |
 | **Active Time** (⌚)   | 74 minutes |
 
 
@@ -20,24 +20,24 @@
 - **GroupMembersList.tsx** (+263, -263)
 - **App.tsx** (+80, -10)
 - **declarations.d.ts** (+445, -0)
-- **DateSwitcher.test.tsx** (+299, -42)
-- **getWeekInMonth.test.ts** (+122, -35)
+- **DateSwitcher.test.tsx** (+299, -73)
+- **getWeekInMonth.test.ts** (+122, -49)
 - **dateOnly.ts** (+22, -0)
-- **DateSwitcher.tsx** (+112, -7)
-- **Sidebar.tsx** (+87, -1)
-- **Home.tsx** (+475, -32)
-- **getWeeksInMonth.ts** (+73, -1)
-- **MonthlyViewRow.test.tsx** (+156, -1)
-- **MonthlyViewRow.tsx** (+182, -4)
-- **WeekView.tsx** (+115, -2)
-- **WeekViewHeader.tsx** (+62, -7)
-- **WeekTab.tsx** (+76, -1)
-- **DutyWeekWrapper.tsx** (+68, -6)
-- **DateView.tsx** (+219, -1)
-- **AllocateDay.tsx** (+61, -1)
-- **DayView.tsx** (+157, -1)
-- **useDateViewSwipe.ts** (+238, -17)
-- **getBorderStyle.ts** (+45, -1)
+- **DateSwitcher.tsx** (+112, -14)
+- **Sidebar.tsx** (+87, -2)
+- **Home.tsx** (+491, -32)
+- **getWeeksInMonth.ts** (+73, -2)
+- **MonthlyViewRow.test.tsx** (+156, -2)
+- **MonthlyViewRow.tsx** (+184, -4)
+- **WeekView.tsx** (+116, -2)
+- **WeekViewHeader.tsx** (+65, -7)
+- **WeekTab.tsx** (+76, -2)
+- **DutyWeekWrapper.tsx** (+71, -6)
+- **DateView.tsx** (+219, -2)
+- **AllocateDay.tsx** (+61, -2)
+- **DayView.tsx** (+157, -2)
+- **useDateViewSwipe.ts** (+238, -34)
+- **getBorderStyle.ts** (+45, -2)
 - **App.tsx** (+78, -78)
 
 ## Visualizations
@@ -48,8 +48,8 @@
 pie showData
 title Lines changed by file type
 ".js" : 63
-".ts" : 1418
-".tsx" : 3027
+".ts" : 1451
+".tsx" : 3096
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -62,8 +62,8 @@ title Coding activity by hour (count of changes)
 "11h" : 23
 "12h" : 17
 "13h" : 11
-"15h" : 20
+"15h" : 37
 ```
 
 
-> **Last Updated:** 04/08/2026, 15:22:12
+> **Last Updated:** 04/08/2026, 15:37:12
