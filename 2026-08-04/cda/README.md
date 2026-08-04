@@ -5,19 +5,19 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 3391                                          |
-| **Lines Removed** (➖) | 723                                        |
-| **Net Change** (↕)    | 2668                |
-| **Active Time** (⌚)   | 56 minutes |
+| **Lines Removed** (➖) | 881                                        |
+| **Net Change** (↕)    | 2510                |
+| **Active Time** (⌚)   | 71 minutes |
 
 
 ## Modified Files
 - **skills.js** (+8, -14)
 - **queries.js** (+14, -27)
 - **skill-queries.ts** (+22, -201)
-- **GroupDetails.tsx** (+26, -26)
+- **GroupDetails.tsx** (+26, -52)
 - **skill-people-queries.ts** (+0, -3)
 - **skill-group-queries.ts** (+95, -98)
-- **GroupMembersList.tsx** (+170, -170)
+- **GroupMembersList.tsx** (+170, -263)
 - **App.tsx** (+80, -10)
 - **declarations.d.ts** (+445, -0)
 - **DateSwitcher.test.tsx** (+268, -42)
@@ -38,7 +38,7 @@
 - **DayView.tsx** (+156, -1)
 - **useDateViewSwipe.ts** (+221, -17)
 - **getBorderStyle.ts** (+44, -1)
-- **App.tsx** (+39, -39)
+- **App.tsx** (+39, -78)
 
 ## Visualizations
 
@@ -49,7 +49,7 @@ pie showData
 title Lines changed by file type
 ".js" : 63
 ".ts" : 1385
-".tsx" : 2666
+".tsx" : 2824
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -61,8 +61,8 @@ title Coding activity by hour (count of changes)
 "10h" : 25
 "11h" : 23
 "12h" : 17
-"13h" : 8
+"13h" : 11
 ```
 
 
-> **Last Updated:** 04/08/2026, 13:17:12
+> **Last Updated:** 04/08/2026, 13:22:12
