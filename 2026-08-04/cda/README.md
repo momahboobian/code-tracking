@@ -5,8 +5,8 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 293                                          |
-| **Lines Removed** (➖) | 441                                        |
-| **Net Change** (↕)    | -148                |
+| **Lines Removed** (➖) | 451                                        |
+| **Net Change** (↕)    | -158                |
 | **Active Time** (⌚)   | 0 minute |
 
 
@@ -18,7 +18,7 @@
 - **skill-people-queries.ts** (+0, -3)
 - **skill-group-queries.ts** (+95, -98)
 - **GroupMembersList.tsx** (+74, -74)
-- **App.tsx** (+80, -0)
+- **App.tsx** (+80, -10)
 
 ## Visualizations
 
@@ -29,7 +29,7 @@ pie showData
 title Lines changed by file type
 ".js" : 63
 ".ts" : 419
-".tsx" : 252
+".tsx" : 262
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -37,8 +37,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"09h" : 14
+"09h" : 15
 ```
 
 
-> **Last Updated:** 04/08/2026, 09:22:11
+> **Last Updated:** 04/08/2026, 09:37:11
