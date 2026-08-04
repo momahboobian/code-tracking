@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1112                                          |
-| **Lines Removed** (➖) | 452                                        |
-| **Net Change** (↕)    | 660                |
-| **Active Time** (⌚)   | 10 minutes |
+| **Lines Added** (➕)   | 1858                                          |
+| **Lines Removed** (➖) | 499                                        |
+| **Net Change** (↕)    | 1359                |
+| **Active Time** (⌚)   | 24 minutes |
 
 
 ## Modified Files
@@ -20,8 +20,13 @@
 - **GroupMembersList.tsx** (+74, -74)
 - **App.tsx** (+80, -10)
 - **declarations.d.ts** (+445, -0)
-- **DateSwitcher.test.tsx** (+266, -1)
-- **getWeekInMonth.test.ts** (+108, -0)
+- **DateSwitcher.test.tsx** (+268, -11)
+- **getWeekInMonth.test.ts** (+108, -21)
+- **dateOnly.ts** (+22, -0)
+- **DateSwitcher.tsx** (+105, -0)
+- **Sidebar.tsx** (+86, -0)
+- **Home.tsx** (+459, -16)
+- **getWeeksInMonth.ts** (+72, -0)
 
 ## Visualizations
 
@@ -31,8 +36,8 @@
 pie showData
 title Lines changed by file type
 ".js" : 63
-".ts" : 972
-".tsx" : 529
+".ts" : 1087
+".tsx" : 1207
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -41,8 +46,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "09h" : 17
-"10h" : 10
+"10h" : 24
 ```
 
 
-> **Last Updated:** 04/08/2026, 10:07:11
+> **Last Updated:** 04/08/2026, 10:22:11
