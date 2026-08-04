@@ -2,9 +2,9 @@
   "date": "2026-08-04",
   "projects": {
     "cda": {
-      "totalLinesAdded": 1858,
+      "totalLinesAdded": 2012,
       "totalLinesRemoved": 499,
-      "totalActiveTime": 24,
+      "totalActiveTime": 26,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/low-risk-schema/definitions/skills.js": [
           {
@@ -610,6 +610,22 @@
             },
             "duration": 1,
             "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/src/components/MonthlyViewRow/MonthlyViewRow.test.tsx": [
+          {
+            "timestamp": "2026-08-04T09:24:01.418Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/src/components/MonthlyViewRow/MonthlyViewRow.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 154,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
           }
         ]
       },
