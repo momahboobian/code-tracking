@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2012                                          |
-| **Lines Removed** (➖) | 499                                        |
-| **Net Change** (↕)    | 1513                |
-| **Active Time** (⌚)   | 26 minutes |
+| **Lines Added** (➕)   | 3205                                          |
+| **Lines Removed** (➖) | 509                                        |
+| **Net Change** (↕)    | 2696                |
+| **Active Time** (⌚)   | 48 minutes |
 
 
 ## Modified Files
@@ -27,7 +27,17 @@
 - **Sidebar.tsx** (+86, -0)
 - **Home.tsx** (+459, -16)
 - **getWeeksInMonth.ts** (+72, -0)
-- **MonthlyViewRow.test.tsx** (+154, -0)
+- **MonthlyViewRow.test.tsx** (+155, -0)
+- **MonthlyViewRow.tsx** (+180, -2)
+- **WeekView.tsx** (+114, -1)
+- **WeekViewHeader.tsx** (+59, -4)
+- **WeekTab.tsx** (+75, -0)
+- **DutyWeekWrapper.tsx** (+65, -3)
+- **DateView.tsx** (+218, -0)
+- **AllocateDay.tsx** (+60, -0)
+- **DayView.tsx** (+156, -0)
+- **useDateViewSwipe.ts** (+221, -0)
+- **getBorderStyle.ts** (+44, -0)
 
 ## Visualizations
 
@@ -37,8 +47,8 @@
 pie showData
 title Lines changed by file type
 ".js" : 63
-".ts" : 1087
-".tsx" : 1361
+".ts" : 1352
+".tsx" : 2299
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -48,7 +58,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "09h" : 17
 "10h" : 25
+"11h" : 23
 ```
 
 
-> **Last Updated:** 04/08/2026, 10:27:11
+> **Last Updated:** 04/08/2026, 11:27:11
