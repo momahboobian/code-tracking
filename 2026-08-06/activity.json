@@ -2,8 +2,8 @@
   "date": "2026-08-06",
   "projects": {
     "cda": {
-      "totalLinesAdded": 205,
-      "totalLinesRemoved": 0,
+      "totalLinesAdded": 224,
+      "totalLinesRemoved": 83,
       "totalActiveTime": 0,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/containers/SkillTeam/SkillTeam.tsx": [
@@ -20,6 +20,20 @@
             },
             "duration": 0,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2026-08-06T09:01:22.825Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/containers/SkillTeam/SkillTeam.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 83,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-reports/src/App.tsx": [
@@ -28,6 +42,20 @@
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-reports/src/App.tsx",
             "fileType": ".tsx",
             "linesAdded": 70,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-08-06T09:01:22.829Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-reports/src/App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 19,
             "linesRemoved": 0,
             "projectName": "cda",
             "content": {
