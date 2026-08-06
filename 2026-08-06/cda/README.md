@@ -5,9 +5,9 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 1313                                          |
-| **Lines Removed** (➖) | 527                                        |
-| **Net Change** (↕)    | 786                |
-| **Active Time** (⌚)   | 38 minutes |
+| **Lines Removed** (➖) | 549                                        |
+| **Net Change** (↕)    | 764                |
+| **Active Time** (⌚)   | 39 minutes |
 
 
 ## Modified Files
@@ -17,7 +17,7 @@
 - **ConfirmatioinDialog.stories.tsx** (+448, -0)
 - **ConfirmationDialog.stories.tsx** (+528, -432)
 - **index.tsx** (+1, -0)
-- **ConfirmationDialog.test..tsx** (+23, -0)
+- **ConfirmationDialog.test..tsx** (+23, -22)
 
 ## Visualizations
 
@@ -26,7 +26,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 1840
+".tsx" : 1862
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -36,8 +36,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "09h" : 2
 "10h" : 28
-"12h" : 8
+"12h" : 10
 ```
 
 
-> **Last Updated:** 06/08/2026, 12:38:45
+> **Last Updated:** 06/08/2026, 12:48:45
