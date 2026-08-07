@@ -4,25 +4,27 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2221                                          |
-| **Lines Removed** (➖) | 958                                        |
-| **Net Change** (↕)    | 1263                |
-| **Active Time** (⌚)   | 102 minutes |
+| **Lines Added** (➕)   | 4369                                          |
+| **Lines Removed** (➖) | 961                                        |
+| **Net Change** (↕)    | 3408                |
+| **Active Time** (⌚)   | 124 minutes |
 
 
 ## Modified Files
-- **ModalNew.tsx** (+77, -85)
+- **ModalNew.tsx** (+285, -85)
 - **settings.json** (+46, -0)
-- **ModalNew.stories.tsx** (+65, -66)
-- **ModalNew.test.tsx** (+105, -110)
-- **ConfirmationDialog.tsx** (+425, -296)
-- **index.tsx** (+15, -11)
+- **ModalNew.stories.tsx** (+487, -66)
+- **ModalNew.test.tsx** (+397, -110)
+- **ConfirmationDialog.tsx** (+599, -297)
+- **index.tsx** (+19, -11)
 - **ConfirmationDialog.test..tsx** (+349, -348)
-- **ConfirmationDialog.stories.tsx** (+110, -14)
-- **index.js** (+178, -0)
-- **index.ts** (+532, -23)
+- **ConfirmationDialog.stories.tsx** (+206, -14)
+- **index.js** (+356, -0)
+- **index.ts** (+1041, -23)
 - **ConfirmationDialog.test.tsx** (+128, -0)
 - **package.json** (+191, -5)
+- **Button.tsx** (+171, -0)
+- **settings.json** (+94, -2)
 
 ## Visualizations
 
@@ -31,10 +33,10 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 2204
-".json" : 242
-".js" : 178
-".ts" : 555
+".tsx" : 3572
+".json" : 338
+".js" : 356
+".ts" : 1064
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -44,8 +46,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "09h" : 44
 "10h" : 18
-"11h" : 12
+"11h" : 33
 ```
 
 
-> **Last Updated:** 07/08/2026, 11:10:14
+> **Last Updated:** 07/08/2026, 11:16:33
