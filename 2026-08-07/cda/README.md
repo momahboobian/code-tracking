@@ -4,27 +4,27 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 4637                                          |
-| **Lines Removed** (➖) | 966                                        |
-| **Net Change** (↕)    | 3671                |
-| **Active Time** (⌚)   | 131 minutes |
+| **Lines Added** (➕)   | 6789                                          |
+| **Lines Removed** (➖) | 975                                        |
+| **Net Change** (↕)    | 5814                |
+| **Active Time** (⌚)   | 148 minutes |
 
 
 ## Modified Files
-- **ModalNew.tsx** (+285, -85)
+- **ModalNew.tsx** (+493, -85)
 - **settings.json** (+46, -0)
-- **ModalNew.stories.tsx** (+487, -66)
-- **ModalNew.test.tsx** (+397, -110)
-- **ConfirmationDialog.tsx** (+772, -297)
-- **index.tsx** (+19, -11)
+- **ModalNew.stories.tsx** (+909, -66)
+- **ModalNew.test.tsx** (+689, -110)
+- **ConfirmationDialog.tsx** (+945, -297)
+- **index.tsx** (+23, -11)
 - **ConfirmationDialog.test..tsx** (+349, -348)
-- **ConfirmationDialog.stories.tsx** (+206, -14)
-- **index.js** (+356, -0)
-- **index.ts** (+1041, -23)
+- **ConfirmationDialog.stories.tsx** (+302, -14)
+- **index.js** (+534, -0)
+- **index.ts** (+1550, -23)
 - **ConfirmationDialog.test.tsx** (+128, -0)
 - **package.json** (+191, -5)
-- **Button.tsx** (+171, -0)
-- **settings.json** (+189, -7)
+- **Button.tsx** (+342, -0)
+- **settings.json** (+288, -16)
 
 ## Visualizations
 
@@ -33,10 +33,10 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 3745
-".json" : 438
-".js" : 356
-".ts" : 1064
+".tsx" : 5111
+".json" : 546
+".js" : 534
+".ts" : 1573
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -46,8 +46,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "09h" : 44
 "10h" : 18
-"11h" : 38
+"11h" : 55
 ```
 
 
-> **Last Updated:** 07/08/2026, 11:40:22
+> **Last Updated:** 07/08/2026, 11:47:13

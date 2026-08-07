@@ -2,9 +2,9 @@
   "date": "2026-08-07",
   "projects": {
     "cda": {
-      "totalLinesAdded": 4637,
-      "totalLinesRemoved": 966,
-      "totalActiveTime": 131,
+      "totalLinesAdded": 6789,
+      "totalLinesRemoved": 975,
+      "totalActiveTime": 148,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/ModalNew/ModalNew.tsx": [
           {
@@ -174,6 +174,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2026-08-07T10:43:31.813Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/ModalNew/ModalNew.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 208,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/.vscode/settings.json": [
@@ -276,6 +290,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2026-08-07T10:43:31.840Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/docs/components/ModalNew/ModalNew.stories.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 422,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/ModalNew/ModalNew.test.tsx": [
@@ -323,6 +351,20 @@
           },
           {
             "timestamp": "2026-08-07T10:12:52.745Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/ModalNew/ModalNew.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 292,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-08-07T10:43:31.828Z",
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/ModalNew/ModalNew.test.tsx",
             "fileType": ".tsx",
             "linesAdded": 292,
@@ -742,6 +784,20 @@
             },
             "duration": 0,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2026-08-07T10:42:13.364Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/ConfirmationDialog/ConfirmationDialog.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 173,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/ConfirmationDialog/index.tsx": [
@@ -859,6 +915,20 @@
           },
           {
             "timestamp": "2026-08-07T10:12:52.775Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/ConfirmationDialog/index.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-08-07T10:43:31.891Z",
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/ConfirmationDialog/index.tsx",
             "fileType": ".tsx",
             "linesAdded": 4,
@@ -1042,6 +1112,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2026-08-07T10:43:31.918Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/docs/components/ConfirmationDialog/ConfirmationDialog.stories.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 96,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/index.js": [
@@ -1075,6 +1159,20 @@
           },
           {
             "timestamp": "2026-08-07T10:12:52.792Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/index.js",
+            "fileType": ".js",
+            "linesAdded": 178,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-08-07T10:43:31.931Z",
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/index.js",
             "fileType": ".js",
             "linesAdded": 178,
@@ -1186,6 +1284,20 @@
             },
             "duration": 1,
             "language": "ts"
+          },
+          {
+            "timestamp": "2026-08-07T10:43:31.933Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/types/index.ts",
+            "fileType": ".ts",
+            "linesAdded": 509,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/ConfirmationDialog/ConfirmationDialog.test.tsx": [
@@ -1279,6 +1391,20 @@
         "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/Button/Button.tsx": [
           {
             "timestamp": "2026-08-07T10:12:52.767Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/Button/Button.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 171,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-08-07T10:43:31.852Z",
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/Button/Button.tsx",
             "fileType": ".tsx",
             "linesAdded": 171,
@@ -1431,6 +1557,118 @@
               "removed": []
             },
             "duration": 3,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-08-07T10:42:40.292Z",
+            "fileName": "/Users/momahboobian/Library/Application Support/Code/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 89,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-08-07T10:42:40.343Z",
+            "fileName": "/Users/momahboobian/Library/Application Support/Code/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-08-07T10:43:22.562Z",
+            "fileName": "/Users/momahboobian/Library/Application Support/Code/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-08-07T10:43:23.817Z",
+            "fileName": "/Users/momahboobian/Library/Application Support/Code/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-08-07T10:44:43.937Z",
+            "fileName": "/Users/momahboobian/Library/Application Support/Code/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-08-07T10:44:46.975Z",
+            "fileName": "/Users/momahboobian/Library/Application Support/Code/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-08-07T10:45:22.243Z",
+            "fileName": "/Users/momahboobian/Library/Application Support/Code/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-08-07T10:45:32.497Z",
+            "fileName": "/Users/momahboobian/Library/Application Support/Code/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 8,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "json"
           }
         ]
