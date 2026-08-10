@@ -4,16 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3775                                          |
-| **Lines Removed** (➖) | 920                                        |
-| **Net Change** (↕)    | 2855                |
-| **Active Time** (⌚)   | 231 minutes |
+| **Lines Added** (➕)   | 3785                                          |
+| **Lines Removed** (➖) | 1112                                        |
+| **Net Change** (↕)    | 2673                |
+| **Active Time** (⌚)   | 241 minutes |
 
 
 ## Modified Files
-- **ConfirmationDialog.scss** (+366, -158)
-- **ConfirmationDialog.stories.tsx** (+665, -363)
-- **ConfirmationDialog.tsx** (+205, -26)
+- **ConfirmationDialog.scss** (+373, -169)
+- **ConfirmationDialog.stories.tsx** (+668, -542)
+- **ConfirmationDialog.tsx** (+205, -28)
 - **ModalNew.scss** (+93, -0)
 - **ModalNew.tsx** (+415, -191)
 - **ModalNew.stories.tsx** (+487, -65)
@@ -32,8 +32,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".scss" : 617
-".tsx" : 3099
+".scss" : 635
+".tsx" : 3283
 ".js" : 180
 ".ts" : 521
 ".json" : 278
@@ -48,8 +48,8 @@ title Coding activity by hour (count of changes)
 "10h" : 52
 "11h" : 33
 "12h" : 34
-"13h" : 8
+"13h" : 16
 ```
 
 
-> **Last Updated:** 10/08/2026, 13:06:08
+> **Last Updated:** 10/08/2026, 13:11:08
