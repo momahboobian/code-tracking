@@ -4,18 +4,22 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 280                                          |
-| **Lines Removed** (➖) | 97                                        |
-| **Net Change** (↕)    | 183                |
-| **Active Time** (⌚)   | 117 minutes |
+| **Lines Added** (➕)   | 531                                          |
+| **Lines Removed** (➖) | 526                                        |
+| **Net Change** (↕)    | 5                |
+| **Active Time** (⌚)   | 132 minutes |
 
 
 ## Modified Files
 - **ConfirmationDialog.scss** (+139, -80)
-- **ConfirmationDialog.stories.tsx** (+23, -3)
+- **ConfirmationDialog.stories.tsx** (+203, -183)
 - **ConfirmationDialog.tsx** (+10, -6)
 - **ModalNew.scss** (+93, -0)
-- **ModalNew.tsx** (+15, -8)
+- **ModalNew.tsx** (+86, -83)
+- **ModalNew.stories.tsx** (+0, -65)
+- **index.js** (+0, -2)
+- **index.ts** (+0, -2)
+- **ModalNew.test.tsx** (+0, -105)
 
 ## Visualizations
 
@@ -25,7 +29,9 @@
 pie showData
 title Lines changed by file type
 ".scss" : 312
-".tsx" : 65
+".tsx" : 741
+".js" : 2
+".ts" : 2
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -34,8 +40,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "09h" : 49
-"10h" : 35
+"10h" : 46
 ```
 
 
-> **Last Updated:** 10/08/2026, 10:32:59
+> **Last Updated:** 10/08/2026, 10:37:59
