@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 4250,
-      "totalLinesRemoved": 1204,
-      "totalActiveTime": 277,
+      "totalLinesRemoved": 1373,
+      "totalActiveTime": 283,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/ConfirmationDialog/ConfirmationDialog.scss": [
           {
@@ -1939,6 +1939,34 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-08-10T13:06:27.133Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/docs/components/ConfirmationDialog/ConfirmationDialog.stories.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 58,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-08-10T13:09:11.824Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/docs/components/ConfirmationDialog/ConfirmationDialog.stories.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 111,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "tsx"
           }
         ],
