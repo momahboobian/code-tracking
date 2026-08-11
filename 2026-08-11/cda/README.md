@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 22029                                          |
-| **Lines Removed** (➖) | 183                                        |
-| **Net Change** (↕)    | 21846                |
-| **Active Time** (⌚)   | 118 minutes |
+| **Lines Added** (➕)   | 24159                                          |
+| **Lines Removed** (➖) | 201                                        |
+| **Net Change** (↕)    | 23958                |
+| **Active Time** (⌚)   | 127 minutes |
 
 
 ## Modified Files
@@ -22,7 +22,7 @@
 - **yarn.lock** (+6574, -77)
 - **package.json** (+64, -0)
 - **vite.config.js** (+52, -7)
-- **main.js** (+128, -53)
+- **main.js** (+128, -62)
 - **debug-storybook.log** (+62, -32)
 - **_sass-mq.scss** (+6, -0)
 - **_tools.scss** (+406, -0)
@@ -36,10 +36,19 @@
 - **.gitignore** (+53, -0)
 - **vite.config.ts** (+68, -0)
 - **_mq.scss** (+2, -0)
-- **vite.config.ts** (+75, -7)
+- **vite.config.ts** (+75, -16)
 - **package.json** (+61, -0)
 - **_grid.scss** (+26, -0)
 - **vite.sass-importer.ts** (+20, -0)
+- **ModalNew.tsx** (+218, -0)
+- **ModalNew.test.tsx** (+295, -0)
+- **ModalNew.stories.tsx** (+422, -0)
+- **Button.tsx** (+171, -0)
+- **index.js** (+180, -0)
+- **index.ts** (+511, -0)
+- **index.ts** (+2, -0)
+- **ConfirmationDialog.test.tsx** (+158, -0)
+- **ConfirmationDialog.tsx** (+173, -0)
 
 ## Visualizations
 
@@ -50,12 +59,12 @@ pie showData
 title Lines changed by file type
 ".json" : 562
 ".scss" : 3266
-".tsx" : 127
+".tsx" : 1564
 ".lock" : 17579
-".js" : 240
+".js" : 429
 ".log" : 94
 "unknown" : 174
-".ts" : 170
+".ts" : 692
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -70,8 +79,8 @@ title Coding activity by hour (count of changes)
 "13h" : 10
 "14h" : 3
 "15h" : 16
-"16h" : 9
+"16h" : 20
 ```
 
 
-> **Last Updated:** 11/08/2026, 16:20:00
+> **Last Updated:** 11/08/2026, 16:30:00
