@@ -3,7 +3,7 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 10653,
-      "totalLinesRemoved": 77,
+      "totalLinesRemoved": 78,
       "totalActiveTime": 76,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/package.json": [
@@ -91,6 +91,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2026-08-11T12:49:06.520Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-reports/node_modules/@bbc/ise-web-components/dist/styles/components/_button.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "scss"
           }
         ],
