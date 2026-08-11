@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 22029,
-      "totalLinesRemoved": 106,
-      "totalActiveTime": 114,
+      "totalLinesRemoved": 183,
+      "totalActiveTime": 118,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/package.json": [
           {
@@ -393,6 +393,20 @@
             "fileType": ".lock",
             "linesAdded": 6574,
             "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "lock"
+          },
+          {
+            "timestamp": "2026-08-11T15:17:18.326Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-reports/yarn.lock",
+            "fileType": ".lock",
+            "linesAdded": 0,
+            "linesRemoved": 77,
             "projectName": "cda",
             "content": {
               "added": [],
