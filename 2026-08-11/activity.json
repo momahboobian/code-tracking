@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 21965,
-      "totalLinesRemoved": 99,
-      "totalActiveTime": 103,
+      "totalLinesRemoved": 106,
+      "totalActiveTime": 106,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/package.json": [
           {
@@ -1133,6 +1133,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-08-11T14:56:31.205Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-reports/vite.config.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 7,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "ts"
           }
         ],
