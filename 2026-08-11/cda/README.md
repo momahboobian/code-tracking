@@ -5,9 +5,9 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 24613                                          |
-| **Lines Removed** (➖) | 201                                        |
-| **Net Change** (↕)    | 24412                |
-| **Active Time** (⌚)   | 135 minutes |
+| **Lines Removed** (➖) | 205                                        |
+| **Net Change** (↕)    | 24408                |
+| **Active Time** (⌚)   | 138 minutes |
 
 
 ## Modified Files
@@ -48,8 +48,8 @@
 - **index.ts** (+511, -0)
 - **index.ts** (+2, -0)
 - **ConfirmationDialog.test.tsx** (+158, -0)
-- **ConfirmationDialog.tsx** (+190, -0)
-- **ConfirmationDialog.scss** (+149, -0)
+- **ConfirmationDialog.tsx** (+190, -1)
+- **ConfirmationDialog.scss** (+149, -3)
 - **ConfirmationDialog.stories.tsx** (+288, -0)
 
 ## Visualizations
@@ -60,8 +60,8 @@
 pie showData
 title Lines changed by file type
 ".json" : 562
-".scss" : 3415
-".tsx" : 1869
+".scss" : 3418
+".tsx" : 1870
 ".lock" : 17579
 ".js" : 429
 ".log" : 94
@@ -81,8 +81,8 @@ title Coding activity by hour (count of changes)
 "13h" : 10
 "14h" : 3
 "15h" : 16
-"16h" : 25
+"16h" : 27
 ```
 
 
-> **Last Updated:** 11/08/2026, 16:45:00
+> **Last Updated:** 11/08/2026, 16:50:00
