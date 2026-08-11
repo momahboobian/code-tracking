@@ -2,7 +2,7 @@
   "date": "2026-08-11",
   "projects": {
     "cda": {
-      "totalLinesAdded": 21965,
+      "totalLinesAdded": 21991,
       "totalLinesRemoved": 106,
       "totalActiveTime": 106,
       "files": {
@@ -1178,6 +1178,22 @@
             },
             "duration": 1,
             "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/something/node_modules/@bbc/ise-web-components/dist/styles/foundations/_grid.scss": [
+          {
+            "timestamp": "2026-08-11T15:03:03.664Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/something/node_modules/@bbc/ise-web-components/dist/styles/foundations/_grid.scss",
+            "fileType": ".scss",
+            "linesAdded": 26,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "scss"
           }
         ]
       },
