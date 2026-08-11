@@ -2,9 +2,9 @@
   "date": "2026-08-11",
   "projects": {
     "cda": {
-      "totalLinesAdded": 2151,
+      "totalLinesAdded": 8789,
       "totalLinesRemoved": 2,
-      "totalActiveTime": 20,
+      "totalActiveTime": 25,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/package.json": [
           {
@@ -258,6 +258,38 @@
             },
             "duration": 1,
             "language": "scss"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-reports/yarn.lock": [
+          {
+            "timestamp": "2026-08-11T09:46:30.899Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-reports/yarn.lock",
+            "fileType": ".lock",
+            "linesAdded": 6574,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "lock"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/skills/package.json": [
+          {
+            "timestamp": "2026-08-11T09:47:12.878Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/package.json",
+            "fileType": ".json",
+            "linesAdded": 64,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ]
       },
