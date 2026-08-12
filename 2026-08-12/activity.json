@@ -2,9 +2,9 @@
   "date": "2026-08-12",
   "projects": {
     "cda": {
-      "totalLinesAdded": 862,
-      "totalLinesRemoved": 6,
-      "totalActiveTime": 23,
+      "totalLinesAdded": 962,
+      "totalLinesRemoved": 25,
+      "totalActiveTime": 27,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-reports/package.json": [
           {
@@ -214,6 +214,20 @@
             },
             "duration": 2,
             "language": "mjs"
+          },
+          {
+            "timestamp": "2026-08-12T08:49:13.980Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/scripts/prepare-sass-vendor.mjs",
+            "fileType": ".mjs",
+            "linesAdded": 0,
+            "linesRemoved": 19,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "mjs"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/debug-storybook.log": [
@@ -230,6 +244,22 @@
             },
             "duration": 4,
             "language": "log"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/UsefulLinks/usefulLinks.scss": [
+          {
+            "timestamp": "2026-08-12T08:52:20.276Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/UsefulLinks/usefulLinks.scss",
+            "fileType": ".scss",
+            "linesAdded": 100,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "scss"
           }
         ]
       },
