@@ -2,9 +2,9 @@
   "date": "2026-08-12",
   "projects": {
     "cda": {
-      "totalLinesAdded": 33660,
+      "totalLinesAdded": 33716,
       "totalLinesRemoved": 142,
-      "totalActiveTime": 124,
+      "totalActiveTime": 126,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-reports/package.json": [
           {
@@ -1340,6 +1340,52 @@
             },
             "duration": 1,
             "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/desks/.gitignore": [
+          {
+            "timestamp": "2026-08-12T13:39:19.737Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/desks/.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 24,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/.gitignore": [
+          {
+            "timestamp": "2026-08-12T13:40:18.767Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 30,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2026-08-12T13:40:20.511Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
           }
         ]
       },
