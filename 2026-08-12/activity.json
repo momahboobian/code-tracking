@@ -2,9 +2,9 @@
   "date": "2026-08-12",
   "projects": {
     "cda": {
-      "totalLinesAdded": 1320,
-      "totalLinesRemoved": 25,
-      "totalActiveTime": 38,
+      "totalLinesAdded": 1400,
+      "totalLinesRemoved": 26,
+      "totalActiveTime": 41,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-reports/package.json": [
           {
@@ -228,6 +228,20 @@
             },
             "duration": 0,
             "language": "mjs"
+          },
+          {
+            "timestamp": "2026-08-12T09:54:54.643Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/scripts/prepare-sass-vendor.mjs",
+            "fileType": ".mjs",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "mjs"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/debug-storybook.log": [
@@ -382,6 +396,50 @@
             },
             "duration": 2,
             "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/rollup.config.mjs": [
+          {
+            "timestamp": "2026-08-12T09:55:47.163Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/rollup.config.mjs",
+            "fileType": ".mjs",
+            "linesAdded": 73,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "mjs"
+          },
+          {
+            "timestamp": "2026-08-12T09:55:47.989Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/rollup.config.mjs",
+            "fileType": ".mjs",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "mjs"
+          },
+          {
+            "timestamp": "2026-08-12T09:56:08.732Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/rollup.config.mjs",
+            "fileType": ".mjs",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "mjs"
           }
         ]
       },
