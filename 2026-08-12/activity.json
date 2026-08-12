@@ -2,7 +2,7 @@
   "date": "2026-08-12",
   "projects": {
     "cda": {
-      "totalLinesAdded": 963,
+      "totalLinesAdded": 999,
       "totalLinesRemoved": 25,
       "totalActiveTime": 31,
       "files": {
@@ -274,6 +274,22 @@
             },
             "duration": 4,
             "language": "scss"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/vitest.config.js": [
+          {
+            "timestamp": "2026-08-12T09:08:02.984Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/vitest.config.js",
+            "fileType": ".js",
+            "linesAdded": 36,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
           }
         ]
       },
