@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 36576                                          |
-| **Lines Removed** (➖) | 205                                        |
-| **Net Change** (↕)    | 36371                |
-| **Active Time** (⌚)   | 164 minutes |
+| **Lines Added** (➕)   | 36598                                          |
+| **Lines Removed** (➖) | 217                                        |
+| **Net Change** (↕)    | 36381                |
+| **Active Time** (⌚)   | 167 minutes |
 
 
 ## Modified Files
@@ -39,9 +39,9 @@
 - **.gitignore** (+36, -1)
 - **package.json** (+50, -0)
 - **ConfirmationDialog.scss** (+158, -27)
-- **ConfirmationDialog.test.tsx** (+158, -0)
-- **ConfirmationDialog.tsx** (+216, -34)
-- **ConfirmationDialog.stories.tsx** (+288, -0)
+- **ConfirmationDialog.test.tsx** (+168, -0)
+- **ConfirmationDialog.tsx** (+228, -45)
+- **ConfirmationDialog.stories.tsx** (+288, -1)
 - **ModalNew.tsx** (+218, -0)
 - **ModalNew.test.tsx** (+295, -0)
 - **ModalNew.stories.tsx** (+422, -0)
@@ -65,7 +65,7 @@ title Lines changed by file type
 "unknown" : 113
 ".lock" : 31688
 ".ts" : 594
-".tsx" : 1802
+".tsx" : 1836
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -80,7 +80,8 @@ title Coding activity by hour (count of changes)
 "14h" : 16
 "15h" : 3
 "16h" : 27
+"17h" : 4
 ```
 
 
-> **Last Updated:** 12/08/2026, 17:01:20
+> **Last Updated:** 12/08/2026, 17:16:20
