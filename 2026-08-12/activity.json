@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 33599,
-      "totalLinesRemoved": 122,
-      "totalActiveTime": 119,
+      "totalLinesRemoved": 142,
+      "totalActiveTime": 123,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-reports/package.json": [
           {
@@ -480,6 +480,20 @@
             },
             "duration": 0,
             "language": "mjs"
+          },
+          {
+            "timestamp": "2026-08-12T13:23:07.921Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/scripts/prepare-sass-vendor.mjs",
+            "fileType": ".mjs",
+            "linesAdded": 0,
+            "linesRemoved": 19,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "mjs"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/debug-storybook.log": [
@@ -555,6 +569,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-08-12T13:26:52.527Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/vitest.config.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "js"
           }
         ],
