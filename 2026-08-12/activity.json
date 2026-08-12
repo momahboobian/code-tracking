@@ -2,9 +2,9 @@
   "date": "2026-08-12",
   "projects": {
     "cda": {
-      "totalLinesAdded": 36611,
-      "totalLinesRemoved": 234,
-      "totalActiveTime": 169,
+      "totalLinesAdded": 36827,
+      "totalLinesRemoved": 241,
+      "totalActiveTime": 185,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-reports/package.json": [
           {
@@ -1842,6 +1842,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2026-08-12T16:28:33.615Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/ConfirmationDialog/ConfirmationDialog.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 6,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "tsx"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/docs/components/ConfirmationDialog/ConfirmationDialog.stories.tsx": [
@@ -1984,6 +1998,52 @@
             },
             "duration": 1,
             "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/StateMessage/StateMessage.tsx": [
+          {
+            "timestamp": "2026-08-12T16:28:33.610Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/StateMessage/StateMessage.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 212,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-08-12T16:28:50.250Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/StateMessage/StateMessage.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/StateMessage/index.tsx": [
+          {
+            "timestamp": "2026-08-12T16:28:33.611Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/StateMessage/index.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "tsx"
           }
         ]
       },
