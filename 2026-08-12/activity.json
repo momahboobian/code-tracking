@@ -2,7 +2,7 @@
   "date": "2026-08-12",
   "projects": {
     "cda": {
-      "totalLinesAdded": 36892,
+      "totalLinesAdded": 36893,
       "totalLinesRemoved": 331,
       "totalActiveTime": 224,
       "files": {
@@ -2123,6 +2123,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-08-12T17:01:14.395Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/docs/components/ConfirmationDialog/ConfirmationDialog.stories.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ],
