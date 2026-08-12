@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 36892,
-      "totalLinesRemoved": 261,
-      "totalActiveTime": 209,
+      "totalLinesRemoved": 317,
+      "totalActiveTime": 220,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-reports/package.json": [
           {
@@ -1635,6 +1635,104 @@
             "fileType": ".scss",
             "linesAdded": 0,
             "linesRemoved": 4,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2026-08-12T16:49:00.937Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/ConfirmationDialog/ConfirmationDialog.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2026-08-12T16:49:30.224Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/ConfirmationDialog/ConfirmationDialog.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 8,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2026-08-12T16:49:37.594Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/ConfirmationDialog/ConfirmationDialog.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 12,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2026-08-12T16:49:42.826Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/ConfirmationDialog/ConfirmationDialog.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 9,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2026-08-12T16:49:46.173Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/ConfirmationDialog/ConfirmationDialog.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 7,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2026-08-12T16:49:59.504Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/ConfirmationDialog/ConfirmationDialog.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2026-08-12T16:50:46.006Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/ConfirmationDialog/ConfirmationDialog.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 12,
             "projectName": "cda",
             "content": {
               "added": [],
