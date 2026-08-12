@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 26669,
-      "totalLinesRemoved": 109,
-      "totalActiveTime": 101,
+      "totalLinesRemoved": 111,
+      "totalActiveTime": 106,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-reports/package.json": [
           {
@@ -943,6 +943,34 @@
               "removed": []
             },
             "duration": 1,
+            "language": "mjs"
+          },
+          {
+            "timestamp": "2026-08-12T11:25:20.978Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/rollup.config.mjs",
+            "fileType": ".mjs",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "mjs"
+          },
+          {
+            "timestamp": "2026-08-12T11:26:56.958Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/rollup.config.mjs",
+            "fileType": ".mjs",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "mjs"
           }
         ],
