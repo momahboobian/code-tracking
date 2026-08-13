@@ -4,27 +4,40 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2721                                          |
-| **Lines Removed** (➖) | 160                                        |
-| **Net Change** (↕)    | 2561                |
-| **Active Time** (⌚)   | 40 minutes |
+| **Lines Added** (➕)   | 5524                                          |
+| **Lines Removed** (➖) | 166                                        |
+| **Net Change** (↕)    | 5358                |
+| **Active Time** (⌚)   | 66 minutes |
 
 
 ## Modified Files
-- **TODO-when-we-move-to-v8.mdx** (+66, -24)
+- **TODO-when-we-move-to-v8.mdx** (+90, -24)
 - **main.js** (+144, -11)
-- **package.json** (+126, -0)
-- **package.json** (+187, -2)
-- **_button.scss** (+1022, -0)
+- **package.json** (+189, -0)
+- **package.json** (+188, -2)
+- **_button.scss** (+1023, -0)
 - **package.json** (+60, -0)
 - **package.json** (+61, -0)
 - **package.json** (+126, -0)
 - **App.tsx** (+206, -0)
-- **SkillsList.tsx** (+230, -58)
+- **SkillsList.tsx** (+259, -58)
 - **package.json** (+100, -0)
-- **ReportTable.scss** (+44, -15)
+- **ReportTable.scss** (+88, -15)
 - **ReportTable.tsx** (+138, -50)
 - **StateMessage.tsx** (+211, -0)
+- **ModalNew.tsx** (+218, -0)
+- **ModalNew.test.tsx** (+295, -0)
+- **ModalNew.stories.tsx** (+422, -0)
+- **index.js** (+180, -0)
+- **Button.tsx** (+171, -0)
+- **index.ts** (+511, -0)
+- **index.ts** (+2, -0)
+- **ConfirmationDialog.test.tsx** (+274, -0)
+- **ConfirmationDialog.tsx** (+188, -0)
+- **ConfirmationDialog.scss** (+57, -0)
+- **ConfirmationDialog.stories.tsx** (+295, -6)
+- **index.tsx** (+4, -0)
+- **tsconfig.json** (+24, -0)
 
 ## Visualizations
 
@@ -33,11 +46,12 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".mdx" : 90
-".js" : 155
-".json" : 662
-".scss" : 1081
-".tsx" : 893
+".mdx" : 114
+".js" : 335
+".json" : 750
+".scss" : 1183
+".tsx" : 2795
+".ts" : 513
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -50,8 +64,8 @@ title Coding activity by hour (count of changes)
 "11h" : 2
 "12h" : 13
 "13h" : 7
-"14h" : 7
+"14h" : 32
 ```
 
 
-> **Last Updated:** 13/08/2026, 14:42:04
+> **Last Updated:** 13/08/2026, 14:47:04
