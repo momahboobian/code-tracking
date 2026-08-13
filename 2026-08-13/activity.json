@@ -3,7 +3,7 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 5543,
-      "totalLinesRemoved": 215,
+      "totalLinesRemoved": 216,
       "totalActiveTime": 100,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/docs/about/TODO-when-we-move-to-v8.mdx": [
@@ -1099,6 +1099,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-08-13T14:42:01.399Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/ConfirmationDialog/ConfirmationDialog.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ],
