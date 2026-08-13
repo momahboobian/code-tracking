@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 8560,
-      "totalLinesRemoved": 318,
-      "totalActiveTime": 172,
+      "totalLinesRemoved": 325,
+      "totalActiveTime": 174,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/docs/about/TODO-when-we-move-to-v8.mdx": [
           {
@@ -1853,6 +1853,34 @@
             "fileType": ".tsx",
             "linesAdded": 1,
             "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-08-13T16:21:55.811Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/docs/components/ConfirmationDialog/ConfirmationDialog.stories.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-08-13T16:22:47.948Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/docs/components/ConfirmationDialog/ConfirmationDialog.stories.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 6,
             "projectName": "cda",
             "content": {
               "added": [],
