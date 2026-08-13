@@ -4,26 +4,27 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1641                                          |
+| **Lines Added** (➕)   | 2721                                          |
 | **Lines Removed** (➖) | 160                                        |
-| **Net Change** (↕)    | 1481                |
+| **Net Change** (↕)    | 2561                |
 | **Active Time** (⌚)   | 40 minutes |
 
 
 ## Modified Files
-- **TODO-when-we-move-to-v8.mdx** (+45, -24)
+- **TODO-when-we-move-to-v8.mdx** (+66, -24)
 - **main.js** (+144, -11)
 - **package.json** (+126, -0)
-- **package.json** (+1, -2)
-- **_button.scss** (+511, -0)
+- **package.json** (+187, -2)
+- **_button.scss** (+1022, -0)
 - **package.json** (+60, -0)
 - **package.json** (+61, -0)
-- **package.json** (+63, -0)
+- **package.json** (+126, -0)
 - **App.tsx** (+206, -0)
-- **SkillsList.tsx** (+192, -58)
-- **package.json** (+50, -0)
+- **SkillsList.tsx** (+230, -58)
+- **package.json** (+100, -0)
 - **ReportTable.scss** (+44, -15)
 - **ReportTable.tsx** (+138, -50)
+- **StateMessage.tsx** (+211, -0)
 
 ## Visualizations
 
@@ -32,11 +33,11 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".mdx" : 69
+".mdx" : 90
 ".js" : 155
-".json" : 363
-".scss" : 570
-".tsx" : 644
+".json" : 662
+".scss" : 1081
+".tsx" : 893
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -49,7 +50,8 @@ title Coding activity by hour (count of changes)
 "11h" : 2
 "12h" : 13
 "13h" : 7
+"14h" : 7
 ```
 
 
-> **Last Updated:** 13/08/2026, 13:30:10
+> **Last Updated:** 13/08/2026, 14:42:04
