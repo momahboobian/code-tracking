@@ -2,9 +2,9 @@
   "date": "2026-08-13",
   "projects": {
     "cda": {
-      "totalLinesAdded": 695,
+      "totalLinesAdded": 879,
       "totalLinesRemoved": 34,
-      "totalActiveTime": 10,
+      "totalActiveTime": 18,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/docs/about/TODO-when-we-move-to-v8.mdx": [
           {
@@ -168,6 +168,54 @@
             },
             "duration": 0,
             "language": "scss"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/something/package.json": [
+          {
+            "timestamp": "2026-08-13T09:17:57.792Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/something/package.json",
+            "fileType": ".json",
+            "linesAdded": 60,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/tools/@cda/templates/vite-ts-app/package.json": [
+          {
+            "timestamp": "2026-08-13T09:20:17.780Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/tools/@cda/templates/vite-ts-app/package.json",
+            "fileType": ".json",
+            "linesAdded": 61,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/tools/@cda/templates/ts-app/package.json": [
+          {
+            "timestamp": "2026-08-13T09:21:09.008Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/tools/@cda/templates/ts-app/package.json",
+            "fileType": ".json",
+            "linesAdded": 63,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ]
       },
