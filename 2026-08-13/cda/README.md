@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 5669                                          |
-| **Lines Removed** (➖) | 307                                        |
-| **Net Change** (↕)    | 5362                |
-| **Active Time** (⌚)   | 150 minutes |
+| **Lines Added** (➕)   | 8519                                          |
+| **Lines Removed** (➖) | 313                                        |
+| **Net Change** (↕)    | 8206                |
+| **Active Time** (⌚)   | 165 minutes |
 
 
 ## Modified Files
@@ -24,20 +24,20 @@
 - **package.json** (+100, -0)
 - **ReportTable.scss** (+88, -15)
 - **ReportTable.tsx** (+138, -50)
-- **StateMessage.tsx** (+211, -0)
-- **ModalNew.tsx** (+218, -0)
-- **ModalNew.test.tsx** (+295, -0)
-- **ModalNew.stories.tsx** (+422, -0)
-- **index.js** (+180, -0)
-- **Button.tsx** (+171, -0)
-- **index.ts** (+511, -0)
-- **index.ts** (+2, -0)
-- **ConfirmationDialog.test.tsx** (+274, -10)
-- **ConfirmationDialog.tsx** (+210, -24)
-- **ConfirmationDialog.scss** (+57, -0)
-- **ConfirmationDialog.stories.tsx** (+418, -113)
-- **index.tsx** (+4, -0)
-- **tsconfig.json** (+24, -0)
+- **StateMessage.tsx** (+422, -0)
+- **ModalNew.tsx** (+436, -0)
+- **ModalNew.test.tsx** (+590, -0)
+- **ModalNew.stories.tsx** (+844, -0)
+- **index.js** (+360, -0)
+- **Button.tsx** (+342, -0)
+- **index.ts** (+1022, -0)
+- **index.ts** (+4, -0)
+- **ConfirmationDialog.test.tsx** (+538, -10)
+- **ConfirmationDialog.tsx** (+396, -24)
+- **ConfirmationDialog.scss** (+114, -0)
+- **ConfirmationDialog.stories.tsx** (+723, -119)
+- **index.tsx** (+8, -0)
+- **tsconfig.json** (+48, -0)
 
 ## Visualizations
 
@@ -47,11 +47,11 @@
 pie showData
 title Lines changed by file type
 ".mdx" : 114
-".js" : 335
-".json" : 750
-".scss" : 1183
-".tsx" : 3081
-".ts" : 513
+".js" : 515
+".json" : 774
+".scss" : 1240
+".tsx" : 5163
+".ts" : 1026
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -67,7 +67,8 @@ title Coding activity by hour (count of changes)
 "14h" : 32
 "15h" : 24
 "16h" : 22
+"17h" : 15
 ```
 
 
-> **Last Updated:** 13/08/2026, 16:32:04
+> **Last Updated:** 13/08/2026, 17:11:29
