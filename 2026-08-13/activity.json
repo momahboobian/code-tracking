@@ -2,8 +2,8 @@
   "date": "2026-08-13",
   "projects": {
     "cda": {
-      "totalLinesAdded": 184,
-      "totalLinesRemoved": 9,
+      "totalLinesAdded": 695,
+      "totalLinesRemoved": 34,
       "totalActiveTime": 10,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/docs/about/TODO-when-we-move-to-v8.mdx": [
@@ -47,6 +47,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "mdx"
+          },
+          {
+            "timestamp": "2026-08-13T09:14:44.945Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/docs/about/TODO-when-we-move-to-v8.mdx",
+            "fileType": ".mdx",
+            "linesAdded": 0,
+            "linesRemoved": 24,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "mdx"
           }
         ],
@@ -124,6 +138,36 @@
             },
             "duration": 1,
             "language": "json"
+          },
+          {
+            "timestamp": "2026-08-13T09:14:44.940Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/package.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/styles/components/_button.scss": [
+          {
+            "timestamp": "2026-08-13T09:14:44.950Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/styles/components/_button.scss",
+            "fileType": ".scss",
+            "linesAdded": 511,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "scss"
           }
         ]
       },
