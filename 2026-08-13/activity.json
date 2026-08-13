@@ -2,7 +2,7 @@
   "date": "2026-08-13",
   "projects": {
     "cda": {
-      "totalLinesAdded": 1474,
+      "totalLinesAdded": 1605,
       "totalLinesRemoved": 95,
       "totalActiveTime": 32,
       "files": {
@@ -434,6 +434,22 @@
             },
             "duration": 2,
             "language": "scss"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-reports/src/components/ReportTable/ReportTable.tsx": [
+          {
+            "timestamp": "2026-08-13T12:05:04.113Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-reports/src/components/ReportTable/ReportTable.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 131,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
           }
         ]
       },
