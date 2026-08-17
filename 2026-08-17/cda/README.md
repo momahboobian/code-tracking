@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 7019                                          |
+| **Lines Added** (➕)   | 7271                                          |
 | **Lines Removed** (➖) | 152                                        |
-| **Net Change** (↕)    | 6867                |
-| **Active Time** (⌚)   | 58 minutes |
+| **Net Change** (↕)    | 7119                |
+| **Active Time** (⌚)   | 65 minutes |
 
 
 ## Modified Files
@@ -31,6 +31,9 @@
 - **GroupSkillProgress.scss** (+8, -0)
 - **index.ts** (+2, -0)
 - **index.ts** (+2, -0)
+- **GroupDetails.test.tsx** (+131, -0)
+- **SortableTable.test.tsx** (+40, -0)
+- **GroupSkillProgress.test.tsx** (+81, -0)
 
 ## Visualizations
 
@@ -39,7 +42,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 977
+".tsx" : 1229
 ".js" : 1275
 ".ts" : 4797
 ".scss" : 122
@@ -54,8 +57,8 @@ title Coding activity by hour (count of changes)
 "10h" : 3
 "11h" : 14
 "12h" : 9
-"14h" : 27
+"14h" : 33
 ```
 
 
-> **Last Updated:** 17/08/2026, 14:09:14
+> **Last Updated:** 17/08/2026, 14:14:14
