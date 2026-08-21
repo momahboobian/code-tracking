@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 22430                                          |
+| **Lines Added** (➕)   | 26761                                          |
 | **Lines Removed** (➖) | 102                                        |
-| **Net Change** (↕)    | 22328                |
-| **Active Time** (⌚)   | 98 minutes |
+| **Net Change** (↕)    | 26659                |
+| **Active Time** (⌚)   | 109 minutes |
 
 
 ## Modified Files
@@ -27,6 +27,10 @@
 - **skills.ts** (+421, -35)
 - **skill-mutations.ts** (+1057, -1)
 - **SkillGroups.test.ts** (+831, -1)
+- **vulcan.ts** (+1944, -0)
+- **vulcan_views.ts** (+1113, -0)
+- **skill-group-queries.ts** (+259, -0)
+- **skill-group-mutations.ts** (+1015, -0)
 
 ## Visualizations
 
@@ -36,7 +40,7 @@
 pie showData
 title Lines changed by file type
 ".js" : 670
-".ts" : 21806
+".ts" : 26137
 "unknown" : 56
 ```
 
@@ -47,8 +51,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "07h" : 18
 "08h" : 39
-"09h" : 6
+"09h" : 15
 ```
 
 
-> **Last Updated:** 21/08/2026, 09:24:51
+> **Last Updated:** 21/08/2026, 09:34:51
