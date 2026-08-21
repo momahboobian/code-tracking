@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 117                                          |
+| **Lines Added** (➕)   | 148                                          |
 | **Lines Removed** (➖) | 18                                        |
-| **Net Change** (↕)    | 99                |
-| **Active Time** (⌚)   | 22 minutes |
+| **Net Change** (↕)    | 130                |
+| **Active Time** (⌚)   | 28 minutes |
 
 
 ## Modified Files
@@ -15,6 +15,7 @@
 - **20260820072344-create-profile-skill-group-to-shared-person-table.js** (+29, -8)
 - **20260820063408-alter-profile-skill-groups-view.js** (+33, -0)
 - **20260821063815-create-profile-skill-group-to-shared-person-view.js** (+29, -0)
+- **20260529102439-create-profile-skill-groups-view.js** (+31, -0)
 
 ## Visualizations
 
@@ -23,7 +24,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".js" : 135
+".js" : 166
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -31,8 +32,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"07h" : 13
+"07h" : 15
 ```
 
 
-> **Last Updated:** 21/08/2026, 07:46:04
+> **Last Updated:** 21/08/2026, 07:51:04
