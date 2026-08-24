@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 28400                                          |
+| **Lines Added** (➕)   | 37658                                          |
 | **Lines Removed** (➖) | 457                                        |
-| **Net Change** (↕)    | 27943                |
-| **Active Time** (⌚)   | 33 minutes |
+| **Net Change** (↕)    | 37201                |
+| **Active Time** (⌚)   | 38 minutes |
 
 
 ## Modified Files
@@ -31,6 +31,8 @@
 - **GroupDetails.test.tsx** (+237, -0)
 - **Groups.test.tsx** (+52, -0)
 - **GroupCreate.test.tsx** (+111, -0)
+- **gql.ts** (+310, -0)
+- **graphql.ts** (+8948, -0)
 
 ## Visualizations
 
@@ -40,7 +42,7 @@
 pie showData
 title Lines changed by file type
 "unknown" : 173
-".ts" : 25853
+".ts" : 35111
 ".js" : 1759
 ".tsx" : 1072
 ```
@@ -54,8 +56,8 @@ title Coding activity by hour (count of changes)
 "12h" : 1
 "13h" : 2
 "14h" : 18
-"15h" : 17
+"15h" : 19
 ```
 
 
-> **Last Updated:** 24/08/2026, 15:54:55
+> **Last Updated:** 24/08/2026, 15:59:55
