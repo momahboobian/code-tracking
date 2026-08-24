@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 37870                                          |
+| **Lines Added** (➕)   | 37924                                          |
 | **Lines Removed** (➖) | 550                                        |
-| **Net Change** (↕)    | 37320                |
-| **Active Time** (⌚)   | 89 minutes |
+| **Net Change** (↕)    | 37374                |
+| **Active Time** (⌚)   | 91 minutes |
 
 
 ## Modified Files
@@ -25,15 +25,15 @@
 - **resolvers-types.ts** (+12529, -0)
 - **queries.js** (+425, -0)
 - **mutations.js** (+823, -0)
-- **GroupDetails.tsx** (+215, -3)
-- **GroupCreate.tsx** (+467, -23)
+- **GroupDetails.tsx** (+227, -3)
+- **GroupCreate.tsx** (+485, -23)
 - **graphql.ts** (+7592, -0)
-- **GroupDetails.test.tsx** (+237, -0)
-- **Groups.test.tsx** (+137, -46)
-- **GroupCreate.test.tsx** (+111, -0)
+- **GroupDetails.test.tsx** (+238, -0)
+- **Groups.test.tsx** (+154, -46)
+- **GroupCreate.test.tsx** (+116, -0)
 - **gql.ts** (+310, -0)
 - **graphql.ts** (+8948, -0)
-- **Groups.tsx** (+102, -16)
+- **Groups.tsx** (+103, -16)
 
 ## Visualizations
 
@@ -45,7 +45,7 @@ title Lines changed by file type
 "unknown" : 173
 ".ts" : 35131
 ".js" : 1759
-".tsx" : 1357
+".tsx" : 1411
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -60,8 +60,8 @@ title Coding activity by hour (count of changes)
 "15h" : 19
 "16h" : 7
 "17h" : 22
-"19h" : 5
+"19h" : 11
 ```
 
 
-> **Last Updated:** 24/08/2026, 19:19:55
+> **Last Updated:** 24/08/2026, 19:29:55
