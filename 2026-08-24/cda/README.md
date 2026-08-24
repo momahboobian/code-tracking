@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 37672                                          |
+| **Lines Added** (➕)   | 37777                                          |
 | **Lines Removed** (➖) | 457                                        |
-| **Net Change** (↕)    | 37215                |
-| **Active Time** (⌚)   | 44 minutes |
+| **Net Change** (↕)    | 37320                |
+| **Active Time** (⌚)   | 48 minutes |
 
 
 ## Modified Files
@@ -15,10 +15,10 @@
 - **skill-export.test.ts** (+371, -0)
 - **skill-queries.ts** (+652, -45)
 - **skills.js** (+485, -26)
-- **SkillGroups.test.ts** (+985, -155)
+- **SkillGroups.test.ts** (+993, -155)
 - **SkillGroups.ts** (+346, -43)
 - **skill-mutations.ts** (+1239, -130)
-- **skills.ts** (+414, -28)
+- **skills.ts** (+416, -28)
 - **skill-group-queries.ts** (+265, -6)
 - **skill-group-mutations.ts** (+1034, -19)
 - **.env** (+123, -0)
@@ -29,10 +29,11 @@
 - **GroupCreate.tsx** (+467, -5)
 - **graphql.ts** (+7592, -0)
 - **GroupDetails.test.tsx** (+237, -0)
-- **Groups.test.tsx** (+52, -0)
+- **Groups.test.tsx** (+53, -0)
 - **GroupCreate.test.tsx** (+111, -0)
 - **gql.ts** (+310, -0)
 - **graphql.ts** (+8948, -0)
+- **Groups.tsx** (+94, -0)
 
 ## Visualizations
 
@@ -42,9 +43,9 @@
 pie showData
 title Lines changed by file type
 "unknown" : 173
-".ts" : 35111
+".ts" : 35121
 ".js" : 1759
-".tsx" : 1086
+".tsx" : 1181
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -57,8 +58,8 @@ title Coding activity by hour (count of changes)
 "13h" : 2
 "14h" : 18
 "15h" : 19
-"16h" : 2
+"16h" : 7
 ```
 
 
-> **Last Updated:** 24/08/2026, 16:04:55
+> **Last Updated:** 24/08/2026, 16:34:55
