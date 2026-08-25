@@ -5,9 +5,9 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 107                                          |
-| **Lines Removed** (➖) | 35                                        |
-| **Net Change** (↕)    | 72                |
-| **Active Time** (⌚)   | 57 minutes |
+| **Lines Removed** (➖) | 44                                        |
+| **Net Change** (↕)    | 63                |
+| **Active Time** (⌚)   | 58 minutes |
 
 
 ## Modified Files
@@ -16,7 +16,7 @@
 - **Groups.test.tsx** (+9, -3)
 - **GroupDetails.tsx** (+8, -7)
 - **GroupDetails.scss** (+60, -9)
-- **GroupCreate.tsx** (+0, -6)
+- **GroupCreate.tsx** (+0, -15)
 
 ## Visualizations
 
@@ -25,7 +25,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 63
+".tsx" : 72
 ".js" : 10
 ".scss" : 69
 ```
@@ -36,8 +36,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "08h" : 1
-"09h" : 34
+"09h" : 35
 ```
 
 
-> **Last Updated:** 25/08/2026, 09:44:56
+> **Last Updated:** 25/08/2026, 09:49:56
