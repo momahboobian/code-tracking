@@ -2,9 +2,9 @@
   "date": "2026-08-25",
   "projects": {
     "cda": {
-      "totalLinesAdded": 579,
+      "totalLinesAdded": 636,
       "totalLinesRemoved": 96,
-      "totalActiveTime": 106,
+      "totalActiveTime": 114,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/containers/Groups/Groups.tsx": [
           {
@@ -205,6 +205,20 @@
               "removed": []
             },
             "duration": 3,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-08-25T11:38:08.702Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/containers/Groups/Groups.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "tsx"
           }
         ],
@@ -994,6 +1008,36 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2026-08-25T11:38:08.697Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/containers/GroupCreate/GroupCreate.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/unit/utils/skills/SkillGroups.test.ts": [
+          {
+            "timestamp": "2026-08-25T11:36:49.613Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/unit/utils/skills/SkillGroups.test.ts",
+            "fileType": ".ts",
+            "linesAdded": 44,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "ts"
           }
         ]
       },
