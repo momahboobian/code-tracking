@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 169                                          |
+| **Lines Added** (➕)   | 177                                          |
 | **Lines Removed** (➖) | 83                                        |
-| **Net Change** (↕)    | 86                |
-| **Active Time** (⌚)   | 79 minutes |
+| **Net Change** (↕)    | 94                |
+| **Active Time** (⌚)   | 81 minutes |
 
 
 ## Modified Files
@@ -17,6 +17,8 @@
 - **GroupDetails.tsx** (+17, -12)
 - **GroupDetails.scss** (+60, -9)
 - **GroupCreate.tsx** (+53, -49)
+- **skill-mutations.ts** (+7, -0)
+- **skill-group-mutations.ts** (+1, -0)
 
 ## Visualizations
 
@@ -28,6 +30,7 @@ title Lines changed by file type
 ".tsx" : 173
 ".js" : 10
 ".scss" : 69
+".ts" : 8
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -38,8 +41,8 @@ title Coding activity by hour (count of changes)
 "08h" : 1
 "09h" : 39
 "10h" : 4
-"11h" : 8
+"11h" : 10
 ```
 
 
-> **Last Updated:** 25/08/2026, 11:09:56
+> **Last Updated:** 25/08/2026, 11:34:56
