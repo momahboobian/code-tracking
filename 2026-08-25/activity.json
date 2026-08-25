@@ -2,9 +2,9 @@
   "date": "2026-08-25",
   "projects": {
     "cda": {
-      "totalLinesAdded": 2033,
-      "totalLinesRemoved": 401,
-      "totalActiveTime": 154,
+      "totalLinesAdded": 2035,
+      "totalLinesRemoved": 405,
+      "totalActiveTime": 155,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/containers/Groups/Groups.tsx": [
           {
@@ -1430,6 +1430,20 @@
             },
             "duration": 2,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2026-08-25T12:12:23.700Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/containers/GroupAccess/GroupAccess.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/containers/GroupAccess/GroupAccess.scss": [
@@ -1476,6 +1490,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2026-08-25T12:12:23.698Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/containers/GroupAccess/GroupAccess.test.tsx": [
@@ -1509,6 +1537,20 @@
           },
           {
             "timestamp": "2026-08-25T11:54:01.087Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/containers/GroupAccess/GroupAccess.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-08-25T12:12:23.740Z",
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/containers/GroupAccess/GroupAccess.test.tsx",
             "fileType": ".tsx",
             "linesAdded": 2,
