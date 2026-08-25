@@ -4,28 +4,37 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 696                                          |
-| **Lines Removed** (➖) | 96                                        |
-| **Net Change** (↕)    | 600                |
-| **Active Time** (⌚)   | 121 minutes |
+| **Lines Added** (➕)   | 2013                                          |
+| **Lines Removed** (➖) | 401                                        |
+| **Net Change** (↕)    | 1612                |
+| **Active Time** (⌚)   | 148 minutes |
 
 
 ## Modified Files
 - **Groups.tsx** (+20, -10)
 - **queries.js** (+10, -0)
 - **Groups.test.tsx** (+10, -3)
-- **GroupDetails.tsx** (+28, -18)
+- **GroupDetails.tsx** (+37, -18)
 - **GroupDetails.scss** (+60, -9)
-- **GroupCreate.tsx** (+95, -49)
+- **GroupCreate.tsx** (+168, -335)
 - **skill-mutations.ts** (+48, -7)
 - **skill-group-mutations.ts** (+207, -0)
 - **SkillGroups.ts** (+16, -0)
 - **skill-queries.ts** (+12, -0)
 - **skill-group-queries.ts** (+81, -0)
-- **GroupCreate.test.tsx** (+19, -0)
+- **GroupCreate.test.tsx** (+19, -19)
 - **SkillGroups.test.ts** (+44, -0)
 - **GroupDetails.test.tsx** (+1, -0)
 - **ToggleSwitch.tsx** (+45, -0)
+- **ToggleSwitch.scss** (+64, -0)
+- **index.ts** (+2, -0)
+- **index.js** (+182, -0)
+- **index.ts** (+513, -0)
+- **GroupAccess.tsx** (+182, -0)
+- **GroupAccess.scss** (+20, -0)
+- **App.tsx** (+217, -0)
+- **GroupAccess.test.tsx** (+53, -0)
+- **index.ts** (+2, -0)
 
 ## Visualizations
 
@@ -34,10 +43,10 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 298
-".js" : 10
-".scss" : 69
-".ts" : 415
+".tsx" : 1137
+".js" : 192
+".scss" : 153
+".ts" : 932
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -49,8 +58,8 @@ title Coding activity by hour (count of changes)
 "09h" : 39
 "10h" : 4
 "11h" : 19
-"12h" : 13
+"12h" : 40
 ```
 
 
-> **Last Updated:** 25/08/2026, 12:49:56
+> **Last Updated:** 25/08/2026, 12:54:56
