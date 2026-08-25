@@ -2,9 +2,9 @@
   "date": "2026-08-25",
   "projects": {
     "cda": {
-      "totalLinesAdded": 491,
+      "totalLinesAdded": 579,
       "totalLinesRemoved": 96,
-      "totalActiveTime": 105,
+      "totalActiveTime": 106,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/containers/Groups/Groups.tsx": [
           {
@@ -962,6 +962,38 @@
             },
             "duration": 1,
             "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/low-risk-schema/skills/skill-group-queries.ts": [
+          {
+            "timestamp": "2026-08-25T11:33:34.391Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/low-risk-schema/skills/skill-group-queries.ts",
+            "fileType": ".ts",
+            "linesAdded": 81,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/containers/GroupCreate/GroupCreate.test.tsx": [
+          {
+            "timestamp": "2026-08-25T11:33:34.590Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/containers/GroupCreate/GroupCreate.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ]
       },
