@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2013                                          |
+| **Lines Added** (➕)   | 2033                                          |
 | **Lines Removed** (➖) | 401                                        |
-| **Net Change** (↕)    | 1612                |
-| **Active Time** (⌚)   | 148 minutes |
+| **Net Change** (↕)    | 1632                |
+| **Active Time** (⌚)   | 154 minutes |
 
 
 ## Modified Files
@@ -24,13 +24,13 @@
 - **skill-group-queries.ts** (+81, -0)
 - **GroupCreate.test.tsx** (+19, -19)
 - **SkillGroups.test.ts** (+44, -0)
-- **GroupDetails.test.tsx** (+1, -0)
-- **ToggleSwitch.tsx** (+45, -0)
+- **GroupDetails.test.tsx** (+2, -0)
+- **ToggleSwitch.tsx** (+47, -0)
 - **ToggleSwitch.scss** (+64, -0)
 - **index.ts** (+2, -0)
 - **index.js** (+182, -0)
 - **index.ts** (+513, -0)
-- **GroupAccess.tsx** (+182, -0)
+- **GroupAccess.tsx** (+199, -0)
 - **GroupAccess.scss** (+20, -0)
 - **App.tsx** (+217, -0)
 - **GroupAccess.test.tsx** (+53, -0)
@@ -43,7 +43,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 1137
+".tsx" : 1157
 ".js" : 192
 ".scss" : 153
 ".ts" : 932
@@ -58,8 +58,8 @@ title Coding activity by hour (count of changes)
 "09h" : 39
 "10h" : 4
 "11h" : 19
-"12h" : 40
+"12h" : 43
 ```
 
 
-> **Last Updated:** 25/08/2026, 12:54:56
+> **Last Updated:** 25/08/2026, 12:59:56
