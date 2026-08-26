@@ -4,19 +4,23 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 228                                          |
-| **Lines Removed** (➖) | 151                                        |
-| **Net Change** (↕)    | 77                |
-| **Active Time** (⌚)   | 30 minutes |
+| **Lines Added** (➕)   | 830                                          |
+| **Lines Removed** (➖) | 456                                        |
+| **Net Change** (↕)    | 374                |
+| **Active Time** (⌚)   | 43 minutes |
 
 
 ## Modified Files
 - **GroupDetails.tsx** (+8, -16)
 - **GroupDetails.scss** (+5, -3)
-- **GroupAccess.tsx** (+120, -132)
+- **GroupAccess.tsx** (+120, -139)
 - **GroupAccess.scss** (+40, -0)
 - **GroupAccess.test.tsx** (+54, -0)
-- **GroupAccessPeopleManager.tsx** (+1, -0)
+- **GroupAccessPeopleManager.tsx** (+150, -0)
+- **index.tsx** (+3, -0)
+- **GroupAccessPeopleManager copy.tsx** (+150, -0)
+- **GroupAccessPeopleManager.scss** (+150, -149)
+- **GroupAccessPeopleManager.test.tsx** (+150, -149)
 
 ## Visualizations
 
@@ -25,8 +29,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 331
-".scss" : 48
+".tsx" : 939
+".scss" : 347
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -35,8 +39,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "09h" : 6
-"10h" : 18
+"10h" : 30
 ```
 
 
-> **Last Updated:** 26/08/2026, 10:44:56
+> **Last Updated:** 26/08/2026, 10:49:56
