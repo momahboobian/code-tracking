@@ -1,0 +1,104 @@
+{
+  "date": "2026-08-28",
+  "projects": {
+    "cda": {
+      "totalLinesAdded": 456,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 5,
+      "files": {
+        "/Users/momahboobian/Documents/_BBC/cda/.gitignore": [
+          {
+            "timestamp": "2026-08-28T08:26:50.660Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 50,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/containers/Groups/Groups.tsx": [
+          {
+            "timestamp": "2026-08-28T08:26:56.394Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/containers/Groups/Groups.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 88,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/low-risk-schema/skills/skill-group-queries.ts": [
+          {
+            "timestamp": "2026-08-28T08:26:57.497Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/low-risk-schema/skills/skill-group-queries.ts",
+            "fileType": ".ts",
+            "linesAdded": 259,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/buildings/package.json": [
+          {
+            "timestamp": "2026-08-28T08:29:31.088Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/buildings/package.json",
+            "fileType": ".json",
+            "linesAdded": 59,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "unknown": 0,
+        "tsx": 1,
+        "ts": 1,
+        "json": 3
+      },
+      "changeFrequency": {
+        "9": 5
+      },
+      "topFiles": [
+        "/Users/momahboobian/Documents/_BBC/cda/.gitignore",
+        "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/containers/Groups/Groups.tsx",
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/low-risk-schema/skills/skill-group-queries.ts",
+        "/Users/momahboobian/Documents/_BBC/cda/apps/buildings/package.json"
+      ],
+      "averageChangeSize": 114
+    }
+  },
+  "totalActiveTime": 5,
+  "totalProjects": 1,
+  "totalFiles": 4,
+  "mostActiveHours": [
+    9
+  ],
+  "mostUsedLanguages": [
+    "json",
+    "tsx",
+    "ts",
+    "unknown"
+  ]
+}
