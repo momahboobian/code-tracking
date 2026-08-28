@@ -3,7 +3,7 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 456,
-      "totalLinesRemoved": 0,
+      "totalLinesRemoved": 4,
       "totalActiveTime": 5,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/.gitignore": [
@@ -67,6 +67,20 @@
               "removed": []
             },
             "duration": 3,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-08-28T14:33:29.271Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/buildings/package.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "json"
           }
         ]
