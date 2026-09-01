@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 14875                                          |
+| **Lines Added** (➕)   | 23275                                          |
 | **Lines Removed** (➖) | 71                                        |
-| **Net Change** (↕)    | 14804                |
-| **Active Time** (⌚)   | 101 minutes |
+| **Net Change** (↕)    | 23204                |
+| **Active Time** (⌚)   | 121 minutes |
 
 
 ## Modified Files
@@ -46,6 +46,27 @@
 - **.gitignore** (+50, -0)
 - **index.js** (+18, -0)
 - **yarn.lock** (+12011, -0)
+- **skill-queries.ts** (+607, -0)
+- **skill-export.test.ts** (+371, -0)
+- **skills.js** (+459, -0)
+- **SkillGroups.ts** (+303, -0)
+- **skills.ts** (+386, -0)
+- **skill-mutations.ts** (+1071, -0)
+- **SkillGroups.test.ts** (+830, -0)
+- **skill-group-queries.ts** (+259, -0)
+- **skill-group-mutations.ts** (+1015, -0)
+- **queries.js** (+409, -0)
+- **mutations.js** (+737, -0)
+- **GroupDetails.tsx** (+206, -0)
+- **GroupCreate.tsx** (+291, -0)
+- **GroupDetails.test.tsx** (+233, -0)
+- **GroupCreate.test.tsx** (+109, -0)
+- **Groups.test.tsx** (+49, -0)
+- **Groups.tsx** (+88, -0)
+- **index.ts** (+518, -0)
+- **index.js** (+182, -0)
+- **App.tsx** (+213, -0)
+- **package.json** (+64, -0)
 
 ## Visualizations
 
@@ -56,11 +77,12 @@ pie showData
 title Lines changed by file type
 ".jsx" : 2391
 ".scss" : 108
-".ts" : 63
-".json" : 214
-".js" : 109
+".ts" : 5423
+".json" : 278
+".js" : 1896
 "unknown" : 50
 ".lock" : 12011
+".tsx" : 1189
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -72,7 +94,8 @@ title Coding activity by hour (count of changes)
 "10h" : 52
 "11h" : 4
 "12h" : 18
+"14h" : 21
 ```
 
 
-> **Last Updated:** 01/09/2026, 12:32:06
+> **Last Updated:** 01/09/2026, 14:07:06

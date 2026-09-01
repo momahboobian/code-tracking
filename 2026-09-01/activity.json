@@ -2,9 +2,9 @@
   "date": "2026-09-01",
   "projects": {
     "cda": {
-      "totalLinesAdded": 14875,
+      "totalLinesAdded": 23275,
       "totalLinesRemoved": 71,
-      "totalActiveTime": 101,
+      "totalActiveTime": 121,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/buildings/src/App.jsx": [
           {
@@ -1236,6 +1236,342 @@
             },
             "duration": 0,
             "language": "lock"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/low-risk-schema/resolvers/skill-queries.ts": [
+          {
+            "timestamp": "2026-09-01T13:02:54.489Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/low-risk-schema/resolvers/skill-queries.ts",
+            "fileType": ".ts",
+            "linesAdded": 607,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/unit/low-risk-schema/resolvers/skill-export.test.ts": [
+          {
+            "timestamp": "2026-09-01T13:02:54.514Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/unit/low-risk-schema/resolvers/skill-export.test.ts",
+            "fileType": ".ts",
+            "linesAdded": 371,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/low-risk-schema/definitions/skills.js": [
+          {
+            "timestamp": "2026-09-01T13:02:54.634Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/low-risk-schema/definitions/skills.js",
+            "fileType": ".js",
+            "linesAdded": 459,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/utils/skills/SkillGroups.ts": [
+          {
+            "timestamp": "2026-09-01T13:02:54.656Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/utils/skills/SkillGroups.ts",
+            "fileType": ".ts",
+            "linesAdded": 303,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/transformers/skills/skills.ts": [
+          {
+            "timestamp": "2026-09-01T13:02:54.664Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/transformers/skills/skills.ts",
+            "fileType": ".ts",
+            "linesAdded": 386,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/low-risk-schema/resolvers/skill-mutations.ts": [
+          {
+            "timestamp": "2026-09-01T13:02:54.675Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/low-risk-schema/resolvers/skill-mutations.ts",
+            "fileType": ".ts",
+            "linesAdded": 1071,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/unit/utils/skills/SkillGroups.test.ts": [
+          {
+            "timestamp": "2026-09-01T13:02:54.695Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/unit/utils/skills/SkillGroups.test.ts",
+            "fileType": ".ts",
+            "linesAdded": 830,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/low-risk-schema/skills/skill-group-queries.ts": [
+          {
+            "timestamp": "2026-09-01T13:02:54.708Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/low-risk-schema/skills/skill-group-queries.ts",
+            "fileType": ".ts",
+            "linesAdded": 259,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/low-risk-schema/skills/skill-group-mutations.ts": [
+          {
+            "timestamp": "2026-09-01T13:02:54.716Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/low-risk-schema/skills/skill-group-mutations.ts",
+            "fileType": ".ts",
+            "linesAdded": 1015,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/graphql/low-risk/queries.js": [
+          {
+            "timestamp": "2026-09-01T13:02:54.721Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/graphql/low-risk/queries.js",
+            "fileType": ".js",
+            "linesAdded": 409,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/graphql/low-risk/mutations.js": [
+          {
+            "timestamp": "2026-09-01T13:02:54.723Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/graphql/low-risk/mutations.js",
+            "fileType": ".js",
+            "linesAdded": 737,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/containers/GroupDetails/GroupDetails.tsx": [
+          {
+            "timestamp": "2026-09-01T13:02:54.737Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/containers/GroupDetails/GroupDetails.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 206,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/containers/GroupCreate/GroupCreate.tsx": [
+          {
+            "timestamp": "2026-09-01T13:02:54.745Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/containers/GroupCreate/GroupCreate.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 291,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/containers/GroupDetails/GroupDetails.test.tsx": [
+          {
+            "timestamp": "2026-09-01T13:02:54.750Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/containers/GroupDetails/GroupDetails.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 233,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/containers/GroupCreate/GroupCreate.test.tsx": [
+          {
+            "timestamp": "2026-09-01T13:02:54.758Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/containers/GroupCreate/GroupCreate.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 109,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/containers/Groups/Groups.test.tsx": [
+          {
+            "timestamp": "2026-09-01T13:02:54.756Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/containers/Groups/Groups.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 49,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/containers/Groups/Groups.tsx": [
+          {
+            "timestamp": "2026-09-01T13:02:54.760Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/containers/Groups/Groups.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 88,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/types/index.ts": [
+          {
+            "timestamp": "2026-09-01T13:02:54.767Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/components/types/index.ts",
+            "fileType": ".ts",
+            "linesAdded": 518,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/index.js": [
+          {
+            "timestamp": "2026-09-01T13:02:54.765Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/index.js",
+            "fileType": ".js",
+            "linesAdded": 182,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/App.tsx": [
+          {
+            "timestamp": "2026-09-01T13:02:54.782Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 213,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/skills/package.json": [
+          {
+            "timestamp": "2026-09-01T13:02:54.785Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/package.json",
+            "fileType": ".json",
+            "linesAdded": 64,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ]
       },
