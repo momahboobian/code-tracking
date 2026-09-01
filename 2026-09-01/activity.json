@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 23749,
-      "totalLinesRemoved": 5948,
-      "totalActiveTime": 133,
+      "totalLinesRemoved": 5950,
+      "totalActiveTime": 138,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/buildings/src/App.jsx": [
           {
@@ -761,6 +761,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2026-09-01T15:45:56.258Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/buildings/src/components/BuildingAdditionalInfo/index.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "jsx"
           }
         ],
