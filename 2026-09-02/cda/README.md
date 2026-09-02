@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3749                                          |
+| **Lines Added** (➕)   | 7898                                          |
 | **Lines Removed** (➖) | 858                                        |
-| **Net Change** (↕)    | 2891                |
-| **Active Time** (⌚)   | 274 minutes |
+| **Net Change** (↕)    | 7040                |
+| **Active Time** (⌚)   | 296 minutes |
 
 
 ## Modified Files
@@ -37,6 +37,26 @@
 - **index.jsx** (+138, -5)
 - **Groups.tsx** (+97, -0)
 - **GroupCreate.tsx** (+297, -0)
+- **skills.js** (+459, -0)
+- **skills.ts** (+386, -0)
+- **skill-queries.ts** (+619, -0)
+- **SkillGroups.test.ts** (+874, -0)
+- **transform-group-skill-progress.test.ts** (+152, -0)
+- **queries.js** (+435, -0)
+- **App.tsx** (+215, -0)
+- **GroupDetails.tsx** (+235, -0)
+- **GroupMembersList.tsx** (+76, -0)
+- **GroupDetails.scss** (+53, -0)
+- **SortableTable.tsx** (+109, -0)
+- **GroupMembersView.tsx** (+14, -0)
+- **GroupSkillProgress.scss** (+8, -0)
+- **GroupSkillProgress.tsx** (+133, -0)
+- **index.ts** (+2, -0)
+- **GroupDetails.test.tsx** (+239, -0)
+- **index.ts** (+2, -0)
+- **SortableTable.test.tsx** (+41, -0)
+- **GroupSkillProgress.test.tsx** (+82, -0)
+- **SortableTable.scss** (+15, -0)
 
 ## Visualizations
 
@@ -46,8 +66,10 @@
 pie showData
 title Lines changed by file type
 ".jsx" : 3823
-".scss" : 390
-".tsx" : 394
+".scss" : 466
+".tsx" : 1538
+".js" : 894
+".ts" : 2035
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -60,8 +82,8 @@ title Coding activity by hour (count of changes)
 "10h" : 39
 "11h" : 43
 "12h" : 32
-"13h" : 55
+"13h" : 75
 ```
 
 
-> **Last Updated:** 02/09/2026, 13:38:20
+> **Last Updated:** 02/09/2026, 13:43:20
