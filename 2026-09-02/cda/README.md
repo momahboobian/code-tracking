@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3352                                          |
-| **Lines Removed** (➖) | 850                                        |
-| **Net Change** (↕)    | 2502                |
-| **Active Time** (⌚)   | 270 minutes |
+| **Lines Added** (➕)   | 3749                                          |
+| **Lines Removed** (➖) | 858                                        |
+| **Net Change** (↕)    | 2891                |
+| **Active Time** (⌚)   | 274 minutes |
 
 
 ## Modified Files
@@ -21,20 +21,22 @@
 - **index.jsx** (+55, -0)
 - **building-catering-info.scss** (+11, -0)
 - **index.jsx** (+199, -80)
-- **EditCateringInfoModal.scss** (+16, -4)
+- **EditCateringInfoModal.scss** (+18, -4)
 - **index.jsx** (+177, -36)
 - **index.jsx** (+155, -0)
 - **index.jsx** (+104, -0)
-- **EditTransportInfoModal.scss** (+6, -0)
-- **EditContactInfoModal.scss** (+9, -3)
-- **EditAdditionalInfoModal.scss** (+6, -0)
+- **EditTransportInfoModal.scss** (+6, -2)
+- **EditContactInfoModal.scss** (+10, -3)
+- **EditAdditionalInfoModal.scss** (+6, -2)
 - **BuildingProfile.test.jsx** (+297, -2)
 - **index.jsx** (+185, -38)
-- **addBuildingModal.scss** (+8, -0)
+- **addBuildingModal.scss** (+8, -4)
 - **index.jsx** (+93, -7)
 - **index.jsx** (+99, -7)
 - **AddCateringOutletModal.scss** (+6, -0)
 - **index.jsx** (+138, -5)
+- **Groups.tsx** (+97, -0)
+- **GroupCreate.tsx** (+297, -0)
 
 ## Visualizations
 
@@ -44,7 +46,8 @@
 pie showData
 title Lines changed by file type
 ".jsx" : 3823
-".scss" : 379
+".scss" : 390
+".tsx" : 394
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -57,8 +60,8 @@ title Coding activity by hour (count of changes)
 "10h" : 39
 "11h" : 43
 "12h" : 32
-"13h" : 48
+"13h" : 55
 ```
 
 
-> **Last Updated:** 02/09/2026, 13:23:20
+> **Last Updated:** 02/09/2026, 13:38:20
