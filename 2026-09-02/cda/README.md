@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 32381                                          |
+| **Lines Added** (➕)   | 32584                                          |
 | **Lines Removed** (➖) | 1121                                        |
-| **Net Change** (↕)    | 31260                |
-| **Active Time** (⌚)   | 341 minutes |
+| **Net Change** (↕)    | 31463                |
+| **Active Time** (⌚)   | 348 minutes |
 
 
 ## Modified Files
@@ -36,7 +36,7 @@
 - **AddCateringOutletModal.scss** (+6, -0)
 - **index.jsx** (+138, -5)
 - **Groups.tsx** (+97, -0)
-- **GroupCreate.tsx** (+297, -0)
+- **GroupCreate.tsx** (+298, -0)
 - **skills.js** (+459, -0)
 - **skills.ts** (+386, -0)
 - **skill-queries.ts** (+619, -11)
@@ -68,6 +68,7 @@
 - **skill-export.test.ts** (+374, -4)
 - **resolvers-types.ts** (+13007, -4)
 - **graphql.ts** (+8948, -0)
+- **GroupAccess.tsx** (+202, -0)
 
 ## Visualizations
 
@@ -78,7 +79,7 @@ pie showData
 title Lines changed by file type
 ".jsx" : 3823
 ".scss" : 466
-".tsx" : 3245
+".tsx" : 3448
 ".js" : 894
 ".ts" : 24698
 ".json" : 251
@@ -98,8 +99,8 @@ title Coding activity by hour (count of changes)
 "13h" : 89
 "14h" : 3
 "15h" : 11
-"19h" : 9
+"19h" : 12
 ```
 
 
-> **Last Updated:** 02/09/2026, 19:53:20
+> **Last Updated:** 02/09/2026, 19:58:20
