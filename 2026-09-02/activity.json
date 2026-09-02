@@ -2,9 +2,9 @@
   "date": "2026-09-02",
   "projects": {
     "cda": {
-      "totalLinesAdded": 2526,
-      "totalLinesRemoved": 788,
-      "totalActiveTime": 243,
+      "totalLinesAdded": 3214,
+      "totalLinesRemoved": 845,
+      "totalActiveTime": 264,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/buildings/src/components/BuildingContactInfo/index.jsx": [
           {
@@ -2360,6 +2360,20 @@
             },
             "duration": 1,
             "language": "scss"
+          },
+          {
+            "timestamp": "2026-09-02T12:13:29.153Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/buildings/src/components/EditContactInfoModal/EditContactInfoModal.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "scss"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/buildings/src/components/EditAdditionalInfoModal/EditAdditionalInfoModal.scss": [
@@ -2368,6 +2382,256 @@
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/buildings/src/components/EditAdditionalInfoModal/EditAdditionalInfoModal.scss",
             "fileType": ".scss",
             "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/buildings/src/components/BuildingProfile/BuildingProfile.test.jsx": [
+          {
+            "timestamp": "2026-09-02T12:13:51.355Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/buildings/src/components/BuildingProfile/BuildingProfile.test.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 297,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2026-09-02T12:15:10.708Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/buildings/src/components/BuildingProfile/BuildingProfile.test.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "jsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/buildings/src/components/AddBuildingModal/index.jsx": [
+          {
+            "timestamp": "2026-09-02T12:17:01.099Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/buildings/src/components/AddBuildingModal/index.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 183,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2026-09-02T12:17:01.276Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/buildings/src/components/AddBuildingModal/index.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 27,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2026-09-02T12:17:15.474Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/buildings/src/components/AddBuildingModal/index.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 9,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2026-09-02T12:17:33.929Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/buildings/src/components/AddBuildingModal/index.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2026-09-02T12:17:51.970Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/buildings/src/components/AddBuildingModal/index.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2026-09-02T12:17:54.505Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/buildings/src/components/AddBuildingModal/index.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/buildings/src/components/AddBuildingModal/addBuildingModal.scss": [
+          {
+            "timestamp": "2026-09-02T12:17:01.129Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/buildings/src/components/AddBuildingModal/addBuildingModal.scss",
+            "fileType": ".scss",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2026-09-02T12:17:01.300Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/buildings/src/components/AddBuildingModal/addBuildingModal.scss",
+            "fileType": ".scss",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/buildings/src/components/AddCateringOutletModal/index.jsx": [
+          {
+            "timestamp": "2026-09-02T12:17:01.125Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/buildings/src/components/AddCateringOutletModal/index.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 93,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2026-09-02T12:17:01.284Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/buildings/src/components/AddCateringOutletModal/index.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 7,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/buildings/src/components/UploadImageModal/index.jsx": [
+          {
+            "timestamp": "2026-09-02T12:17:01.126Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/buildings/src/components/UploadImageModal/index.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 99,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2026-09-02T12:17:01.282Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/buildings/src/components/UploadImageModal/index.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 7,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/buildings/src/components/AddCateringOutletModal/AddCateringOutletModal.scss": [
+          {
+            "timestamp": "2026-09-02T12:17:01.347Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/buildings/src/components/AddCateringOutletModal/AddCateringOutletModal.scss",
+            "fileType": ".scss",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2026-09-02T12:17:01.417Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/buildings/src/components/AddCateringOutletModal/AddCateringOutletModal.scss",
+            "fileType": ".scss",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2026-09-02T12:17:15.481Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/buildings/src/components/AddCateringOutletModal/AddCateringOutletModal.scss",
+            "fileType": ".scss",
+            "linesAdded": 1,
             "linesRemoved": 0,
             "projectName": "cda",
             "content": {
