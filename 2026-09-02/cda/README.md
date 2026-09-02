@@ -4,9 +4,9 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 32584                                          |
-| **Lines Removed** (➖) | 1121                                        |
-| **Net Change** (↕)    | 31463                |
+| **Lines Added** (➕)   | 32585                                          |
+| **Lines Removed** (➖) | 1257                                        |
+| **Net Change** (↕)    | 31328                |
 | **Active Time** (⌚)   | 348 minutes |
 
 
@@ -35,24 +35,24 @@
 - **index.jsx** (+99, -7)
 - **AddCateringOutletModal.scss** (+6, -0)
 - **index.jsx** (+138, -5)
-- **Groups.tsx** (+97, -0)
-- **GroupCreate.tsx** (+298, -0)
+- **Groups.tsx** (+97, -9)
+- **GroupCreate.tsx** (+298, -7)
 - **skills.js** (+459, -0)
 - **skills.ts** (+386, -0)
-- **skill-queries.ts** (+619, -11)
-- **SkillGroups.test.ts** (+874, -0)
+- **skill-queries.ts** (+619, -12)
+- **SkillGroups.test.ts** (+874, -44)
 - **transform-group-skill-progress.test.ts** (+152, -0)
-- **queries.js** (+435, -0)
-- **App.tsx** (+215, -0)
-- **GroupDetails.tsx** (+246, -8)
+- **queries.js** (+435, -26)
+- **App.tsx** (+215, -2)
+- **GroupDetails.tsx** (+246, -40)
 - **GroupMembersList.tsx** (+76, -0)
-- **GroupDetails.scss** (+53, -0)
+- **GroupDetails.scss** (+53, -9)
 - **SortableTable.tsx** (+109, -0)
 - **GroupMembersView.tsx** (+14, -0)
 - **GroupSkillProgress.scss** (+8, -0)
 - **GroupSkillProgress.tsx** (+133, -0)
 - **index.ts** (+2, -0)
-- **GroupDetails.test.tsx** (+239, -0)
+- **GroupDetails.test.tsx** (+239, -6)
 - **index.ts** (+2, -0)
 - **SortableTable.test.tsx** (+41, -0)
 - **GroupSkillProgress.test.tsx** (+82, -0)
@@ -65,7 +65,7 @@
 - **package.json** (+64, -0)
 - **.env** (+125, -0)
 - **SkillExplore.tsx** (+308, -11)
-- **skill-export.test.ts** (+374, -4)
+- **skill-export.test.ts** (+375, -4)
 - **resolvers-types.ts** (+13007, -4)
 - **graphql.ts** (+8948, -0)
 - **GroupAccess.tsx** (+202, -0)
@@ -78,10 +78,10 @@
 pie showData
 title Lines changed by file type
 ".jsx" : 3823
-".scss" : 466
-".tsx" : 3448
-".js" : 894
-".ts" : 24698
+".scss" : 475
+".tsx" : 3504
+".js" : 920
+".ts" : 24744
 ".json" : 251
 "unknown" : 125
 ```
@@ -100,7 +100,8 @@ title Coding activity by hour (count of changes)
 "14h" : 3
 "15h" : 11
 "19h" : 12
+"20h" : 10
 ```
 
 
-> **Last Updated:** 02/09/2026, 19:58:20
+> **Last Updated:** 02/09/2026, 20:08:20
