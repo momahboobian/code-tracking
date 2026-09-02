@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 10423                                          |
-| **Lines Removed** (➖) | 1106                                        |
-| **Net Change** (↕)    | 9317                |
-| **Active Time** (⌚)   | 331 minutes |
+| **Lines Added** (➕)   | 23430                                          |
+| **Lines Removed** (➖) | 1119                                        |
+| **Net Change** (↕)    | 22311                |
+| **Active Time** (⌚)   | 339 minutes |
 
 
 ## Modified Files
@@ -39,7 +39,7 @@
 - **GroupCreate.tsx** (+297, -0)
 - **skills.js** (+459, -0)
 - **skills.ts** (+386, -0)
-- **skill-queries.ts** (+619, -6)
+- **skill-queries.ts** (+619, -11)
 - **SkillGroups.test.ts** (+874, -0)
 - **transform-group-skill-progress.test.ts** (+152, -0)
 - **queries.js** (+435, -0)
@@ -65,7 +65,8 @@
 - **package.json** (+64, -0)
 - **.env** (+125, -0)
 - **SkillExplore.tsx** (+308, -11)
-- **skill-export.test.ts** (+374, -0)
+- **skill-export.test.ts** (+374, -4)
+- **resolvers-types.ts** (+13007, -4)
 
 ## Visualizations
 
@@ -78,7 +79,7 @@ title Lines changed by file type
 ".scss" : 466
 ".tsx" : 3240
 ".js" : 894
-".ts" : 2730
+".ts" : 15750
 ".json" : 251
 "unknown" : 125
 ```
@@ -96,8 +97,8 @@ title Coding activity by hour (count of changes)
 "13h" : 89
 "14h" : 3
 "15h" : 11
-"19h" : 1
+"19h" : 6
 ```
 
 
-> **Last Updated:** 02/09/2026, 19:28:20
+> **Last Updated:** 02/09/2026, 19:33:20
