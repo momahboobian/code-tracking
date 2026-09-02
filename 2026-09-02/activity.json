@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 1000,
-      "totalLinesRemoved": 26,
-      "totalActiveTime": 48,
+      "totalLinesRemoved": 31,
+      "totalActiveTime": 53,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/buildings/src/components/BuildingContactInfo/index.jsx": [
           {
@@ -285,6 +285,48 @@
             "fileType": ".jsx",
             "linesAdded": 1,
             "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2026-09-02T09:03:42.081Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/buildings/src/components/BuildingAdditionalInfo/index.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2026-09-02T09:03:49.017Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/buildings/src/components/BuildingAdditionalInfo/index.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2026-09-02T09:04:43.677Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/buildings/src/components/BuildingAdditionalInfo/index.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
             "projectName": "cda",
             "content": {
               "added": [],
