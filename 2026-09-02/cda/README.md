@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 7898                                          |
-| **Lines Removed** (➖) | 858                                        |
-| **Net Change** (↕)    | 7040                |
-| **Active Time** (⌚)   | 296 minutes |
+| **Lines Added** (➕)   | 9133                                          |
+| **Lines Removed** (➖) | 859                                        |
+| **Net Change** (↕)    | 8274                |
+| **Active Time** (⌚)   | 302 minutes |
 
 
 ## Modified Files
@@ -57,6 +57,10 @@
 - **SortableTable.test.tsx** (+41, -0)
 - **GroupSkillProgress.test.tsx** (+82, -0)
 - **SortableTable.scss** (+15, -0)
+- **types.ts** (+248, -1)
+- **GroupManagement.tsx** (+347, -0)
+- **GroupAccessPeopleManager.tsx** (+104, -0)
+- **GroupManagement.stories.tsx** (+536, -0)
 
 ## Visualizations
 
@@ -67,9 +71,9 @@ pie showData
 title Lines changed by file type
 ".jsx" : 3823
 ".scss" : 466
-".tsx" : 1538
+".tsx" : 2525
 ".js" : 894
-".ts" : 2035
+".ts" : 2284
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -82,8 +86,8 @@ title Coding activity by hour (count of changes)
 "10h" : 39
 "11h" : 43
 "12h" : 32
-"13h" : 75
+"13h" : 81
 ```
 
 
-> **Last Updated:** 02/09/2026, 13:43:20
+> **Last Updated:** 02/09/2026, 13:53:20
