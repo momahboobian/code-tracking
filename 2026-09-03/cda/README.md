@@ -4,14 +4,14 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 75456                                          |
-| **Lines Removed** (➖) | 18219                                        |
-| **Net Change** (↕)    | 57237                |
-| **Active Time** (⌚)   | 356 minutes |
+| **Lines Added** (➕)   | 75496                                          |
+| **Lines Removed** (➖) | 18222                                        |
+| **Net Change** (↕)    | 57274                |
+| **Active Time** (⌚)   | 365 minutes |
 
 
 ## Modified Files
-- **package.json** (+256, -39)
+- **package.json** (+261, -39)
 - **App.tsx** (+319, -0)
 - **tsconfig.json** (+29, -0)
 - **GroupDetails.scss** (+97, -0)
@@ -26,7 +26,7 @@
 - **Groups.tsx** (+97, -0)
 - **yarn.lock** (+14168, -0)
 - **vite.config.ts** (+44, -0)
-- **declarations.d.ts** (+2180, -1693)
+- **declarations.d.ts** (+2181, -1693)
 - **skills.js** (+459, -0)
 - **skills.ts** (+386, -0)
 - **transform-group-skill-progress.test.ts** (+152, -0)
@@ -52,7 +52,7 @@
 - **setupTests.ts** (+17, -0)
 - **index.tsx** (+20, -0)
 - **index.scss** (+2, -0)
-- **Sidebar.test.tsx** (+83, -9)
+- **Sidebar.test.tsx** (+83, -12)
 - **SearchUser.tsx** (+76, -1)
 - **SearchUser.tsx** (+102, -0)
 - **graphql.ts** (+18469, -8733)
@@ -73,6 +73,7 @@
 - **DateSwitcher.tsx** (+225, -12)
 - **ise-web-components.d.ts** (+17, -0)
 - **Sidebar.tsx** (+201, -6)
+- **generate-holidays.cjs** (+34, -0)
 
 ## Visualizations
 
@@ -81,14 +82,14 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".json" : 683
-".tsx" : 6510
+".json" : 688
+".tsx" : 6513
 ".scss" : 122
 ".js" : 1336
-".ts" : 35387
+".ts" : 35388
 ".lock" : 49579
 ".html" : 27
-".cjs" : 21
+".cjs" : 55
 "unknown" : 4
 ".development" : 6
 ```
@@ -104,8 +105,8 @@ title Coding activity by hour (count of changes)
 "13h" : 26
 "14h" : 27
 "16h" : 108
-"17h" : 46
+"17h" : 51
 ```
 
 
-> **Last Updated:** 03/09/2026, 17:18:50
+> **Last Updated:** 03/09/2026, 17:23:50
