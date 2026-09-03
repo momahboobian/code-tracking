@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 59306                                          |
+| **Lines Added** (➕)   | 60758                                          |
 | **Lines Removed** (➖) | 17732                                        |
-| **Net Change** (↕)    | 41574                |
-| **Active Time** (⌚)   | 282 minutes |
+| **Net Change** (↕)    | 43026                |
+| **Active Time** (⌚)   | 294 minutes |
 
 
 ## Modified Files
@@ -26,7 +26,7 @@
 - **Groups.tsx** (+97, -0)
 - **yarn.lock** (+14168, -0)
 - **vite.config.ts** (+44, -0)
-- **declarations.d.ts** (+1265, -1235)
+- **declarations.d.ts** (+1295, -1235)
 - **skills.js** (+459, -0)
 - **skills.ts** (+386, -0)
 - **transform-group-skill-progress.test.ts** (+152, -0)
@@ -59,20 +59,20 @@
 - **yarn.lock** (+14160, -7585)
 - **package.json** (+187, -0)
 - **GroupManagement.stories.tsx** (+624, -88)
-- **CalendarShare.tsx** (+199, -3)
-- **CalendarShareForm.tsx** (+31, -6)
-- **ConfirmationModal.tsx** (+73, -3)
-- **Duty.tsx** (+389, -3)
-- **Settings.tsx** (+39, -3)
-- **SignInStatusIcon.tsx** (+102, -3)
-- **Admin.tsx** (+33, -3)
-- **ProfileBadge.tsx** (+81, -3)
-- **TeamViewRow.tsx** (+169, -3)
-- **SchedulingTeamSelect.tsx** (+69, -0)
-- **TooltipBadge.tsx** (+68, -6)
-- **DateSwitcher.tsx** (+114, -6)
+- **CalendarShare.tsx** (+395, -3)
+- **CalendarShareForm.tsx** (+56, -6)
+- **ConfirmationModal.tsx** (+143, -3)
+- **Duty.tsx** (+775, -3)
+- **Settings.tsx** (+75, -3)
+- **SignInStatusIcon.tsx** (+201, -3)
+- **Admin.tsx** (+63, -3)
+- **ProfileBadge.tsx** (+159, -3)
+- **TeamViewRow.tsx** (+335, -3)
+- **SchedulingTeamSelect.tsx** (+138, -0)
+- **TooltipBadge.tsx** (+130, -6)
+- **DateSwitcher.tsx** (+222, -6)
 - **ise-web-components.d.ts** (+17, -0)
-- **Sidebar.tsx** (+100, -3)
+- **Sidebar.tsx** (+197, -3)
 
 ## Visualizations
 
@@ -82,10 +82,10 @@
 pie showData
 title Lines changed by file type
 ".json" : 602
-".tsx" : 4993
+".tsx" : 6415
 ".scss" : 122
 ".js" : 1336
-".ts" : 34014
+".ts" : 34044
 ".lock" : 35913
 ".html" : 27
 ".cjs" : 21
@@ -103,8 +103,8 @@ title Coding activity by hour (count of changes)
 "12h" : 32
 "13h" : 26
 "14h" : 27
-"16h" : 92
+"16h" : 106
 ```
 
 
-> **Last Updated:** 03/09/2026, 16:51:17
+> **Last Updated:** 03/09/2026, 16:58:50
