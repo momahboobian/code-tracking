@@ -4,19 +4,19 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 42020                                          |
-| **Lines Removed** (➖) | 8758                                        |
-| **Net Change** (↕)    | 33262                |
-| **Active Time** (⌚)   | 85 minutes |
+| **Lines Added** (➕)   | 56922                                          |
+| **Lines Removed** (➖) | 16358                                        |
+| **Net Change** (↕)    | 40564                |
+| **Active Time** (⌚)   | 111 minutes |
 
 
 ## Modified Files
-- **package.json** (+162, -17)
+- **package.json** (+177, -27)
 - **App.tsx** (+319, -0)
 - **tsconfig.json** (+29, -0)
 - **GroupDetails.scss** (+97, -0)
 - **GroupDetails.test.tsx** (+472, -0)
-- **App.tsx** (+430, -2)
+- **App.tsx** (+432, -3)
 - **GroupDetails.tsx** (+444, -0)
 - **queries.js** (+844, -0)
 - **skill-export.test.ts** (+741, -0)
@@ -26,7 +26,7 @@
 - **Groups.tsx** (+97, -0)
 - **yarn.lock** (+14168, -0)
 - **vite.config.ts** (+44, -0)
-- **declarations.d.ts** (+460, -3)
+- **declarations.d.ts** (+462, -4)
 - **skills.js** (+459, -0)
 - **skills.ts** (+386, -0)
 - **transform-group-skill-progress.test.ts** (+152, -0)
@@ -52,10 +52,13 @@
 - **setupTests.ts** (+17, -0)
 - **index.tsx** (+20, -0)
 - **index.scss** (+2, -0)
-- **Sidebar.test.tsx** (+38, -1)
+- **Sidebar.test.tsx** (+38, -4)
 - **SearchUser.tsx** (+76, -1)
 - **SearchUser.tsx** (+102, -0)
 - **graphql.ts** (+18469, -8733)
+- **yarn.lock** (+14160, -7585)
+- **package.json** (+187, -0)
+- **GroupManagement.stories.tsx** (+536, -0)
 
 ## Visualizations
 
@@ -64,12 +67,12 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".json" : 380
-".tsx" : 2754
+".json" : 592
+".tsx" : 3296
 ".scss" : 122
 ".js" : 1336
-".ts" : 31960
-".lock" : 14168
+".ts" : 31963
+".lock" : 35913
 ".html" : 27
 ".cjs" : 21
 "unknown" : 4
@@ -85,8 +88,8 @@ title Coding activity by hour (count of changes)
 "11h" : 18
 "12h" : 32
 "13h" : 26
-"14h" : 1
+"14h" : 17
 ```
 
 
-> **Last Updated:** 03/09/2026, 14:11:17
+> **Last Updated:** 03/09/2026, 14:26:17
