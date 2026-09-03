@@ -4,16 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 22966                                          |
+| **Lines Added** (➕)   | 23173                                          |
 | **Lines Removed** (➖) | 22                                        |
-| **Net Change** (↕)    | 22944                |
-| **Active Time** (⌚)   | 55 minutes |
+| **Net Change** (↕)    | 23151                |
+| **Active Time** (⌚)   | 67 minutes |
 
 
 ## Modified Files
 - **package.json** (+162, -17)
 - **App.tsx** (+160, -0)
-- **tsconfig.json** (+24, -0)
+- **tsconfig.json** (+29, -0)
 - **GroupDetails.scss** (+97, -0)
 - **GroupDetails.test.tsx** (+472, -0)
 - **App.tsx** (+430, -2)
@@ -41,6 +41,16 @@
 - **SortableTable.test.tsx** (+41, -0)
 - **GroupSkillProgress.test.tsx** (+82, -0)
 - **SkillExplore.tsx** (+297, -0)
+- **tsconfig.node.json** (+21, -0)
+- **tsconfig.app.json** (+23, -0)
+- **index.html** (+27, -0)
+- **gitVersion.cjs** (+21, -0)
+- **eslint.config.js** (+33, -0)
+- **codegen.ts** (+32, -0)
+- **.gitignore** (+4, -0)
+- **.env.development** (+5, -0)
+- **setupTests.ts** (+17, -0)
+- **index.tsx** (+19, -0)
 
 ## Visualizations
 
@@ -49,12 +59,16 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".json" : 331
-".tsx" : 2357
+".json" : 380
+".tsx" : 2376
 ".scss" : 120
-".js" : 1303
-".ts" : 4709
+".js" : 1336
+".ts" : 4758
 ".lock" : 14168
+".html" : 27
+".cjs" : 21
+"unknown" : 4
+".development" : 5
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -65,7 +79,8 @@ title Coding activity by hour (count of changes)
 "10h" : 6
 "11h" : 18
 "12h" : 32
+"13h" : 13
 ```
 
 
-> **Last Updated:** 03/09/2026, 13:01:17
+> **Last Updated:** 03/09/2026, 13:11:17
