@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 75527                                          |
-| **Lines Removed** (➖) | 25344                                        |
-| **Net Change** (↕)    | 50183                |
-| **Active Time** (⌚)   | 380 minutes |
+| **Lines Added** (➕)   | 75530                                          |
+| **Lines Removed** (➖) | 25828                                        |
+| **Net Change** (↕)    | 49702                |
+| **Active Time** (⌚)   | 436 minutes |
 
 
 ## Modified Files
@@ -26,7 +26,7 @@
 - **Groups.tsx** (+97, -0)
 - **yarn.lock** (+14168, -0)
 - **vite.config.ts** (+44, -0)
-- **declarations.d.ts** (+2181, -1694)
+- **declarations.d.ts** (+2181, -2136)
 - **skills.js** (+459, -0)
 - **skills.ts** (+386, -0)
 - **transform-group-skill-progress.test.ts** (+152, -0)
@@ -59,21 +59,21 @@
 - **yarn.lock** (+27826, -14673)
 - **package.json** (+187, -0)
 - **GroupManagement.stories.tsx** (+624, -88)
-- **CalendarShare.tsx** (+397, -4)
-- **CalendarShareForm.tsx** (+60, -8)
-- **ConfirmationModal.tsx** (+145, -4)
-- **Duty.tsx** (+777, -4)
-- **Settings.tsx** (+77, -4)
-- **SignInStatusIcon.tsx** (+203, -4)
-- **Admin.tsx** (+65, -4)
-- **ProfileBadge.tsx** (+161, -4)
-- **TeamViewRow.tsx** (+337, -4)
+- **CalendarShare.tsx** (+397, -5)
+- **CalendarShareForm.tsx** (+60, -10)
+- **ConfirmationModal.tsx** (+145, -5)
+- **Duty.tsx** (+777, -5)
+- **Settings.tsx** (+77, -5)
+- **SignInStatusIcon.tsx** (+203, -5)
+- **Admin.tsx** (+65, -5)
+- **ProfileBadge.tsx** (+161, -5)
+- **TeamViewRow.tsx** (+337, -5)
 - **SchedulingTeamSelect.tsx** (+138, -0)
-- **TooltipBadge.tsx** (+134, -8)
-- **DateSwitcher.tsx** (+225, -12)
+- **TooltipBadge.tsx** (+134, -10)
+- **DateSwitcher.tsx** (+228, -12)
 - **ise-web-components.d.ts** (+17, -0)
-- **Sidebar.tsx** (+201, -6)
-- **generate-holidays.cjs** (+62, -28)
+- **Sidebar.tsx** (+201, -8)
+- **generate-holidays.cjs** (+62, -56)
 
 ## Visualizations
 
@@ -83,13 +83,13 @@
 pie showData
 title Lines changed by file type
 ".json" : 693
-".tsx" : 6516
+".tsx" : 6533
 ".scss" : 122
 ".js" : 1336
-".ts" : 35389
+".ts" : 35831
 ".lock" : 56667
 ".html" : 27
-".cjs" : 111
+".cjs" : 139
 "unknown" : 4
 ".development" : 6
 ```
@@ -105,8 +105,8 @@ title Coding activity by hour (count of changes)
 "13h" : 26
 "14h" : 27
 "16h" : 108
-"17h" : 57
+"17h" : 71
 ```
 
 
-> **Last Updated:** 03/09/2026, 17:28:50
+> **Last Updated:** 03/09/2026, 17:33:50
