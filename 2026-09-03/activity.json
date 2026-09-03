@@ -2,9 +2,9 @@
   "date": "2026-09-03",
   "projects": {
     "cda": {
-      "totalLinesAdded": 76593,
-      "totalLinesRemoved": 26316,
-      "totalActiveTime": 541,
+      "totalLinesAdded": 76913,
+      "totalLinesRemoved": 26317,
+      "totalActiveTime": 558,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/package.json": [
           {
@@ -5020,6 +5020,238 @@
             },
             "duration": 4,
             "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/skills/eslint.config.js": [
+          {
+            "timestamp": "2026-09-03T17:34:01.033Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/eslint.config.js",
+            "fileType": ".js",
+            "linesAdded": 21,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/skills/gitVersion.cjs": [
+          {
+            "timestamp": "2026-09-03T17:34:07.701Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/gitVersion.cjs",
+            "fileType": ".cjs",
+            "linesAdded": 19,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cjs"
+          },
+          {
+            "timestamp": "2026-09-03T17:34:07.727Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/gitVersion.cjs",
+            "fileType": ".cjs",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cjs"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/skills/index.html": [
+          {
+            "timestamp": "2026-09-03T17:34:13.311Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/index.html",
+            "fileType": ".html",
+            "linesAdded": 16,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/skills/tsconfig.app.json": [
+          {
+            "timestamp": "2026-09-03T17:35:42.152Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/tsconfig.app.json",
+            "fileType": ".json",
+            "linesAdded": 18,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/skills/tsconfig.json": [
+          {
+            "timestamp": "2026-09-03T17:35:44.951Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/tsconfig.json",
+            "fileType": ".json",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/skills/tsconfig.node.json": [
+          {
+            "timestamp": "2026-09-03T17:35:48.688Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/tsconfig.node.json",
+            "fileType": ".json",
+            "linesAdded": 14,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/skills/vite.config.ts": [
+          {
+            "timestamp": "2026-09-03T17:35:51.480Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/vite.config.ts",
+            "fileType": ".ts",
+            "linesAdded": 46,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-09-03T17:36:08.020Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/vite.config.ts",
+            "fileType": ".ts",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-09-03T17:36:16.217Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/vite.config.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-09-03T17:36:53.559Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/vite.config.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/components/ProgressBar/ProgressBar.scss": [
+          {
+            "timestamp": "2026-09-03T17:38:21.512Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/components/ProgressBar/ProgressBar.scss",
+            "fileType": ".scss",
+            "linesAdded": 16,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "scss"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/components/SubSkills/SubSkills.scss": [
+          {
+            "timestamp": "2026-09-03T17:38:35.299Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/components/SubSkills/SubSkills.scss",
+            "fileType": ".scss",
+            "linesAdded": 49,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/components/TagTopic/TagTopic.scss": [
+          {
+            "timestamp": "2026-09-03T17:38:38.351Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/components/TagTopic/TagTopic.scss",
+            "fileType": ".scss",
+            "linesAdded": 83,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/containers/SkillTopic/SkillTopic.scss": [
+          {
+            "timestamp": "2026-09-03T17:38:40.650Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/containers/SkillTopic/SkillTopic.scss",
+            "fileType": ".scss",
+            "linesAdded": 23,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
           }
         ]
       },
