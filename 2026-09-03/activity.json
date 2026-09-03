@@ -2,9 +2,9 @@
   "date": "2026-09-03",
   "projects": {
     "cda": {
-      "totalLinesAdded": 3603,
-      "totalLinesRemoved": 12,
-      "totalActiveTime": 22,
+      "totalLinesAdded": 17975,
+      "totalLinesRemoved": 13,
+      "totalActiveTime": 24,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/package.json": [
           {
@@ -240,6 +240,34 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2026-09-03T11:08:19.448Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 215,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-09-03T11:08:21.121Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/containers/GroupDetails/GroupDetails.tsx": [
@@ -366,6 +394,22 @@
             },
             "duration": 1,
             "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/skills/yarn.lock": [
+          {
+            "timestamp": "2026-09-03T11:07:49.984Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/yarn.lock",
+            "fileType": ".lock",
+            "linesAdded": 14157,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "lock"
           }
         ]
       },
