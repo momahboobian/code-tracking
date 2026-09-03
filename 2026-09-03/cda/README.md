@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 57016                                          |
-| **Lines Removed** (➖) | 16455                                        |
-| **Net Change** (↕)    | 40561                |
-| **Active Time** (⌚)   | 121 minutes |
+| **Lines Added** (➕)   | 57698                                          |
+| **Lines Removed** (➖) | 16850                                        |
+| **Net Change** (↕)    | 40848                |
+| **Active Time** (⌚)   | 138 minutes |
 
 
 ## Modified Files
@@ -26,7 +26,7 @@
 - **Groups.tsx** (+97, -0)
 - **yarn.lock** (+14168, -0)
 - **vite.config.ts** (+44, -0)
-- **declarations.d.ts** (+462, -5)
+- **declarations.d.ts** (+462, -395)
 - **skills.js** (+459, -0)
 - **skills.ts** (+386, -0)
 - **transform-group-skill-progress.test.ts** (+152, -0)
@@ -59,6 +59,10 @@
 - **yarn.lock** (+14160, -7585)
 - **package.json** (+187, -0)
 - **GroupManagement.stories.tsx** (+624, -88)
+- **CalendarShare.tsx** (+197, -1)
+- **CalendarShareForm.tsx** (+27, -2)
+- **ConfirmationModal.tsx** (+71, -1)
+- **Duty.tsx** (+387, -1)
 
 ## Visualizations
 
@@ -68,10 +72,10 @@
 pie showData
 title Lines changed by file type
 ".json" : 597
-".tsx" : 3481
+".tsx" : 4168
 ".scss" : 122
 ".js" : 1336
-".ts" : 31964
+".ts" : 32354
 ".lock" : 35913
 ".html" : 27
 ".cjs" : 21
@@ -89,7 +93,8 @@ title Coding activity by hour (count of changes)
 "12h" : 32
 "13h" : 26
 "14h" : 27
+"16h" : 12
 ```
 
 
-> **Last Updated:** 03/09/2026, 14:31:17
+> **Last Updated:** 03/09/2026, 16:21:17
