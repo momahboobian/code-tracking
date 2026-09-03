@@ -2,9 +2,9 @@
   "date": "2026-09-03",
   "projects": {
     "cda": {
-      "totalLinesAdded": 56922,
-      "totalLinesRemoved": 16358,
-      "totalActiveTime": 111,
+      "totalLinesAdded": 57016,
+      "totalLinesRemoved": 16455,
+      "totalActiveTime": 121,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/package.json": [
           {
@@ -215,6 +215,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-09-03T13:26:19.529Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/package.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "json"
           }
         ],
@@ -463,6 +477,34 @@
               "removed": []
             },
             "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-09-03T13:26:42.496Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-09-03T13:27:04.713Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "tsx"
           }
         ],
@@ -805,6 +847,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-09-03T13:26:19.530Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/src/declarations.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "ts"
           }
         ],
@@ -1306,6 +1362,62 @@
             },
             "duration": 2,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2026-09-03T13:26:19.533Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/src/containers/Home/Sidebar/Sidebar.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-09-03T13:26:42.501Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/src/containers/Home/Sidebar/Sidebar.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-09-03T13:27:04.717Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/src/containers/Home/Sidebar/Sidebar.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-09-03T13:27:22.978Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/src/containers/Home/Sidebar/Sidebar.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/src/components/SearchUser/SearchUser.tsx": [
@@ -1485,6 +1597,34 @@
               "removed": []
             },
             "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-09-03T13:26:42.499Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/docs/components/GroupManagement/GroupManagement.stories.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 88,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-09-03T13:27:04.715Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-web-components/docs/components/GroupManagement/GroupManagement.stories.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 88,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "tsx"
           }
         ]
