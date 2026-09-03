@@ -2,7 +2,7 @@
   "date": "2026-09-03",
   "projects": {
     "cda": {
-      "totalLinesAdded": 76062,
+      "totalLinesAdded": 76068,
       "totalLinesRemoved": 26296,
       "totalActiveTime": 436,
       "files": {
@@ -2419,6 +2419,20 @@
             "fileType": ".tsx",
             "linesAdded": 0,
             "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-09-03T17:11:20.391Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/src/components/CalendarShare/CalendarShare.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 6,
+            "linesRemoved": 0,
             "projectName": "cda",
             "content": {
               "added": [],
