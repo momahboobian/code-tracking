@@ -2,7 +2,7 @@
   "date": "2026-09-03",
   "projects": {
     "cda": {
-      "totalLinesAdded": 58871,
+      "totalLinesAdded": 58872,
       "totalLinesRemoved": 16861,
       "totalActiveTime": 215,
       "files": {
@@ -229,6 +229,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-09-03T15:36:08.840Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/package.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "json"
           }
         ],
