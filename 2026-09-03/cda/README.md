@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 76929                                          |
-| **Lines Removed** (➖) | 26319                                        |
-| **Net Change** (↕)    | 50610                |
-| **Active Time** (⌚)   | 572 minutes |
+| **Lines Added** (➕)   | 76967                                          |
+| **Lines Removed** (➖) | 26322                                        |
+| **Net Change** (↕)    | 50645                |
+| **Active Time** (⌚)   | 580 minutes |
 
 
 ## Modified Files
@@ -82,12 +82,14 @@
 - **tsconfig.app.json** (+18, -0)
 - **tsconfig.json** (+5, -0)
 - **tsconfig.node.json** (+14, -0)
-- **vite.config.ts** (+52, -1)
+- **vite.config.ts** (+55, -4)
 - **ProgressBar.scss** (+16, -0)
 - **SubSkills.scss** (+49, -0)
 - **TagTopic.scss** (+83, -0)
 - **SkillTopic.scss** (+23, -0)
 - **index.scss** (+2, -0)
+- **index.html** (+29, -0)
+- **setupTests.ts** (+6, -0)
 
 ## Visualizations
 
@@ -100,9 +102,9 @@ title Lines changed by file type
 ".tsx" : 6609
 ".scss" : 319
 ".js" : 1357
-".ts" : 37245
+".ts" : 37257
 ".lock" : 56667
-".html" : 59
+".html" : 88
 ".cjs" : 162
 "unknown" : 4
 ".development" : 6
@@ -120,8 +122,8 @@ title Coding activity by hour (count of changes)
 "14h" : 27
 "16h" : 108
 "17h" : 87
-"18h" : 68
+"18h" : 72
 ```
 
 
-> **Last Updated:** 03/09/2026, 18:48:50
+> **Last Updated:** 03/09/2026, 18:53:50
