@@ -2,9 +2,9 @@
   "date": "2026-09-03",
   "projects": {
     "cda": {
-      "totalLinesAdded": 76974,
+      "totalLinesAdded": 77937,
       "totalLinesRemoved": 26322,
-      "totalActiveTime": 584,
+      "totalActiveTime": 601,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/package.json": [
           {
@@ -5454,6 +5454,198 @@
             },
             "duration": 1,
             "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/components/ConfirmationModal/ConfirmationModal.test.tsx": [
+          {
+            "timestamp": "2026-09-03T17:59:54.821Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/components/ConfirmationModal/ConfirmationModal.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 74,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/components/GroupAccessPeopleManager/GroupAccessPeopleManager.test.tsx": [
+          {
+            "timestamp": "2026-09-03T18:00:18.001Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/components/GroupAccessPeopleManager/GroupAccessPeopleManager.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 107,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/components/InlineUpdateButton/InlineUpdateButton.test.tsx": [
+          {
+            "timestamp": "2026-09-03T18:00:32.264Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/components/InlineUpdateButton/InlineUpdateButton.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 183,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/components/MarkdownEditor/MarkdownEditor.test.tsx": [
+          {
+            "timestamp": "2026-09-03T18:01:04.415Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/components/MarkdownEditor/MarkdownEditor.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 18,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/components/SearchUser/SearchUser.test.tsx": [
+          {
+            "timestamp": "2026-09-03T18:02:20.344Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/components/SearchUser/SearchUser.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 102,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/components/SkillAddButton/SkillAddButton.test.tsx": [
+          {
+            "timestamp": "2026-09-03T18:02:24.356Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/components/SkillAddButton/SkillAddButton.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 56,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/components/Skills/SkillUserQuickFilters/SkillUserQuickFilters.test.tsx": [
+          {
+            "timestamp": "2026-09-03T18:02:27.210Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/components/Skills/SkillUserQuickFilters/SkillUserQuickFilters.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 29,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/components/SkillTagAdmin/SkillTagCreateSubSkill.tsx": [
+          {
+            "timestamp": "2026-09-03T18:02:33.591Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/components/SkillTagAdmin/SkillTagCreateSubSkill.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 85,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/components/SkillUsersModal/SkillUsersModal.test.jsx": [
+          {
+            "timestamp": "2026-09-03T18:02:47.090Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/components/SkillUsersModal/SkillUsersModal.test.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 49,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/components/SortableList/SortableList.test.tsx": [
+          {
+            "timestamp": "2026-09-03T18:02:52.946Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/components/SortableList/SortableList.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 42,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/components/SubSkills/SubSkills.test.tsx": [
+          {
+            "timestamp": "2026-09-03T18:03:02.157Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/components/SubSkills/SubSkills.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 168,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/containers/SkillAdmin/SkillAdmin.tsx": [
+          {
+            "timestamp": "2026-09-03T18:03:38.413Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/containers/SkillAdmin/SkillAdmin.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 50,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ]
       },
