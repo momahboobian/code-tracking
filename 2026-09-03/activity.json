@@ -2,9 +2,9 @@
   "date": "2026-09-03",
   "projects": {
     "cda": {
-      "totalLinesAdded": 75496,
-      "totalLinesRemoved": 18222,
-      "totalActiveTime": 365,
+      "totalLinesAdded": 75527,
+      "totalLinesRemoved": 25344,
+      "totalActiveTime": 380,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/package.json": [
           {
@@ -355,6 +355,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-09-03T16:24:12.167Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/package.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "json"
           }
         ],
@@ -1240,6 +1254,20 @@
             },
             "duration": 2,
             "language": "ts"
+          },
+          {
+            "timestamp": "2026-09-03T16:24:12.173Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/src/declarations.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "ts"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/low-risk-schema/definitions/skills.js": [
@@ -1852,6 +1880,20 @@
             },
             "duration": 2,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2026-09-03T16:24:12.175Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/src/containers/Home/Sidebar/Sidebar.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "tsx"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/src/components/SearchUser/SearchUser.tsx": [
@@ -2013,6 +2055,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "lock"
+          },
+          {
+            "timestamp": "2026-09-03T16:24:12.181Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/yarn.lock",
+            "fileType": ".lock",
+            "linesAdded": 0,
+            "linesRemoved": 7088,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "lock"
           }
         ],
@@ -3871,6 +3927,34 @@
           },
           {
             "timestamp": "2026-09-03T16:20:06.590Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/scripts/generate-holidays.cjs",
+            "fileType": ".cjs",
+            "linesAdded": 28,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cjs"
+          },
+          {
+            "timestamp": "2026-09-03T16:25:24.779Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/scripts/generate-holidays.cjs",
+            "fileType": ".cjs",
+            "linesAdded": 0,
+            "linesRemoved": 28,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "cjs"
+          },
+          {
+            "timestamp": "2026-09-03T16:26:11.988Z",
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-viewer/scripts/generate-holidays.cjs",
             "fileType": ".cjs",
             "linesAdded": 28,
