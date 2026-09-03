@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 57698                                          |
-| **Lines Removed** (➖) | 16850                                        |
-| **Net Change** (↕)    | 40848                |
-| **Active Time** (⌚)   | 138 minutes |
+| **Lines Added** (➕)   | 58468                                          |
+| **Lines Removed** (➖) | 16858                                        |
+| **Net Change** (↕)    | 41610                |
+| **Active Time** (⌚)   | 163 minutes |
 
 
 ## Modified Files
@@ -63,6 +63,16 @@
 - **CalendarShareForm.tsx** (+27, -2)
 - **ConfirmationModal.tsx** (+71, -1)
 - **Duty.tsx** (+387, -1)
+- **Settings.tsx** (+37, -1)
+- **SignInStatusIcon.tsx** (+100, -1)
+- **Admin.tsx** (+31, -1)
+- **ProfileBadge.tsx** (+79, -1)
+- **TeamViewRow.tsx** (+167, -1)
+- **SchedulingTeamSelect.tsx** (+69, -0)
+- **TooltipBadge.tsx** (+64, -2)
+- **DateSwitcher.tsx** (+108, -0)
+- **ise-web-components.d.ts** (+17, -0)
+- **Sidebar.tsx** (+98, -1)
 
 ## Visualizations
 
@@ -72,10 +82,10 @@
 pie showData
 title Lines changed by file type
 ".json" : 597
-".tsx" : 4168
+".tsx" : 4929
 ".scss" : 122
 ".js" : 1336
-".ts" : 32354
+".ts" : 32371
 ".lock" : 35913
 ".html" : 27
 ".cjs" : 21
@@ -93,8 +103,8 @@ title Coding activity by hour (count of changes)
 "12h" : 32
 "13h" : 26
 "14h" : 27
-"16h" : 12
+"16h" : 31
 ```
 
 
-> **Last Updated:** 03/09/2026, 16:21:17
+> **Last Updated:** 03/09/2026, 16:26:17
