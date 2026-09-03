@@ -4,14 +4,14 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 61327                                          |
-| **Lines Removed** (➖) | 17754                                        |
-| **Net Change** (↕)    | 43573                |
-| **Active Time** (⌚)   | 295 minutes |
+| **Lines Added** (➕)   | 75456                                          |
+| **Lines Removed** (➖) | 18219                                        |
+| **Net Change** (↕)    | 57237                |
+| **Active Time** (⌚)   | 356 minutes |
 
 
 ## Modified Files
-- **package.json** (+255, -34)
+- **package.json** (+256, -39)
 - **App.tsx** (+319, -0)
 - **tsconfig.json** (+29, -0)
 - **GroupDetails.scss** (+97, -0)
@@ -26,7 +26,7 @@
 - **Groups.tsx** (+97, -0)
 - **yarn.lock** (+14168, -0)
 - **vite.config.ts** (+44, -0)
-- **declarations.d.ts** (+1738, -1250)
+- **declarations.d.ts** (+2180, -1693)
 - **skills.js** (+459, -0)
 - **skills.ts** (+386, -0)
 - **transform-group-skill-progress.test.ts** (+152, -0)
@@ -52,27 +52,27 @@
 - **setupTests.ts** (+17, -0)
 - **index.tsx** (+20, -0)
 - **index.scss** (+2, -0)
-- **Sidebar.test.tsx** (+80, -9)
+- **Sidebar.test.tsx** (+83, -9)
 - **SearchUser.tsx** (+76, -1)
 - **SearchUser.tsx** (+102, -0)
 - **graphql.ts** (+18469, -8733)
-- **yarn.lock** (+14160, -7585)
+- **yarn.lock** (+27826, -7585)
 - **package.json** (+187, -0)
 - **GroupManagement.stories.tsx** (+624, -88)
-- **CalendarShare.tsx** (+396, -3)
-- **CalendarShareForm.tsx** (+58, -6)
-- **ConfirmationModal.tsx** (+144, -3)
-- **Duty.tsx** (+776, -3)
-- **Settings.tsx** (+76, -3)
-- **SignInStatusIcon.tsx** (+202, -3)
-- **Admin.tsx** (+64, -3)
-- **ProfileBadge.tsx** (+160, -3)
-- **TeamViewRow.tsx** (+336, -3)
+- **CalendarShare.tsx** (+397, -4)
+- **CalendarShareForm.tsx** (+60, -8)
+- **ConfirmationModal.tsx** (+145, -4)
+- **Duty.tsx** (+777, -4)
+- **Settings.tsx** (+77, -4)
+- **SignInStatusIcon.tsx** (+203, -4)
+- **Admin.tsx** (+65, -4)
+- **ProfileBadge.tsx** (+161, -4)
+- **TeamViewRow.tsx** (+337, -4)
 - **SchedulingTeamSelect.tsx** (+138, -0)
-- **TooltipBadge.tsx** (+132, -6)
-- **DateSwitcher.tsx** (+222, -9)
+- **TooltipBadge.tsx** (+134, -8)
+- **DateSwitcher.tsx** (+225, -12)
 - **ise-web-components.d.ts** (+17, -0)
-- **Sidebar.tsx** (+199, -4)
+- **Sidebar.tsx** (+201, -6)
 
 ## Visualizations
 
@@ -81,12 +81,12 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".json" : 677
-".tsx" : 6473
+".json" : 683
+".tsx" : 6510
 ".scss" : 122
 ".js" : 1336
-".ts" : 34502
-".lock" : 35913
+".ts" : 35387
+".lock" : 49579
 ".html" : 27
 ".cjs" : 21
 "unknown" : 4
@@ -104,8 +104,8 @@ title Coding activity by hour (count of changes)
 "13h" : 26
 "14h" : 27
 "16h" : 108
-"17h" : 16
+"17h" : 46
 ```
 
 
-> **Last Updated:** 03/09/2026, 17:13:50
+> **Last Updated:** 03/09/2026, 17:18:50
