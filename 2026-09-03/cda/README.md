@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 76068                                          |
-| **Lines Removed** (➖) | 26296                                        |
-| **Net Change** (↕)    | 49772                |
-| **Active Time** (⌚)   | 436 minutes |
+| **Lines Added** (➕)   | 76086                                          |
+| **Lines Removed** (➖) | 26301                                        |
+| **Net Change** (↕)    | 49785                |
+| **Active Time** (⌚)   | 449 minutes |
 
 
 ## Modified Files
@@ -59,7 +59,7 @@
 - **yarn.lock** (+27826, -14673)
 - **package.json** (+187, -0)
 - **GroupManagement.stories.tsx** (+624, -88)
-- **CalendarShare.tsx** (+404, -6)
+- **CalendarShare.tsx** (+404, -7)
 - **CalendarShareForm.tsx** (+62, -12)
 - **ConfirmationModal.tsx** (+146, -6)
 - **Duty.tsx** (+778, -6)
@@ -74,6 +74,7 @@
 - **ise-web-components.d.ts** (+17, -0)
 - **Sidebar.tsx** (+203, -10)
 - **generate-holidays.cjs** (+62, -56)
+- **CalendarShare.scss** (+18, -4)
 
 ## Visualizations
 
@@ -83,8 +84,8 @@
 pie showData
 title Lines changed by file type
 ".json" : 767
-".tsx" : 6579
-".scss" : 122
+".tsx" : 6580
+".scss" : 144
 ".js" : 1336
 ".ts" : 36717
 ".lock" : 56667
@@ -106,8 +107,8 @@ title Coding activity by hour (count of changes)
 "14h" : 27
 "16h" : 108
 "17h" : 87
-"18h" : 16
+"18h" : 25
 ```
 
 
-> **Last Updated:** 03/09/2026, 18:13:50
+> **Last Updated:** 03/09/2026, 18:18:50
