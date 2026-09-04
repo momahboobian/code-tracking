@@ -4,20 +4,20 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2875                                          |
-| **Lines Removed** (➖) | 646                                        |
-| **Net Change** (↕)    | 2229                |
-| **Active Time** (⌚)   | 126 minutes |
+| **Lines Added** (➕)   | 2940                                          |
+| **Lines Removed** (➖) | 1160                                        |
+| **Net Change** (↕)    | 1780                |
+| **Active Time** (⌚)   | 226 minutes |
 
 
 ## Modified Files
 - **SkillTopicUsers.tsx** (+303, -72)
 - **App.tsx** (+222, -8)
-- **TagTopic.tsx** (+109, -3)
+- **TagTopic.tsx** (+115, -9)
 - **SkillTopic.tsx** (+5, -17)
 - **SkillTopicUsers.scss** (+44, -5)
 - **SkillTopicUserActions.tsx** (+47, -0)
-- **TagTopicDetails.tsx** (+106, -27)
+- **TagTopicDetails.tsx** (+122, -43)
 - **SkillTopicUserActions.test.tsx** (+46, -4)
 - **TagTopic.test.tsx** (+82, -0)
 - **SkillTopic.test.tsx** (+151, -0)
@@ -28,25 +28,25 @@
 - **GroupAccessPeopleManager.scss** (+16, -6)
 - **GroupAccessPeopleManager.tsx** (+104, -0)
 - **GroupCreate.tsx** (+298, -0)
-- **package.json** (+11, -11)
-- **tsconfig.json** (+18, -18)
-- **GroupAccess.tsx** (+4, -4)
+- **package.json** (+22, -22)
+- **tsconfig.json** (+36, -36)
+- **GroupAccess.tsx** (+8, -8)
 - **InlineUpdateButton.scss** (+87, -0)
 - **InlineUpdateButton.tsx** (+191, -2)
-- **Settings.tsx** (+1, -1)
-- **TeamViewRow.tsx** (+1, -1)
-- **Admin.tsx** (+1, -1)
-- **SignInStatusIcon.tsx** (+1, -1)
-- **ProfileBadge.tsx** (+1, -1)
-- **Duty.tsx** (+1, -1)
-- **ConfirmationModal.tsx** (+1, -1)
-- **CalendarShareForm.tsx** (+2, -2)
-- **CalendarShare.tsx** (+4, -4)
-- **declarations.d.ts** (+443, -443)
-- **TooltipBadge.tsx** (+2, -2)
-- **DateSwitcher.tsx** (+3, -3)
-- **Sidebar.tsx** (+5, -5)
-- **Sidebar.test.tsx** (+3, -3)
+- **Settings.tsx** (+1, -2)
+- **TeamViewRow.tsx** (+1, -2)
+- **Admin.tsx** (+1, -2)
+- **SignInStatusIcon.tsx** (+1, -2)
+- **ProfileBadge.tsx** (+1, -2)
+- **Duty.tsx** (+1, -2)
+- **ConfirmationModal.tsx** (+1, -2)
+- **CalendarShareForm.tsx** (+2, -4)
+- **CalendarShare.tsx** (+8, -4)
+- **declarations.d.ts** (+443, -886)
+- **TooltipBadge.tsx** (+2, -4)
+- **DateSwitcher.tsx** (+6, -3)
+- **Sidebar.tsx** (+5, -10)
+- **Sidebar.test.tsx** (+6, -3)
 - **GroupDetails.tsx** (+238, -0)
 - **version.ts** (+9, -0)
 - **GroupDetails.scss** (+53, -0)
@@ -58,10 +58,10 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 2354
+".tsx" : 2432
 ".scss" : 211
-".ts" : 898
-".json" : 58
+".ts" : 1341
+".json" : 116
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -73,8 +73,8 @@ title Coding activity by hour (count of changes)
 "09h" : 32
 "11h" : 6
 "12h" : 10
-"13h" : 46
+"13h" : 70
 ```
 
 
-> **Last Updated:** 04/09/2026, 13:28:50
+> **Last Updated:** 04/09/2026, 13:33:50
