@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1795                                          |
-| **Lines Removed** (➖) | 150                                        |
-| **Net Change** (↕)    | 1645                |
-| **Active Time** (⌚)   | 64 minutes |
+| **Lines Added** (➕)   | 2067                                          |
+| **Lines Removed** (➖) | 609                                        |
+| **Net Change** (↕)    | 1458                |
+| **Active Time** (⌚)   | 93 minutes |
 
 
 ## Modified Files
@@ -31,6 +31,22 @@
 - **package.json** (+0, -11)
 - **tsconfig.json** (+18, -0)
 - **GroupAccess.tsx** (+4, -0)
+- **InlineUpdateButton.scss** (+87, -0)
+- **InlineUpdateButton.tsx** (+175, -0)
+- **Settings.tsx** (+0, -1)
+- **TeamViewRow.tsx** (+0, -1)
+- **Admin.tsx** (+0, -1)
+- **SignInStatusIcon.tsx** (+0, -1)
+- **ProfileBadge.tsx** (+0, -1)
+- **Duty.tsx** (+0, -1)
+- **ConfirmationModal.tsx** (+0, -1)
+- **CalendarShareForm.tsx** (+0, -2)
+- **CalendarShare.tsx** (+4, -0)
+- **declarations.d.ts** (+0, -443)
+- **TooltipBadge.tsx** (+0, -2)
+- **DateSwitcher.tsx** (+3, -0)
+- **Sidebar.tsx** (+0, -5)
+- **Sidebar.test.tsx** (+3, -0)
 
 ## Visualizations
 
@@ -39,9 +55,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 1842
-".scss" : 71
-".ts" : 3
+".tsx" : 2043
+".scss" : 158
+".ts" : 446
 ".json" : 29
 ```
 
@@ -54,7 +70,8 @@ title Coding activity by hour (count of changes)
 "09h" : 32
 "11h" : 6
 "12h" : 10
+"13h" : 16
 ```
 
 
-> **Last Updated:** 04/09/2026, 12:48:50
+> **Last Updated:** 04/09/2026, 13:03:50
