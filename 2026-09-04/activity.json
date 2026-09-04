@@ -2,9 +2,9 @@
   "date": "2026-09-04",
   "projects": {
     "cda": {
-      "totalLinesAdded": 652,
-      "totalLinesRemoved": 31,
-      "totalActiveTime": 23,
+      "totalLinesAdded": 699,
+      "totalLinesRemoved": 87,
+      "totalActiveTime": 24,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/containers/SkillTopicUsers/SkillTopicUsers.tsx": [
           {
@@ -146,6 +146,20 @@
             },
             "duration": 2,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2026-09-04T08:37:58.433Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/containers/SkillTopicUsers/SkillTopicUsers.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 52,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/App.tsx": [
@@ -264,6 +278,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2026-09-04T08:37:58.435Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/containers/SkillTopic/SkillTopic.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/containers/SkillTopicUsers/SkillTopicUsers.scss": [
@@ -294,6 +322,22 @@
             },
             "duration": 1,
             "language": "scss"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/containers/SkillTopicUsers/SkillTopicUserActions.tsx": [
+          {
+            "timestamp": "2026-09-04T08:38:17.799Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/containers/SkillTopicUsers/SkillTopicUserActions.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 47,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ]
       },

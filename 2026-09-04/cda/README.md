@@ -4,18 +4,19 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 652                                          |
-| **Lines Removed** (➖) | 31                                        |
-| **Net Change** (↕)    | 621                |
-| **Active Time** (⌚)   | 23 minutes |
+| **Lines Added** (➕)   | 699                                          |
+| **Lines Removed** (➖) | 87                                        |
+| **Net Change** (↕)    | 612                |
+| **Active Time** (⌚)   | 24 minutes |
 
 
 ## Modified Files
-- **SkillTopicUsers.tsx** (+279, -18)
+- **SkillTopicUsers.tsx** (+279, -70)
 - **App.tsx** (+222, -8)
 - **TagTopic.tsx** (+103, -0)
-- **SkillTopic.tsx** (+4, -0)
+- **SkillTopic.tsx** (+4, -4)
 - **SkillTopicUsers.scss** (+44, -5)
+- **SkillTopicUserActions.tsx** (+47, -0)
 
 ## Visualizations
 
@@ -24,7 +25,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 634
+".tsx" : 737
 ".scss" : 49
 ```
 
@@ -34,8 +35,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "08h" : 7
-"09h" : 13
+"09h" : 16
 ```
 
 
-> **Last Updated:** 04/09/2026, 09:23:50
+> **Last Updated:** 04/09/2026, 09:38:50
