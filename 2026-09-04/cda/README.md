@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 43303                                          |
+| **Lines Added** (➕)   | 43391                                          |
 | **Lines Removed** (➖) | 1180                                        |
-| **Net Change** (↕)    | 42123                |
-| **Active Time** (⌚)   | 252 minutes |
+| **Net Change** (↕)    | 42211                |
+| **Active Time** (⌚)   | 255 minutes |
 
 
 ## Modified Files
@@ -30,7 +30,7 @@
 - **GroupCreate.tsx** (+298, -0)
 - **package.json** (+22, -22)
 - **tsconfig.json** (+36, -36)
-- **GroupAccess.tsx** (+48, -12)
+- **GroupAccess.tsx** (+49, -12)
 - **InlineUpdateButton.scss** (+87, -0)
 - **InlineUpdateButton.tsx** (+191, -16)
 - **Settings.tsx** (+1, -2)
@@ -65,6 +65,8 @@
 - **skill-mutations.ts** (+1156, -0)
 - **queries.js** (+437, -0)
 - **mutations.js** (+825, -0)
+- **graphql.ts** (+3, -0)
+- **GroupAccess.test.tsx** (+84, -0)
 
 ## Visualizations
 
@@ -73,9 +75,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 2490
+".tsx" : 2575
 ".scss" : 211
-".ts" : 39817
+".ts" : 39820
 ".json" : 116
 "unknown" : 125
 ".js" : 1724
@@ -91,8 +93,8 @@ title Coding activity by hour (count of changes)
 "11h" : 6
 "12h" : 10
 "13h" : 77
-"14h" : 13
+"14h" : 16
 ```
 
 
-> **Last Updated:** 04/09/2026, 14:23:50
+> **Last Updated:** 04/09/2026, 14:28:50
