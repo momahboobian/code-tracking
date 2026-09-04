@@ -5,8 +5,8 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 2940                                          |
-| **Lines Removed** (➖) | 1160                                        |
-| **Net Change** (↕)    | 1780                |
+| **Lines Removed** (➖) | 1174                                        |
+| **Net Change** (↕)    | 1766                |
 | **Active Time** (⌚)   | 226 minutes |
 
 
@@ -32,7 +32,7 @@
 - **tsconfig.json** (+36, -36)
 - **GroupAccess.tsx** (+8, -8)
 - **InlineUpdateButton.scss** (+87, -0)
-- **InlineUpdateButton.tsx** (+191, -2)
+- **InlineUpdateButton.tsx** (+191, -16)
 - **Settings.tsx** (+1, -2)
 - **TeamViewRow.tsx** (+1, -2)
 - **Admin.tsx** (+1, -2)
@@ -58,7 +58,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 2432
+".tsx" : 2446
 ".scss" : 211
 ".ts" : 1341
 ".json" : 116
@@ -73,8 +73,8 @@ title Coding activity by hour (count of changes)
 "09h" : 32
 "11h" : 6
 "12h" : 10
-"13h" : 70
+"13h" : 71
 ```
 
 
-> **Last Updated:** 04/09/2026, 13:33:50
+> **Last Updated:** 04/09/2026, 13:38:50
