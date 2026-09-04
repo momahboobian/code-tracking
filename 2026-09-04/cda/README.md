@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2940                                          |
+| **Lines Added** (➕)   | 38009                                          |
 | **Lines Removed** (➖) | 1174                                        |
-| **Net Change** (↕)    | 1766                |
-| **Active Time** (⌚)   | 226 minutes |
+| **Net Change** (↕)    | 36835                |
+| **Active Time** (⌚)   | 231 minutes |
 
 
 ## Modified Files
@@ -50,6 +50,12 @@
 - **GroupDetails.tsx** (+238, -0)
 - **version.ts** (+9, -0)
 - **GroupDetails.scss** (+53, -0)
+- **vulcan.ts** (+1944, -0)
+- **vulcan_views.ts** (+1113, -0)
+- **views.ts** (+10874, -0)
+- **tables.ts** (+7791, -0)
+- **location.ts** (+344, -0)
+- **resolvers-types.ts** (+13003, -0)
 
 ## Visualizations
 
@@ -60,7 +66,7 @@ pie showData
 title Lines changed by file type
 ".tsx" : 2446
 ".scss" : 211
-".ts" : 1341
+".ts" : 36410
 ".json" : 116
 ```
 
@@ -73,8 +79,8 @@ title Coding activity by hour (count of changes)
 "09h" : 32
 "11h" : 6
 "12h" : 10
-"13h" : 71
+"13h" : 77
 ```
 
 
-> **Last Updated:** 04/09/2026, 13:38:50
+> **Last Updated:** 04/09/2026, 13:53:50

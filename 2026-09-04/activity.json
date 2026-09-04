@@ -2,9 +2,9 @@
   "date": "2026-09-04",
   "projects": {
     "cda": {
-      "totalLinesAdded": 2940,
+      "totalLinesAdded": 38009,
       "totalLinesRemoved": 1174,
-      "totalActiveTime": 226,
+      "totalActiveTime": 231,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/containers/SkillTopicUsers/SkillTopicUsers.tsx": [
           {
@@ -1846,6 +1846,102 @@
             },
             "duration": 5,
             "language": "scss"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-table-types/src/types/vulcan.ts": [
+          {
+            "timestamp": "2026-09-04T12:52:12.674Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-table-types/src/types/vulcan.ts",
+            "fileType": ".ts",
+            "linesAdded": 1944,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-table-types/src/types/vulcan_views.ts": [
+          {
+            "timestamp": "2026-09-04T12:52:21.738Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-table-types/src/types/vulcan_views.ts",
+            "fileType": ".ts",
+            "linesAdded": 1113,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-table-types/src/types/views.ts": [
+          {
+            "timestamp": "2026-09-04T12:52:28.864Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-table-types/src/types/views.ts",
+            "fileType": ".ts",
+            "linesAdded": 10874,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-table-types/src/types/tables.ts": [
+          {
+            "timestamp": "2026-09-04T12:52:36.938Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-table-types/src/types/tables.ts",
+            "fileType": ".ts",
+            "linesAdded": 7791,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-table-types/src/types/location.ts": [
+          {
+            "timestamp": "2026-09-04T12:52:42.009Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-table-types/src/types/location.ts",
+            "fileType": ".ts",
+            "linesAdded": 344,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/types/gql-generated/low-risk/resolvers-types.ts": [
+          {
+            "timestamp": "2026-09-04T12:52:56.236Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/types/gql-generated/low-risk/resolvers-types.ts",
+            "fileType": ".ts",
+            "linesAdded": 13003,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ]
       },
