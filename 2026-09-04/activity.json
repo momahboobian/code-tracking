@@ -2,9 +2,9 @@
   "date": "2026-09-04",
   "projects": {
     "cda": {
-      "totalLinesAdded": 38396,
-      "totalLinesRemoved": 1174,
-      "totalActiveTime": 231,
+      "totalLinesAdded": 40845,
+      "totalLinesRemoved": 1176,
+      "totalActiveTime": 244,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/containers/SkillTopicUsers/SkillTopicUsers.tsx": [
           {
@@ -1958,6 +1958,114 @@
             },
             "duration": 0,
             "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/.env": [
+          {
+            "timestamp": "2026-09-04T13:09:16.050Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/.env",
+            "fileType": "unknown",
+            "linesAdded": 125,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "unknown"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/unit/utils/skills/SkillGroups.test.ts": [
+          {
+            "timestamp": "2026-09-04T13:11:01.875Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/unit/utils/skills/SkillGroups.test.ts",
+            "fileType": ".ts",
+            "linesAdded": 929,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-09-04T13:11:01.963Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/unit/utils/skills/SkillGroups.test.ts",
+            "fileType": ".ts",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/utils/skills/SkillGroups.ts": [
+          {
+            "timestamp": "2026-09-04T13:11:06.321Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/utils/skills/SkillGroups.ts",
+            "fileType": ".ts",
+            "linesAdded": 319,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/low-risk-schema/resolvers/skill-queries.ts": [
+          {
+            "timestamp": "2026-09-04T13:11:08.285Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/low-risk-schema/resolvers/skill-queries.ts",
+            "fileType": ".ts",
+            "linesAdded": 610,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-09-04T13:11:08.327Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/low-risk-schema/resolvers/skill-queries.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/low-risk-schema/definitions/skills.js": [
+          {
+            "timestamp": "2026-09-04T13:12:30.970Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/low-risk-schema/definitions/skills.js",
+            "fileType": ".js",
+            "linesAdded": 462,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "js"
           }
         ]
       },
