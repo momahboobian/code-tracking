@@ -2,7 +2,7 @@
   "date": "2026-09-04",
   "projects": {
     "cda": {
-      "totalLinesAdded": 38009,
+      "totalLinesAdded": 38396,
       "totalLinesRemoved": 1174,
       "totalActiveTime": 231,
       "files": {
@@ -1941,6 +1941,22 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/transformers/skills/skills.ts": [
+          {
+            "timestamp": "2026-09-04T13:04:16.478Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/transformers/skills/skills.ts",
+            "fileType": ".ts",
+            "linesAdded": 387,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "ts"
           }
         ]
