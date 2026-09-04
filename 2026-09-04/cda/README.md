@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2814                                          |
+| **Lines Added** (➕)   | 2869                                          |
 | **Lines Removed** (➖) | 643                                        |
-| **Net Change** (↕)    | 2171                |
-| **Active Time** (⌚)   | 117 minutes |
+| **Net Change** (↕)    | 2226                |
+| **Active Time** (⌚)   | 123 minutes |
 
 
 ## Modified Files
@@ -32,7 +32,7 @@
 - **tsconfig.json** (+18, -18)
 - **GroupAccess.tsx** (+4, -4)
 - **InlineUpdateButton.scss** (+87, -0)
-- **InlineUpdateButton.tsx** (+189, -2)
+- **InlineUpdateButton.tsx** (+191, -2)
 - **Settings.tsx** (+1, -1)
 - **TeamViewRow.tsx** (+1, -1)
 - **Admin.tsx** (+1, -1)
@@ -49,6 +49,7 @@
 - **Sidebar.test.tsx** (+3, -3)
 - **GroupDetails.tsx** (+238, -0)
 - **version.ts** (+9, -0)
+- **GroupDetails.scss** (+53, -0)
 
 ## Visualizations
 
@@ -57,8 +58,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 2343
-".scss" : 158
+".tsx" : 2345
+".scss" : 211
 ".ts" : 898
 ".json" : 58
 ```
@@ -72,8 +73,8 @@ title Coding activity by hour (count of changes)
 "09h" : 32
 "11h" : 6
 "12h" : 10
-"13h" : 40
+"13h" : 42
 ```
 
 
-> **Last Updated:** 04/09/2026, 13:13:50
+> **Last Updated:** 04/09/2026, 13:18:50
