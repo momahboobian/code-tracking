@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1767                                          |
-| **Lines Removed** (➖) | 117                                        |
-| **Net Change** (↕)    | 1650                |
-| **Active Time** (⌚)   | 53 minutes |
+| **Lines Added** (➕)   | 1795                                          |
+| **Lines Removed** (➖) | 150                                        |
+| **Net Change** (↕)    | 1645                |
+| **Active Time** (⌚)   | 64 minutes |
 
 
 ## Modified Files
@@ -17,7 +17,7 @@
 - **SkillTopic.tsx** (+5, -17)
 - **SkillTopicUsers.scss** (+44, -5)
 - **SkillTopicUserActions.tsx** (+47, -0)
-- **TagTopicDetails.tsx** (+90, -11)
+- **TagTopicDetails.tsx** (+90, -27)
 - **SkillTopicUserActions.test.tsx** (+46, -4)
 - **TagTopic.test.tsx** (+82, -0)
 - **SkillTopic.test.tsx** (+151, -0)
@@ -25,9 +25,12 @@
 - **index.ts** (+3, -0)
 - **TagTopicDetails.test.tsx** (+60, -0)
 - **SkillTopicUserActions.tsx** (+50, -0)
-- **GroupAccessPeopleManager.scss** (+10, -0)
+- **GroupAccessPeopleManager.scss** (+16, -6)
 - **GroupAccessPeopleManager.tsx** (+104, -0)
 - **GroupCreate.tsx** (+298, -0)
+- **package.json** (+0, -11)
+- **tsconfig.json** (+18, -0)
+- **GroupAccess.tsx** (+4, -0)
 
 ## Visualizations
 
@@ -36,9 +39,10 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 1822
-".scss" : 59
+".tsx" : 1842
+".scss" : 71
 ".ts" : 3
+".json" : 29
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -49,8 +53,8 @@ title Coding activity by hour (count of changes)
 "08h" : 7
 "09h" : 32
 "11h" : 6
-"12h" : 3
+"12h" : 10
 ```
 
 
-> **Last Updated:** 04/09/2026, 12:43:50
+> **Last Updated:** 04/09/2026, 12:48:50
