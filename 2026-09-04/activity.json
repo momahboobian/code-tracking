@@ -2,7 +2,7 @@
   "date": "2026-09-04",
   "projects": {
     "cda": {
-      "totalLinesAdded": 1305,
+      "totalLinesAdded": 1355,
       "totalLinesRemoved": 117,
       "totalActiveTime": 48,
       "files": {
@@ -645,6 +645,22 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/containers/SkillTopicUsers/SkillTopicUserActions/SkillTopicUserActions.tsx": [
+          {
+            "timestamp": "2026-09-04T10:44:27.078Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/containers/SkillTopicUsers/SkillTopicUserActions/SkillTopicUserActions.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 50,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ]
