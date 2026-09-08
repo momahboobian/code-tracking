@@ -4,28 +4,28 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 11172                                          |
+| **Lines Added** (➕)   | 12647                                          |
 | **Lines Removed** (➖) | 69                                        |
-| **Net Change** (↕)    | 11103                |
+| **Net Change** (↕)    | 12578                |
 | **Active Time** (⌚)   | 51 minutes |
 
 
 ## Modified Files
-- **declarations.d.ts** (+15, -0)
-- **CalendarShare.tsx** (+201, -0)
-- **CalendarShareForm.tsx** (+25, -0)
-- **ConfirmationModal.tsx** (+70, -0)
-- **Duty.tsx** (+386, -0)
-- **ProfileBadge.tsx** (+78, -0)
-- **SignInStatusIcon.tsx** (+99, -0)
-- **Admin.tsx** (+30, -0)
-- **Settings.tsx** (+36, -0)
-- **TeamViewRow.tsx** (+166, -0)
-- **TooltipBadge.tsx** (+62, -0)
-- **SchedulingTeamSelect.tsx** (+69, -0)
-- **DateSwitcher.tsx** (+108, -0)
-- **Sidebar.tsx** (+93, -0)
-- **Sidebar.test.tsx** (+37, -0)
+- **declarations.d.ts** (+30, -0)
+- **CalendarShare.tsx** (+402, -0)
+- **CalendarShareForm.tsx** (+50, -0)
+- **ConfirmationModal.tsx** (+140, -0)
+- **Duty.tsx** (+772, -0)
+- **ProfileBadge.tsx** (+156, -0)
+- **SignInStatusIcon.tsx** (+198, -0)
+- **Admin.tsx** (+60, -0)
+- **Settings.tsx** (+72, -0)
+- **TeamViewRow.tsx** (+332, -0)
+- **TooltipBadge.tsx** (+124, -0)
+- **SchedulingTeamSelect.tsx** (+138, -0)
+- **DateSwitcher.tsx** (+216, -0)
+- **Sidebar.tsx** (+186, -0)
+- **Sidebar.test.tsx** (+74, -0)
 - **CreateDraftSkill.mermaid** (+7, -0)
 - **package.json** (+76, -0)
 - **constants.ts** (+57, -0)
@@ -48,8 +48,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 591
-".tsx" : 2160
+".ts" : 606
+".tsx" : 3620
 ".mermaid" : 7
 ".json" : 76
 ".lock" : 8327
@@ -66,7 +66,8 @@ title Coding activity by hour (count of changes)
 "14h" : 29
 "15h" : 1
 "16h" : 5
+"17h" : 15
 ```
 
 
-> **Last Updated:** 08/09/2026, 16:19:47
+> **Last Updated:** 08/09/2026, 17:50:44
