@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1558                                          |
+| **Lines Added** (➕)   | 10502                                          |
 | **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 1558                |
-| **Active Time** (⌚)   | 11 minutes |
+| **Net Change** (↕)    | 10502                |
+| **Active Time** (⌚)   | 22 minutes |
 
 
 ## Modified Files
@@ -28,6 +28,13 @@
 - **Sidebar.test.tsx** (+37, -0)
 - **CreateDraftSkill.mermaid** (+7, -0)
 - **package.json** (+76, -0)
+- **constants.ts** (+57, -0)
+- **parseSkillWorkbook.ts** (+134, -0)
+- **SkillCreate.tsx** (+225, -0)
+- **yarn.lock** (+8327, -0)
+- **toSkillForm.ts** (+105, -0)
+- **downloadSkillTemplate.ts** (+12, -0)
+- **SkillImportPanel.tsx** (+84, -0)
 
 ## Visualizations
 
@@ -36,10 +43,11 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 15
-".tsx" : 1460
+".ts" : 323
+".tsx" : 1769
 ".mermaid" : 7
 ".json" : 76
+".lock" : 8327
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -49,8 +57,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "09h" : 15
 "12h" : 1
-"14h" : 2
+"14h" : 10
 ```
 
 
-> **Last Updated:** 08/09/2026, 14:24:47
+> **Last Updated:** 08/09/2026, 14:29:47
