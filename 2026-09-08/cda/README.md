@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 10747                                          |
-| **Lines Removed** (➖) | 4                                        |
-| **Net Change** (↕)    | 10743                |
-| **Active Time** (⌚)   | 33 minutes |
+| **Lines Added** (➕)   | 11158                                          |
+| **Lines Removed** (➖) | 53                                        |
+| **Net Change** (↕)    | 11105                |
+| **Active Time** (⌚)   | 48 minutes |
 
 
 ## Modified Files
@@ -30,13 +30,16 @@
 - **package.json** (+76, -0)
 - **constants.ts** (+57, -0)
 - **parseSkillWorkbook.ts** (+136, -0)
-- **SkillCreate.tsx** (+256, -3)
+- **SkillCreate.tsx** (+287, -34)
 - **yarn.lock** (+8327, -0)
 - **toSkillForm.ts** (+105, -0)
 - **downloadSkillTemplate.ts** (+12, -0)
 - **SkillImportPanel.tsx** (+88, -1)
-- **SkillTagCreateSubSkills.tsx** (+128, -0)
+- **SkillTagCreateSubSkills.tsx** (+139, -11)
 - **generate.mjs** (+80, -0)
+- **parseSkillWorkbook.test.ts** (+160, -0)
+- **toSkillForm.test.ts** (+92, -0)
+- **SkillImportPanel.test.tsx** (+117, -7)
 
 ## Visualizations
 
@@ -45,8 +48,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 325
-".tsx" : 1936
+".ts" : 577
+".tsx" : 2144
 ".mermaid" : 7
 ".json" : 76
 ".lock" : 8327
@@ -60,8 +63,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "09h" : 15
 "12h" : 1
-"14h" : 19
+"14h" : 29
 ```
 
 
-> **Last Updated:** 08/09/2026, 14:34:47
+> **Last Updated:** 08/09/2026, 14:39:47
