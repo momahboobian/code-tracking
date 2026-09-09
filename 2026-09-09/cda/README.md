@@ -4,14 +4,14 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 418                                          |
-| **Lines Removed** (➖) | 1                                        |
-| **Net Change** (↕)    | 417                |
-| **Active Time** (⌚)   | 25 minutes |
+| **Lines Added** (➕)   | 424                                          |
+| **Lines Removed** (➖) | 3                                        |
+| **Net Change** (↕)    | 421                |
+| **Active Time** (⌚)   | 32 minutes |
 
 
 ## Modified Files
-- **skillForm.ts** (+24, -0)
+- **skillForm.ts** (+30, -2)
 - **SkillImportPanel.tsx** (+1, -1)
 - **skill-create.test.ts** (+156, -0)
 - **toSkillForm.ts** (+114, -0)
@@ -24,7 +24,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 294
+".ts" : 302
 ".tsx" : 125
 ```
 
@@ -34,8 +34,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "10h" : 5
-"11h" : 6
+"11h" : 10
 ```
 
 
-> **Last Updated:** 09/09/2026, 11:14:45
+> **Last Updated:** 09/09/2026, 11:19:45
