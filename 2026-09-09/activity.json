@@ -2,9 +2,9 @@
   "date": "2026-09-09",
   "projects": {
     "cda": {
-      "totalLinesAdded": 1021,
+      "totalLinesAdded": 1023,
       "totalLinesRemoved": 180,
-      "totalActiveTime": 62,
+      "totalActiveTime": 66,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/components/SkillTagAdmin/skillForm.ts": [
           {
@@ -444,6 +444,22 @@
             },
             "duration": 5,
             "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/utils/skillImport/parseSkillWorkbook.ts": [
+          {
+            "timestamp": "2026-09-09T11:07:31.132Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/utils/skillImport/parseSkillWorkbook.ts",
+            "fileType": ".ts",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "ts"
           }
         ]
       },
