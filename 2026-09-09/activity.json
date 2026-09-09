@@ -3,7 +3,7 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 4680,
-      "totalLinesRemoved": 342,
+      "totalLinesRemoved": 380,
       "totalActiveTime": 212,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/components/SkillTagAdmin/skillForm.ts": [
@@ -748,6 +748,20 @@
             },
             "duration": 4,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2026-09-09T21:01:45.060Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/components/SkillTagAdmin/SkillTagCreateSubSkills.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 37,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/containers/SkillTopic/SkillTopic.test.tsx": [
@@ -993,6 +1007,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2026-09-09T21:01:45.066Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/components/SortableList/SortableItem/SortableItem.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "scss"
           }
         ],
