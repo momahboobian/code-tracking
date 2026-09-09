@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1355                                          |
-| **Lines Removed** (➖) | 318                                        |
-| **Net Change** (↕)    | 1037                |
-| **Active Time** (⌚)   | 167 minutes |
+| **Lines Added** (➕)   | 1363                                          |
+| **Lines Removed** (➖) | 328                                        |
+| **Net Change** (↕)    | 1035                |
+| **Active Time** (⌚)   | 177 minutes |
 
 
 ## Modified Files
@@ -17,7 +17,7 @@
 - **toSkillForm.ts** (+114, -0)
 - **SkillImportPanel.test.tsx** (+127, -0)
 - **SkillCreate.tsx** (+29, -1)
-- **SkillTagCreateSubSkill.tsx** (+62, -19)
+- **SkillTagCreateSubSkill.tsx** (+62, -20)
 - **SkillTagCreateSubSkills.tsx** (+25, -23)
 - **SkillTopic.test.tsx** (+152, -1)
 - **SkillTagCreateOptions.tsx** (+120, -0)
@@ -25,7 +25,7 @@
 - **SortableItem.scss** (+41, -11)
 - **SortableItem.tsx** (+41, -0)
 - **SkillTagAdmin.scss** (+80, -2)
-- **SkillTagCreateDescription.tsx** (+111, -68)
+- **SkillTagCreateDescription.tsx** (+119, -77)
 
 ## Visualizations
 
@@ -35,7 +35,7 @@
 pie showData
 title Lines changed by file type
 ".ts" : 310
-".tsx" : 1229
+".tsx" : 1247
 ".scss" : 134
 ```
 
@@ -50,8 +50,8 @@ title Coding activity by hour (count of changes)
 "13h" : 4
 "14h" : 42
 "15h" : 8
-"20h" : 10
+"20h" : 16
 ```
 
 
-> **Last Updated:** 09/09/2026, 20:55:03
+> **Last Updated:** 09/09/2026, 21:00:03
