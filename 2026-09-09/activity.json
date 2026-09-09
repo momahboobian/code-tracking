@@ -3,7 +3,7 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 1021,
-      "totalLinesRemoved": 177,
+      "totalLinesRemoved": 180,
       "totalActiveTime": 62,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/components/SkillTagAdmin/skillForm.ts": [
@@ -217,6 +217,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-09-09T11:03:38.700Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/components/SkillTagAdmin/SkillImportPanel.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ],
