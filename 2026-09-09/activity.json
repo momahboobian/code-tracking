@@ -3,7 +3,7 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 1042,
-      "totalLinesRemoved": 187,
+      "totalLinesRemoved": 189,
       "totalActiveTime": 77,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/components/SkillTagAdmin/skillForm.ts": [
@@ -453,6 +453,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-09-09T12:56:34.818Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/components/SkillTagAdmin/SkillTagCreateSubSkills.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ],

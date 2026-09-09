@@ -5,8 +5,8 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 1042                                          |
-| **Lines Removed** (➖) | 187                                        |
-| **Net Change** (↕)    | 855                |
+| **Lines Removed** (➖) | 189                                        |
+| **Net Change** (↕)    | 853                |
 | **Active Time** (⌚)   | 77 minutes |
 
 
@@ -18,7 +18,7 @@
 - **SkillImportPanel.test.tsx** (+125, -0)
 - **SkillCreate.tsx** (+29, -1)
 - **SkillTagCreateSubSkill.tsx** (+60, -0)
-- **SkillTagCreateSubSkills.tsx** (+5, -0)
+- **SkillTagCreateSubSkills.tsx** (+5, -2)
 - **SkillTopic.test.tsx** (+152, -1)
 - **SkillTagCreateOptions.tsx** (+120, -0)
 - **parseSkillWorkbook.ts** (+2, -0)
@@ -31,7 +31,7 @@
 pie showData
 title Lines changed by file type
 ".ts" : 310
-".tsx" : 919
+".tsx" : 921
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -42,8 +42,8 @@ title Coding activity by hour (count of changes)
 "10h" : 5
 "11h" : 24
 "12h" : 4
-"13h" : 3
+"13h" : 4
 ```
 
 
-> **Last Updated:** 09/09/2026, 13:48:17
+> **Last Updated:** 09/09/2026, 13:58:17
