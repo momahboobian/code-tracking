@@ -4,9 +4,9 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3176                                          |
+| **Lines Added** (➕)   | 35322                                          |
 | **Lines Removed** (➖) | 167                                        |
-| **Net Change** (↕)    | 3009                |
+| **Net Change** (↕)    | 35155                |
 | **Active Time** (⌚)   | 28 minutes |
 
 
@@ -22,6 +22,9 @@
 - **Groups.tsx** (+100, -0)
 - **SkillTopic.test.tsx** (+153, -2)
 - **skill-mutations.ts** (+1161, -0)
+- **resolvers-types.ts** (+13160, -0)
+- **views.ts** (+11069, -0)
+- **tables.ts** (+7917, -0)
 
 ## Visualizations
 
@@ -32,7 +35,7 @@ pie showData
 title Lines changed by file type
 ".tsx" : 2111
 ".scss" : 71
-".ts" : 1161
+".ts" : 33307
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -41,8 +44,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "09h" : 9
-"10h" : 13
+"10h" : 16
 ```
 
 
-> **Last Updated:** 10/09/2026, 10:30:46
+> **Last Updated:** 10/09/2026, 10:45:46
