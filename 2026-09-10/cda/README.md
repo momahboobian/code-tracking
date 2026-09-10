@@ -4,9 +4,9 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 973                                          |
+| **Lines Added** (➕)   | 1217                                          |
 | **Lines Removed** (➖) | 159                                        |
-| **Net Change** (↕)    | 814                |
+| **Net Change** (↕)    | 1058                |
 | **Active Time** (⌚)   | 15 minutes |
 
 
@@ -16,6 +16,7 @@
 - **SkillImportPanel.test.tsx** (+151, -0)
 - **SkillTagCreateSubSkills.test.tsx** (+168, -60)
 - **SkillTagCreateSubSkills.tsx** (+155, -0)
+- **GroupDetails.tsx** (+244, -0)
 
 ## Visualizations
 
@@ -24,7 +25,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 1132
+".tsx" : 1376
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -33,7 +34,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "09h" : 9
+"10h" : 1
 ```
 
 
-> **Last Updated:** 10/09/2026, 09:35:46
+> **Last Updated:** 10/09/2026, 10:05:46
