@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 112856                                          |
-| **Lines Removed** (➖) | 394                                        |
-| **Net Change** (↕)    | 112462                |
-| **Active Time** (⌚)   | 128 minutes |
+| **Lines Added** (➕)   | 120795                                          |
+| **Lines Removed** (➖) | 396                                        |
+| **Net Change** (↕)    | 120399                |
+| **Active Time** (⌚)   | 137 minutes |
 
 
 ## Modified Files
@@ -24,7 +24,7 @@
 - **skill-mutations.ts** (+3540, -0)
 - **resolvers-types.ts** (+26347, -0)
 - **views.ts** (+22142, -0)
-- **tables.ts** (+7917, -0)
+- **tables.ts** (+15840, -2)
 - **SkillTopic.tsx** (+51, -0)
 - **dump.js** (+32, -0)
 - **constants.ts** (+108, -0)
@@ -89,7 +89,7 @@
 - **SkillPermissions.ts** (+63, -0)
 - **views.d.ts** (+9097, -0)
 - **skill-queries.ts** (+345, -0)
-- **transform-skill-favourites.test.ts** (+458, -3)
+- **transform-skill-favourites.test.ts** (+461, -3)
 - **graphql.ts** (+10050, -0)
 - **graphql.ts** (+7921, -0)
 - **TagTopicDetails.test.tsx** (+62, -0)
@@ -101,6 +101,7 @@
 - **SkillUser.test.tsx** (+86, -0)
 - **TagTopic.tsx** (+113, -0)
 - **MarkdownEditor.tsx** (+63, -0)
+- **20260910120000-add-status-to-profile-skill-tag.js** (+13, -0)
 
 ## Visualizations
 
@@ -111,8 +112,8 @@ pie showData
 title Lines changed by file type
 ".tsx" : 7254
 ".scss" : 205
-".ts" : 93609
-".js" : 1894
+".ts" : 101537
+".js" : 1907
 ".jsx" : 1906
 ".json" : 153
 ".lock" : 8229
@@ -129,8 +130,8 @@ title Coding activity by hour (count of changes)
 "12h" : 31
 "15h" : 22
 "17h" : 6
-"18h" : 6
+"18h" : 10
 ```
 
 
-> **Last Updated:** 10/09/2026, 18:31:09
+> **Last Updated:** 10/09/2026, 18:46:09
