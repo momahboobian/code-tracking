@@ -2,9 +2,9 @@
   "date": "2026-09-10",
   "projects": {
     "cda": {
-      "totalLinesAdded": 112793,
+      "totalLinesAdded": 112856,
       "totalLinesRemoved": 294,
-      "totalActiveTime": 124,
+      "totalActiveTime": 128,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/components/SkillTagAdmin/SkillImportPanel.tsx": [
           {
@@ -2113,6 +2113,22 @@
               "removed": []
             },
             "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/components/MarkdownEditor/MarkdownEditor.tsx": [
+          {
+            "timestamp": "2026-09-10T17:18:07.829Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/components/MarkdownEditor/MarkdownEditor.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 63,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "tsx"
           }
         ]
