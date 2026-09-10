@@ -4,24 +4,24 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 43960                                          |
+| **Lines Added** (➕)   | 54784                                          |
 | **Lines Removed** (➖) | 268                                        |
-| **Net Change** (↕)    | 43692                |
-| **Active Time** (⌚)   | 76 minutes |
+| **Net Change** (↕)    | 54516                |
+| **Active Time** (⌚)   | 93 minutes |
 
 
 ## Modified Files
-- **SkillImportPanel.tsx** (+356, -0)
-- **SkillCreate.tsx** (+741, -198)
+- **SkillImportPanel.tsx** (+534, -0)
+- **SkillCreate.tsx** (+963, -198)
 - **SkillImportPanel.test.tsx** (+302, -0)
-- **SkillTagCreateSubSkills.test.tsx** (+271, -60)
-- **SkillTagCreateSubSkills.tsx** (+312, -0)
+- **SkillTagCreateSubSkills.test.tsx** (+379, -60)
+- **SkillTagCreateSubSkills.tsx** (+429, -0)
 - **GroupDetails.tsx** (+244, -0)
 - **GroupDetails.scss** (+65, -6)
 - **GroupDetails.test.tsx** (+277, -0)
 - **Groups.tsx** (+100, -0)
-- **SkillTopic.test.tsx** (+304, -2)
-- **skill-mutations.ts** (+2318, -0)
+- **SkillTopic.test.tsx** (+455, -2)
+- **skill-mutations.ts** (+3475, -0)
 - **resolvers-types.ts** (+13160, -0)
 - **views.ts** (+11069, -0)
 - **tables.ts** (+7917, -0)
@@ -64,11 +64,22 @@
 - **Sidebar.test.tsx** (+37, -0)
 - **DateSwitcher.tsx** (+108, -0)
 - **Sidebar.tsx** (+93, -0)
-- **package.json** (+76, -0)
+- **package.json** (+151, -0)
 - **toSkillForm.ts** (+114, -0)
 - **toSkillForm.test.ts** (+97, -0)
 - **skills.ts** (+387, -0)
 - **skill-queries.ts** (+608, -0)
+- **SkillTagCreateDescription.test.tsx** (+20, -0)
+- **SkillTagAdmin.scss** (+67, -0)
+- **skills.ts** (+17, -0)
+- **SortableItem.scss** (+29, -0)
+- **SkillTagCreateDescription.tsx** (+47, -0)
+- **SortableItem.tsx** (+41, -0)
+- **SkillTagCreateSubSkill.tsx** (+85, -0)
+- **SkillTagCreateOptions.tsx** (+156, -0)
+- **SkillTagCreateSubSkill.test.tsx** (+55, -0)
+- **SkillTagCreateOptions.test.tsx** (+70, -0)
+- **yarn.lock** (+8229, -0)
 
 ## Visualizations
 
@@ -77,12 +88,13 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 4678
-".scss" : 109
-".ts" : 36549
+".tsx" : 5928
+".scss" : 205
+".ts" : 37723
 ".js" : 910
 ".jsx" : 1906
-".json" : 76
+".json" : 151
+".lock" : 8229
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -93,8 +105,8 @@ title Coding activity by hour (count of changes)
 "09h" : 9
 "10h" : 16
 "11h" : 51
-"12h" : 9
+"12h" : 27
 ```
 
 
-> **Last Updated:** 10/09/2026, 12:06:27
+> **Last Updated:** 10/09/2026, 12:46:09
