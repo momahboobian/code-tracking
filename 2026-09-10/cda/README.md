@@ -5,14 +5,14 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 112856                                          |
-| **Lines Removed** (➖) | 294                                        |
-| **Net Change** (↕)    | 112562                |
+| **Lines Removed** (➖) | 394                                        |
+| **Net Change** (↕)    | 112462                |
 | **Active Time** (⌚)   | 128 minutes |
 
 
 ## Modified Files
 - **SkillImportPanel.tsx** (+534, -21)
-- **SkillCreate.tsx** (+1062, -198)
+- **SkillCreate.tsx** (+1062, -297)
 - **SkillImportPanel.test.tsx** (+452, -0)
 - **SkillTagCreateSubSkills.test.tsx** (+482, -60)
 - **SkillTagCreateSubSkills.tsx** (+429, -0)
@@ -64,7 +64,7 @@
 - **Sidebar.test.tsx** (+37, -0)
 - **DateSwitcher.tsx** (+108, -0)
 - **Sidebar.tsx** (+93, -0)
-- **package.json** (+152, -0)
+- **package.json** (+152, -1)
 - **toSkillForm.ts** (+114, -0)
 - **toSkillForm.test.ts** (+97, -0)
 - **skills.ts** (+777, -0)
@@ -109,12 +109,12 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 7155
+".tsx" : 7254
 ".scss" : 205
 ".ts" : 93609
 ".js" : 1894
 ".jsx" : 1906
-".json" : 152
+".json" : 153
 ".lock" : 8229
 ```
 
@@ -129,8 +129,8 @@ title Coding activity by hour (count of changes)
 "12h" : 31
 "15h" : 22
 "17h" : 6
-"18h" : 4
+"18h" : 6
 ```
 
 
-> **Last Updated:** 10/09/2026, 18:21:09
+> **Last Updated:** 10/09/2026, 18:31:09
