@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 120795                                          |
-| **Lines Removed** (➖) | 396                                        |
-| **Net Change** (↕)    | 120399                |
-| **Active Time** (⌚)   | 137 minutes |
+| **Lines Added** (➕)   | 121274                                          |
+| **Lines Removed** (➖) | 744                                        |
+| **Net Change** (↕)    | 120530                |
+| **Active Time** (⌚)   | 181 minutes |
 
 
 ## Modified Files
@@ -21,10 +21,10 @@
 - **GroupDetails.test.tsx** (+277, -0)
 - **Groups.tsx** (+100, -0)
 - **SkillTopic.test.tsx** (+455, -2)
-- **skill-mutations.ts** (+3540, -0)
-- **resolvers-types.ts** (+26347, -0)
-- **views.ts** (+22142, -0)
-- **tables.ts** (+15840, -2)
+- **skill-mutations.ts** (+3605, -65)
+- **resolvers-types.ts** (+26374, -55)
+- **views.ts** (+22233, -0)
+- **tables.ts** (+15906, -2)
 - **SkillTopic.tsx** (+51, -0)
 - **dump.js** (+32, -0)
 - **constants.ts** (+108, -0)
@@ -67,8 +67,8 @@
 - **package.json** (+152, -1)
 - **toSkillForm.ts** (+114, -0)
 - **toSkillForm.test.ts** (+97, -0)
-- **skills.ts** (+777, -0)
-- **skill-queries.ts** (+1308, -0)
+- **skills.ts** (+780, -3)
+- **skill-queries.ts** (+1400, -92)
 - **SkillTagCreateDescription.test.tsx** (+20, -0)
 - **SkillTagAdmin.scss** (+67, -0)
 - **skills.ts** (+17, -0)
@@ -82,14 +82,14 @@
 - **yarn.lock** (+8229, -0)
 - **vulcan.ts** (+1944, -0)
 - **20251105120156-replace-profile-skill-tags.js** (+70, -0)
-- **skills.js** (+477, -0)
-- **skill-mutations.ts** (+248, -0)
-- **policies.ts** (+22, -0)
-- **SkillGroups.ts** (+320, -0)
-- **SkillPermissions.ts** (+63, -0)
-- **views.d.ts** (+9097, -0)
-- **skill-queries.ts** (+345, -0)
-- **transform-skill-favourites.test.ts** (+461, -3)
+- **skills.js** (+492, -15)
+- **skill-mutations.ts** (+282, -34)
+- **policies.ts** (+23, -1)
+- **SkillGroups.ts** (+321, -1)
+- **SkillPermissions.ts** (+104, -41)
+- **views.d.ts** (+9101, -4)
+- **skill-queries.ts** (+376, -31)
+- **transform-skill-favourites.test.ts** (+464, -9)
 - **graphql.ts** (+10050, -0)
 - **graphql.ts** (+7921, -0)
 - **TagTopicDetails.test.tsx** (+62, -0)
@@ -101,7 +101,7 @@
 - **SkillUser.test.tsx** (+86, -0)
 - **TagTopic.tsx** (+113, -0)
 - **MarkdownEditor.tsx** (+63, -0)
-- **20260910120000-add-status-to-profile-skill-tag.js** (+13, -0)
+- **20260910120000-add-status-to-profile-skill-tag.js** (+18, -0)
 
 ## Visualizations
 
@@ -112,8 +112,8 @@ pie showData
 title Lines changed by file type
 ".tsx" : 7254
 ".scss" : 205
-".ts" : 101537
-".js" : 1907
+".ts" : 102329
+".js" : 1942
 ".jsx" : 1906
 ".json" : 153
 ".lock" : 8229
@@ -130,8 +130,8 @@ title Coding activity by hour (count of changes)
 "12h" : 31
 "15h" : 22
 "17h" : 6
-"18h" : 10
+"18h" : 38
 ```
 
 
-> **Last Updated:** 10/09/2026, 18:46:09
+> **Last Updated:** 10/09/2026, 18:51:09
