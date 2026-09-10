@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 35373                                          |
+| **Lines Added** (➕)   | 36258                                          |
 | **Lines Removed** (➖) | 167                                        |
-| **Net Change** (↕)    | 35206                |
-| **Active Time** (⌚)   | 28 minutes |
+| **Net Change** (↕)    | 36091                |
+| **Active Time** (⌚)   | 32 minutes |
 
 
 ## Modified Files
@@ -26,6 +26,11 @@
 - **views.ts** (+11069, -0)
 - **tables.ts** (+7917, -0)
 - **SkillTopic.tsx** (+51, -0)
+- **dump.js** (+16, -0)
+- **constants.ts** (+54, -0)
+- **parseSkillWorkbook.ts** (+191, -0)
+- **parseSkillWorkbook.test.ts** (+187, -0)
+- **queries.js** (+437, -0)
 
 ## Visualizations
 
@@ -36,7 +41,8 @@ pie showData
 title Lines changed by file type
 ".tsx" : 2162
 ".scss" : 71
-".ts" : 33307
+".ts" : 33739
+".js" : 453
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -46,8 +52,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "09h" : 9
 "10h" : 16
-"11h" : 1
+"11h" : 6
 ```
 
 
-> **Last Updated:** 10/09/2026, 11:05:46
+> **Last Updated:** 10/09/2026, 11:15:46
