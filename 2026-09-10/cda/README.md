@@ -4,9 +4,9 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 111651                                          |
+| **Lines Added** (➕)   | 112331                                          |
 | **Lines Removed** (➖) | 268                                        |
-| **Net Change** (↕)    | 111383                |
+| **Net Change** (↕)    | 112063                |
 | **Active Time** (⌚)   | 115 minutes |
 
 
@@ -14,7 +14,7 @@
 - **SkillImportPanel.tsx** (+534, -0)
 - **SkillCreate.tsx** (+963, -198)
 - **SkillImportPanel.test.tsx** (+302, -0)
-- **SkillTagCreateSubSkills.test.tsx** (+379, -60)
+- **SkillTagCreateSubSkills.test.tsx** (+383, -60)
 - **SkillTagCreateSubSkills.tsx** (+429, -0)
 - **GroupDetails.tsx** (+244, -0)
 - **GroupDetails.scss** (+65, -6)
@@ -92,6 +92,13 @@
 - **transform-skill-favourites.test.ts** (+458, -0)
 - **graphql.ts** (+10050, -0)
 - **graphql.ts** (+7921, -0)
+- **TagTopicDetails.test.tsx** (+62, -0)
+- **ManageSkillsTab.test.tsx** (+116, -0)
+- **SkillTopicUsers.test.tsx** (+151, -0)
+- **SkillCreate.test.tsx** (+133, -0)
+- **SkillTopicUserActions.test.tsx** (+44, -0)
+- **TagTopic.test.tsx** (+84, -0)
+- **SkillUser.test.tsx** (+86, -0)
 
 ## Visualizations
 
@@ -100,7 +107,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 5928
+".tsx" : 6608
 ".scss" : 205
 ".ts" : 93606
 ".js" : 1894
@@ -118,8 +125,8 @@ title Coding activity by hour (count of changes)
 "10h" : 16
 "11h" : 51
 "12h" : 31
-"15h" : 14
+"15h" : 22
 ```
 
 
-> **Last Updated:** 10/09/2026, 15:41:09
+> **Last Updated:** 10/09/2026, 15:46:09
