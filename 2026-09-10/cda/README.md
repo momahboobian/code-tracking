@@ -4,15 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 41655                                          |
-| **Lines Removed** (➖) | 167                                        |
-| **Net Change** (↕)    | 41488                |
-| **Active Time** (⌚)   | 73 minutes |
+| **Lines Added** (➕)   | 43960                                          |
+| **Lines Removed** (➖) | 268                                        |
+| **Net Change** (↕)    | 43692                |
+| **Active Time** (⌚)   | 76 minutes |
 
 
 ## Modified Files
 - **SkillImportPanel.tsx** (+356, -0)
-- **SkillCreate.tsx** (+741, -99)
+- **SkillCreate.tsx** (+741, -198)
 - **SkillImportPanel.test.tsx** (+302, -0)
 - **SkillTagCreateSubSkills.test.tsx** (+271, -60)
 - **SkillTagCreateSubSkills.tsx** (+312, -0)
@@ -20,8 +20,8 @@
 - **GroupDetails.scss** (+65, -6)
 - **GroupDetails.test.tsx** (+277, -0)
 - **Groups.tsx** (+100, -0)
-- **SkillTopic.test.tsx** (+153, -2)
-- **skill-mutations.ts** (+1161, -0)
+- **SkillTopic.test.tsx** (+304, -2)
+- **skill-mutations.ts** (+2318, -0)
 - **resolvers-types.ts** (+13160, -0)
 - **views.ts** (+11069, -0)
 - **tables.ts** (+7917, -0)
@@ -30,7 +30,7 @@
 - **constants.ts** (+108, -0)
 - **parseSkillWorkbook.ts** (+382, -0)
 - **parseSkillWorkbook.test.ts** (+374, -0)
-- **queries.js** (+874, -0)
+- **queries.js** (+876, -2)
 - **index.jsx** (+179, -0)
 - **index.jsx** (+163, -0)
 - **index.jsx** (+107, -0)
@@ -67,6 +67,8 @@
 - **package.json** (+76, -0)
 - **toSkillForm.ts** (+114, -0)
 - **toSkillForm.test.ts** (+97, -0)
+- **skills.ts** (+387, -0)
+- **skill-queries.ts** (+608, -0)
 
 ## Visualizations
 
@@ -75,10 +77,10 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 4428
+".tsx" : 4678
 ".scss" : 109
-".ts" : 34397
-".js" : 906
+".ts" : 36549
+".js" : 910
 ".jsx" : 1906
 ".json" : 76
 ```
@@ -91,7 +93,8 @@ title Coding activity by hour (count of changes)
 "09h" : 9
 "10h" : 16
 "11h" : 51
+"12h" : 9
 ```
 
 
-> **Last Updated:** 10/09/2026, 11:41:27
+> **Last Updated:** 10/09/2026, 12:06:27
