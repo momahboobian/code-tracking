@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 54784                                          |
+| **Lines Added** (➕)   | 57165                                          |
 | **Lines Removed** (➖) | 268                                        |
-| **Net Change** (↕)    | 54516                |
-| **Active Time** (⌚)   | 93 minutes |
+| **Net Change** (↕)    | 56897                |
+| **Active Time** (⌚)   | 99 minutes |
 
 
 ## Modified Files
@@ -30,7 +30,7 @@
 - **constants.ts** (+108, -0)
 - **parseSkillWorkbook.ts** (+382, -0)
 - **parseSkillWorkbook.test.ts** (+374, -0)
-- **queries.js** (+876, -2)
+- **queries.js** (+1313, -2)
 - **index.jsx** (+179, -0)
 - **index.jsx** (+163, -0)
 - **index.jsx** (+107, -0)
@@ -80,6 +80,7 @@
 - **SkillTagCreateSubSkill.test.tsx** (+55, -0)
 - **SkillTagCreateOptions.test.tsx** (+70, -0)
 - **yarn.lock** (+8229, -0)
+- **vulcan.ts** (+1944, -0)
 
 ## Visualizations
 
@@ -90,8 +91,8 @@ pie showData
 title Lines changed by file type
 ".tsx" : 5928
 ".scss" : 205
-".ts" : 37723
-".js" : 910
+".ts" : 39667
+".js" : 1347
 ".jsx" : 1906
 ".json" : 151
 ".lock" : 8229
@@ -105,8 +106,8 @@ title Coding activity by hour (count of changes)
 "09h" : 9
 "10h" : 16
 "11h" : 51
-"12h" : 27
+"12h" : 29
 ```
 
 
-> **Last Updated:** 10/09/2026, 12:46:09
+> **Last Updated:** 10/09/2026, 12:51:09

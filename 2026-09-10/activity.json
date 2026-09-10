@@ -2,9 +2,9 @@
   "date": "2026-09-10",
   "projects": {
     "cda": {
-      "totalLinesAdded": 54784,
+      "totalLinesAdded": 57165,
       "totalLinesRemoved": 268,
-      "totalActiveTime": 93,
+      "totalActiveTime": 99,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/components/SkillTagAdmin/SkillImportPanel.tsx": [
           {
@@ -764,6 +764,20 @@
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/graphql/low-risk/queries.js",
             "fileType": ".js",
             "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-09-10T11:47:31.233Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/graphql/low-risk/queries.js",
+            "fileType": ".js",
+            "linesAdded": 437,
             "linesRemoved": 0,
             "projectName": "cda",
             "content": {
@@ -1584,6 +1598,22 @@
             },
             "duration": 1,
             "language": "lock"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-table-types/src/types/vulcan.ts": [
+          {
+            "timestamp": "2026-09-10T11:47:12.824Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-table-types/src/types/vulcan.ts",
+            "fileType": ".ts",
+            "linesAdded": 1944,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "ts"
           }
         ]
       },
