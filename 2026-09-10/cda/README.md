@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 68308                                          |
+| **Lines Added** (➕)   | 93222                                          |
 | **Lines Removed** (➖) | 268                                        |
-| **Net Change** (↕)    | 68040                |
-| **Active Time** (⌚)   | 101 minutes |
+| **Net Change** (↕)    | 92954                |
+| **Active Time** (⌚)   | 111 minutes |
 
 
 ## Modified Files
@@ -21,8 +21,8 @@
 - **GroupDetails.test.tsx** (+277, -0)
 - **Groups.tsx** (+100, -0)
 - **SkillTopic.test.tsx** (+455, -2)
-- **skill-mutations.ts** (+3475, -0)
-- **resolvers-types.ts** (+13160, -0)
+- **skill-mutations.ts** (+3540, -0)
+- **resolvers-types.ts** (+26347, -0)
 - **views.ts** (+22142, -0)
 - **tables.ts** (+7917, -0)
 - **SkillTopic.tsx** (+51, -0)
@@ -67,8 +67,8 @@
 - **package.json** (+151, -0)
 - **toSkillForm.ts** (+114, -0)
 - **toSkillForm.test.ts** (+97, -0)
-- **skills.ts** (+387, -0)
-- **skill-queries.ts** (+608, -0)
+- **skills.ts** (+777, -0)
+- **skill-queries.ts** (+1308, -0)
 - **SkillTagCreateDescription.test.tsx** (+20, -0)
 - **SkillTagAdmin.scss** (+67, -0)
 - **skills.ts** (+17, -0)
@@ -82,6 +82,13 @@
 - **yarn.lock** (+8229, -0)
 - **vulcan.ts** (+1944, -0)
 - **20251105120156-replace-profile-skill-tags.js** (+70, -0)
+- **skills.js** (+477, -0)
+- **skill-mutations.ts** (+248, -0)
+- **policies.ts** (+22, -0)
+- **SkillGroups.ts** (+320, -0)
+- **SkillPermissions.ts** (+63, -0)
+- **views.d.ts** (+9097, -0)
+- **skill-queries.ts** (+345, -0)
 
 ## Visualizations
 
@@ -92,8 +99,8 @@ pie showData
 title Lines changed by file type
 ".tsx" : 5928
 ".scss" : 205
-".ts" : 50740
-".js" : 1417
+".ts" : 75177
+".js" : 1894
 ".jsx" : 1906
 ".json" : 151
 ".lock" : 8229
@@ -108,7 +115,8 @@ title Coding activity by hour (count of changes)
 "10h" : 16
 "11h" : 51
 "12h" : 31
+"15h" : 11
 ```
 
 
-> **Last Updated:** 10/09/2026, 13:01:09
+> **Last Updated:** 10/09/2026, 15:16:09
