@@ -4,17 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 112331                                          |
-| **Lines Removed** (➖) | 268                                        |
-| **Net Change** (↕)    | 112063                |
-| **Active Time** (⌚)   | 115 minutes |
+| **Lines Added** (➕)   | 112530                                          |
+| **Lines Removed** (➖) | 286                                        |
+| **Net Change** (↕)    | 112244                |
+| **Active Time** (⌚)   | 121 minutes |
 
 
 ## Modified Files
-- **SkillImportPanel.tsx** (+534, -0)
-- **SkillCreate.tsx** (+963, -198)
+- **SkillImportPanel.tsx** (+534, -13)
+- **SkillCreate.tsx** (+1062, -198)
 - **SkillImportPanel.test.tsx** (+302, -0)
-- **SkillTagCreateSubSkills.test.tsx** (+383, -60)
+- **SkillTagCreateSubSkills.test.tsx** (+482, -60)
 - **SkillTagCreateSubSkills.tsx** (+429, -0)
 - **GroupDetails.tsx** (+244, -0)
 - **GroupDetails.scss** (+65, -6)
@@ -64,7 +64,7 @@
 - **Sidebar.test.tsx** (+37, -0)
 - **DateSwitcher.tsx** (+108, -0)
 - **Sidebar.tsx** (+93, -0)
-- **package.json** (+151, -0)
+- **package.json** (+152, -0)
 - **toSkillForm.ts** (+114, -0)
 - **toSkillForm.test.ts** (+97, -0)
 - **skills.ts** (+777, -0)
@@ -89,7 +89,7 @@
 - **SkillPermissions.ts** (+63, -0)
 - **views.d.ts** (+9097, -0)
 - **skill-queries.ts** (+345, -0)
-- **transform-skill-favourites.test.ts** (+458, -0)
+- **transform-skill-favourites.test.ts** (+458, -3)
 - **graphql.ts** (+10050, -0)
 - **graphql.ts** (+7921, -0)
 - **TagTopicDetails.test.tsx** (+62, -0)
@@ -97,7 +97,7 @@
 - **SkillTopicUsers.test.tsx** (+151, -0)
 - **SkillCreate.test.tsx** (+133, -0)
 - **SkillTopicUserActions.test.tsx** (+44, -0)
-- **TagTopic.test.tsx** (+84, -0)
+- **TagTopic.test.tsx** (+84, -2)
 - **SkillUser.test.tsx** (+86, -0)
 
 ## Visualizations
@@ -107,12 +107,12 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 6608
+".tsx" : 6821
 ".scss" : 205
-".ts" : 93606
+".ts" : 93609
 ".js" : 1894
 ".jsx" : 1906
-".json" : 151
+".json" : 152
 ".lock" : 8229
 ```
 
@@ -126,7 +126,8 @@ title Coding activity by hour (count of changes)
 "11h" : 51
 "12h" : 31
 "15h" : 22
+"17h" : 6
 ```
 
 
-> **Last Updated:** 10/09/2026, 15:46:09
+> **Last Updated:** 10/09/2026, 17:46:09
