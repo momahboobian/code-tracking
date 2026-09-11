@@ -4,18 +4,18 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 28650                                          |
-| **Lines Removed** (➖) | 112                                        |
-| **Net Change** (↕)    | 28538                |
-| **Active Time** (⌚)   | 40 minutes |
+| **Lines Added** (➕)   | 31067                                          |
+| **Lines Removed** (➖) | 380                                        |
+| **Net Change** (↕)    | 30687                |
+| **Active Time** (⌚)   | 46 minutes |
 
 
 ## Modified Files
-- **skill-mutations.ts** (+1242, -0)
-- **skill-queries.ts** (+720, -0)
+- **skill-mutations.ts** (+2399, -0)
+- **skill-queries.ts** (+1440, -112)
 - **resolvers-types.ts** (+13195, -0)
 - **skill-mutations.ts** (+255, -0)
-- **skill-queries.ts** (+862, -78)
+- **skill-queries.ts** (+940, -234)
 - **calendar-queries.ts** (+3601, -11)
 - **SkillCreate.tsx** (+222, -0)
 - **queries.js** (+437, -0)
@@ -29,6 +29,7 @@
 - **clear_view_views.ts** (+4813, -0)
 - **yarn.lock** (+2880, -0)
 - **20260910120001-add-status-to-profile-skill-tag.js** (+18, -6)
+- **skills.js** (+462, -0)
 
 ## Visualizations
 
@@ -37,9 +38,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 24852
+".ts" : 27075
 ".tsx" : 444
-".js" : 586
+".js" : 1048
 ".lock" : 2880
 ```
 
@@ -50,8 +51,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "08h" : 11
 "09h" : 17
-"11h" : 2
+"11h" : 10
 ```
 
 
-> **Last Updated:** 11/09/2026, 11:55:25
+> **Last Updated:** 11/09/2026, 12:00:25
