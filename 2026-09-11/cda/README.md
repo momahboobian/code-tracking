@@ -4,23 +4,23 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 53593                                          |
-| **Lines Removed** (➖) | 570                                        |
-| **Net Change** (↕)    | 53023                |
-| **Active Time** (⌚)   | 63 minutes |
+| **Lines Added** (➕)   | 54366                                          |
+| **Lines Removed** (➖) | 637                                        |
+| **Net Change** (↕)    | 53729                |
+| **Active Time** (⌚)   | 98 minutes |
 
 
 ## Modified Files
 - **skill-mutations.ts** (+2399, -0)
-- **skill-queries.ts** (+1664, -224)
+- **skill-queries.ts** (+1684, -244)
 - **resolvers-types.ts** (+13195, -0)
 - **skill-mutations.ts** (+255, -0)
-- **skill-queries.ts** (+1096, -312)
+- **skill-queries.ts** (+1143, -359)
 - **calendar-queries.ts** (+3601, -11)
 - **SkillCreate.tsx** (+222, -0)
 - **queries.js** (+437, -0)
 - **TagTopic.tsx** (+106, -0)
-- **TagTopic.test.tsx** (+99, -17)
+- **TagTopic.test.tsx** (+101, -17)
 - **server.js** (+85, -0)
 - **diagnosticsErrorLogging.js** (+40, -0)
 - **diagnosticsErrorLogging.d.ts** (+8, -0)
@@ -32,6 +32,13 @@
 - **skills.js** (+462, -0)
 - **views.ts** (+11073, -0)
 - **views.ts** (+11073, -0)
+- **TagTopicDetails.test.tsx** (+62, -0)
+- **SkillTagCreateSubSkills.test.tsx** (+112, -0)
+- **ManageSkillsTab.test.tsx** (+116, -0)
+- **SkillCreate.test.tsx** (+133, -0)
+- **SkillTopicUserActions.test.tsx** (+44, -0)
+- **SkillTopicUsers.test.tsx** (+151, -0)
+- **SkillUser.test.tsx** (+86, -0)
 
 ## Visualizations
 
@@ -40,8 +47,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 49791
-".tsx" : 444
+".ts" : 49925
+".tsx" : 1150
 ".js" : 1048
 ".lock" : 2880
 ```
@@ -54,8 +61,8 @@ title Coding activity by hour (count of changes)
 "08h" : 11
 "09h" : 17
 "11h" : 10
-"12h" : 8
+"12h" : 27
 ```
 
 
-> **Last Updated:** 11/09/2026, 12:25:25
+> **Last Updated:** 11/09/2026, 12:45:25
