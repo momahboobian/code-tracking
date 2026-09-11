@@ -2,9 +2,9 @@
   "date": "2026-09-11",
   "projects": {
     "cda": {
-      "totalLinesAdded": 20739,
+      "totalLinesAdded": 20939,
       "totalLinesRemoved": 106,
-      "totalActiveTime": 33,
+      "totalActiveTime": 37,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/low-risk-schema/resolvers/skill-mutations.ts": [
           {
@@ -318,6 +318,86 @@
             },
             "duration": 1,
             "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-graphql/dist/utils/server.js": [
+          {
+            "timestamp": "2026-09-11T08:33:57.717Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-graphql/dist/utils/server.js",
+            "fileType": ".js",
+            "linesAdded": 85,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-graphql/dist/utils/diagnosticsErrorLogging.js": [
+          {
+            "timestamp": "2026-09-11T08:34:01.545Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-graphql/dist/utils/diagnosticsErrorLogging.js",
+            "fileType": ".js",
+            "linesAdded": 40,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-graphql/dist/utils/diagnosticsErrorLogging.d.ts": [
+          {
+            "timestamp": "2026-09-11T08:34:06.260Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-graphql/dist/utils/diagnosticsErrorLogging.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-graphql/dist/types.d.ts": [
+          {
+            "timestamp": "2026-09-11T08:34:13.085Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-graphql/dist/types.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 58,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-graphql/dist/index.d.ts": [
+          {
+            "timestamp": "2026-09-11T08:34:17.040Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-graphql/dist/index.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ]
       },
