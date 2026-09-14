@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3579                                          |
-| **Lines Removed** (➖) | 360                                        |
-| **Net Change** (↕)    | 3219                |
-| **Active Time** (⌚)   | 29 minutes |
+| **Lines Added** (➕)   | 4647                                          |
+| **Lines Removed** (➖) | 366                                        |
+| **Net Change** (↕)    | 4281                |
+| **Active Time** (⌚)   | 34 minutes |
 
 
 ## Modified Files
@@ -23,6 +23,11 @@
 - **SkillPermissions.ts** (+175, -0)
 - **sub-skill-mutations.ts** (+195, -0)
 - **queries.js** (+0, -2)
+- **Desk.test.tsx** (+623, -0)
+- **FindUser.tsx** (+93, -0)
+- **DeskOption.tsx** (+114, -0)
+- **Desk.tsx** (+150, -0)
+- **block-navigation.js** (+88, -6)
 
 ## Visualizations
 
@@ -32,7 +37,8 @@
 pie showData
 title Lines changed by file type
 ".ts" : 3937
-".js" : 2
+".js" : 96
+".tsx" : 980
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -41,7 +47,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "09h" : 35
+"10h" : 6
 ```
 
 
-> **Last Updated:** 14/09/2026, 09:48:23
+> **Last Updated:** 14/09/2026, 10:13:23
