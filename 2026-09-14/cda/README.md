@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 4648                                          |
+| **Lines Added** (➕)   | 5548                                          |
 | **Lines Removed** (➖) | 366                                        |
-| **Net Change** (↕)    | 4282                |
-| **Active Time** (⌚)   | 34 minutes |
+| **Net Change** (↕)    | 5182                |
+| **Active Time** (⌚)   | 37 minutes |
 
 
 ## Modified Files
@@ -26,8 +26,15 @@
 - **Desk.test.tsx** (+623, -0)
 - **FindUser.tsx** (+93, -0)
 - **DeskOption.tsx** (+114, -0)
-- **Desk.tsx** (+150, -0)
+- **Desk.tsx** (+151, -0)
 - **block-navigation.js** (+89, -6)
+- **CancelBookingAsAdmin.tsx** (+67, -0)
+- **UserProvider.tsx** (+15, -0)
+- **BookingRow.tsx** (+87, -0)
+- **CancelBooking.tsx** (+75, -0)
+- **DeskMap.tsx** (+295, -0)
+- **Book.tsx** (+315, -0)
+- **usePersonSearch.ts** (+45, -0)
 
 ## Visualizations
 
@@ -36,9 +43,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 3937
+".ts" : 3982
 ".js" : 97
-".tsx" : 980
+".tsx" : 1835
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -47,8 +54,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "09h" : 35
-"10h" : 7
+"10h" : 15
 ```
 
 
-> **Last Updated:** 14/09/2026, 10:23:23
+> **Last Updated:** 14/09/2026, 10:43:23
