@@ -4,14 +4,24 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 5                                          |
-| **Lines Removed** (➖) | 6                                        |
-| **Net Change** (↕)    | -1                |
-| **Active Time** (⌚)   | 5 minutes |
+| **Lines Added** (➕)   | 3579                                          |
+| **Lines Removed** (➖) | 191                                        |
+| **Net Change** (↕)    | 3388                |
+| **Active Time** (⌚)   | 29 minutes |
 
 
 ## Modified Files
-- **skill-mutations.ts** (+5, -6)
+- **skill-mutations.ts** (+60, -61)
+- **skill-queries.ts** (+106, -106)
+- **skill-group-mutations.ts** (+1273, -24)
+- **calendar-queries.ts** (+11, -0)
+- **skill-team-queries.ts** (+528, -0)
+- **skill-admin-mutations.ts** (+302, -0)
+- **skill-assign-mutations.ts** (+323, -0)
+- **skill-people-queries.ts** (+245, -0)
+- **skill-group-queries.ts** (+361, -0)
+- **SkillPermissions.ts** (+175, -0)
+- **sub-skill-mutations.ts** (+195, -0)
 
 ## Visualizations
 
@@ -20,7 +30,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 11
+".ts" : 3770
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -28,8 +38,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"09h" : 4
+"09h" : 31
 ```
 
 
-> **Last Updated:** 14/09/2026, 09:18:23
+> **Last Updated:** 14/09/2026, 09:23:23
