@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 6529                                          |
-| **Lines Removed** (➖) | 542                                        |
-| **Net Change** (↕)    | 5987                |
-| **Active Time** (⌚)   | 63 minutes |
+| **Lines Added** (➕)   | 6937                                          |
+| **Lines Removed** (➖) | 845                                        |
+| **Net Change** (↕)    | 6092                |
+| **Active Time** (⌚)   | 67 minutes |
 
 
 ## Modified Files
@@ -37,10 +37,11 @@
 - **usePersonSearch.ts** (+45, -1)
 - **package.json** (+68, -0)
 - **ZoneMap.tsx** (+132, -0)
-- **SkillCreate.tsx** (+181, -99)
+- **SkillCreate.tsx** (+478, -402)
 - **SkillListItem.tsx** (+62, -4)
 - **.gitignore** (+7, -5)
 - **App.tsx** (+215, -5)
+- **ManageSkillsTab.tsx** (+111, -0)
 
 ## Visualizations
 
@@ -51,7 +52,7 @@ pie showData
 title Lines changed by file type
 ".ts" : 4246
 ".js" : 160
-".tsx" : 2585
+".tsx" : 3296
 ".json" : 68
 "unknown" : 12
 ```
@@ -68,7 +69,8 @@ title Coding activity by hour (count of changes)
 "13h" : 13
 "16h" : 4
 "18h" : 7
+"20h" : 3
 ```
 
 
-> **Last Updated:** 14/09/2026, 18:28:23
+> **Last Updated:** 14/09/2026, 20:28:23
