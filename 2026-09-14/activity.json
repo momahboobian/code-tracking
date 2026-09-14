@@ -2,9 +2,9 @@
   "date": "2026-09-14",
   "projects": {
     "cda": {
-      "totalLinesAdded": 6114,
-      "totalLinesRemoved": 430,
-      "totalActiveTime": 41,
+      "totalLinesAdded": 6123,
+      "totalLinesRemoved": 435,
+      "totalActiveTime": 52,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/low-risk-schema/skills/skill-mutations.ts": [
           {
@@ -1068,6 +1068,134 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2026-09-14T12:12:47.164Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/components/SkillListItem/SkillListItem.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/skills/.gitignore": [
+          {
+            "timestamp": "2026-09-14T12:08:26.655Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2026-09-14T12:08:28.675Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2026-09-14T12:08:37.667Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2026-09-14T12:08:42.043Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2026-09-14T12:10:13.176Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2026-09-14T12:10:32.291Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2026-09-14T12:10:36.732Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2026-09-14T12:11:15.360Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
           }
         ]
       },
