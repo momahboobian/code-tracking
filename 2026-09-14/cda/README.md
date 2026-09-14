@@ -4,16 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 5548                                          |
-| **Lines Removed** (➖) | 366                                        |
-| **Net Change** (↕)    | 5182                |
+| **Lines Added** (➕)   | 5955                                          |
+| **Lines Removed** (➖) | 381                                        |
+| **Net Change** (↕)    | 5574                |
 | **Active Time** (⌚)   | 37 minutes |
 
 
 ## Modified Files
-- **skill-mutations.ts** (+60, -109)
-- **skill-queries.ts** (+106, -198)
-- **skill-group-mutations.ts** (+1273, -51)
+- **skill-mutations.ts** (+108, -109)
+- **skill-queries.ts** (+198, -198)
+- **skill-group-mutations.ts** (+1300, -51)
 - **calendar-queries.ts** (+11, -0)
 - **skill-team-queries.ts** (+528, -0)
 - **skill-admin-mutations.ts** (+302, -0)
@@ -22,19 +22,21 @@
 - **skill-group-queries.ts** (+361, -0)
 - **SkillPermissions.ts** (+175, -0)
 - **sub-skill-mutations.ts** (+195, -0)
-- **queries.js** (+0, -2)
+- **queries.js** (+2, -2)
 - **Desk.test.tsx** (+623, -0)
-- **FindUser.tsx** (+93, -0)
-- **DeskOption.tsx** (+114, -0)
-- **Desk.tsx** (+151, -0)
+- **FindUser.tsx** (+94, -0)
+- **DeskOption.tsx** (+114, -1)
+- **Desk.tsx** (+151, -6)
 - **block-navigation.js** (+89, -6)
-- **CancelBookingAsAdmin.tsx** (+67, -0)
-- **UserProvider.tsx** (+15, -0)
-- **BookingRow.tsx** (+87, -0)
-- **CancelBooking.tsx** (+75, -0)
-- **DeskMap.tsx** (+295, -0)
-- **Book.tsx** (+315, -0)
-- **usePersonSearch.ts** (+45, -0)
+- **CancelBookingAsAdmin.tsx** (+67, -2)
+- **UserProvider.tsx** (+24, -0)
+- **BookingRow.tsx** (+114, -0)
+- **CancelBooking.tsx** (+75, -2)
+- **DeskMap.tsx** (+296, -0)
+- **Book.tsx** (+315, -3)
+- **usePersonSearch.ts** (+45, -1)
+- **package.json** (+68, -0)
+- **ZoneMap.tsx** (+132, -0)
 
 ## Visualizations
 
@@ -43,9 +45,10 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 3982
-".js" : 97
-".tsx" : 1835
+".ts" : 4150
+".js" : 99
+".tsx" : 2019
+".json" : 68
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -55,7 +58,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "09h" : 35
 "10h" : 15
+"11h" : 16
 ```
 
 
-> **Last Updated:** 14/09/2026, 10:43:23
+> **Last Updated:** 14/09/2026, 11:58:23
