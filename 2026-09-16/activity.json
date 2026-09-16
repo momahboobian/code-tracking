@@ -3,7 +3,7 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 58501,
-      "totalLinesRemoved": 3269,
+      "totalLinesRemoved": 3280,
       "totalActiveTime": 164,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/components/SkillListItem/SkillListItem.tsx": [
@@ -1935,6 +1935,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2026-09-16T09:37:44.983Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/components/InlineMarkdown/InlineMarkdown.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 11,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "scss"
           }
         ],
