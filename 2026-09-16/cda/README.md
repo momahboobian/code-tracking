@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 61554                                          |
+| **Lines Added** (➕)   | 62010                                          |
 | **Lines Removed** (➖) | 3860                                        |
-| **Net Change** (↕)    | 57694                |
-| **Active Time** (⌚)   | 215 minutes |
+| **Net Change** (↕)    | 58150                |
+| **Active Time** (⌚)   | 217 minutes |
 
 
 ## Modified Files
@@ -72,6 +72,8 @@
 - **Sidebar.test.tsx** (+37, -0)
 - **Sidebar.tsx** (+93, -0)
 - **package.json** (+75, -0)
+- **allocate-reports.ts** (+429, -0)
+- **getLinkedReport.ts** (+27, -0)
 
 ## Visualizations
 
@@ -82,7 +84,7 @@ pie showData
 title Lines changed by file type
 ".tsx" : 4518
 ".js" : 641
-".ts" : 50230
+".ts" : 50686
 ".lock" : 8928
 ".scss" : 42
 "unknown" : 125
@@ -102,8 +104,8 @@ title Coding activity by hour (count of changes)
 "13h" : 2
 "14h" : 2
 "16h" : 3
-"17h" : 19
+"17h" : 21
 ```
 
 
-> **Last Updated:** 16/09/2026, 17:16:50
+> **Last Updated:** 16/09/2026, 17:21:50
