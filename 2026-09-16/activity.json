@@ -2,9 +2,9 @@
   "date": "2026-09-16",
   "projects": {
     "cda": {
-      "totalLinesAdded": 58281,
-      "totalLinesRemoved": 3268,
-      "totalActiveTime": 156,
+      "totalLinesAdded": 58282,
+      "totalLinesRemoved": 3269,
+      "totalActiveTime": 157,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/components/SkillListItem/SkillListItem.tsx": [
           {
@@ -1893,6 +1893,34 @@
               "removed": []
             },
             "duration": 4,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2026-09-16T09:16:32.657Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/components/InlineMarkdown/InlineMarkdown.scss",
+            "fileType": ".scss",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2026-09-16T09:16:41.530Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/components/InlineMarkdown/InlineMarkdown.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "scss"
           }
         ]
