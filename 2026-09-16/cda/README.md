@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 59887                                          |
-| **Lines Removed** (➖) | 3701                                        |
-| **Net Change** (↕)    | 56186                |
-| **Active Time** (⌚)   | 199 minutes |
+| **Lines Added** (➕)   | 61554                                          |
+| **Lines Removed** (➖) | 3779                                        |
+| **Net Change** (↕)    | 57775                |
+| **Active Time** (⌚)   | 215 minutes |
 
 
 ## Modified Files
@@ -39,7 +39,7 @@
 - **SkillPermissions.ts** (+175, -6)
 - **yarn.lock** (+6912, -2016)
 - **20260910120000-add-status-to-profile-skill-tag.js** (+18, -0)
-- **SkillCreate.tsx** (+772, -472)
+- **SkillCreate.tsx** (+772, -550)
 - **MyDrafts.tsx** (+59, -0)
 - **index.ts** (+3, -0)
 - **DraftSkills.test.tsx** (+50, -0)
@@ -55,6 +55,23 @@
 - **PendingSkillTopic.test.tsx** (+49, -0)
 - **main.py** (+403, -201)
 - **main.py** (+202, -49)
+- **SkillTagCreateSubSkills.tsx** (+117, -0)
+- **declarations.d.ts** (+15, -0)
+- **CalendarShare.tsx** (+201, -0)
+- **CalendarShareForm.tsx** (+25, -0)
+- **ConfirmationModal.tsx** (+70, -0)
+- **ProfileBadge.tsx** (+78, -0)
+- **Duty.tsx** (+386, -0)
+- **Settings.tsx** (+36, -0)
+- **Admin.tsx** (+30, -0)
+- **SignInStatusIcon.tsx** (+99, -0)
+- **SchedulingTeamSelect.tsx** (+69, -0)
+- **TeamViewRow.tsx** (+166, -0)
+- **DateSwitcher.tsx** (+108, -0)
+- **TooltipBadge.tsx** (+62, -0)
+- **Sidebar.test.tsx** (+37, -0)
+- **Sidebar.tsx** (+93, -0)
+- **package.json** (+75, -0)
 
 ## Visualizations
 
@@ -63,13 +80,14 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 2863
+".tsx" : 4518
 ".js" : 641
-".ts" : 50134
+".ts" : 50149
 ".lock" : 8928
 ".scss" : 42
 "unknown" : 125
 ".py" : 855
+".json" : 75
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -84,7 +102,8 @@ title Coding activity by hour (count of changes)
 "13h" : 2
 "14h" : 2
 "16h" : 3
+"17h" : 18
 ```
 
 
-> **Last Updated:** 16/09/2026, 16:56:50
+> **Last Updated:** 16/09/2026, 17:01:50
