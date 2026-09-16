@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 58085                                          |
+| **Lines Added** (➕)   | 58254                                          |
 | **Lines Removed** (➖) | 3268                                        |
-| **Net Change** (↕)    | 54817                |
-| **Active Time** (⌚)   | 145 minutes |
+| **Net Change** (↕)    | 54986                |
+| **Active Time** (⌚)   | 152 minutes |
 
 
 ## Modified Files
@@ -43,6 +43,8 @@
 - **MyDrafts.tsx** (+59, -0)
 - **index.ts** (+3, -0)
 - **DraftSkills.test.tsx** (+50, -0)
+- **PendingSkillsTab.tsx** (+57, -0)
+- **ManageSkillsTab.tsx** (+112, -0)
 
 ## Visualizations
 
@@ -51,7 +53,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 1659
+".tsx" : 1828
 ".js" : 641
 ".ts" : 50125
 ".lock" : 8928
@@ -62,8 +64,9 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"09h" : 124
+"09h" : 127
+"10h" : 1
 ```
 
 
-> **Last Updated:** 16/09/2026, 09:56:50
+> **Last Updated:** 16/09/2026, 10:01:50
