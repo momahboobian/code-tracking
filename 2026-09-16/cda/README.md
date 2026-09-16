@@ -5,8 +5,8 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 61554                                          |
-| **Lines Removed** (➖) | 3779                                        |
-| **Net Change** (↕)    | 57775                |
+| **Lines Removed** (➖) | 3860                                        |
+| **Net Change** (↕)    | 57694                |
 | **Active Time** (⌚)   | 215 minutes |
 
 
@@ -18,7 +18,7 @@
 - **skills.js** (+554, -69)
 - **views.ts** (+11273, -87)
 - **tables.ts** (+8063, -60)
-- **skill-mutations.ts** (+1364, -126)
+- **skill-mutations.ts** (+1364, -207)
 - **skill-queries.ts** (+882, -137)
 - **skill-people-queries.ts** (+245, -3)
 - **skill-group-queries.ts** (+361, -3)
@@ -82,7 +82,7 @@ pie showData
 title Lines changed by file type
 ".tsx" : 4518
 ".js" : 641
-".ts" : 50149
+".ts" : 50230
 ".lock" : 8928
 ".scss" : 42
 "unknown" : 125
@@ -102,8 +102,8 @@ title Coding activity by hour (count of changes)
 "13h" : 2
 "14h" : 2
 "16h" : 3
-"17h" : 18
+"17h" : 19
 ```
 
 
-> **Last Updated:** 16/09/2026, 17:01:50
+> **Last Updated:** 16/09/2026, 17:16:50
