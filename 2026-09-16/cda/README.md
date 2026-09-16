@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 58501                                          |
+| **Lines Added** (➕)   | 58727                                          |
 | **Lines Removed** (➖) | 3280                                        |
-| **Net Change** (↕)    | 55221                |
-| **Active Time** (⌚)   | 164 minutes |
+| **Net Change** (↕)    | 55447                |
+| **Active Time** (⌚)   | 168 minutes |
 
 
 ## Modified Files
@@ -18,7 +18,7 @@
 - **skills.js** (+554, -69)
 - **views.ts** (+11273, -87)
 - **tables.ts** (+8063, -60)
-- **skill-mutations.ts** (+1355, -126)
+- **skill-mutations.ts** (+1364, -126)
 - **skill-queries.ts** (+882, -137)
 - **skill-people-queries.ts** (+245, -3)
 - **skill-group-queries.ts** (+361, -3)
@@ -47,6 +47,7 @@
 - **ManageSkillsTab.tsx** (+112, -0)
 - **InlineMarkdown.scss** (+28, -12)
 - **App.tsx** (+218, -0)
+- **SkillTagCreateSubSkills.test.tsx** (+217, -0)
 
 ## Visualizations
 
@@ -55,9 +56,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 2047
+".tsx" : 2264
 ".js" : 641
-".ts" : 50125
+".ts" : 50134
 ".lock" : 8928
 ".scss" : 40
 ```
@@ -69,7 +70,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "09h" : 127
 "10h" : 8
+"11h" : 2
 ```
 
 
-> **Last Updated:** 16/09/2026, 10:41:50
+> **Last Updated:** 16/09/2026, 11:06:50
