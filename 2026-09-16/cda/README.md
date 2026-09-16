@@ -4,16 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 58997                                          |
-| **Lines Removed** (➖) | 3280                                        |
-| **Net Change** (↕)    | 55717                |
-| **Active Time** (⌚)   | 175 minutes |
+| **Lines Added** (➕)   | 59254                                          |
+| **Lines Removed** (➖) | 3301                                        |
+| **Net Change** (↕)    | 55953                |
+| **Active Time** (⌚)   | 186 minutes |
 
 
 ## Modified Files
 - **SkillListItem.tsx** (+75, -12)
 - **TagTopic.tsx** (+106, -0)
-- **TagTopicDetails.tsx** (+79, -0)
+- **TagTopicDetails.tsx** (+82, -0)
 - **SkillAdmin.tsx** (+55, -0)
 - **skills.js** (+554, -69)
 - **views.ts** (+11273, -87)
@@ -39,7 +39,7 @@
 - **SkillPermissions.ts** (+175, -6)
 - **yarn.lock** (+6912, -2016)
 - **20260910120000-add-status-to-profile-skill-tag.js** (+18, -0)
-- **SkillCreate.tsx** (+772, -451)
+- **SkillCreate.tsx** (+772, -472)
 - **MyDrafts.tsx** (+59, -0)
 - **index.ts** (+3, -0)
 - **DraftSkills.test.tsx** (+50, -0)
@@ -51,6 +51,8 @@
 - **.env** (+125, -0)
 - **DraftSkills.tsx** (+57, -0)
 - **DraftSkills.test.tsx** (+79, -0)
+- **SubSkills.tsx** (+205, -0)
+- **PendingSkillTopic.test.tsx** (+49, -0)
 
 ## Visualizations
 
@@ -59,7 +61,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 2407
+".tsx" : 2685
 ".js" : 641
 ".ts" : 50134
 ".lock" : 8928
@@ -74,8 +76,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "09h" : 127
 "10h" : 8
-"11h" : 7
+"11h" : 11
 ```
 
 
-> **Last Updated:** 16/09/2026, 11:51:50
+> **Last Updated:** 16/09/2026, 11:56:50
