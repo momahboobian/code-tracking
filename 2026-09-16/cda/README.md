@@ -4,22 +4,22 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 57799                                          |
-| **Lines Removed** (➖) | 2995                                        |
-| **Net Change** (↕)    | 54804                |
-| **Active Time** (⌚)   | 128 minutes |
+| **Lines Added** (➕)   | 57893                                          |
+| **Lines Removed** (➖) | 3193                                        |
+| **Net Change** (↕)    | 54700                |
+| **Active Time** (⌚)   | 136 minutes |
 
 
 ## Modified Files
-- **SkillListItem.tsx** (+67, -4)
+- **SkillListItem.tsx** (+71, -8)
 - **TagTopic.tsx** (+106, -0)
 - **TagTopicDetails.tsx** (+79, -0)
 - **SkillAdmin.tsx** (+50, -0)
-- **skills.js** (+527, -42)
+- **skills.js** (+531, -46)
 - **views.ts** (+11273, -87)
 - **tables.ts** (+8063, -60)
 - **skill-mutations.ts** (+1355, -126)
-- **skill-queries.ts** (+837, -137)
+- **skill-queries.ts** (+882, -137)
 - **skill-people-queries.ts** (+245, -3)
 - **skill-group-queries.ts** (+361, -3)
 - **skill-assign-mutations.ts** (+323, -3)
@@ -32,14 +32,14 @@
 - **policies.ts** (+24, -0)
 - **skill-queries.ts** (+406, -92)
 - **SkillPermissions.ts** (+104, -41)
-- **resolvers-types.ts** (+13268, -10)
+- **resolvers-types.ts** (+13286, -10)
 - **transform-skill-favourites.test.ts** (+458, -3)
 - **sub-skill-mutations.ts** (+195, -3)
 - **views.d.ts** (+9101, -4)
 - **SkillPermissions.ts** (+175, -6)
 - **yarn.lock** (+6912, -2016)
 - **20260910120000-add-status-to-profile-skill-tag.js** (+18, -0)
-- **SkillCreate.tsx** (+749, -261)
+- **SkillCreate.tsx** (+772, -451)
 
 ## Visualizations
 
@@ -48,9 +48,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 1316
-".js" : 587
-".ts" : 49963
+".tsx" : 1537
+".js" : 595
+".ts" : 50026
 ".lock" : 8928
 ```
 
@@ -59,8 +59,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"09h" : 106
+"09h" : 114
 ```
 
 
-> **Last Updated:** 16/09/2026, 09:41:50
+> **Last Updated:** 16/09/2026, 09:46:50
