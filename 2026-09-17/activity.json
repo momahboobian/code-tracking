@@ -1,0 +1,47 @@
+{
+  "date": "2026-09-17",
+  "projects": {
+    "cda": {
+      "totalLinesAdded": 27,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-reports/src/components/Restricted/Restricted.tsx": [
+          {
+            "timestamp": "2026-09-17T07:51:24.919Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-reports/src/components/Restricted/Restricted.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 27,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "tsx": 0
+      },
+      "changeFrequency": {
+        "8": 0
+      },
+      "topFiles": [
+        "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-reports/src/components/Restricted/Restricted.tsx"
+      ],
+      "averageChangeSize": 27
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    8
+  ],
+  "mostUsedLanguages": [
+    "tsx"
+  ]
+}
