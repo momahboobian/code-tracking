@@ -2,9 +2,9 @@
   "date": "2026-09-17",
   "projects": {
     "cda": {
-      "totalLinesAdded": 862,
+      "totalLinesAdded": 929,
       "totalLinesRemoved": 127,
-      "totalActiveTime": 27,
+      "totalActiveTime": 28,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-reports/src/components/Restricted/Restricted.tsx": [
           {
@@ -132,6 +132,20 @@
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/containers/SkillCreate/SkillCreate.tsx",
             "fileType": ".tsx",
             "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-09-17T08:43:01.084Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/containers/SkillCreate/SkillCreate.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 64,
             "linesRemoved": 0,
             "projectName": "cda",
             "content": {
@@ -427,6 +441,22 @@
               "removed": []
             },
             "duration": 3,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/containers/PendingSkillTopic/PendingSkillTopic.test.tsx": [
+          {
+            "timestamp": "2026-09-17T08:42:27.492Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/containers/PendingSkillTopic/PendingSkillTopic.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ]

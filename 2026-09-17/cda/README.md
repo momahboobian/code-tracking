@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 862                                          |
+| **Lines Added** (➕)   | 929                                          |
 | **Lines Removed** (➖) | 127                                        |
-| **Net Change** (↕)    | 735                |
-| **Active Time** (⌚)   | 27 minutes |
+| **Net Change** (↕)    | 802                |
+| **Active Time** (⌚)   | 28 minutes |
 
 
 ## Modified Files
@@ -15,7 +15,7 @@
 - **RequestReport.tsx** (+252, -3)
 - **getLinkedReport.ts** (+0, -4)
 - **allocate-reports.ts** (+0, -86)
-- **SkillCreate.tsx** (+101, -21)
+- **SkillCreate.tsx** (+165, -21)
 - **package.json** (+1, -0)
 - **SkillTagCreateSubSkills.tsx** (+39, -0)
 - **SkillTagCreateSubSkills.test.tsx** (+109, -0)
@@ -27,6 +27,7 @@
 - **DraftSkills.test.tsx** (+3, -0)
 - **declarations.d.ts** (+19, -0)
 - **PendingSkillsTab.test.tsx** (+85, -0)
+- **PendingSkillTopic.test.tsx** (+3, -0)
 
 ## Visualizations
 
@@ -35,7 +36,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 798
+".tsx" : 865
 ".ts" : 190
 ".json" : 1
 ```
@@ -46,8 +47,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "08h" : 4
-"09h" : 24
+"09h" : 26
 ```
 
 
-> **Last Updated:** 17/09/2026, 09:36:50
+> **Last Updated:** 17/09/2026, 09:46:50
