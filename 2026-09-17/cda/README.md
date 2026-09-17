@@ -4,14 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 27                                          |
-| **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 27                |
-| **Active Time** (⌚)   | 0 minute |
+| **Lines Added** (➕)   | 279                                          |
+| **Lines Removed** (➖) | 12                                        |
+| **Net Change** (↕)    | 267                |
+| **Active Time** (⌚)   | 4 minutes |
 
 
 ## Modified Files
 - **Restricted.tsx** (+27, -0)
+- **RequestReport.tsx** (+252, -0)
+- **getLinkedReport.ts** (+0, -4)
+- **allocate-reports.ts** (+0, -8)
 
 ## Visualizations
 
@@ -20,7 +23,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 27
+".tsx" : 279
+".ts" : 12
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -28,8 +32,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"08h" : 1
+"08h" : 4
 ```
 
 
-> **Last Updated:** 17/09/2026, 08:51:50
+> **Last Updated:** 17/09/2026, 08:56:50
