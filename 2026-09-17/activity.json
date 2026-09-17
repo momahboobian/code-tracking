@@ -3,7 +3,7 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 741,
-      "totalLinesRemoved": 36,
+      "totalLinesRemoved": 42,
       "totalActiveTime": 16,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/allocate-reports/src/components/Restricted/Restricted.tsx": [
@@ -299,6 +299,20 @@
             "fileType": ".tsx",
             "linesAdded": 7,
             "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-09-17T08:26:08.509Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 6,
             "projectName": "cda",
             "content": {
               "added": [],
