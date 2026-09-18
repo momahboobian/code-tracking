@@ -4,18 +4,18 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 73792                                          |
-| **Lines Removed** (➖) | 255                                        |
-| **Net Change** (↕)    | 73537                |
-| **Active Time** (⌚)   | 74 minutes |
+| **Lines Added** (➕)   | 74288                                          |
+| **Lines Removed** (➖) | 296                                        |
+| **Net Change** (↕)    | 73992                |
+| **Active Time** (⌚)   | 79 minutes |
 
 
 ## Modified Files
 - **tables.ts** (+16082, -0)
 - **views.ts** (+22500, -72)
-- **SkillCreate.tsx** (+420, -52)
-- **PendingSkillTopic.tsx** (+53, -2)
-- **skills.js** (+486, -1)
+- **SkillCreate.tsx** (+420, -70)
+- **PendingSkillTopic.tsx** (+53, -3)
+- **skills.js** (+971, -1)
 - **skill-queries.ts** (+904, -42)
 - **skill-queries.ts** (+817, -58)
 - **queries.js** (+523, -0)
@@ -51,7 +51,7 @@
 - **SkillTagCreateSubSkills.tsx** (+156, -0)
 - **App.scss** (+50, -0)
 - **docker-compose.yml** (+19, -0)
-- **transform-skill-favourites.test.ts** (+469, -0)
+- **transform-skill-favourites.test.ts** (+480, -22)
 - **yarn.lock** (+8542, -0)
 
 ## Visualizations
@@ -61,9 +61,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 57972
-".tsx" : 4238
-".js" : 3101
+".ts" : 58005
+".tsx" : 4257
+".js" : 3586
 "unknown" : 125
 ".scss" : 50
 ".yml" : 19
@@ -80,8 +80,8 @@ title Coding activity by hour (count of changes)
 "11h" : 20
 "12h" : 20
 "13h" : 8
-"14h" : 8
+"14h" : 14
 ```
 
 
-> **Last Updated:** 18/09/2026, 14:36:18
+> **Last Updated:** 18/09/2026, 14:56:18
