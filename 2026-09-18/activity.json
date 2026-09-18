@@ -2,9 +2,9 @@
   "date": "2026-09-18",
   "projects": {
     "cda": {
-      "totalLinesAdded": 21070,
+      "totalLinesAdded": 21435,
       "totalLinesRemoved": 48,
-      "totalActiveTime": 16,
+      "totalActiveTime": 18,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/packages/cda-table-types/src/types/tables.ts": [
           {
@@ -276,6 +276,54 @@
             },
             "duration": 1,
             "language": "unknown"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/containers/PendingSkillsTab/PendingSkillsTab.test.tsx": [
+          {
+            "timestamp": "2026-09-18T08:28:11.196Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/containers/PendingSkillsTab/PendingSkillsTab.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 107,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/components/SkillTagAdmin/SkillTagCreateOptions.tsx": [
+          {
+            "timestamp": "2026-09-18T08:28:19.284Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/components/SkillTagAdmin/SkillTagCreateOptions.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 128,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/components/SkillTagAdmin/SkillTagCreateOptions.test.tsx": [
+          {
+            "timestamp": "2026-09-18T08:28:34.469Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/components/SkillTagAdmin/SkillTagCreateOptions.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 130,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ]
       },
