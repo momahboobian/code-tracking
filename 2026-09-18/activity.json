@@ -2,9 +2,9 @@
   "date": "2026-09-18",
   "projects": {
     "cda": {
-      "totalLinesAdded": 39019,
+      "totalLinesAdded": 39284,
       "totalLinesRemoved": 51,
-      "totalActiveTime": 30,
+      "totalActiveTime": 31,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/packages/cda-table-types/src/types/tables.ts": [
           {
@@ -496,6 +496,22 @@
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/unit/low-risk-schema/resolvers/skill-create.test.ts",
             "fileType": ".ts",
             "linesAdded": 179,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/low-risk-schema/skills/skill-mutations.ts": [
+          {
+            "timestamp": "2026-09-18T08:40:40.339Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/low-risk-schema/skills/skill-mutations.ts",
+            "fileType": ".ts",
+            "linesAdded": 265,
             "linesRemoved": 0,
             "projectName": "cda",
             "content": {
