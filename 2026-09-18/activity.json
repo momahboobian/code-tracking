@@ -1561,7 +1561,7 @@
     },
     "video-downloader": {
       "totalLinesAdded": 409,
-      "totalLinesRemoved": 135,
+      "totalLinesRemoved": 139,
       "totalActiveTime": 30,
       "files": {
         "/Volumes/docker/video-downloader/telegram_handler.py": [
@@ -1805,6 +1805,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2026-09-18T19:32:34.649Z",
+            "fileName": "/Volumes/docker/video-downloader/Dockerfile",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "video-downloader",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "unknown"
           }
         ],
