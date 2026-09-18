@@ -1358,6 +1358,84 @@
         "/Users/momahboobian/Documents/_BBC/cda/packages/cda-table-types/src/types/views.ts"
       ],
       "averageChangeSize": 9616
+    },
+    "video-downloader": {
+      "totalLinesAdded": 171,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 6,
+      "files": {
+        "/Volumes/docker/video-downloader/telegram_handler.py": [
+          {
+            "timestamp": "2026-09-18T13:00:34.162Z",
+            "fileName": "/Volumes/docker/video-downloader/telegram_handler.py",
+            "fileType": ".py",
+            "linesAdded": 64,
+            "linesRemoved": 0,
+            "projectName": "video-downloader",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-09-18T13:00:47.272Z",
+            "fileName": "/Volumes/docker/video-downloader/telegram_handler.py",
+            "fileType": ".py",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "video-downloader",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "/Volumes/docker/video-downloader/stream_handler.py": [
+          {
+            "timestamp": "2026-09-18T13:03:58.104Z",
+            "fileName": "/Volumes/docker/video-downloader/stream_handler.py",
+            "fileType": ".py",
+            "linesAdded": 47,
+            "linesRemoved": 0,
+            "projectName": "video-downloader",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-09-18T13:04:06.902Z",
+            "fileName": "/Volumes/docker/video-downloader/stream_handler.py",
+            "fileType": ".py",
+            "linesAdded": 57,
+            "linesRemoved": 0,
+            "projectName": "video-downloader",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ]
+      },
+      "languageStats": {
+        "py": 6
+      },
+      "changeFrequency": {
+        "14": 6
+      },
+      "topFiles": [
+        "/Volumes/docker/video-downloader/telegram_handler.py",
+        "/Volumes/docker/video-downloader/stream_handler.py"
+      ],
+      "averageChangeSize": 42.75
     }
   },
   "totalActiveTime": 1,
