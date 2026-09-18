@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 21435                                          |
-| **Lines Removed** (➖) | 48                                        |
-| **Net Change** (↕)    | 21387                |
-| **Active Time** (⌚)   | 18 minutes |
+| **Lines Added** (➕)   | 39019                                          |
+| **Lines Removed** (➖) | 51                                        |
+| **Net Change** (↕)    | 38968                |
+| **Active Time** (⌚)   | 30 minutes |
 
 
 ## Modified Files
@@ -16,14 +16,20 @@
 - **SkillCreate.tsx** (+18, -16)
 - **PendingSkillTopic.tsx** (+1, -1)
 - **skills.js** (+486, -0)
-- **skill-queries.ts** (+422, -0)
-- **skill-queries.ts** (+31, -31)
+- **skill-queries.ts** (+431, -0)
+- **skill-queries.ts** (+36, -31)
 - **queries.js** (+523, -0)
 - **SkillCreate.test.tsx** (+232, -0)
 - **.env** (+125, -0)
 - **PendingSkillsTab.test.tsx** (+107, -0)
 - **SkillTagCreateOptions.tsx** (+128, -0)
 - **SkillTagCreateOptions.test.tsx** (+130, -0)
+- **mutations.js** (+838, -0)
+- **calendar-queries.ts** (+1801, -3)
+- **resolvers-types.ts** (+13438, -0)
+- **skill-mutations.ts** (+1247, -0)
+- **PendingSkillsTab.tsx** (+67, -0)
+- **skill-create.test.ts** (+179, -0)
 
 ## Visualizations
 
@@ -32,9 +38,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 19716
-".tsx" : 633
-".js" : 1009
+".ts" : 36398
+".tsx" : 700
+".js" : 1847
 "unknown" : 125
 ```
 
@@ -43,8 +49,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"09h" : 21
+"09h" : 33
 ```
 
 
-> **Last Updated:** 18/09/2026, 09:30:31
+> **Last Updated:** 18/09/2026, 09:40:31
