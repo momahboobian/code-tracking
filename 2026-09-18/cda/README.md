@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 43400                                          |
-| **Lines Removed** (➖) | 95                                        |
-| **Net Change** (↕)    | 43305                |
-| **Active Time** (⌚)   | 43 minutes |
+| **Lines Added** (➕)   | 43404                                          |
+| **Lines Removed** (➖) | 96                                        |
+| **Net Change** (↕)    | 43308                |
+| **Active Time** (⌚)   | 45 minutes |
 
 
 ## Modified Files
@@ -34,7 +34,7 @@
 - **EventForm.test.tsx** (+981, -11)
 - **ScrollableDatepicker.test.tsx** (+116, -0)
 - **location.tsx** (+60, -0)
-- **main.tsx** (+58, -0)
+- **main.tsx** (+62, -1)
 - **MediaUploader.test.tsx** (+172, -0)
 - **AddAttendeeModal.tsx** (+235, -0)
 - **mapEventToForm.ts** (+60, -0)
@@ -53,7 +53,7 @@
 pie showData
 title Lines changed by file type
 ".ts" : 36738
-".tsx" : 3531
+".tsx" : 3536
 ".js" : 3101
 "unknown" : 125
 ```
@@ -65,8 +65,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "09h" : 38
 "10h" : 4
-"11h" : 18
+"11h" : 20
 ```
 
 
-> **Last Updated:** 18/09/2026, 11:35:31
+> **Last Updated:** 18/09/2026, 11:55:31
