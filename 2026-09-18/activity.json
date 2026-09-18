@@ -1560,9 +1560,9 @@
       "averageChangeSize": 9616
     },
     "video-downloader": {
-      "totalLinesAdded": 328,
-      "totalLinesRemoved": 100,
-      "totalActiveTime": 26,
+      "totalLinesAdded": 407,
+      "totalLinesRemoved": 134,
+      "totalActiveTime": 28,
       "files": {
         "/Volumes/docker/video-downloader/telegram_handler.py": [
           {
@@ -1720,6 +1720,20 @@
             },
             "duration": 0,
             "language": "py"
+          },
+          {
+            "timestamp": "2026-09-18T14:32:44.088Z",
+            "fileName": "/Volumes/docker/video-downloader/stream_handler.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 31,
+            "projectName": "video-downloader",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
           }
         ],
         "/Volumes/docker/video-downloader/Dockerfile": [
@@ -1794,6 +1808,36 @@
             },
             "duration": 0,
             "language": "txt"
+          }
+        ],
+        "/Volumes/docker/video-downloader/main.py": [
+          {
+            "timestamp": "2026-09-18T14:32:25.525Z",
+            "fileName": "/Volumes/docker/video-downloader/main.py",
+            "fileType": ".py",
+            "linesAdded": 79,
+            "linesRemoved": 0,
+            "projectName": "video-downloader",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-09-18T14:32:30.530Z",
+            "fileName": "/Volumes/docker/video-downloader/main.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "video-downloader",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
           }
         ]
       },
