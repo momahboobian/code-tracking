@@ -4,17 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 64371                                          |
+| **Lines Added** (➕)   | 64629                                          |
 | **Lines Removed** (➖) | 132                                        |
-| **Net Change** (↕)    | 64239                |
-| **Active Time** (⌚)   | 61 minutes |
+| **Net Change** (↕)    | 64497                |
+| **Active Time** (⌚)   | 63 minutes |
 
 
 ## Modified Files
 - **tables.ts** (+16082, -0)
 - **views.ts** (+22418, -0)
 - **SkillCreate.tsx** (+402, -34)
-- **PendingSkillTopic.tsx** (+1, -2)
+- **PendingSkillTopic.tsx** (+53, -2)
 - **skills.js** (+486, -1)
 - **skill-queries.ts** (+871, -9)
 - **skill-queries.ts** (+817, -58)
@@ -48,6 +48,8 @@
 - **PersonSelectOption.tsx** (+56, -0)
 - **stripOwner.ts** (+6, -0)
 - **types.ts** (+14, -0)
+- **SkillTagCreateSubSkills.tsx** (+156, -0)
+- **App.scss** (+50, -0)
 
 ## Visualizations
 
@@ -57,9 +59,10 @@
 pie showData
 title Lines changed by file type
 ".ts" : 57283
-".tsx" : 3994
+".tsx" : 4202
 ".js" : 3101
 "unknown" : 125
+".scss" : 50
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -70,8 +73,8 @@ title Coding activity by hour (count of changes)
 "09h" : 38
 "10h" : 4
 "11h" : 20
-"12h" : 17
+"12h" : 20
 ```
 
 
-> **Last Updated:** 18/09/2026, 12:46:18
+> **Last Updated:** 18/09/2026, 12:56:18
