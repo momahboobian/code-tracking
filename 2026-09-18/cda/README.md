@@ -4,9 +4,9 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 43404                                          |
+| **Lines Added** (➕)   | 43498                                          |
 | **Lines Removed** (➖) | 96                                        |
-| **Net Change** (↕)    | 43308                |
+| **Net Change** (↕)    | 43402                |
 | **Active Time** (⌚)   | 45 minutes |
 
 
@@ -44,6 +44,10 @@
 - **EventForm.tsx** (+1113, -0)
 - **PersonSelectOption.test.tsx** (+66, -0)
 - **index.ts** (+12, -0)
+- **ClearIndicator.tsx** (+18, -0)
+- **PersonSelectOption.tsx** (+56, -0)
+- **stripOwner.ts** (+6, -0)
+- **types.ts** (+14, -0)
 
 ## Visualizations
 
@@ -52,8 +56,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 36738
-".tsx" : 3536
+".ts" : 36758
+".tsx" : 3610
 ".js" : 3101
 "unknown" : 125
 ```
@@ -66,7 +70,8 @@ title Coding activity by hour (count of changes)
 "09h" : 38
 "10h" : 4
 "11h" : 20
+"12h" : 4
 ```
 
 
-> **Last Updated:** 18/09/2026, 11:55:31
+> **Last Updated:** 18/09/2026, 12:10:31

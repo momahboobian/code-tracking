@@ -2,7 +2,7 @@
   "date": "2026-09-18",
   "projects": {
     "cda": {
-      "totalLinesAdded": 43404,
+      "totalLinesAdded": 43498,
       "totalLinesRemoved": 96,
       "totalActiveTime": 45,
       "files": {
@@ -937,6 +937,70 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/PersonSelectOption/ClearIndicator.tsx": [
+          {
+            "timestamp": "2026-09-18T11:06:32.014Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/PersonSelectOption/ClearIndicator.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 18,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/PersonSelectOption/PersonSelectOption.tsx": [
+          {
+            "timestamp": "2026-09-18T11:06:32.009Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/PersonSelectOption/PersonSelectOption.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 56,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/helpers/stripOwner.ts": [
+          {
+            "timestamp": "2026-09-18T11:06:32.006Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/helpers/stripOwner.ts",
+            "fileType": ".ts",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/types.ts": [
+          {
+            "timestamp": "2026-09-18T11:06:32.001Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/types.ts",
+            "fileType": ".ts",
+            "linesAdded": 14,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "ts"
           }
         ]
