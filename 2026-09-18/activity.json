@@ -1560,9 +1560,9 @@
       "averageChangeSize": 9616
     },
     "video-downloader": {
-      "totalLinesAdded": 490,
-      "totalLinesRemoved": 140,
-      "totalActiveTime": 34,
+      "totalLinesAdded": 509,
+      "totalLinesRemoved": 202,
+      "totalActiveTime": 38,
       "files": {
         "/Volumes/docker/video-downloader/telegram_handler.py": [
           {
@@ -1846,6 +1846,20 @@
             },
             "duration": 2,
             "language": "py"
+          },
+          {
+            "timestamp": "2026-09-18T20:27:33.177Z",
+            "fileName": "/Volumes/docker/video-downloader/stream_handler.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 61,
+            "projectName": "video-downloader",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
           }
         ],
         "/Volumes/docker/video-downloader/Dockerfile": [
@@ -1978,6 +1992,50 @@
             },
             "duration": 0,
             "language": "py"
+          }
+        ],
+        "/Volumes/docker/video-downloader/docker-compose.yaml": [
+          {
+            "timestamp": "2026-09-18T20:27:44.167Z",
+            "fileName": "/Volumes/docker/video-downloader/docker-compose.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 17,
+            "linesRemoved": 0,
+            "projectName": "video-downloader",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "yaml"
+          },
+          {
+            "timestamp": "2026-09-18T20:27:45.079Z",
+            "fileName": "/Volumes/docker/video-downloader/docker-compose.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "video-downloader",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "yaml"
+          },
+          {
+            "timestamp": "2026-09-18T20:29:36.698Z",
+            "fileName": "/Volumes/docker/video-downloader/docker-compose.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "video-downloader",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "yaml"
           }
         ]
       },
