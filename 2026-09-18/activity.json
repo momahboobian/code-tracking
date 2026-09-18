@@ -2,9 +2,9 @@
   "date": "2026-09-18",
   "projects": {
     "cda": {
-      "totalLinesAdded": 64763,
+      "totalLinesAdded": 73792,
       "totalLinesRemoved": 255,
-      "totalActiveTime": 69,
+      "totalActiveTime": 74,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/packages/cda-table-types/src/types/tables.ts": [
           {
@@ -227,6 +227,20 @@
             "fileType": ".tsx",
             "linesAdded": 0,
             "linesRemoved": 18,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-09-18T13:32:31.300Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/containers/SkillCreate/SkillCreate.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 18,
+            "linesRemoved": 0,
             "projectName": "cda",
             "content": {
               "added": [],
@@ -1400,6 +1414,52 @@
             },
             "duration": 0,
             "language": "yml"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/unit/transformers/skills/transform-skill-favourites.test.ts": [
+          {
+            "timestamp": "2026-09-18T13:33:10.702Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/unit/transformers/skills/transform-skill-favourites.test.ts",
+            "fileType": ".ts",
+            "linesAdded": 461,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-09-18T13:35:47.564Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/unit/transformers/skills/transform-skill-favourites.test.ts",
+            "fileType": ".ts",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/yarn.lock": [
+          {
+            "timestamp": "2026-09-18T13:35:47.478Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/yarn.lock",
+            "fileType": ".lock",
+            "linesAdded": 8542,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "lock"
           }
         ]
       },
