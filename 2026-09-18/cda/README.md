@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 42209                                          |
+| **Lines Added** (➕)   | 43400                                          |
 | **Lines Removed** (➖) | 95                                        |
-| **Net Change** (↕)    | 42114                |
-| **Active Time** (⌚)   | 42 minutes |
+| **Net Change** (↕)    | 43305                |
+| **Active Time** (⌚)   | 43 minutes |
 
 
 ## Modified Files
@@ -41,6 +41,9 @@
 - **block-navigation.js** (+89, -6)
 - **prettify.js** (+939, -1)
 - **sorter.js** (+212, -6)
+- **EventForm.tsx** (+1113, -0)
+- **PersonSelectOption.test.tsx** (+66, -0)
+- **index.ts** (+12, -0)
 
 ## Visualizations
 
@@ -49,8 +52,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 36726
-".tsx" : 2352
+".ts" : 36738
+".tsx" : 3531
 ".js" : 3101
 "unknown" : 125
 ```
@@ -62,8 +65,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "09h" : 38
 "10h" : 4
-"11h" : 15
+"11h" : 18
 ```
 
 
-> **Last Updated:** 18/09/2026, 11:20:31
+> **Last Updated:** 18/09/2026, 11:35:31

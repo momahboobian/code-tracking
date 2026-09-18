@@ -2,9 +2,9 @@
   "date": "2026-09-18",
   "projects": {
     "cda": {
-      "totalLinesAdded": 42209,
+      "totalLinesAdded": 43400,
       "totalLinesRemoved": 95,
-      "totalActiveTime": 42,
+      "totalActiveTime": 43,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/packages/cda-table-types/src/types/tables.ts": [
           {
@@ -862,6 +862,54 @@
             },
             "duration": 1,
             "language": "js"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/containers/EventForm/EventForm.tsx": [
+          {
+            "timestamp": "2026-09-18T10:31:42.075Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/containers/EventForm/EventForm.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1113,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/PersonSelectOption/PersonSelectOption.test.tsx": [
+          {
+            "timestamp": "2026-09-18T10:31:42.079Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/PersonSelectOption/PersonSelectOption.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 66,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/PersonSelectOption/index.ts": [
+          {
+            "timestamp": "2026-09-18T10:32:35.684Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/PersonSelectOption/index.ts",
+            "fileType": ".ts",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ]
       },
