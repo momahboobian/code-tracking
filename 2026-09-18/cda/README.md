@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 40384                                          |
-| **Lines Removed** (➖) | 81                                        |
-| **Net Change** (↕)    | 40303                |
-| **Active Time** (⌚)   | 33 minutes |
+| **Lines Added** (➕)   | 42209                                          |
+| **Lines Removed** (➖) | 95                                        |
+| **Net Change** (↕)    | 42114                |
+| **Active Time** (⌚)   | 42 minutes |
 
 
 ## Modified Files
@@ -31,8 +31,16 @@
 - **PendingSkillsTab.tsx** (+67, -0)
 - **skill-create.test.ts** (+179, -0)
 - **skill-mutations.ts** (+265, -0)
-- **EventForm.test.tsx** (+981, -10)
+- **EventForm.test.tsx** (+981, -11)
 - **ScrollableDatepicker.test.tsx** (+116, -0)
+- **location.tsx** (+60, -0)
+- **main.tsx** (+58, -0)
+- **MediaUploader.test.tsx** (+172, -0)
+- **AddAttendeeModal.tsx** (+235, -0)
+- **mapEventToForm.ts** (+60, -0)
+- **block-navigation.js** (+89, -6)
+- **prettify.js** (+939, -1)
+- **sorter.js** (+212, -6)
 
 ## Visualizations
 
@@ -41,9 +49,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 36666
-".tsx" : 1826
-".js" : 1848
+".ts" : 36726
+".tsx" : 2352
+".js" : 3101
 "unknown" : 125
 ```
 
@@ -54,7 +62,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "09h" : 38
 "10h" : 4
+"11h" : 15
 ```
 
 
-> **Last Updated:** 18/09/2026, 11:00:31
+> **Last Updated:** 18/09/2026, 11:20:31

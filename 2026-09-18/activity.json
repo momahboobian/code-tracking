@@ -2,9 +2,9 @@
   "date": "2026-09-18",
   "projects": {
     "cda": {
-      "totalLinesAdded": 40384,
-      "totalLinesRemoved": 81,
-      "totalActiveTime": 33,
+      "totalLinesAdded": 42209,
+      "totalLinesRemoved": 95,
+      "totalActiveTime": 42,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/packages/cda-table-types/src/types/tables.ts": [
           {
@@ -620,6 +620,20 @@
             },
             "duration": 0,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2026-09-18T10:18:44.883Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/containers/EventForm/EventForm.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/ScrollableDatepicker/ScrollableDatepicker.test.tsx": [
@@ -636,6 +650,218 @@
             },
             "duration": 0,
             "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/helpers/location.tsx": [
+          {
+            "timestamp": "2026-09-18T10:18:44.885Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/helpers/location.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 60,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/main.tsx": [
+          {
+            "timestamp": "2026-09-18T10:18:44.887Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/main.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 58,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/MediaUploader/MediaUploader.test.tsx": [
+          {
+            "timestamp": "2026-09-18T10:18:44.888Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/MediaUploader/MediaUploader.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 172,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/AddAttendeeModal/AddAttendeeModal.tsx": [
+          {
+            "timestamp": "2026-09-18T10:18:44.889Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/components/AddAttendeeModal/AddAttendeeModal.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 235,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/helpers/mapEventToForm.ts": [
+          {
+            "timestamp": "2026-09-18T10:18:44.890Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/src/helpers/mapEventToForm.ts",
+            "fileType": ".ts",
+            "linesAdded": 60,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/coverage/lcov-report/block-navigation.js": [
+          {
+            "timestamp": "2026-09-18T10:19:10.807Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/coverage/lcov-report/block-navigation.js",
+            "fileType": ".js",
+            "linesAdded": 88,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-09-18T10:19:11.879Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/coverage/lcov-report/block-navigation.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 6,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-09-18T10:19:54.863Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/coverage/lcov-report/block-navigation.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/coverage/lcov-report/prettify.js": [
+          {
+            "timestamp": "2026-09-18T10:19:20.807Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/coverage/lcov-report/prettify.js",
+            "fileType": ".js",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-09-18T10:19:21.646Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/coverage/lcov-report/prettify.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-09-18T10:19:51.637Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/coverage/lcov-report/prettify.js",
+            "fileType": ".js",
+            "linesAdded": 936,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/coverage/lcov-report/sorter.js": [
+          {
+            "timestamp": "2026-09-18T10:19:23.989Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/coverage/lcov-report/sorter.js",
+            "fileType": ".js",
+            "linesAdded": 211,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-09-18T10:19:24.377Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/coverage/lcov-report/sorter.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 6,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-09-18T10:19:39.624Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/calendar/coverage/lcov-report/sorter.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
           }
         ]
       },
