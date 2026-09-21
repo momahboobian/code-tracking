@@ -1,0 +1,96 @@
+{
+  "date": "2026-09-21",
+  "projects": {
+    "video-downloader": {
+      "totalLinesAdded": 18,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 4,
+      "files": {
+        "/Volumes/docker/video-downloader/stream_handler.py": [
+          {
+            "timestamp": "2026-09-21T07:57:49.396Z",
+            "fileName": "/Volumes/docker/video-downloader/stream_handler.py",
+            "fileType": ".py",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "video-downloader",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          }
+        ],
+        "/Volumes/docker/video-downloader/.env": [
+          {
+            "timestamp": "2026-09-21T07:59:26.618Z",
+            "fileName": "/Volumes/docker/video-downloader/.env",
+            "fileType": "unknown",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "video-downloader",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2026-09-21T07:59:34.964Z",
+            "fileName": "/Volumes/docker/video-downloader/.env",
+            "fileType": "unknown",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "video-downloader",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2026-09-21T08:00:09.724Z",
+            "fileName": "/Volumes/docker/video-downloader/.env",
+            "fileType": "unknown",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "video-downloader",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          }
+        ]
+      },
+      "languageStats": {
+        "py": 0,
+        "unknown": 4
+      },
+      "changeFrequency": {
+        "8": 3,
+        "9": 1
+      },
+      "topFiles": [
+        "/Volumes/docker/video-downloader/.env",
+        "/Volumes/docker/video-downloader/stream_handler.py"
+      ],
+      "averageChangeSize": 4.5
+    }
+  },
+  "totalActiveTime": 4,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    8,
+    9
+  ],
+  "mostUsedLanguages": [
+    "unknown",
+    "py"
+  ]
+}
