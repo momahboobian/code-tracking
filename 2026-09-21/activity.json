@@ -180,6 +180,53 @@
         "/Volumes/docker/video-downloader/stream_handler.py"
       ],
       "averageChangeSize": 4.5
+    },
+    "cda": {
+      "totalLinesAdded": 4257,
+      "totalLinesRemoved": 456,
+      "totalActiveTime": 1,
+      "files": {
+        "/Users/momahboobian/Downloads/American Hostage (2026) - S01E01.fa.srt": [
+          {
+            "timestamp": "2026-09-21T09:10:16.354Z",
+            "fileName": "/Users/momahboobian/Downloads/American Hostage (2026) - S01E01.fa.srt",
+            "fileType": ".srt",
+            "linesAdded": 4257,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "srt"
+          },
+          {
+            "timestamp": "2026-09-21T09:10:17.985Z",
+            "fileName": "/Users/momahboobian/Downloads/American Hostage (2026) - S01E01.fa.srt",
+            "fileType": ".srt",
+            "linesAdded": 0,
+            "linesRemoved": 456,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "srt"
+          }
+        ]
+      },
+      "languageStats": {
+        "srt": 1
+      },
+      "changeFrequency": {
+        "10": 1
+      },
+      "topFiles": [
+        "/Users/momahboobian/Downloads/American Hostage (2026) - S01E01.fa.srt"
+      ],
+      "averageChangeSize": 2356.5
     }
   },
   "totalActiveTime": 4,
