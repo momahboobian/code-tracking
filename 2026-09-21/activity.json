@@ -268,9 +268,9 @@
       "averageChangeSize": 4.5
     },
     "cda": {
-      "totalLinesAdded": 5255,
-      "totalLinesRemoved": 456,
-      "totalActiveTime": 3,
+      "totalLinesAdded": 8341,
+      "totalLinesRemoved": 457,
+      "totalActiveTime": 9,
       "files": {
         "/Users/momahboobian/Downloads/American Hostage (2026) - S01E01.fa.srt": [
           {
@@ -410,6 +410,100 @@
             },
             "duration": 1,
             "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/yesalert/GroupService.ts": [
+          {
+            "timestamp": "2026-09-21T16:42:46.595Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/yesalert/GroupService.ts",
+            "fileType": ".ts",
+            "linesAdded": 911,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/high-risk-schema/definitions/yesalert.js": [
+          {
+            "timestamp": "2026-09-21T16:42:48.680Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/high-risk-schema/definitions/yesalert.js",
+            "fileType": ".js",
+            "linesAdded": 1064,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/__mocks__/services/yesalert/MockPermissionsService.ts": [
+          {
+            "timestamp": "2026-09-21T16:43:21.470Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/__mocks__/services/yesalert/MockPermissionsService.ts",
+            "fileType": ".ts",
+            "linesAdded": 197,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/yesalert/PermissionService.ts": [
+          {
+            "timestamp": "2026-09-21T16:43:45.307Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/yesalert/PermissionService.ts",
+            "fileType": ".ts",
+            "linesAdded": 715,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/providers/UserProvider.tsx": [
+          {
+            "timestamp": "2026-09-21T16:45:07.318Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/providers/UserProvider.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 199,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-09-21T16:45:25.780Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/providers/UserProvider.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ]
       },
