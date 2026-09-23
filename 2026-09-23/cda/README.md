@@ -4,9 +4,9 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 25503                                          |
-| **Lines Removed** (➖) | 116                                        |
-| **Net Change** (↕)    | 25387                |
+| **Lines Added** (➕)   | 26161                                          |
+| **Lines Removed** (➖) | 117                                        |
+| **Net Change** (↕)    | 26044                |
 | **Active Time** (⌚)   | 83 minutes |
 
 
@@ -14,7 +14,7 @@
 - **.env** (+126, -0)
 - **NewGroupPanel.tsx** (+411, -0)
 - **NewGroupPanel.test.tsx** (+580, -41)
-- **NewGroup.tsx** (+638, -0)
+- **NewGroup.tsx** (+675, -0)
 - **GroupService.test.ts** (+1, -0)
 - **MockGroupMemberService.ts** (+113, -0)
 - **types.ts** (+79, -0)
@@ -31,11 +31,12 @@
 - **OwnershipMarker.scss** (+32, -25)
 - **index.ts** (+3, -0)
 - **Alerts.test.tsx** (+0, -1)
-- **PermissionService.test.ts** (+2170, -0)
+- **PermissionService.test.ts** (+2497, -0)
 - **yesalert.ts** (+35, -0)
 - **RouteWrapper.test.tsx** (+268, -0)
-- **RouteWrapper.tsx** (+219, -0)
+- **RouteWrapper.tsx** (+219, -1)
 - **UserProvider.tsx** (+5, -0)
+- **App.tsx** (+294, -0)
 
 ## Visualizations
 
@@ -45,8 +46,8 @@
 pie showData
 title Lines changed by file type
 "unknown" : 126
-".tsx" : 3889
-".ts" : 21547
+".tsx" : 4221
+".ts" : 21874
 ".scss" : 57
 ```
 
@@ -58,7 +59,8 @@ title Coding activity by hour (count of changes)
 "09h" : 18
 "10h" : 30
 "11h" : 10
+"12h" : 4
 ```
 
 
-> **Last Updated:** 23/09/2026, 11:51:21
+> **Last Updated:** 23/09/2026, 12:06:21
