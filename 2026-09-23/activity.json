@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 22782,
-      "totalLinesRemoved": 93,
-      "totalActiveTime": 54,
+      "totalLinesRemoved": 107,
+      "totalActiveTime": 60,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/.env": [
           {
@@ -312,6 +312,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2026-09-23T09:38:05.297Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/Group/Group.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 7,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "tsx"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/Alerts/Alerts.tsx": [
@@ -341,6 +355,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-09-23T09:40:57.668Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/Alerts/Alerts.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 7,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "tsx"
           }
         ],
