@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 35365                                          |
-| **Lines Removed** (➖) | 459                                        |
-| **Net Change** (↕)    | 34906                |
-| **Active Time** (⌚)   | 177 minutes |
+| **Lines Added** (➕)   | 35647                                          |
+| **Lines Removed** (➖) | 522                                        |
+| **Net Change** (↕)    | 35125                |
+| **Active Time** (⌚)   | 184 minutes |
 
 
 ## Modified Files
@@ -21,11 +21,11 @@
 - **PeopleViewComparison.tsx** (+180, -0)
 - **gql.ts** (+460, -0)
 - **graphql.ts** (+7798, -2)
-- **UserProvider.test.tsx** (+688, -61)
+- **UserProvider.test.tsx** (+749, -122)
 - **groups.ts** (+171, -0)
 - **graphql.ts** (+10717, -0)
-- **Group.tsx** (+249, -35)
-- **Alerts.tsx** (+1083, -17)
+- **Group.tsx** (+468, -35)
+- **Alerts.tsx** (+1085, -19)
 - **Group.test.tsx** (+332, -19)
 - **OwnershipMarker.tsx** (+26, -6)
 - **OwnershipMarker.scss** (+32, -25)
@@ -61,7 +61,7 @@
 pie showData
 title Lines changed by file type
 "unknown" : 128
-".tsx" : 5794
+".tsx" : 6139
 ".ts" : 28365
 ".scss" : 57
 ".js" : 1408
@@ -82,8 +82,8 @@ title Coding activity by hour (count of changes)
 "15h" : 2
 "17h" : 11
 "21h" : 2
-"22h" : 12
+"22h" : 18
 ```
 
 
-> **Last Updated:** 23/09/2026, 22:44:12
+> **Last Updated:** 23/09/2026, 22:59:12
