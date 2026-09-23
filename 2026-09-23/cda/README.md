@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 29725                                          |
+| **Lines Added** (➕)   | 32913                                          |
 | **Lines Removed** (➖) | 459                                        |
-| **Net Change** (↕)    | 29266                |
-| **Active Time** (⌚)   | 174 minutes |
+| **Net Change** (↕)    | 32454                |
+| **Active Time** (⌚)   | 175 minutes |
 
 
 ## Modified Files
@@ -15,7 +15,7 @@
 - **NewGroupPanel.tsx** (+411, -0)
 - **NewGroupPanel.test.tsx** (+580, -41)
 - **NewGroup.tsx** (+675, -0)
-- **GroupService.test.ts** (+2, -36)
+- **GroupService.test.ts** (+2115, -36)
 - **MockGroupMemberService.ts** (+113, -0)
 - **types.ts** (+79, -0)
 - **PeopleViewComparison.tsx** (+180, -0)
@@ -48,7 +48,7 @@
 - **groupOwnership.ts** (+8, -0)
 - **ReportingService.test.ts** (+320, -0)
 - **HEAD** (+2, -0)
-- **yesalert.js** (+9, -0)
+- **yesalert.js** (+1084, -0)
 - **20260923123746-create-yesalert-groups-view.js** (+66, -0)
 - **20260923123747-create-yesalert-groups-view.js** (+66, -0)
 
@@ -61,9 +61,9 @@ pie showData
 title Lines changed by file type
 "unknown" : 128
 ".tsx" : 5225
-".ts" : 24441
+".ts" : 26554
 ".scss" : 57
-".js" : 333
+".js" : 1408
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -80,8 +80,8 @@ title Coding activity by hour (count of changes)
 "15h" : 2
 "17h" : 11
 "21h" : 2
-"22h" : 6
+"22h" : 8
 ```
 
 
-> **Last Updated:** 23/09/2026, 22:34:12
+> **Last Updated:** 23/09/2026, 22:39:12
