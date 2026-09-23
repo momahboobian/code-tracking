@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 26253,
-      "totalLinesRemoved": 131,
-      "totalActiveTime": 100,
+      "totalLinesRemoved": 175,
+      "totalActiveTime": 105,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/.env": [
           {
@@ -1081,6 +1081,20 @@
               "removed": []
             },
             "duration": 3,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-09-23T12:45:44.478Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-db-migration/src/migrations/sap/views/20260923123744-create-yesalert-groups-view.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 44,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "js"
           }
         ]
