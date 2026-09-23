@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2128                                          |
+| **Lines Added** (➕)   | 21604                                          |
 | **Lines Removed** (➖) | 41                                        |
-| **Net Change** (↕)    | 2087                |
-| **Active Time** (⌚)   | 16 minutes |
+| **Net Change** (↕)    | 21563                |
+| **Active Time** (⌚)   | 25 minutes |
 
 
 ## Modified Files
@@ -19,6 +19,11 @@
 - **MockGroupMemberService.ts** (+113, -0)
 - **types.ts** (+79, -0)
 - **PeopleViewComparison.tsx** (+180, -0)
+- **gql.ts** (+460, -0)
+- **graphql.ts** (+7798, -0)
+- **UserProvider.test.tsx** (+330, -0)
+- **groups.ts** (+171, -0)
+- **graphql.ts** (+10717, -0)
 
 ## Visualizations
 
@@ -28,8 +33,8 @@
 pie showData
 title Lines changed by file type
 "unknown" : 126
-".tsx" : 1850
-".ts" : 193
+".tsx" : 2180
+".ts" : 19339
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -37,8 +42,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"09h" : 10
+"09h" : 15
 ```
 
 
-> **Last Updated:** 23/09/2026, 09:26:21
+> **Last Updated:** 23/09/2026, 09:31:21
