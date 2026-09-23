@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 32913                                          |
+| **Lines Added** (➕)   | 35365                                          |
 | **Lines Removed** (➖) | 459                                        |
-| **Net Change** (↕)    | 32454                |
-| **Active Time** (⌚)   | 175 minutes |
+| **Net Change** (↕)    | 34906                |
+| **Active Time** (⌚)   | 177 minutes |
 
 
 ## Modified Files
@@ -30,14 +30,14 @@
 - **OwnershipMarker.tsx** (+26, -6)
 - **OwnershipMarker.scss** (+32, -25)
 - **index.ts** (+3, -0)
-- **Alerts.test.tsx** (+0, -1)
+- **Alerts.test.tsx** (+569, -1)
 - **PermissionService.test.ts** (+2499, -51)
-- **yesalert.ts** (+69, -49)
+- **yesalert.ts** (+978, -49)
 - **RouteWrapper.test.tsx** (+268, -0)
 - **RouteWrapper.tsx** (+219, -19)
 - **UserProvider.tsx** (+5, -16)
 - **App.tsx** (+294, -0)
-- **GroupService.ts** (+6, -19)
+- **GroupService.ts** (+908, -19)
 - **20260923123744-create-yesalert-groups-view.js** (+92, -44)
 - **sap_views.ts** (+1875, -2)
 - **PermissionService.ts** (+77, -0)
@@ -51,6 +51,7 @@
 - **yesalert.js** (+1084, -0)
 - **20260923123746-create-yesalert-groups-view.js** (+66, -0)
 - **20260923123747-create-yesalert-groups-view.js** (+66, -0)
+- **package.json** (+72, -0)
 
 ## Visualizations
 
@@ -60,10 +61,11 @@
 pie showData
 title Lines changed by file type
 "unknown" : 128
-".tsx" : 5225
-".ts" : 26554
+".tsx" : 5794
+".ts" : 28365
 ".scss" : 57
 ".js" : 1408
+".json" : 72
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -80,8 +82,8 @@ title Coding activity by hour (count of changes)
 "15h" : 2
 "17h" : 11
 "21h" : 2
-"22h" : 8
+"22h" : 12
 ```
 
 
-> **Last Updated:** 23/09/2026, 22:39:12
+> **Last Updated:** 23/09/2026, 22:44:12
