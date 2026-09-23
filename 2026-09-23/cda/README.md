@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 28704                                          |
-| **Lines Removed** (➖) | 245                                        |
-| **Net Change** (↕)    | 28459                |
-| **Active Time** (⌚)   | 140 minutes |
+| **Lines Added** (➕)   | 28715                                          |
+| **Lines Removed** (➖) | 459                                        |
+| **Net Change** (↕)    | 28256                |
+| **Active Time** (⌚)   | 170 minutes |
 
 
 ## Modified Files
@@ -15,29 +15,29 @@
 - **NewGroupPanel.tsx** (+411, -0)
 - **NewGroupPanel.test.tsx** (+580, -41)
 - **NewGroup.tsx** (+675, -0)
-- **GroupService.test.ts** (+2, -0)
+- **GroupService.test.ts** (+2, -36)
 - **MockGroupMemberService.ts** (+113, -0)
 - **types.ts** (+79, -0)
 - **PeopleViewComparison.tsx** (+180, -0)
 - **gql.ts** (+460, -0)
 - **graphql.ts** (+7798, -2)
-- **UserProvider.test.tsx** (+344, -0)
+- **UserProvider.test.tsx** (+344, -61)
 - **groups.ts** (+171, -0)
 - **graphql.ts** (+10717, -0)
-- **Group.tsx** (+249, -30)
-- **Alerts.tsx** (+549, -15)
-- **Group.test.tsx** (+332, -1)
+- **Group.tsx** (+249, -35)
+- **Alerts.tsx** (+549, -17)
+- **Group.test.tsx** (+332, -19)
 - **OwnershipMarker.tsx** (+26, -6)
 - **OwnershipMarker.scss** (+32, -25)
 - **index.ts** (+3, -0)
 - **Alerts.test.tsx** (+0, -1)
 - **PermissionService.test.ts** (+2499, -51)
-- **yesalert.ts** (+69, -0)
+- **yesalert.ts** (+69, -49)
 - **RouteWrapper.test.tsx** (+268, -0)
-- **RouteWrapper.tsx** (+219, -1)
-- **UserProvider.tsx** (+5, -0)
+- **RouteWrapper.tsx** (+219, -19)
+- **UserProvider.tsx** (+5, -16)
 - **App.tsx** (+294, -0)
-- **GroupService.ts** (+6, -10)
+- **GroupService.ts** (+6, -19)
 - **20260923123744-create-yesalert-groups-view.js** (+92, -44)
 - **sap_views.ts** (+1875, -2)
 - **PermissionService.ts** (+77, -0)
@@ -47,6 +47,8 @@
 - **20260923123745-create-yesalert-groups-view.js** (+52, -4)
 - **groupOwnership.ts** (+8, -0)
 - **ReportingService.test.ts** (+320, -0)
+- **HEAD** (+2, -0)
+- **yesalert.js** (+9, -0)
 
 ## Visualizations
 
@@ -55,11 +57,11 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-"unknown" : 126
-".tsx" : 4227
-".ts" : 24347
+"unknown" : 128
+".tsx" : 4347
+".ts" : 24441
 ".scss" : 57
-".js" : 192
+".js" : 201
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -74,7 +76,8 @@ title Coding activity by hour (count of changes)
 "13h" : 14
 "14h" : 24
 "15h" : 2
+"17h" : 11
 ```
 
 
-> **Last Updated:** 23/09/2026, 15:41:21
+> **Last Updated:** 23/09/2026, 17:11:21
