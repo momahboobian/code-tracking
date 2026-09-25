@@ -4,26 +4,26 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 62194                                          |
-| **Lines Removed** (➖) | 955                                        |
-| **Net Change** (↕)    | 61239                |
-| **Active Time** (⌚)   | 114 minutes |
+| **Lines Added** (➕)   | 62302                                          |
+| **Lines Removed** (➖) | 970                                        |
+| **Net Change** (↕)    | 61332                |
+| **Active Time** (⌚)   | 124 minutes |
 
 
 ## Modified Files
-- **Alerts.tsx** (+28, -28)
+- **Alerts.tsx** (+30, -28)
 - **UserProvider.test.tsx** (+47, -108)
-- **Group.tsx** (+62, -62)
+- **Group.tsx** (+64, -62)
 - **20260923123748-create-yesalert-groups-view.js** (+68, -0)
 - **graphql.ts** (+7987, -372)
 - **RouteWrapper.tsx** (+200, -0)
 - **RouteWrapper.test.tsx** (+232, -0)
-- **Group.test.tsx** (+313, -0)
-- **Alerts.test.tsx** (+0, -15)
+- **Group.test.tsx** (+331, -0)
+- **Alerts.test.tsx** (+15, -15)
 - **PeopleViewComparison.tsx** (+180, -0)
 - **gql.ts** (+478, -0)
 - **NewAlert.test.tsx** (+506, -0)
-- **GroupAdminsTable.test.tsx** (+267, -24)
+- **GroupAdminsTable.test.tsx** (+291, -24)
 - **GroupAdminsTable.tsx** (+216, -0)
 - **GroupService.ts** (+30, -30)
 - **yesalert.js** (+2, -2)
@@ -40,7 +40,9 @@
 - **ReportingService.test.ts** (+321, -0)
 - **tables.ts** (+8091, -0)
 - **views.ts** (+11241, -0)
-- **OwnershipMarker.scss** (+7, -0)
+- **OwnershipMarker.scss** (+7, -1)
+- **OwnershipMarker.tsx** (+15, -0)
+- **Group.scss** (+32, -14)
 
 ## Visualizations
 
@@ -49,10 +51,10 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 2497
+".tsx" : 2573
 ".js" : 72
 ".ts" : 60573
-".scss" : 7
+".scss" : 54
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -63,8 +65,8 @@ title Coding activity by hour (count of changes)
 "09h" : 3
 "10h" : 52
 "11h" : 38
-"12h" : 7
+"12h" : 16
 ```
 
 
-> **Last Updated:** 25/09/2026, 12:39:58
+> **Last Updated:** 25/09/2026, 12:44:58
