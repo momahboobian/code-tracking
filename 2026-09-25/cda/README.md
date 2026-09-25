@@ -4,16 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 22267                                          |
-| **Lines Removed** (➖) | 490                                        |
-| **Net Change** (↕)    | 21777                |
-| **Active Time** (⌚)   | 71 minutes |
+| **Lines Added** (➕)   | 61972                                          |
+| **Lines Removed** (➖) | 748                                        |
+| **Net Change** (↕)    | 61224                |
+| **Active Time** (⌚)   | 103 minutes |
 
 
 ## Modified Files
-- **Alerts.tsx** (+14, -16)
+- **Alerts.tsx** (+26, -28)
 - **UserProvider.test.tsx** (+47, -108)
-- **Group.tsx** (+31, -36)
+- **Group.tsx** (+57, -62)
 - **20260923123748-create-yesalert-groups-view.js** (+68, -0)
 - **graphql.ts** (+7804, -189)
 - **RouteWrapper.tsx** (+200, -0)
@@ -25,16 +25,21 @@
 - **NewAlert.test.tsx** (+506, -0)
 - **GroupAdminsTable.test.tsx** (+243, -0)
 - **GroupAdminsTable.tsx** (+216, -0)
-- **GroupService.ts** (+15, -15)
-- **yesalert.js** (+1, -1)
-- **GroupService.test.ts** (+42, -42)
+- **GroupService.ts** (+30, -30)
+- **yesalert.js** (+2, -2)
+- **GroupService.test.ts** (+84, -84)
 - **graphql.ts** (+10775, -7)
 - **groups.ts** (+171, -1)
 - **UserProvider.tsx** (+198, -11)
 - **vite.config.ts** (+77, -0)
 - **types.ts** (+77, -0)
-- **yesalert.ts** (+49, -49)
-- **group-queries.ts** (+530, -0)
+- **yesalert.ts** (+98, -98)
+- **group-queries.ts** (+643, -113)
+- **resolvers-types.ts** (+17920, -0)
+- **sap_views.ts** (+1874, -0)
+- **ReportingService.test.ts** (+321, -0)
+- **tables.ts** (+8091, -0)
+- **views.ts** (+11241, -0)
 
 ## Visualizations
 
@@ -43,9 +48,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 2366
-".js" : 70
-".ts" : 20321
+".tsx" : 2442
+".js" : 72
+".ts" : 60206
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -55,7 +60,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "09h" : 3
 "10h" : 52
+"11h" : 36
 ```
 
 
-> **Last Updated:** 25/09/2026, 10:54:58
+> **Last Updated:** 25/09/2026, 11:39:58
