@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 61986                                          |
+| **Lines Added** (➕)   | 62193                                          |
 | **Lines Removed** (➖) | 748                                        |
-| **Net Change** (↕)    | 61238                |
-| **Active Time** (⌚)   | 103 minutes |
+| **Net Change** (↕)    | 61445                |
+| **Active Time** (⌚)   | 106 minutes |
 
 
 ## Modified Files
@@ -15,7 +15,7 @@
 - **UserProvider.test.tsx** (+47, -108)
 - **Group.tsx** (+62, -62)
 - **20260923123748-create-yesalert-groups-view.js** (+68, -0)
-- **graphql.ts** (+7804, -189)
+- **graphql.ts** (+7987, -189)
 - **RouteWrapper.tsx** (+200, -0)
 - **RouteWrapper.test.tsx** (+232, -0)
 - **Group.test.tsx** (+313, -0)
@@ -23,7 +23,7 @@
 - **PeopleViewComparison.tsx** (+180, -0)
 - **gql.ts** (+478, -0)
 - **NewAlert.test.tsx** (+506, -0)
-- **GroupAdminsTable.test.tsx** (+243, -0)
+- **GroupAdminsTable.test.tsx** (+267, -0)
 - **GroupAdminsTable.tsx** (+216, -0)
 - **GroupService.ts** (+30, -30)
 - **yesalert.js** (+2, -2)
@@ -49,9 +49,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 2449
+".tsx" : 2473
 ".js" : 72
-".ts" : 60206
+".ts" : 60389
 ".scss" : 7
 ```
 
@@ -63,8 +63,8 @@ title Coding activity by hour (count of changes)
 "09h" : 3
 "10h" : 52
 "11h" : 38
-"12h" : 1
+"12h" : 4
 ```
 
 
-> **Last Updated:** 25/09/2026, 12:14:58
+> **Last Updated:** 25/09/2026, 12:34:58
