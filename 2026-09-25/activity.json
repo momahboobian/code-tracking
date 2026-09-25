@@ -2,9 +2,9 @@
   "date": "2026-09-25",
   "projects": {
     "cda": {
-      "totalLinesAdded": 62341,
-      "totalLinesRemoved": 972,
-      "totalActiveTime": 131,
+      "totalLinesAdded": 62524,
+      "totalLinesRemoved": 996,
+      "totalActiveTime": 132,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/Alerts/Alerts.tsx": [
           {
@@ -588,6 +588,20 @@
             },
             "duration": 1,
             "language": "ts"
+          },
+          {
+            "timestamp": "2026-09-25T13:01:21.596Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/gql-generated/low-risk/graphql.ts",
+            "fileType": ".ts",
+            "linesAdded": 183,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/RouteWrapper/RouteWrapper.tsx": [
@@ -807,6 +821,20 @@
             "fileType": ".tsx",
             "linesAdded": 24,
             "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-09-25T13:01:26.736Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/components/GroupAdminsTable/GroupAdminsTable.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 24,
             "projectName": "cda",
             "content": {
               "added": [],
