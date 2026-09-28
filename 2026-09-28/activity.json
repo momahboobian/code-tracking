@@ -2,9 +2,9 @@
   "date": "2026-09-28",
   "projects": {
     "cda": {
-      "totalLinesAdded": 28727,
-      "totalLinesRemoved": 401,
-      "totalActiveTime": 112,
+      "totalLinesAdded": 28915,
+      "totalLinesRemoved": 434,
+      "totalActiveTime": 118,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/RouteWrapper/RouteWrapper.tsx": [
           {
@@ -1441,6 +1441,64 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/components/PlannedWorkTable/RecentPlannedWorkTable/RecentPlannedWorkTable.test.tsx": [
+          {
+            "timestamp": "2026-09-28T15:23:42.351Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/components/PlannedWorkTable/RecentPlannedWorkTable/RecentPlannedWorkTable.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 185,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-09-28T15:24:16.968Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/components/PlannedWorkTable/RecentPlannedWorkTable/RecentPlannedWorkTable.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-09-28T15:24:52.939Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/components/PlannedWorkTable/RecentPlannedWorkTable/RecentPlannedWorkTable.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-09-28T15:26:29.558Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/components/PlannedWorkTable/RecentPlannedWorkTable/RecentPlannedWorkTable.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 33,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "tsx"
           }
         ]
