@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 22960                                          |
-| **Lines Removed** (➖) | 364                                        |
-| **Net Change** (↕)    | 22596                |
-| **Active Time** (⌚)   | 77 minutes |
+| **Lines Added** (➕)   | 25481                                          |
+| **Lines Removed** (➖) | 365                                        |
+| **Net Change** (↕)    | 25116                |
+| **Active Time** (⌚)   | 84 minutes |
 
 
 ## Modified Files
@@ -15,14 +15,14 @@
 - **ignore** (+14, -4)
 - **RouteWrapper.test.tsx** (+267, -35)
 - **settings.json** (+97, -5)
-- **Alerts.tsx** (+543, -4)
+- **Alerts.tsx** (+1075, -4)
 - **Alerts.scss** (+115, -14)
 - **.env** (+138, -0)
 - **index.ts** (+4, -1)
 - **package.json** (+72, -0)
 - **CrownIcon.tsx** (+8, -0)
 - **Group.tsx** (+219, -5)
-- **Alerts.test.tsx** (+605, -6)
+- **Alerts.test.tsx** (+1159, -6)
 - **AlertAccessMarker.test.tsx** (+31, -0)
 - **AlertAccessMarker.scss** (+10, -0)
 - **GroupAdminsTable.test.tsx** (+521, -278)
@@ -34,7 +34,9 @@
 - **graphql.ts** (+10769, -0)
 - **NewAlert.test.tsx** (+508, -2)
 - **APICheckerAddresses.tsx** (+63, -0)
-- **DeduplicatedSiteRequestsTable.tsx** (+162, -0)
+- **DeduplicatedSiteRequestsTable.tsx** (+164, -0)
+- **group-queries.ts** (+530, -0)
+- **GroupService.ts** (+903, -1)
 
 ## Visualizations
 
@@ -43,11 +45,11 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 4296
+".tsx" : 5384
 "unknown" : 156
 ".json" : 174
 ".scss" : 139
-".ts" : 18559
+".ts" : 19993
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -60,8 +62,8 @@ title Coding activity by hour (count of changes)
 "11h" : 6
 "12h" : 25
 "13h" : 21
-"14h" : 2
+"14h" : 9
 ```
 
 
-> **Last Updated:** 28/09/2026, 14:22:26
+> **Last Updated:** 28/09/2026, 14:32:26
