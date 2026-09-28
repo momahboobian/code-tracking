@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 25756                                          |
-| **Lines Removed** (➖) | 367                                        |
-| **Net Change** (↕)    | 25389                |
-| **Active Time** (⌚)   | 88 minutes |
+| **Lines Added** (➕)   | 26703                                          |
+| **Lines Removed** (➖) | 373                                        |
+| **Net Change** (↕)    | 26330                |
+| **Active Time** (⌚)   | 96 minutes |
 
 
 ## Modified Files
@@ -38,7 +38,10 @@
 - **group-queries.ts** (+530, -0)
 - **GroupService.ts** (+903, -1)
 - **DeduplicatedSiteRequestsTable.scss** (+11, -0)
-- **FaultsTable.tsx** (+264, -0)
+- **FaultsTable.tsx** (+273, -6)
+- **package.json** (+78, -0)
+- **SiteRecentIncidents.tsx** (+264, -0)
+- **Incidents.tsx** (+596, -0)
 
 ## Visualizations
 
@@ -47,9 +50,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 5650
+".tsx" : 6525
 "unknown" : 156
-".json" : 174
+".json" : 252
 ".scss" : 150
 ".ts" : 19993
 ```
@@ -65,8 +68,8 @@ title Coding activity by hour (count of changes)
 "12h" : 25
 "13h" : 21
 "14h" : 11
-"15h" : 1
+"15h" : 8
 ```
 
 
-> **Last Updated:** 28/09/2026, 15:12:26
+> **Last Updated:** 28/09/2026, 15:52:26
