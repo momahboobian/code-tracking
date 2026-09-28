@@ -2,9 +2,9 @@
   "date": "2026-09-28",
   "projects": {
     "cda": {
-      "totalLinesAdded": 26990,
+      "totalLinesAdded": 27297,
       "totalLinesRemoved": 373,
-      "totalActiveTime": 99,
+      "totalActiveTime": 101,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/RouteWrapper/RouteWrapper.tsx": [
           {
@@ -1257,6 +1257,38 @@
               "removed": []
             },
             "duration": 3,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/containers/Home/Home.tsx": [
+          {
+            "timestamp": "2026-09-28T15:02:36.413Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/containers/Home/Home.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 232,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/components/QuickSearch/QuickSearch.tsx": [
+          {
+            "timestamp": "2026-09-28T15:02:36.415Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/components/QuickSearch/QuickSearch.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 75,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "tsx"
           }
         ]
