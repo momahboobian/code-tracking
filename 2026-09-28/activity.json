@@ -2,9 +2,9 @@
   "date": "2026-09-28",
   "projects": {
     "cda": {
-      "totalLinesAdded": 22735,
+      "totalLinesAdded": 22960,
       "totalLinesRemoved": 364,
-      "totalActiveTime": 76,
+      "totalActiveTime": 77,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/RouteWrapper/RouteWrapper.tsx": [
           {
@@ -937,6 +937,38 @@
             "fileType": ".tsx",
             "linesAdded": 0,
             "linesRemoved": 2,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/components/APICheckerAddresses/APICheckerAddresses.tsx": [
+          {
+            "timestamp": "2026-09-28T13:20:49.942Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/components/APICheckerAddresses/APICheckerAddresses.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 63,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/components/DeduplicatedSiteRequestsTable/DeduplicatedSiteRequestsTable.tsx": [
+          {
+            "timestamp": "2026-09-28T13:20:57.071Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/components/DeduplicatedSiteRequestsTable/DeduplicatedSiteRequestsTable.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 162,
+            "linesRemoved": 0,
             "projectName": "cda",
             "content": {
               "added": [],
