@@ -5,8 +5,8 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 25492                                          |
-| **Lines Removed** (➖) | 365                                        |
-| **Net Change** (↕)    | 25127                |
+| **Lines Removed** (➖) | 367                                        |
+| **Net Change** (↕)    | 25125                |
 | **Active Time** (⌚)   | 88 minutes |
 
 
@@ -34,7 +34,7 @@
 - **graphql.ts** (+10769, -0)
 - **NewAlert.test.tsx** (+508, -2)
 - **APICheckerAddresses.tsx** (+63, -0)
-- **DeduplicatedSiteRequestsTable.tsx** (+164, -0)
+- **DeduplicatedSiteRequestsTable.tsx** (+164, -2)
 - **group-queries.ts** (+530, -0)
 - **GroupService.ts** (+903, -1)
 - **DeduplicatedSiteRequestsTable.scss** (+11, -0)
@@ -46,7 +46,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 5384
+".tsx" : 5386
 "unknown" : 156
 ".json" : 174
 ".scss" : 150
@@ -63,8 +63,8 @@ title Coding activity by hour (count of changes)
 "11h" : 6
 "12h" : 25
 "13h" : 21
-"14h" : 10
+"14h" : 11
 ```
 
 
-> **Last Updated:** 28/09/2026, 14:37:26
+> **Last Updated:** 28/09/2026, 14:42:26
