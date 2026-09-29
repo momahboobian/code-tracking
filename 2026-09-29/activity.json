@@ -2,7 +2,7 @@
   "date": "2026-09-29",
   "projects": {
     "cda": {
-      "totalLinesAdded": 63692,
+      "totalLinesAdded": 71307,
       "totalLinesRemoved": 79,
       "totalActiveTime": 64,
       "files": {
@@ -817,6 +817,22 @@
               "removed": []
             },
             "duration": 3,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/gql-generated/low-risk/graphql.ts": [
+          {
+            "timestamp": "2026-09-29T16:23:50.469Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/gql-generated/low-risk/graphql.ts",
+            "fileType": ".ts",
+            "linesAdded": 7615,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "ts"
           }
         ]
