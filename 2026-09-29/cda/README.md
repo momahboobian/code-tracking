@@ -4,14 +4,14 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3029                                          |
+| **Lines Added** (➕)   | 3050                                          |
 | **Lines Removed** (➖) | 74                                        |
-| **Net Change** (↕)    | 2955                |
+| **Net Change** (↕)    | 2976                |
 | **Active Time** (⌚)   | 30 minutes |
 
 
 ## Modified Files
-- **FaultsTable.tsx** (+267, -10)
+- **FaultsTable.tsx** (+272, -10)
 - **FaultsTable.test.tsx** (+0, -16)
 - **package.json** (+78, -0)
 - **Home.scss** (+16, -5)
@@ -20,12 +20,12 @@
 - **SiteServices.test.tsx** (+128, -0)
 - **HistoricPlannedWorkTable.tsx** (+175, -0)
 - **RecentPlannedWorkTable.tsx** (+426, -0)
-- **RequestsTable.tsx** (+238, -5)
-- **DeduplicatedSiteRequestsTable.tsx** (+163, -1)
+- **RequestsTable.tsx** (+243, -5)
+- **DeduplicatedSiteRequestsTable.tsx** (+164, -1)
 - **AggregatedRequestsTable.tsx** (+170, -0)
 - **CrawlersTable.tsx** (+184, -0)
-- **Home.test.tsx** (+323, -36)
-- **Repeats.tsx** (+348, -1)
+- **Home.test.tsx** (+332, -36)
+- **Repeats.tsx** (+349, -1)
 
 ## Visualizations
 
@@ -34,7 +34,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 3004
+".tsx" : 3025
 ".json" : 78
 ".scss" : 21
 ```
@@ -48,7 +48,8 @@ title Coding activity by hour (count of changes)
 "12h" : 3
 "13h" : 7
 "14h" : 9
+"15h" : 5
 ```
 
 
-> **Last Updated:** 29/09/2026, 14:43:32
+> **Last Updated:** 29/09/2026, 15:23:32
