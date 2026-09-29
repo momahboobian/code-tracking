@@ -2,9 +2,9 @@
   "date": "2026-09-29",
   "projects": {
     "cda": {
-      "totalLinesAdded": 998,
+      "totalLinesAdded": 2354,
       "totalLinesRemoved": 22,
-      "totalActiveTime": 8,
+      "totalActiveTime": 13,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/components/FaultsTable/FaultsTable.tsx": [
           {
@@ -157,6 +157,102 @@
               "removed": []
             },
             "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/components/PlannedWorkTable/HistoricPlannedWorkTable/HistoricPlannedWorkTable.tsx": [
+          {
+            "timestamp": "2026-09-29T12:31:18.451Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/components/PlannedWorkTable/HistoricPlannedWorkTable/HistoricPlannedWorkTable.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 175,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/components/PlannedWorkTable/RecentPlannedWorkTable/RecentPlannedWorkTable.tsx": [
+          {
+            "timestamp": "2026-09-29T12:31:18.454Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/components/PlannedWorkTable/RecentPlannedWorkTable/RecentPlannedWorkTable.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 426,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/components/RequestsTable/RequestsTable.tsx": [
+          {
+            "timestamp": "2026-09-29T12:32:34.536Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/components/RequestsTable/RequestsTable.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 238,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/components/DeduplicatedSiteRequestsTable/DeduplicatedSiteRequestsTable.tsx": [
+          {
+            "timestamp": "2026-09-29T12:32:34.546Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/components/DeduplicatedSiteRequestsTable/DeduplicatedSiteRequestsTable.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 163,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/components/AggregatedRequestsTable/AggregatedRequestsTable.tsx": [
+          {
+            "timestamp": "2026-09-29T12:32:34.547Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/components/AggregatedRequestsTable/AggregatedRequestsTable.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 170,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/components/CrawlersTable/CrawlersTable.tsx": [
+          {
+            "timestamp": "2026-09-29T12:32:34.548Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/components/CrawlersTable/CrawlersTable.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 184,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "tsx"
           }
         ]
