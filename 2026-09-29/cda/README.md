@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3050                                          |
-| **Lines Removed** (➖) | 74                                        |
-| **Net Change** (↕)    | 2976                |
-| **Active Time** (⌚)   | 30 minutes |
+| **Lines Added** (➕)   | 39378                                          |
+| **Lines Removed** (➖) | 79                                        |
+| **Net Change** (↕)    | 39299                |
+| **Active Time** (⌚)   | 43 minutes |
 
 
 ## Modified Files
@@ -26,6 +26,13 @@
 - **CrawlersTable.tsx** (+184, -0)
 - **Home.test.tsx** (+332, -36)
 - **Repeats.tsx** (+349, -1)
+- **resolvers-types.ts** (+13455, -4)
+- **yesalert.js** (+1076, -1)
+- **PermissionService.ts** (+792, -0)
+- **GroupService.ts** (+902, -0)
+- **MockPermissionsService.ts** (+207, -0)
+- **resolvers-types.ts** (+17928, -0)
+- **vulcan.ts** (+1968, -0)
 
 ## Visualizations
 
@@ -37,6 +44,8 @@ title Lines changed by file type
 ".tsx" : 3025
 ".json" : 78
 ".scss" : 21
+".ts" : 35256
+".js" : 1077
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -48,8 +57,8 @@ title Coding activity by hour (count of changes)
 "12h" : 3
 "13h" : 7
 "14h" : 9
-"15h" : 5
+"15h" : 16
 ```
 
 
-> **Last Updated:** 29/09/2026, 15:23:32
+> **Last Updated:** 29/09/2026, 15:33:32
