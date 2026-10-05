@@ -2,7 +2,7 @@
   "date": "2026-10-05",
   "projects": {
     "cda": {
-      "totalLinesAdded": 398,
+      "totalLinesAdded": 734,
       "totalLinesRemoved": 0,
       "totalActiveTime": 5,
       "files": {
@@ -102,6 +102,22 @@
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/components/AdminRoute/AdminRoute.test.tsx",
             "fileType": ".tsx",
             "linesAdded": 50,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/App.tsx": [
+          {
+            "timestamp": "2026-10-05T11:13:42.232Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 336,
             "linesRemoved": 0,
             "projectName": "cda",
             "content": {
