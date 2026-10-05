@@ -2,7 +2,7 @@
   "date": "2026-10-05",
   "projects": {
     "cda": {
-      "totalLinesAdded": 802,
+      "totalLinesAdded": 827,
       "totalLinesRemoved": 0,
       "totalActiveTime": 7,
       "files": {
@@ -141,6 +141,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-10-05T11:22:50.636Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/components/AppAccess/AppAccess.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 25,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ]
