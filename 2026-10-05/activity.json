@@ -2,7 +2,7 @@
   "date": "2026-10-05",
   "projects": {
     "cda": {
-      "totalLinesAdded": 294,
+      "totalLinesAdded": 347,
       "totalLinesRemoved": 0,
       "totalActiveTime": 3,
       "files": {
@@ -64,6 +64,22 @@
             },
             "duration": 1,
             "language": "scss"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/providers/UserProvider.tsx": [
+          {
+            "timestamp": "2026-10-05T10:29:56.468Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/providers/UserProvider.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 53,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
           }
         ]
       },
