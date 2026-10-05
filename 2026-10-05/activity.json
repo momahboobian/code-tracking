@@ -2,9 +2,9 @@
   "date": "2026-10-05",
   "projects": {
     "cda": {
-      "totalLinesAdded": 827,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 7,
+      "totalLinesAdded": 966,
+      "totalLinesRemoved": 15,
+      "totalActiveTime": 15,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/Group/Group.tsx": [
           {
@@ -155,6 +155,50 @@
               "removed": []
             },
             "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/providers/UserProvider.test.tsx": [
+          {
+            "timestamp": "2026-10-05T11:27:15.559Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/providers/UserProvider.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 124,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-10-05T11:27:50.089Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/providers/UserProvider.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 15,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-10-05T11:28:59.968Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/providers/UserProvider.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 15,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "tsx"
           }
         ]
