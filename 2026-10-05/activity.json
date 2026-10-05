@@ -2,8 +2,8 @@
   "date": "2026-10-05",
   "projects": {
     "cda": {
-      "totalLinesAdded": 1258,
-      "totalLinesRemoved": 35,
+      "totalLinesAdded": 1275,
+      "totalLinesRemoved": 53,
       "totalActiveTime": 18,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/Group/Group.tsx": [
@@ -101,6 +101,20 @@
             "fileType": ".tsx",
             "linesAdded": 0,
             "linesRemoved": 17,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-10-05T13:53:31.344Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/providers/UserProvider.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 17,
+            "linesRemoved": 0,
             "projectName": "cda",
             "content": {
               "added": [],
@@ -271,6 +285,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-10-05T13:53:31.339Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/components/FaultsTable/FaultsTable.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 18,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ]
