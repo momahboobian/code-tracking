@@ -2,9 +2,9 @@
   "date": "2026-10-05",
   "projects": {
     "cda": {
-      "totalLinesAdded": 1400,
-      "totalLinesRemoved": 115,
-      "totalActiveTime": 29,
+      "totalLinesAdded": 1791,
+      "totalLinesRemoved": 134,
+      "totalActiveTime": 43,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/Group/Group.tsx": [
           {
@@ -150,6 +150,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2026-10-05T14:12:39.066Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/providers/UserProvider.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 17,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "tsx"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/components/AdminRoute/AdminRoute.test.tsx": [
@@ -251,6 +265,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-10-05T14:12:39.069Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "tsx"
           }
         ],
@@ -456,6 +484,54 @@
             },
             "duration": 3,
             "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/components/SkillTagAdmin/SkillImportPanel.test.tsx": [
+          {
+            "timestamp": "2026-10-05T14:14:12.070Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/components/SkillTagAdmin/SkillImportPanel.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 150,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/utils/skillImport/constants.ts": [
+          {
+            "timestamp": "2026-10-05T14:14:17.388Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/utils/skillImport/constants.ts",
+            "fileType": ".ts",
+            "linesAdded": 54,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/utils/skillImport/parseSkillWorkbook.test.ts": [
+          {
+            "timestamp": "2026-10-05T14:14:23.681Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/utils/skillImport/parseSkillWorkbook.test.ts",
+            "fileType": ".ts",
+            "linesAdded": 187,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ]
       },
