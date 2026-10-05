@@ -3,7 +3,7 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 1818,
-      "totalLinesRemoved": 134,
+      "totalLinesRemoved": 137,
       "totalActiveTime": 44,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/Group/Group.tsx": [
@@ -279,6 +279,20 @@
               "removed": []
             },
             "duration": 5,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-10-05T14:26:15.206Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ],
