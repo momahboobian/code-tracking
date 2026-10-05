@@ -2,9 +2,9 @@
   "date": "2026-10-05",
   "projects": {
     "cda": {
-      "totalLinesAdded": 1791,
+      "totalLinesAdded": 1818,
       "totalLinesRemoved": 134,
-      "totalActiveTime": 43,
+      "totalActiveTime": 44,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/Group/Group.tsx": [
           {
@@ -524,6 +524,22 @@
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/utils/skillImport/parseSkillWorkbook.test.ts",
             "fileType": ".ts",
             "linesAdded": 187,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/utils/skillImport/skillTemplate.test.ts": [
+          {
+            "timestamp": "2026-10-05T14:14:28.367Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/utils/skillImport/skillTemplate.test.ts",
+            "fileType": ".ts",
+            "linesAdded": 27,
             "linesRemoved": 0,
             "projectName": "cda",
             "content": {
