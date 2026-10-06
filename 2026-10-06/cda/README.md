@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 36915                                          |
-| **Lines Removed** (➖) | 230                                        |
-| **Net Change** (↕)    | 36685                |
-| **Active Time** (⌚)   | 87 minutes |
+| **Lines Added** (➕)   | 37371                                          |
+| **Lines Removed** (➖) | 241                                        |
+| **Net Change** (↕)    | 37130                |
+| **Active Time** (⌚)   | 93 minutes |
 
 
 ## Modified Files
@@ -39,6 +39,11 @@
 - **RequestsTable.test.tsx** (+132, -12)
 - **NoPermission.tsx** (+31, -9)
 - **AppAccess.test.tsx** (+104, -0)
+- **RequestsDotsChart.test.tsx** (+77, -11)
+- **FaultBars.scss** (+43, -0)
+- **RequestsDotsChart.tsx** (+282, -0)
+- **faultColours.ts** (+25, -0)
+- **RequestsDotsChart.scss** (+29, -0)
 
 ## Visualizations
 
@@ -48,8 +53,9 @@
 pie showData
 title Lines changed by file type
 ".js" : 1065
-".ts" : 34039
-".tsx" : 2041
+".ts" : 34064
+".tsx" : 2411
+".scss" : 72
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -60,8 +66,8 @@ title Coding activity by hour (count of changes)
 "10h" : 27
 "11h" : 23
 "13h" : 21
-"14h" : 5
+"14h" : 12
 ```
 
 
-> **Last Updated:** 06/10/2026, 14:46:06
+> **Last Updated:** 06/10/2026, 15:01:06
