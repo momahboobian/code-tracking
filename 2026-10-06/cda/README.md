@@ -5,9 +5,9 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 36404                                          |
-| **Lines Removed** (➖) | 173                                        |
-| **Net Change** (↕)    | 36231                |
-| **Active Time** (⌚)   | 71 minutes |
+| **Lines Removed** (➖) | 203                                        |
+| **Net Change** (↕)    | 36201                |
+| **Active Time** (⌚)   | 81 minutes |
 
 
 ## Modified Files
@@ -19,7 +19,7 @@
 - **SkillImportPanel.tsx** (+516, -69)
 - **downloadSkillTemplate.ts** (+16, -0)
 - **parseSkillWorkbook.ts** (+191, -0)
-- **SkillAdmin.tsx** (+139, -11)
+- **SkillAdmin.tsx** (+139, -19)
 - **SkillCreate.test.tsx** (+235, -0)
 - **graphql.ts** (+10088, -0)
 - **gql.ts** (+340, -0)
@@ -34,7 +34,7 @@
 - **FaultsTable.tsx** (+18, -18)
 - **GenerateSkillTemplateTab.tsx** (+116, -7)
 - **GenerateSkillTemplateTab.test.tsx** (+67, -9)
-- **SkillAdmin.test.tsx** (+107, -0)
+- **SkillAdmin.test.tsx** (+107, -22)
 
 ## Visualizations
 
@@ -45,7 +45,7 @@ pie showData
 title Lines changed by file type
 ".js" : 1065
 ".ts" : 34039
-".tsx" : 1473
+".tsx" : 1503
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -55,8 +55,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "10h" : 27
 "11h" : 23
-"13h" : 15
+"13h" : 17
 ```
 
 
-> **Last Updated:** 06/10/2026, 13:16:06
+> **Last Updated:** 06/10/2026, 13:21:06
