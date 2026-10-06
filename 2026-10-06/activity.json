@@ -2,9 +2,9 @@
   "date": "2026-10-06",
   "projects": {
     "cda": {
-      "totalLinesAdded": 37371,
-      "totalLinesRemoved": 241,
-      "totalActiveTime": 93,
+      "totalLinesAdded": 37382,
+      "totalLinesRemoved": 252,
+      "totalActiveTime": 98,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/skills/src/graphql/low-risk/queries.js": [
           {
@@ -1143,6 +1143,34 @@
           },
           {
             "timestamp": "2026-10-06T13:57:51.222Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/components/RequestsDotsChart/RequestsDotsChart.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 11,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-10-06T14:02:07.821Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/components/RequestsDotsChart/RequestsDotsChart.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-10-06T14:02:24.100Z",
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/components/RequestsDotsChart/RequestsDotsChart.test.tsx",
             "fileType": ".tsx",
             "linesAdded": 0,
