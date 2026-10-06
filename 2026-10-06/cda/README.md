@@ -4,9 +4,9 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 640                                          |
+| **Lines Added** (➕)   | 660                                          |
 | **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 640                |
+| **Net Change** (↕)    | 660                |
 | **Active Time** (⌚)   | 4 minutes |
 
 
@@ -14,6 +14,7 @@
 - **queries.js** (+537, -0)
 - **index.ts** (+3, -0)
 - **GenerateSkillTemplateTab.tsx** (+100, -0)
+- **parseSkillWorkbook.test.ts** (+20, -0)
 
 ## Visualizations
 
@@ -23,7 +24,7 @@
 pie showData
 title Lines changed by file type
 ".js" : 537
-".ts" : 3
+".ts" : 23
 ".tsx" : 100
 ```
 
@@ -32,8 +33,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"10h" : 5
+"10h" : 6
 ```
 
 
-> **Last Updated:** 06/10/2026, 10:29:24
+> **Last Updated:** 06/10/2026, 10:34:24
