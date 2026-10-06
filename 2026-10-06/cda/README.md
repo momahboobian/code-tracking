@@ -4,18 +4,18 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 37404                                          |
+| **Lines Added** (➕)   | 37968                                          |
 | **Lines Removed** (➖) | 253                                        |
-| **Net Change** (↕)    | 37151                |
-| **Active Time** (⌚)   | 106 minutes |
+| **Net Change** (↕)    | 37715                |
+| **Active Time** (⌚)   | 109 minutes |
 
 
 ## Modified Files
 - **queries.js** (+537, -0)
 - **index.ts** (+3, -0)
 - **GenerateSkillTemplateTab.tsx** (+109, -0)
-- **parseSkillWorkbook.test.ts** (+50, -3)
-- **SkillImportPanel.test.tsx** (+45, -1)
+- **parseSkillWorkbook.test.ts** (+292, -3)
+- **SkillImportPanel.test.tsx** (+309, -1)
 - **SkillImportPanel.tsx** (+538, -70)
 - **downloadSkillTemplate.ts** (+16, -0)
 - **parseSkillWorkbook.ts** (+191, -0)
@@ -29,7 +29,7 @@
 - **SkillTemplateService.ts** (+352, -0)
 - **resolvers-types.ts** (+13602, -0)
 - **skill-template-queries.test.ts** (+85, -0)
-- **SkillTemplateService.test.ts** (+192, -4)
+- **SkillTemplateService.test.ts** (+196, -4)
 - **App.tsx** (+3, -3)
 - **FaultsTable.tsx** (+18, -18)
 - **GenerateSkillTemplateTab.tsx** (+116, -7)
@@ -44,6 +44,7 @@
 - **RequestsDotsChart.tsx** (+282, -0)
 - **faultColours.ts** (+25, -0)
 - **RequestsDotsChart.scss** (+29, -0)
+- **constants.ts** (+54, -0)
 
 ## Visualizations
 
@@ -53,8 +54,8 @@
 pie showData
 title Lines changed by file type
 ".js" : 1065
-".ts" : 34064
-".tsx" : 2456
+".ts" : 34364
+".tsx" : 2720
 ".scss" : 72
 ```
 
@@ -68,7 +69,8 @@ title Coding activity by hour (count of changes)
 "13h" : 21
 "14h" : 12
 "15h" : 7
+"17h" : 4
 ```
 
 
-> **Last Updated:** 06/10/2026, 15:46:06
+> **Last Updated:** 06/10/2026, 17:06:06
