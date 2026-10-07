@@ -2,9 +2,9 @@
   "date": "2026-10-07",
   "projects": {
     "cda": {
-      "totalLinesAdded": 6967,
+      "totalLinesAdded": 7045,
       "totalLinesRemoved": 226,
-      "totalActiveTime": 26,
+      "totalActiveTime": 28,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/components/NewGroupPanel/NewGroupPanel.tsx": [
           {
@@ -534,6 +534,22 @@
             },
             "duration": 1,
             "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/package.json": [
+          {
+            "timestamp": "2026-10-07T14:21:13.168Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/package.json",
+            "fileType": ".json",
+            "linesAdded": 78,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
           }
         ]
       },
