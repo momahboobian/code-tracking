@@ -1,0 +1,81 @@
+{
+  "date": "2026-10-07",
+  "projects": {
+    "cda": {
+      "totalLinesAdded": 1625,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 2,
+      "files": {
+        "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/components/NewGroupPanel/NewGroupPanel.tsx": [
+          {
+            "timestamp": "2026-10-07T09:43:15.848Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/components/NewGroupPanel/NewGroupPanel.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 411,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/NewGroup/NewGroup.tsx": [
+          {
+            "timestamp": "2026-10-07T09:43:15.872Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/NewGroup/NewGroup.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 675,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/components/NewGroupPanel/NewGroupPanel.test.tsx": [
+          {
+            "timestamp": "2026-10-07T09:43:15.912Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/components/NewGroupPanel/NewGroupPanel.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 539,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "tsx": 2
+      },
+      "changeFrequency": {
+        "10": 2
+      },
+      "topFiles": [
+        "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/components/NewGroupPanel/NewGroupPanel.tsx",
+        "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/NewGroup/NewGroup.tsx",
+        "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/components/NewGroupPanel/NewGroupPanel.test.tsx"
+      ],
+      "averageChangeSize": 541.6666666666666
+    }
+  },
+  "totalActiveTime": 2,
+  "totalProjects": 1,
+  "totalFiles": 3,
+  "mostActiveHours": [
+    10
+  ],
+  "mostUsedLanguages": [
+    "tsx"
+  ]
+}
