@@ -4,23 +4,23 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 7045                                          |
+| **Lines Added** (➕)   | 7196                                          |
 | **Lines Removed** (➖) | 226                                        |
-| **Net Change** (↕)    | 6819                |
-| **Active Time** (⌚)   | 28 minutes |
+| **Net Change** (↕)    | 6970                |
+| **Active Time** (⌚)   | 33 minutes |
 
 
 ## Modified Files
 - **NewGroupPanel.tsx** (+411, -0)
 - **NewGroup.tsx** (+675, -0)
 - **NewGroupPanel.test.tsx** (+539, -0)
-- **SkillImportPanel.tsx** (+87, -174)
-- **skills.js** (+499, -13)
+- **SkillImportPanel.tsx** (+174, -174)
+- **skills.js** (+512, -13)
 - **skills.ts** (+390, -0)
-- **skill-queries.ts** (+776, -22)
+- **skill-queries.ts** (+798, -22)
 - **SkillGroups.test.ts** (+933, -0)
 - **transform-group-skill-progress.test.ts** (+152, -0)
-- **queries.js** (+537, -14)
+- **queries.js** (+551, -14)
 - **App.tsx** (+233, -0)
 - **GroupDetails.tsx** (+244, -0)
 - **GroupMembersList.tsx** (+76, -0)
@@ -39,6 +39,8 @@
 - **skill-export.test.ts** (+370, -0)
 - **SkillTemplateService.test.ts** (+6, -3)
 - **package.json** (+78, -0)
+- **RequestsTable.tsx** (+6, -0)
+- **NoPermission.tsx** (+9, -0)
 
 ## Visualizations
 
@@ -47,9 +49,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 3392
-".js" : 1063
-".ts" : 2656
+".tsx" : 3494
+".js" : 1090
+".ts" : 2678
 ".scss" : 82
 ".json" : 78
 ```
@@ -63,8 +65,8 @@ title Coding activity by hour (count of changes)
 "12h" : 24
 "13h" : 1
 "14h" : 2
-"15h" : 5
+"15h" : 11
 ```
 
 
-> **Last Updated:** 07/10/2026, 15:26:06
+> **Last Updated:** 07/10/2026, 15:46:06
