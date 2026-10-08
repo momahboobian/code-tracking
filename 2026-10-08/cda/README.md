@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1463                                          |
+| **Lines Added** (➕)   | 4963                                          |
 | **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 1463                |
-| **Active Time** (⌚)   | 3 minutes |
+| **Net Change** (↕)    | 4963                |
+| **Active Time** (⌚)   | 5 minutes |
 
 
 ## Modified Files
@@ -15,6 +15,8 @@
 - **PermissionService.ts** (+884, -0)
 - **policies.ts** (+26, -0)
 - **MockPermissionsService.ts** (+233, -0)
+- **CohortService.test.ts** (+677, -0)
+- **PermissionService.test.ts** (+2823, -0)
 
 ## Visualizations
 
@@ -23,7 +25,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 1463
+".ts" : 4963
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -31,8 +33,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"20h" : 4
+"20h" : 6
 ```
 
 
-> **Last Updated:** 08/10/2026, 20:54:51
+> **Last Updated:** 08/10/2026, 20:59:51
