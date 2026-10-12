@@ -329,6 +329,53 @@
         "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/package.json"
       ],
       "averageChangeSize": 72
+    },
+    "video-downloader": {
+      "totalLinesAdded": 106,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "/Volumes/docker/video-downloader/main.py": [
+          {
+            "timestamp": "2026-10-12T18:19:44.652Z",
+            "fileName": "/Volumes/docker/video-downloader/main.py",
+            "fileType": ".py",
+            "linesAdded": 98,
+            "linesRemoved": 0,
+            "projectName": "video-downloader",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-10-12T18:19:46.630Z",
+            "fileName": "/Volumes/docker/video-downloader/main.py",
+            "fileType": ".py",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "video-downloader",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ]
+      },
+      "languageStats": {
+        "py": 1
+      },
+      "changeFrequency": {
+        "19": 1
+      },
+      "topFiles": [
+        "/Volumes/docker/video-downloader/main.py"
+      ],
+      "averageChangeSize": 53
     }
   },
   "totalActiveTime": 0,
