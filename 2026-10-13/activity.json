@@ -2,8 +2,8 @@
   "date": "2026-10-13",
   "projects": {
     "cda": {
-      "totalLinesAdded": 2976,
-      "totalLinesRemoved": 385,
+      "totalLinesAdded": 2979,
+      "totalLinesRemoved": 388,
       "totalActiveTime": 89,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/components/AggregatedRequestsTable/AggregatedRequestsTable.tsx": [
@@ -274,6 +274,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2026-10-13T12:18:04.111Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/Cohorts/Cohorts.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/Cohorts/Cohorts.tsx": [
@@ -325,6 +339,20 @@
             "fileType": ".tsx",
             "linesAdded": 11,
             "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-10-13T12:18:04.118Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/Cohorts/Cohorts.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 3,
             "projectName": "cda",
             "content": {
               "added": [],
