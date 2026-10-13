@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2430                                          |
+| **Lines Added** (➕)   | 2481                                          |
 | **Lines Removed** (➖) | 375                                        |
-| **Net Change** (↕)    | 2055                |
-| **Active Time** (⌚)   | 72 minutes |
+| **Net Change** (↕)    | 2106                |
+| **Active Time** (⌚)   | 77 minutes |
 
 
 ## Modified Files
@@ -17,7 +17,7 @@
 - **DeduplicatedSiteRequestsTable.tsx** (+163, -0)
 - **RequestsBySite.tsx** (+0, -1)
 - **RequestsDotsChart.tsx** (+0, -78)
-- **RequestsDotsChart.test.tsx** (+0, -51)
+- **RequestsDotsChart.test.tsx** (+51, -51)
 - **.env** (+138, -0)
 - **Cohorts.test.tsx** (+183, -72)
 - **Cohorts.tsx** (+156, -23)
@@ -35,7 +35,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 2662
+".tsx" : 2713
 ".scss" : 5
 "unknown" : 138
 ```
@@ -46,8 +46,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "10h" : 8
-"11h" : 39
+"11h" : 40
 ```
 
 
-> **Last Updated:** 13/10/2026, 11:44:11
+> **Last Updated:** 13/10/2026, 11:49:11
