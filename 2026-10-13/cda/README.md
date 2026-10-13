@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1767                                          |
-| **Lines Removed** (➖) | 154                                        |
-| **Net Change** (↕)    | 1613                |
-| **Active Time** (⌚)   | 32 minutes |
+| **Lines Added** (➕)   | 2121                                          |
+| **Lines Removed** (➖) | 165                                        |
+| **Net Change** (↕)    | 1956                |
+| **Active Time** (⌚)   | 43 minutes |
 
 
 ## Modified Files
@@ -21,10 +21,11 @@
 - **.env** (+138, -0)
 - **Cohorts.test.tsx** (+183, -0)
 - **Cohorts.tsx** (+156, -0)
-- **CohortDetail.tsx** (+159, -19)
+- **CohortDetail.tsx** (+161, -30)
 - **AlertedStaffTable.tsx** (+131, -0)
 - **GroupMembersTable.tsx** (+276, -0)
 - **GroupAdminsTable.tsx** (+216, -0)
+- **CohortMembers.tsx** (+352, -0)
 
 ## Visualizations
 
@@ -33,7 +34,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 1778
+".tsx" : 2143
 ".scss" : 5
 "unknown" : 138
 ```
@@ -44,8 +45,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "10h" : 8
-"11h" : 16
+"11h" : 24
 ```
 
 
-> **Last Updated:** 13/10/2026, 11:19:11
+> **Last Updated:** 13/10/2026, 11:24:11
