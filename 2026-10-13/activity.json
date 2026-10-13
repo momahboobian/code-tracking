@@ -2,7 +2,7 @@
   "date": "2026-10-13",
   "projects": {
     "cda": {
-      "totalLinesAdded": 2121,
+      "totalLinesAdded": 2367,
       "totalLinesRemoved": 165,
       "totalActiveTime": 43,
       "files": {
@@ -418,6 +418,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2026-10-13T10:28:30.388Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/CohortDetail/CohortDetail.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/components/AlertedStaffTable/AlertedStaffTable.tsx": [
@@ -481,6 +495,22 @@
               "removed": []
             },
             "duration": 3,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/CohortDetail/CohortDetail.test.tsx": [
+          {
+            "timestamp": "2026-10-13T10:28:30.393Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/CohortDetail/CohortDetail.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 242,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ]
