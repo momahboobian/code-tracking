@@ -5,14 +5,14 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 2481                                          |
-| **Lines Removed** (➖) | 375                                        |
-| **Net Change** (↕)    | 2106                |
-| **Active Time** (⌚)   | 77 minutes |
+| **Lines Removed** (➖) | 385                                        |
+| **Net Change** (↕)    | 2096                |
+| **Active Time** (⌚)   | 82 minutes |
 
 
 ## Modified Files
 - **AggregatedRequestsTable.tsx** (+170, -0)
-- **StackedBarChart.tsx** (+229, -0)
+- **StackedBarChart.tsx** (+229, -10)
 - **Group.scss** (+0, -5)
 - **DeduplicatedSiteRequestsTable.tsx** (+163, -0)
 - **RequestsBySite.tsx** (+0, -1)
@@ -35,7 +35,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 2713
+".tsx" : 2723
 ".scss" : 5
 "unknown" : 138
 ```
@@ -46,8 +46,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "10h" : 8
-"11h" : 40
+"11h" : 41
 ```
 
 
-> **Last Updated:** 13/10/2026, 11:49:11
+> **Last Updated:** 13/10/2026, 11:54:11
