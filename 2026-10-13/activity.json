@@ -1,0 +1,149 @@
+{
+  "date": "2026-10-13",
+  "projects": {
+    "cda": {
+      "totalLinesAdded": 508,
+      "totalLinesRemoved": 135,
+      "totalActiveTime": 5,
+      "files": {
+        "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/components/AggregatedRequestsTable/AggregatedRequestsTable.tsx": [
+          {
+            "timestamp": "2026-10-13T09:06:40.484Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/components/AggregatedRequestsTable/AggregatedRequestsTable.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 170,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/components/StackedBarChart/StackedBarChart.tsx": [
+          {
+            "timestamp": "2026-10-13T09:06:40.486Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/components/StackedBarChart/StackedBarChart.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 175,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/Group/Group.scss": [
+          {
+            "timestamp": "2026-10-13T09:06:44.265Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/Group/Group.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/components/DeduplicatedSiteRequestsTable/DeduplicatedSiteRequestsTable.tsx": [
+          {
+            "timestamp": "2026-10-13T09:06:44.262Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/components/DeduplicatedSiteRequestsTable/DeduplicatedSiteRequestsTable.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 163,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/containers/RequestsBySite/RequestsBySite.tsx": [
+          {
+            "timestamp": "2026-10-13T09:06:44.271Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/containers/RequestsBySite/RequestsBySite.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/components/RequestsDotsChart/RequestsDotsChart.tsx": [
+          {
+            "timestamp": "2026-10-13T09:06:44.269Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/components/RequestsDotsChart/RequestsDotsChart.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 78,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/components/RequestsDotsChart/RequestsDotsChart.test.tsx": [
+          {
+            "timestamp": "2026-10-13T09:06:44.267Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/components/RequestsDotsChart/RequestsDotsChart.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 51,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "tsx": 4,
+        "scss": 1
+      },
+      "changeFrequency": {
+        "10": 5
+      },
+      "topFiles": [
+        "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/components/AggregatedRequestsTable/AggregatedRequestsTable.tsx",
+        "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/components/StackedBarChart/StackedBarChart.tsx",
+        "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/Group/Group.scss",
+        "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/components/DeduplicatedSiteRequestsTable/DeduplicatedSiteRequestsTable.tsx",
+        "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/containers/RequestsBySite/RequestsBySite.tsx"
+      ],
+      "averageChangeSize": 91.85714285714286
+    }
+  },
+  "totalActiveTime": 3,
+  "totalProjects": 1,
+  "totalFiles": 7,
+  "mostActiveHours": [
+    10
+  ],
+  "mostUsedLanguages": [
+    "tsx",
+    "scss"
+  ]
+}
