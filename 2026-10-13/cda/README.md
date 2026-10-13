@@ -4,9 +4,9 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2979                                          |
+| **Lines Added** (➕)   | 2987                                          |
 | **Lines Removed** (➖) | 388                                        |
-| **Net Change** (↕)    | 2591                |
+| **Net Change** (↕)    | 2599                |
 | **Active Time** (⌚)   | 89 minutes |
 
 
@@ -20,7 +20,7 @@
 - **RequestsDotsChart.test.tsx** (+68, -51)
 - **.env** (+138, -0)
 - **Cohorts.test.tsx** (+261, -72)
-- **Cohorts.tsx** (+190, -26)
+- **Cohorts.tsx** (+198, -26)
 - **CohortDetail.tsx** (+174, -67)
 - **AlertedStaffTable.tsx** (+131, -0)
 - **GroupMembersTable.tsx** (+276, -0)
@@ -38,7 +38,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 2933
+".tsx" : 2941
 ".scss" : 5
 "unknown" : 138
 ".json" : 78
@@ -53,8 +53,8 @@ title Coding activity by hour (count of changes)
 "10h" : 8
 "11h" : 41
 "12h" : 7
-"13h" : 4
+"13h" : 5
 ```
 
 
-> **Last Updated:** 13/10/2026, 13:19:11
+> **Last Updated:** 13/10/2026, 13:29:11
