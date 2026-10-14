@@ -2,9 +2,9 @@
   "date": "2026-10-14",
   "projects": {
     "cda": {
-      "totalLinesAdded": 3539,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 18,
+      "totalLinesAdded": 3710,
+      "totalLinesRemoved": 171,
+      "totalActiveTime": 20,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/CohortTemplates/CohortTemplates.tsx": [
           {
@@ -146,6 +146,34 @@
             },
             "duration": 0,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2026-10-14T10:51:33.670Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/Cohorts/Cohorts.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 46,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-10-14T10:51:37.880Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/Cohorts/Cohorts.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 46,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/Cohorts/Cohorts.scss": [
@@ -193,6 +221,34 @@
               "removed": []
             },
             "duration": 3,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-10-14T10:51:33.674Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/Cohorts/Cohorts.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 125,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-10-14T10:51:37.883Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/Cohorts/Cohorts.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 125,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "tsx"
           }
         ],
