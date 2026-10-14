@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 6607                                          |
+| **Lines Added** (➕)   | 6611                                          |
 | **Lines Removed** (➖) | 186                                        |
-| **Net Change** (↕)    | 6421                |
-| **Active Time** (⌚)   | 26 minutes |
+| **Net Change** (↕)    | 6425                |
+| **Active Time** (⌚)   | 29 minutes |
 
 
 ## Modified Files
@@ -18,8 +18,8 @@
 - **TemplateService.ts** (+263, -0)
 - **MockPermissionsService.ts** (+233, -0)
 - **CohortService.test.ts** (+677, -0)
-- **Cohorts.tsx** (+227, -48)
-- **Cohorts.scss** (+56, -13)
+- **Cohorts.tsx** (+229, -48)
+- **Cohorts.scss** (+58, -13)
 - **CohortAccessMarker.test.tsx** (+38, -0)
 - **Cohorts.test.tsx** (+361, -125)
 - **CohortAccessMarker.tsx** (+32, -0)
@@ -32,9 +32,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 1459
+".tsx" : 1461
 ".ts" : 5265
-".scss" : 69
+".scss" : 71
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -45,7 +45,8 @@ title Coding activity by hour (count of changes)
 "10h" : 9
 "11h" : 8
 "12h" : 7
+"13h" : 2
 ```
 
 
-> **Last Updated:** 14/10/2026, 12:47:37
+> **Last Updated:** 14/10/2026, 13:27:37
