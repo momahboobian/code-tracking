@@ -1,0 +1,165 @@
+{
+  "date": "2026-10-14",
+  "projects": {
+    "cda": {
+      "totalLinesAdded": 3179,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 5,
+      "files": {
+        "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/CohortTemplates/CohortTemplates.tsx": [
+          {
+            "timestamp": "2026-10-14T09:47:53.863Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/CohortTemplates/CohortTemplates.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 315,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/NewTemplate/NewTemplate.tsx": [
+          {
+            "timestamp": "2026-10-14T09:47:53.865Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/NewTemplate/NewTemplate.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 313,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/yesalert/CohortService.ts": [
+          {
+            "timestamp": "2026-10-14T09:47:53.866Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/yesalert/CohortService.ts",
+            "fileType": ".ts",
+            "linesAdded": 320,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/yesalert/PermissionService.ts": [
+          {
+            "timestamp": "2026-10-14T09:47:53.868Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/yesalert/PermissionService.ts",
+            "fileType": ".ts",
+            "linesAdded": 884,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/yesalert/TemplateService.ts": [
+          {
+            "timestamp": "2026-10-14T09:47:53.870Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/yesalert/TemplateService.ts",
+            "fileType": ".ts",
+            "linesAdded": 263,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/__mocks__/services/yesalert/MockPermissionsService.ts": [
+          {
+            "timestamp": "2026-10-14T09:47:53.871Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/__mocks__/services/yesalert/MockPermissionsService.ts",
+            "fileType": ".ts",
+            "linesAdded": 233,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/unit/services/yesalert/CohortService.test.ts": [
+          {
+            "timestamp": "2026-10-14T09:47:53.875Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/unit/services/yesalert/CohortService.test.ts",
+            "fileType": ".ts",
+            "linesAdded": 677,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/Cohorts/Cohorts.tsx": [
+          {
+            "timestamp": "2026-10-14T09:51:32.409Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/Cohorts/Cohorts.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 174,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "tsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "tsx": 4,
+        "ts": 1
+      },
+      "changeFrequency": {
+        "10": 5
+      },
+      "topFiles": [
+        "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/CohortTemplates/CohortTemplates.tsx",
+        "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/NewTemplate/NewTemplate.tsx",
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/yesalert/CohortService.ts",
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/yesalert/PermissionService.ts",
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/yesalert/TemplateService.ts"
+      ],
+      "averageChangeSize": 397.375
+    }
+  },
+  "totalActiveTime": 10,
+  "totalProjects": 1,
+  "totalFiles": 8,
+  "mostActiveHours": [
+    10
+  ],
+  "mostUsedLanguages": [
+    "tsx",
+    "ts"
+  ]
+}
