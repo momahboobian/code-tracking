@@ -2,8 +2,8 @@
   "date": "2026-10-15",
   "projects": {
     "cda": {
-      "totalLinesAdded": 13709,
-      "totalLinesRemoved": 6102,
+      "totalLinesAdded": 14501,
+      "totalLinesRemoved": 6356,
       "totalActiveTime": 25,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/unit/services/yesalert/TemplateService.test.ts": [
@@ -150,6 +150,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2026-10-15T15:32:51.088Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/NewTemplate/NewTemplate.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 28,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/Cohorts/Cohorts.tsx": [
@@ -179,6 +193,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-10-15T15:32:51.074Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/Cohorts/Cohorts.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 179,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ],
@@ -252,6 +280,20 @@
             },
             "duration": 2,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2026-10-15T15:32:51.081Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/NewTemplate/NewTemplate.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 194,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/package.json": [
@@ -267,6 +309,20 @@
               "removed": []
             },
             "duration": 5,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-10-15T15:32:51.079Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/package.json",
+            "fileType": ".json",
+            "linesAdded": 72,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "json"
           }
         ],
@@ -297,6 +353,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-10-15T15:32:51.085Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/CohortTemplates/CohortTemplates.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 32,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ],
@@ -342,6 +412,22 @@
             },
             "duration": 2,
             "language": "srt"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/Alerts/Alerts.tsx": [
+          {
+            "timestamp": "2026-10-15T15:32:51.077Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/Alerts/Alerts.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 541,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
           }
         ]
       },
