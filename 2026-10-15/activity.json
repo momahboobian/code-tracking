@@ -2,9 +2,9 @@
   "date": "2026-10-15",
   "projects": {
     "cda": {
-      "totalLinesAdded": 1733,
-      "totalLinesRemoved": 172,
-      "totalActiveTime": 22,
+      "totalLinesAdded": 13709,
+      "totalLinesRemoved": 6102,
+      "totalActiveTime": 25,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/unit/services/yesalert/TemplateService.test.ts": [
           {
@@ -298,6 +298,50 @@
             },
             "duration": 1,
             "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Downloads/Kung Fu Soccer (2026) WEB-DL.fa.srt": [
+          {
+            "timestamp": "2026-10-15T15:24:41.380Z",
+            "fileName": "/Users/momahboobian/Downloads/Kung Fu Soccer (2026) WEB-DL.fa.srt",
+            "fileType": ".srt",
+            "linesAdded": 5947,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "srt"
+          },
+          {
+            "timestamp": "2026-10-15T15:24:42.804Z",
+            "fileName": "/Users/momahboobian/Downloads/Kung Fu Soccer (2026) WEB-DL.fa.srt",
+            "fileType": ".srt",
+            "linesAdded": 0,
+            "linesRemoved": 5930,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "srt"
+          },
+          {
+            "timestamp": "2026-10-15T15:25:44.910Z",
+            "fileName": "/Users/momahboobian/Downloads/Kung Fu Soccer (2026) WEB-DL.fa.srt",
+            "fileType": ".srt",
+            "linesAdded": 6029,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "srt"
           }
         ]
       },
