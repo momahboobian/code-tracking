@@ -2,9 +2,9 @@
   "date": "2026-10-16",
   "projects": {
     "cda": {
-      "totalLinesAdded": 21433,
+      "totalLinesAdded": 21955,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 0,
+      "totalActiveTime": 3,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/yesalert/GroupMemberService.ts": [
           {
@@ -132,6 +132,34 @@
             },
             "duration": 0,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2026-10-16T15:48:52.135Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/containers/Home/Home.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-10-16T15:48:52.167Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/containers/Home/Home.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/containers/Home/Home.scss": [
@@ -148,6 +176,22 @@
             },
             "duration": 0,
             "language": "scss"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/containers/Home/Home.test.tsx": [
+          {
+            "timestamp": "2026-10-16T15:50:49.719Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/containers/Home/Home.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 510,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
           }
         ]
       },
