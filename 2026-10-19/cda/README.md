@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 28737                                          |
-| **Lines Removed** (➖) | 512                                        |
-| **Net Change** (↕)    | 28225                |
-| **Active Time** (⌚)   | 62 minutes |
+| **Lines Added** (➕)   | 47951                                          |
+| **Lines Removed** (➖) | 601                                        |
+| **Net Change** (↕)    | 47350                |
+| **Active Time** (⌚)   | 84 minutes |
 
 
 ## Modified Files
@@ -16,7 +16,7 @@
 - **RequestsDotsChart.test.tsx** (+172, -38)
 - **package.json** (+78, -0)
 - **yesalert.js** (+1092, -13)
-- **TemplateService.test.ts** (+1057, -145)
+- **TemplateService.test.ts** (+1057, -148)
 - **template-queries.ts** (+544, -13)
 - **TemplateService.ts** (+455, -95)
 - **PoolPositionService.test.ts** (+4003, -0)
@@ -24,11 +24,15 @@
 - **AuditService.ts** (+397, -0)
 - **MockTemplateService.ts** (+82, -0)
 - **CohortService.test.ts** (+699, -0)
-- **AlertForm.test.tsx** (+386, -0)
-- **AlertForm.tsx** (+363, -0)
-- **Templates.scss** (+9, -1)
-- **Templates.tsx** (+295, -0)
-- **Templates.test.tsx** (+170, -0)
+- **AlertForm.test.tsx** (+386, -10)
+- **AlertForm.tsx** (+363, -2)
+- **Templates.scss** (+9, -6)
+- **Templates.tsx** (+295, -40)
+- **Templates.test.tsx** (+182, -0)
+- **gql.ts** (+478, -0)
+- **graphql.ts** (+7899, -27)
+- **templates.ts** (+54, -2)
+- **graphql.ts** (+10771, -0)
 
 ## Visualizations
 
@@ -37,11 +41,11 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 2673
+".tsx" : 2737
 ".json" : 78
 ".js" : 1105
-".ts" : 25383
-".scss" : 10
+".ts" : 44617
+".scss" : 15
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -53,8 +57,8 @@ title Coding activity by hour (count of changes)
 "11h" : 7
 "13h" : 19
 "14h" : 14
-"15h" : 11
+"15h" : 24
 ```
 
 
-> **Last Updated:** 19/10/2026, 15:53:49
+> **Last Updated:** 19/10/2026, 15:58:49
