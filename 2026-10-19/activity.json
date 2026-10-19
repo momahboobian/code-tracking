@@ -2,7 +2,7 @@
   "date": "2026-10-19",
   "projects": {
     "cda": {
-      "totalLinesAdded": 48304,
+      "totalLinesAdded": 48320,
       "totalLinesRemoved": 649,
       "totalActiveTime": 90,
       "files": {
@@ -729,6 +729,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-10-19T17:08:42.275Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/unit/services/yesalert/CohortService.test.ts",
+            "fileType": ".ts",
+            "linesAdded": 16,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "ts"
           }
         ],
