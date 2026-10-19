@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 49580                                          |
-| **Lines Removed** (➖) | 651                                        |
-| **Net Change** (↕)    | 48929                |
-| **Active Time** (⌚)   | 103 minutes |
+| **Lines Added** (➕)   | 49625                                          |
+| **Lines Removed** (➖) | 667                                        |
+| **Net Change** (↕)    | 48958                |
+| **Active Time** (⌚)   | 109 minutes |
 
 
 ## Modified Files
@@ -23,11 +23,11 @@
 - **resolvers-types.ts** (+17893, -0)
 - **AuditService.ts** (+397, -0)
 - **MockTemplateService.ts** (+82, -0)
-- **CohortService.test.ts** (+715, -0)
+- **CohortService.test.ts** (+715, -16)
 - **AlertForm.test.tsx** (+386, -10)
 - **AlertForm.tsx** (+363, -2)
-- **Templates.scss** (+14, -11)
-- **Templates.tsx** (+335, -80)
+- **Templates.scss** (+19, -11)
+- **Templates.tsx** (+375, -80)
 - **Templates.test.tsx** (+182, -0)
 - **gql.ts** (+478, -0)
 - **graphql.ts** (+7899, -27)
@@ -45,11 +45,11 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 3122
+".tsx" : 3162
 ".json" : 78
 ".js" : 1105
-".ts" : 45901
-".scss" : 25
+".ts" : 45917
+".scss" : 30
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -64,8 +64,8 @@ title Coding activity by hour (count of changes)
 "15h" : 24
 "16h" : 4
 "17h" : 3
-"18h" : 10
+"18h" : 13
 ```
 
 
-> **Last Updated:** 19/10/2026, 18:18:49
+> **Last Updated:** 19/10/2026, 18:23:49
