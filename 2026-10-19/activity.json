@@ -2,9 +2,9 @@
   "date": "2026-10-19",
   "projects": {
     "cda": {
-      "totalLinesAdded": 26056,
-      "totalLinesRemoved": 248,
-      "totalActiveTime": 25,
+      "totalLinesAdded": 26282,
+      "totalLinesRemoved": 474,
+      "totalActiveTime": 37,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/containers/Home/Home.test.tsx": [
           {
@@ -254,6 +254,34 @@
             },
             "duration": 1,
             "language": "ts"
+          },
+          {
+            "timestamp": "2026-10-19T12:38:59.770Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/unit/services/yesalert/TemplateService.test.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 136,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-10-19T12:39:54.218Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/unit/services/yesalert/TemplateService.test.ts",
+            "fileType": ".ts",
+            "linesAdded": 136,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/high-risk-schema/yesalert/template-queries.ts": [
@@ -334,6 +362,34 @@
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/yesalert/TemplateService.ts",
             "fileType": ".ts",
             "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-10-19T12:38:59.772Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/yesalert/TemplateService.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 90,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-10-19T12:39:54.220Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/yesalert/TemplateService.ts",
+            "fileType": ".ts",
+            "linesAdded": 90,
             "linesRemoved": 0,
             "projectName": "cda",
             "content": {
