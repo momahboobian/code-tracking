@@ -4,16 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 15871                                          |
-| **Lines Removed** (➖) | 513                                        |
-| **Net Change** (↕)    | 15358                |
-| **Active Time** (⌚)   | 126 minutes |
+| **Lines Added** (➕)   | 38210                                          |
+| **Lines Removed** (➖) | 583                                        |
+| **Net Change** (↕)    | 37627                |
+| **Active Time** (⌚)   | 144 minutes |
 
 
 ## Modified Files
 - **CohortTemplates.tsx** (+302, -54)
-- **Templates.tsx** (+555, -9)
-- **RequestsDotsChart.tsx** (+544, -212)
+- **Templates.tsx** (+583, -73)
+- **RequestsDotsChart.tsx** (+882, -218)
 - **RequestsDotsChart.test.tsx** (+232, -0)
 - **RequestsDotsChart.scss** (+31, -2)
 - **CohortTemplates.test.tsx** (+238, -0)
@@ -26,13 +26,21 @@
 - **TemplateDetail.test.tsx** (+432, -27)
 - **NewTemplate.test.tsx** (+411, -0)
 - **NewTemplate.scss** (+32, -0)
-- **Templates.scss** (+261, -185)
+- **Templates.scss** (+284, -185)
 - **package.json** (+72, -0)
 - **AccessMarker.tsx** (+51, -0)
 - **AccessMarker.test.tsx** (+96, -0)
 - **gql.ts** (+478, -0)
 - **graphql.ts** (+10757, -0)
 - **templates.ts** (+54, -0)
+- **yesalert.js** (+1079, -0)
+- **TemplateService.ts** (+360, -0)
+- **AuditService.ts** (+397, -0)
+- **MockTemplateService.ts** (+82, -0)
+- **template-queries.ts** (+531, -0)
+- **CohortService.test.ts** (+699, -0)
+- **TemplateService.test.ts** (+909, -0)
+- **resolvers-types.ts** (+17893, -0)
 
 ## Visualizations
 
@@ -41,10 +49,11 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 4197
-".scss" : 826
+".tsx" : 4633
+".scss" : 849
 ".json" : 72
-".ts" : 11289
+".ts" : 32160
+".js" : 1079
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -58,8 +67,8 @@ title Coding activity by hour (count of changes)
 "12h" : 24
 "14h" : 19
 "15h" : 1
-"16h" : 5
+"16h" : 18
 ```
 
 
-> **Last Updated:** 20/10/2026, 16:44:29
+> **Last Updated:** 20/10/2026, 16:49:29
