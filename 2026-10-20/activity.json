@@ -2,7 +2,7 @@
   "date": "2026-10-20",
   "projects": {
     "cda": {
-      "totalLinesAdded": 248,
+      "totalLinesAdded": 503,
       "totalLinesRemoved": 0,
       "totalActiveTime": 0,
       "files": {
@@ -12,6 +12,22 @@
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/CohortTemplates/CohortTemplates.tsx",
             "fileType": ".tsx",
             "linesAdded": 248,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/Templates/Templates.tsx": [
+          {
+            "timestamp": "2026-10-20T09:21:03.359Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/Templates/Templates.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 255,
             "linesRemoved": 0,
             "projectName": "cda",
             "content": {
