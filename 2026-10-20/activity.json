@@ -2,9 +2,9 @@
   "date": "2026-10-20",
   "projects": {
     "cda": {
-      "totalLinesAdded": 503,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 0,
+      "totalLinesAdded": 1125,
+      "totalLinesRemoved": 58,
+      "totalActiveTime": 6,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/CohortTemplates/CohortTemplates.tsx": [
           {
@@ -35,6 +35,108 @@
               "removed": []
             },
             "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/components/RequestsDotsChart/RequestsDotsChart.tsx": [
+          {
+            "timestamp": "2026-10-20T09:42:04.879Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/components/RequestsDotsChart/RequestsDotsChart.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 360,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-10-20T09:42:19.495Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/components/RequestsDotsChart/RequestsDotsChart.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-10-20T09:42:47.490Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/components/RequestsDotsChart/RequestsDotsChart.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-10-20T09:43:04.534Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/components/RequestsDotsChart/RequestsDotsChart.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 28,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-10-20T09:43:07.071Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/components/RequestsDotsChart/RequestsDotsChart.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 28,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-10-20T09:43:18.883Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/components/RequestsDotsChart/RequestsDotsChart.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 28,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/components/RequestsDotsChart/RequestsDotsChart.test.tsx": [
+          {
+            "timestamp": "2026-10-20T09:42:59.384Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/transmission-dashboard/src/components/RequestsDotsChart/RequestsDotsChart.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 232,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "tsx"
           }
         ]
