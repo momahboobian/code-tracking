@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 38210                                          |
-| **Lines Removed** (➖) | 583                                        |
-| **Net Change** (↕)    | 37627                |
-| **Active Time** (⌚)   | 144 minutes |
+| **Lines Added** (➕)   | 38960                                          |
+| **Lines Removed** (➖) | 584                                        |
+| **Net Change** (↕)    | 38376                |
+| **Active Time** (⌚)   | 152 minutes |
 
 
 ## Modified Files
@@ -21,7 +21,7 @@
 - **TemplateDetail.scss** (+40, -8)
 - **FormattedTimestamp.scss** (+98, -3)
 - **NewTemplate.tsx** (+341, -2)
-- **AlertForm.tsx** (+363, -0)
+- **AlertForm.tsx** (+726, -0)
 - **AlertForm.scss** (+166, -0)
 - **TemplateDetail.test.tsx** (+432, -27)
 - **NewTemplate.test.tsx** (+411, -0)
@@ -33,7 +33,7 @@
 - **gql.ts** (+478, -0)
 - **graphql.ts** (+10757, -0)
 - **templates.ts** (+54, -0)
-- **yesalert.js** (+1079, -0)
+- **yesalert.js** (+1080, -1)
 - **TemplateService.ts** (+360, -0)
 - **AuditService.ts** (+397, -0)
 - **MockTemplateService.ts** (+82, -0)
@@ -41,6 +41,7 @@
 - **CohortService.test.ts** (+699, -0)
 - **TemplateService.test.ts** (+909, -0)
 - **resolvers-types.ts** (+17893, -0)
+- **AlertForm.test.tsx** (+386, -0)
 
 ## Visualizations
 
@@ -49,11 +50,11 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 4633
+".tsx" : 5382
 ".scss" : 849
 ".json" : 72
 ".ts" : 32160
-".js" : 1079
+".js" : 1081
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -67,8 +68,8 @@ title Coding activity by hour (count of changes)
 "12h" : 24
 "14h" : 19
 "15h" : 1
-"16h" : 18
+"16h" : 22
 ```
 
 
-> **Last Updated:** 20/10/2026, 16:49:29
+> **Last Updated:** 20/10/2026, 16:54:29
