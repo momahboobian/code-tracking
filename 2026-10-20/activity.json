@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 2845,
-      "totalLinesRemoved": 282,
-      "totalActiveTime": 78,
+      "totalLinesRemoved": 288,
+      "totalActiveTime": 80,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/CohortTemplates/CohortTemplates.tsx": [
           {
@@ -704,6 +704,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2026-10-20T11:16:28.121Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/TemplateDetail/TemplateDetail.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/TemplateDetail/TemplateDetail.scss": [
@@ -761,6 +775,34 @@
               "removed": []
             },
             "duration": 2,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2026-10-20T11:16:32.411Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/TemplateDetail/TemplateDetail.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2026-10-20T11:16:42.210Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/TemplateDetail/TemplateDetail.scss",
+            "fileType": ".scss",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "scss"
           }
         ],
