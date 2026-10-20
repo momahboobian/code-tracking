@@ -3,7 +3,7 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 3288,
-      "totalLinesRemoved": 316,
+      "totalLinesRemoved": 317,
       "totalActiveTime": 88,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/CohortTemplates/CohortTemplates.tsx": [
@@ -955,6 +955,20 @@
             "fileType": ".tsx",
             "linesAdded": 341,
             "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-10-20T11:42:34.574Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/NewTemplate/NewTemplate.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "cda",
             "content": {
               "added": [],
