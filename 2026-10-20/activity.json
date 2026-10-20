@@ -2,9 +2,9 @@
   "date": "2026-10-20",
   "projects": {
     "cda": {
-      "totalLinesAdded": 1970,
-      "totalLinesRemoved": 277,
-      "totalActiveTime": 63,
+      "totalLinesAdded": 1972,
+      "totalLinesRemoved": 279,
+      "totalActiveTime": 69,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/CohortTemplates/CohortTemplates.tsx": [
           {
@@ -627,6 +627,48 @@
             "fileType": ".tsx",
             "linesAdded": 0,
             "linesRemoved": 3,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-10-20T10:56:13.979Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/TemplateDetail/TemplateDetail.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-10-20T10:56:17.607Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/TemplateDetail/TemplateDetail.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-10-20T10:57:14.056Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/TemplateDetail/TemplateDetail.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
             "projectName": "cda",
             "content": {
               "added": [],
