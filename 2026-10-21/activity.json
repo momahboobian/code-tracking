@@ -2,9 +2,9 @@
   "date": "2026-10-21",
   "projects": {
     "cda": {
-      "totalLinesAdded": 24592,
+      "totalLinesAdded": 24823,
       "totalLinesRemoved": 162,
-      "totalActiveTime": 44,
+      "totalActiveTime": 49,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/yesalert/GroupMemberService.ts": [
           {
@@ -430,6 +430,52 @@
             },
             "duration": 5,
             "language": "json"
+          },
+          {
+            "timestamp": "2026-10-21T15:47:59.573Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/package.json",
+            "fileType": ".json",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/components/GroupMembers/GroupMembers.scss": [
+          {
+            "timestamp": "2026-10-21T15:47:16.349Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/components/GroupMembers/GroupMembers.scss",
+            "fileType": ".scss",
+            "linesAdded": 71,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "scss"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/components/StatusBox/StatusBox.scss": [
+          {
+            "timestamp": "2026-10-21T15:47:16.350Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/components/StatusBox/StatusBox.scss",
+            "fileType": ".scss",
+            "linesAdded": 155,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "scss"
           }
         ]
       },
