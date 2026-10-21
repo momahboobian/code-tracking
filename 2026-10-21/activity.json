@@ -1,0 +1,61 @@
+{
+  "date": "2026-10-21",
+  "projects": {
+    "cda": {
+      "totalLinesAdded": 335,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 2,
+      "files": {
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/yesalert/GroupMemberService.ts": [
+          {
+            "timestamp": "2026-10-21T10:30:24.612Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/yesalert/GroupMemberService.ts",
+            "fileType": ".ts",
+            "linesAdded": 331,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-10-21T10:31:27.415Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/yesalert/GroupMemberService.ts",
+            "fileType": ".ts",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          }
+        ]
+      },
+      "languageStats": {
+        "ts": 2
+      },
+      "changeFrequency": {
+        "11": 2
+      },
+      "topFiles": [
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/yesalert/GroupMemberService.ts"
+      ],
+      "averageChangeSize": 167.5
+    }
+  },
+  "totalActiveTime": 2,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    11
+  ],
+  "mostUsedLanguages": [
+    "ts"
+  ]
+}
