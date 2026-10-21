@@ -2,7 +2,7 @@
   "date": "2026-10-21",
   "projects": {
     "cda": {
-      "totalLinesAdded": 3184,
+      "totalLinesAdded": 3561,
       "totalLinesRemoved": 5,
       "totalActiveTime": 21,
       "files": {
@@ -236,6 +236,22 @@
             },
             "duration": 2,
             "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/yesalert/TemplateService.ts": [
+          {
+            "timestamp": "2026-10-21T12:35:04.862Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/yesalert/TemplateService.ts",
+            "fileType": ".ts",
+            "linesAdded": 377,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
           }
         ]
       },
