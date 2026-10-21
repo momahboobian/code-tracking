@@ -2,9 +2,9 @@
   "date": "2026-10-21",
   "projects": {
     "cda": {
-      "totalLinesAdded": 24587,
+      "totalLinesAdded": 24592,
       "totalLinesRemoved": 162,
-      "totalActiveTime": 39,
+      "totalActiveTime": 44,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/yesalert/GroupMemberService.ts": [
           {
@@ -415,6 +415,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-10-21T15:45:26.650Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/package.json",
+            "fileType": ".json",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "json"
           }
         ]
