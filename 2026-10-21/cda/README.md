@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2715                                          |
+| **Lines Added** (➕)   | 3184                                          |
 | **Lines Removed** (➖) | 5                                        |
-| **Net Change** (↕)    | 2710                |
-| **Active Time** (⌚)   | 12 minutes |
+| **Net Change** (↕)    | 3179                |
+| **Active Time** (⌚)   | 21 minutes |
 
 
 ## Modified Files
@@ -19,6 +19,9 @@
 - **FaultsTable.scss** (+60, -0)
 - **SiteAllIncidents.tsx** (+265, -1)
 - **SiteAllIncidents.test.tsx** (+298, -0)
+- **CondensedFaultTable.scss** (+26, -0)
+- **CondensedFaultTable.test.tsx** (+146, -0)
+- **CondensedFaultTable.tsx** (+297, -0)
 
 ## Visualizations
 
@@ -28,8 +31,8 @@
 pie showData
 title Lines changed by file type
 ".ts" : 339
-".tsx" : 2321
-".scss" : 60
+".tsx" : 2764
+".scss" : 86
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -38,8 +41,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "11h" : 3
-"12h" : 9
+"12h" : 12
 ```
 
 
-> **Last Updated:** 21/10/2026, 12:45:12
+> **Last Updated:** 21/10/2026, 12:50:12
