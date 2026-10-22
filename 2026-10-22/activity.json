@@ -2,7 +2,7 @@
   "date": "2026-10-22",
   "projects": {
     "cda": {
-      "totalLinesAdded": 4,
+      "totalLinesAdded": 9,
       "totalLinesRemoved": 14,
       "totalActiveTime": 6,
       "files": {
@@ -47,6 +47,20 @@
               "removed": []
             },
             "duration": 3,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-10-22T08:15:51.407Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/package.json",
+            "fileType": ".json",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "json"
           }
         ]
