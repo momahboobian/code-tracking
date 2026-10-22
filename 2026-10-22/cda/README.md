@@ -4,14 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 9                                          |
-| **Lines Removed** (➖) | 14                                        |
-| **Net Change** (↕)    | -5                |
-| **Active Time** (⌚)   | 6 minutes |
+| **Lines Added** (➕)   | 478                                          |
+| **Lines Removed** (➖) | 44                                        |
+| **Net Change** (↕)    | 434                |
+| **Active Time** (⌚)   | 14 minutes |
 
 
 ## Modified Files
-- **package.json** (+9, -14)
+- **package.json** (+34, -44)
+- **GroupAdmins.tsx** (+444, -0)
 
 ## Visualizations
 
@@ -20,7 +21,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".json" : 23
+".json" : 78
+".tsx" : 444
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -28,8 +30,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"09h" : 4
+"09h" : 11
 ```
 
 
-> **Last Updated:** 22/10/2026, 09:16:06
+> **Last Updated:** 22/10/2026, 09:21:06
