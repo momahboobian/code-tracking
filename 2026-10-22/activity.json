@@ -2,7 +2,7 @@
   "date": "2026-10-22",
   "projects": {
     "cda": {
-      "totalLinesAdded": 3605,
+      "totalLinesAdded": 3713,
       "totalLinesRemoved": 1115,
       "totalActiveTime": 86,
       "files": {
@@ -448,6 +448,20 @@
             },
             "duration": 0,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2026-10-22T12:52:33.023Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/components/AlertForm/AlertForm.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/gql-generated/high-risk/gql.ts": [
@@ -704,6 +718,20 @@
             },
             "duration": 0,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2026-10-22T12:52:33.036Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/components/AlertForm/AlertForm.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/components/AccessMarker/AccessMarker.test.tsx": [
@@ -941,6 +969,20 @@
             "fileType": ".scss",
             "linesAdded": 0,
             "linesRemoved": 96,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2026-10-22T12:52:33.038Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/Templates/Templates.scss",
+            "fileType": ".scss",
+            "linesAdded": 96,
+            "linesRemoved": 0,
             "projectName": "cda",
             "content": {
               "added": [],
