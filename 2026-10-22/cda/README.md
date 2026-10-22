@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 38788                                          |
+| **Lines Added** (➕)   | 40336                                          |
 | **Lines Removed** (➖) | 14516                                        |
-| **Net Change** (↕)    | 24272                |
-| **Active Time** (⌚)   | 163 minutes |
+| **Net Change** (↕)    | 25820                |
+| **Active Time** (⌚)   | 165 minutes |
 
 
 ## Modified Files
@@ -43,6 +43,12 @@
 - **graphql.ts** (+10823, -0)
 - **Templates.tsx** (+330, -0)
 - **yarn.lock** (+6936, -0)
+- **IncidentReports.test.tsx** (+342, -0)
+- **CommonTable.scss** (+123, -0)
+- **IncidentReports.tsx** (+629, -0)
+- **FaultsTable.scss** (+50, -0)
+- **LocalDabFaultsTable.tsx** (+202, -0)
+- **Incident.tsx** (+202, -0)
 
 ## Visualizations
 
@@ -52,9 +58,9 @@
 pie showData
 title Lines changed by file type
 ".json" : 88
-".tsx" : 4730
+".tsx" : 6105
 ".ts" : 39679
-".scss" : 1837
+".scss" : 2010
 ".js" : 34
 ".lock" : 6936
 ```
@@ -70,8 +76,8 @@ title Coding activity by hour (count of changes)
 "12h" : 6
 "13h" : 7
 "14h" : 38
-"15h" : 31
+"15h" : 37
 ```
 
 
-> **Last Updated:** 22/10/2026, 15:26:06
+> **Last Updated:** 22/10/2026, 15:46:06
