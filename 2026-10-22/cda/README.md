@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2120                                          |
-| **Lines Removed** (➖) | 227                                        |
-| **Net Change** (↕)    | 1893                |
-| **Active Time** (⌚)   | 42 minutes |
+| **Lines Added** (➕)   | 2402                                          |
+| **Lines Removed** (➖) | 277                                        |
+| **Net Change** (↕)    | 2125                |
+| **Active Time** (⌚)   | 53 minutes |
 
 
 ## Modified Files
@@ -15,11 +15,11 @@
 - **GroupAdmins.tsx** (+444, -0)
 - **TemplateService.ts** (+30, -0)
 - **TemplateService.test.ts** (+85, -0)
-- **AlertForm.test.tsx** (+456, -80)
-- **gql.ts** (+520, -24)
+- **AlertForm.test.tsx** (+506, -130)
+- **gql.ts** (+750, -24)
 - **AlertForm.tsx** (+371, -10)
 - **AccessMarker.test.tsx** (+113, -54)
-- **templates.ts** (+62, -10)
+- **templates.ts** (+64, -10)
 
 ## Visualizations
 
@@ -29,8 +29,8 @@
 pie showData
 title Lines changed by file type
 ".json" : 88
-".tsx" : 1528
-".ts" : 731
+".tsx" : 1628
+".ts" : 963
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -38,8 +38,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"09h" : 28
+"09h" : 34
 ```
 
 
-> **Last Updated:** 22/10/2026, 09:46:06
+> **Last Updated:** 22/10/2026, 09:51:06
