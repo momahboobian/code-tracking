@@ -3,7 +3,7 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 38788,
-      "totalLinesRemoved": 14512,
+      "totalLinesRemoved": 14516,
       "totalActiveTime": 163,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/package.json": [
@@ -1731,6 +1731,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-10-22T14:22:23.805Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/types/gql-generated/high-risk/resolvers-types.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "ts"
           }
         ],
