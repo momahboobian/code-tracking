@@ -2,7 +2,7 @@
   "date": "2026-10-22",
   "projects": {
     "cda": {
-      "totalLinesAdded": 3713,
+      "totalLinesAdded": 3942,
       "totalLinesRemoved": 1115,
       "totalActiveTime": 86,
       "files": {
@@ -1022,6 +1022,22 @@
             },
             "duration": 0,
             "language": "scss"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/TemporaryEvent/TemporaryEvent.test.tsx": [
+          {
+            "timestamp": "2026-10-22T13:02:36.488Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/TemporaryEvent/TemporaryEvent.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 229,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
           }
         ]
       },
