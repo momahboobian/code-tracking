@@ -80,7 +80,7 @@
       "averageChangeSize": 51
     },
     "cda": {
-      "totalLinesAdded": 6911,
+      "totalLinesAdded": 15121,
       "totalLinesRemoved": 8,
       "totalActiveTime": 30,
       "files": {
@@ -337,6 +337,22 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-table-types/src/types/tables.ts": [
+          {
+            "timestamp": "2026-10-23T13:13:27.319Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-table-types/src/types/tables.ts",
+            "fileType": ".ts",
+            "linesAdded": 8210,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "ts"
           }
         ]
