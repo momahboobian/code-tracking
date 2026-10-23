@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 57831                                          |
-| **Lines Removed** (➖) | 4664                                        |
-| **Net Change** (↕)    | 53167                |
-| **Active Time** (⌚)   | 79 minutes |
+| **Lines Added** (➕)   | 60849                                          |
+| **Lines Removed** (➖) | 4669                                        |
+| **Net Change** (↕)    | 56180                |
+| **Active Time** (⌚)   | 87 minutes |
 
 
 ## Modified Files
@@ -26,13 +26,15 @@
 - **vulcan.ts** (+1724, -0)
 - **views.ts** (+11417, -0)
 - **PermissionService.ts** (+947, -0)
-- **settings.json** (+52, -0)
+- **settings.json** (+53, -0)
 - **alertTransformer.ts** (+82, -0)
 - **policies.ts** (+28, -0)
 - **MockPermissionsService.ts** (+241, -0)
 - **yesalert-mutations.ts** (+1369, -0)
 - **AlertService.test.ts** (+2021, -24)
 - **ApprovedDomainSystemService.test.ts** (+181, -1)
+- **PermissionService.test.ts** (+2936, -0)
+- **approvedUrl.test.ts** (+81, -5)
 
 ## Visualizations
 
@@ -41,9 +43,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 61319
+".ts" : 64341
 ".js" : 1124
-".json" : 52
+".json" : 53
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -55,8 +57,8 @@ title Coding activity by hour (count of changes)
 "14h" : 1
 "15h" : 4
 "16h" : 9
-"17h" : 26
+"17h" : 32
 ```
 
 
-> **Last Updated:** 23/10/2026, 17:46:54
+> **Last Updated:** 23/10/2026, 17:51:54
