@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 60875                                          |
-| **Lines Removed** (➖) | 4669                                        |
-| **Net Change** (↕)    | 56206                |
-| **Active Time** (⌚)   | 89 minutes |
+| **Lines Added** (➕)   | 61164                                          |
+| **Lines Removed** (➖) | 4672                                        |
+| **Net Change** (↕)    | 56492                |
+| **Active Time** (⌚)   | 91 minutes |
 
 
 ## Modified Files
@@ -18,7 +18,7 @@
 - **AuditService.ts** (+406, -0)
 - **SystemService.ts** (+385, -0)
 - **sap_views.ts** (+1887, -0)
-- **TemplateService.test.ts** (+1067, -0)
+- **TemplateService.test.ts** (+1067, -3)
 - **YesAlertService.ts** (+214, -0)
 - **tables.ts** (+8298, -0)
 - **resolvers-types.ts** (+22642, -4619)
@@ -36,6 +36,8 @@
 - **PermissionService.test.ts** (+2936, -0)
 - **approvedUrl.test.ts** (+81, -5)
 - **alertTransformer.test.ts** (+26, -0)
+- **MockStaffStatusService.ts** (+95, -0)
+- **MockSystemService.ts** (+194, -0)
 
 ## Visualizations
 
@@ -44,7 +46,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 64367
+".ts" : 64659
 ".js" : 1124
 ".json" : 53
 ```
@@ -59,7 +61,8 @@ title Coding activity by hour (count of changes)
 "15h" : 4
 "16h" : 9
 "17h" : 34
+"18h" : 3
 ```
 
 
-> **Last Updated:** 23/10/2026, 17:56:54
+> **Last Updated:** 23/10/2026, 18:01:54
