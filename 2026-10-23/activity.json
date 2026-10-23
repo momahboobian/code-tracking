@@ -80,7 +80,7 @@
       "averageChangeSize": 51
     },
     "cda": {
-      "totalLinesAdded": 15121,
+      "totalLinesAdded": 33144,
       "totalLinesRemoved": 14,
       "totalActiveTime": 30,
       "files": {
@@ -360,6 +360,22 @@
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-table-types/src/types/tables.ts",
             "fileType": ".ts",
             "linesAdded": 8210,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/types/gql-generated/high-risk/resolvers-types.ts": [
+          {
+            "timestamp": "2026-10-23T14:51:38.724Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/types/gql-generated/high-risk/resolvers-types.ts",
+            "fileType": ".ts",
+            "linesAdded": 18023,
             "linesRemoved": 0,
             "projectName": "cda",
             "content": {
