@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 53990                                          |
-| **Lines Removed** (➖) | 20                                        |
-| **Net Change** (↕)    | 53970                |
-| **Active Time** (⌚)   | 49 minutes |
+| **Lines Added** (➕)   | 57619                                          |
+| **Lines Removed** (➖) | 44                                        |
+| **Net Change** (↕)    | 57575                |
+| **Active Time** (⌚)   | 58 minutes |
 
 
 ## Modified Files
@@ -28,6 +28,10 @@
 - **PermissionService.ts** (+947, -0)
 - **settings.json** (+51, -0)
 - **alertTransformer.ts** (+82, -0)
+- **policies.ts** (+28, -0)
+- **MockPermissionsService.ts** (+241, -0)
+- **yesalert-mutations.ts** (+1369, -0)
+- **AlertService.test.ts** (+1991, -24)
 
 ## Visualizations
 
@@ -36,7 +40,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 52835
+".ts" : 56488
 ".js" : 1124
 ".json" : 51
 ```
@@ -50,8 +54,8 @@ title Coding activity by hour (count of changes)
 "14h" : 1
 "15h" : 4
 "16h" : 9
-"17h" : 8
+"17h" : 15
 ```
 
 
-> **Last Updated:** 23/10/2026, 17:26:54
+> **Last Updated:** 23/10/2026, 17:31:54
