@@ -3,7 +3,7 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 4365,
-      "totalLinesRemoved": 8,
+      "totalLinesRemoved": 12,
       "totalActiveTime": 15,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/unit/services/yesalert/StaffStatusService.test.ts": [
@@ -95,6 +95,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-10-28T16:10:52.280Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/unit/services/yesalert/ApprovedDomainSystemService.test.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "ts"
           }
         ],
