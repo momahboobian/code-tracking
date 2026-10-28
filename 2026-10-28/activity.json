@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 4365,
-      "totalLinesRemoved": 4,
-      "totalActiveTime": 12,
+      "totalLinesRemoved": 8,
+      "totalActiveTime": 15,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/unit/services/yesalert/StaffStatusService.test.ts": [
           {
@@ -35,6 +35,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-10-28T12:16:40.977Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/yesalert/AlertService.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "ts"
           }
         ],
