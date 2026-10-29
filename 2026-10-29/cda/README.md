@@ -4,30 +4,31 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 14717                                          |
-| **Lines Removed** (➖) | 1677                                        |
-| **Net Change** (↕)    | 13040                |
-| **Active Time** (⌚)   | 74 minutes |
+| **Lines Added** (➕)   | 27012                                          |
+| **Lines Removed** (➖) | 2247                                        |
+| **Net Change** (↕)    | 24765                |
+| **Active Time** (⌚)   | 121 minutes |
 
 
 ## Modified Files
-- **AlertService.ts** (+813, -151)
-- **AlertService.test.ts** (+2457, -1022)
-- **SystemService.ts** (+387, -236)
-- **SkillTagCreateSubSkill.tsx** (+87, -1)
+- **AlertService.ts** (+889, -155)
+- **AlertService.test.ts** (+2968, -1408)
+- **SystemService.ts** (+505, -236)
+- **SkillTagCreateSubSkill.tsx** (+87, -2)
 - **SkillTagAdmin.scss** (+178, -3)
 - **settings.json** (+95, -0)
-- **App.tsx** (+300, -2)
+- **App.tsx** (+302, -4)
 - **gql.ts** (+520, -0)
-- **AlertForm.tsx** (+575, -107)
-- **AlertForm.scss** (+214, -24)
+- **AlertForm.tsx** (+680, -212)
+- **AlertForm.scss** (+238, -48)
 - **index.tsx** (+3, -0)
 - **ApprovedDomainSystemService.test.ts** (+213, -15)
-- **yesalert.json** (+17, -1)
-- **html.pug** (+85, -8)
-- **yesalertTemplate.test.ts** (+44, -0)
-- **tables.ts** (+8410, -107)
-- **style.css** (+319, -0)
+- **yesalert.json** (+18, -2)
+- **html.pug** (+90, -13)
+- **yesalertTemplate.test.ts** (+44, -1)
+- **tables.ts** (+8410, -112)
+- **style.css** (+355, -36)
+- **views.ts** (+11417, -0)
 
 ## Visualizations
 
@@ -36,12 +37,12 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 14375
-".tsx" : 1075
-".scss" : 419
-".json" : 113
-".pug" : 93
-".css" : 319
+".ts" : 26893
+".tsx" : 1290
+".scss" : 467
+".json" : 115
+".pug" : 103
+".css" : 391
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -55,8 +56,8 @@ title Coding activity by hour (count of changes)
 "13h" : 15
 "14h" : 5
 "15h" : 29
-"16h" : 1
+"16h" : 24
 ```
 
 
-> **Last Updated:** 29/10/2026, 16:08:10
+> **Last Updated:** 29/10/2026, 16:13:10
