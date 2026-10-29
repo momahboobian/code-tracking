@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 27183                                          |
-| **Lines Removed** (➖) | 2418                                        |
-| **Net Change** (↕)    | 24765                |
-| **Active Time** (⌚)   | 134 minutes |
+| **Lines Added** (➕)   | 46430                                          |
+| **Lines Removed** (➖) | 2420                                        |
+| **Net Change** (↕)    | 44010                |
+| **Active Time** (⌚)   | 141 minutes |
 
 
 ## Modified Files
@@ -19,7 +19,7 @@
 - **settings.json** (+95, -0)
 - **App.tsx** (+304, -6)
 - **gql.ts** (+544, -24)
-- **AlertForm.tsx** (+787, -318)
+- **AlertForm.tsx** (+787, -320)
 - **AlertForm.scss** (+272, -77)
 - **index.tsx** (+3, -0)
 - **ApprovedDomainSystemService.test.ts** (+213, -15)
@@ -29,6 +29,12 @@
 - **tables.ts** (+8410, -112)
 - **style.css** (+355, -36)
 - **views.ts** (+11417, -0)
+- **approvedUrl.ts** (+89, -0)
+- **approvedDomains.ts** (+17, -0)
+- **approvedDomains.ts** (+47, -0)
+- **graphql.ts** (+10891, -0)
+- **graphql.ts** (+8131, -0)
+- **package.json** (+72, -0)
 
 ## Visualizations
 
@@ -37,10 +43,10 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 26949
-".tsx" : 1507
+".ts" : 46124
+".tsx" : 1509
 ".scss" : 530
-".json" : 116
+".json" : 188
 ".pug" : 108
 ".css" : 391
 ```
@@ -57,7 +63,8 @@ title Coding activity by hour (count of changes)
 "14h" : 5
 "15h" : 29
 "16h" : 40
+"17h" : 7
 ```
 
 
-> **Last Updated:** 29/10/2026, 16:48:10
+> **Last Updated:** 29/10/2026, 17:18:10

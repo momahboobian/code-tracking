@@ -2,9 +2,9 @@
   "date": "2026-10-29",
   "projects": {
     "cda": {
-      "totalLinesAdded": 27183,
-      "totalLinesRemoved": 2418,
-      "totalActiveTime": 134,
+      "totalLinesAdded": 46430,
+      "totalLinesRemoved": 2420,
+      "totalActiveTime": 141,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/yesalert/AlertService.ts": [
           {
@@ -1002,6 +1002,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2026-10-29T17:16:07.635Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/components/AlertForm/AlertForm.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/components/AlertForm/AlertForm.scss": [
@@ -1580,6 +1594,102 @@
             },
             "duration": 1,
             "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/lib/approvedUrl.ts": [
+          {
+            "timestamp": "2026-10-29T17:13:16.848Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/lib/approvedUrl.ts",
+            "fileType": ".ts",
+            "linesAdded": 89,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/graphql/high-risk/queries/approvedDomains.ts": [
+          {
+            "timestamp": "2026-10-29T17:13:18.656Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/graphql/high-risk/queries/approvedDomains.ts",
+            "fileType": ".ts",
+            "linesAdded": 17,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/graphql/high-risk/mutations/approvedDomains.ts": [
+          {
+            "timestamp": "2026-10-29T17:13:25.958Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/graphql/high-risk/mutations/approvedDomains.ts",
+            "fileType": ".ts",
+            "linesAdded": 47,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/gql-generated/high-risk/graphql.ts": [
+          {
+            "timestamp": "2026-10-29T17:14:22.846Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/gql-generated/high-risk/graphql.ts",
+            "fileType": ".ts",
+            "linesAdded": 10891,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/gql-generated/low-risk/graphql.ts": [
+          {
+            "timestamp": "2026-10-29T17:14:24.080Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/gql-generated/low-risk/graphql.ts",
+            "fileType": ".ts",
+            "linesAdded": 8131,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/package.json": [
+          {
+            "timestamp": "2026-10-29T17:16:20.770Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/package.json",
+            "fileType": ".json",
+            "linesAdded": 72,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ]
       },
