@@ -1,0 +1,81 @@
+{
+  "date": "2026-10-29",
+  "projects": {
+    "cda": {
+      "totalLinesAdded": 0,
+      "totalLinesRemoved": 701,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/yesalert/AlertService.ts": [
+          {
+            "timestamp": "2026-10-29T09:30:15.431Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/yesalert/AlertService.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 75,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/unit/services/yesalert/AlertService.test.ts": [
+          {
+            "timestamp": "2026-10-29T09:30:15.435Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/unit/services/yesalert/AlertService.test.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 508,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/yesalert/SystemService.ts": [
+          {
+            "timestamp": "2026-10-29T09:30:15.437Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/yesalert/SystemService.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 118,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ]
+      },
+      "languageStats": {
+        "ts": 0
+      },
+      "changeFrequency": {
+        "9": 0
+      },
+      "topFiles": [
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/yesalert/AlertService.ts",
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/unit/services/yesalert/AlertService.test.ts",
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/yesalert/SystemService.ts"
+      ],
+      "averageChangeSize": 233.66666666666666
+    }
+  },
+  "totalActiveTime": 2,
+  "totalProjects": 1,
+  "totalFiles": 3,
+  "mostActiveHours": [
+    9
+  ],
+  "mostUsedLanguages": [
+    "ts"
+  ]
+}
