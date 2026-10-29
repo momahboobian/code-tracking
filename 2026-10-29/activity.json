@@ -2,9 +2,9 @@
   "date": "2026-10-29",
   "projects": {
     "cda": {
-      "totalLinesAdded": 3619,
+      "totalLinesAdded": 4437,
       "totalLinesRemoved": 705,
-      "totalActiveTime": 22,
+      "totalActiveTime": 24,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/yesalert/AlertService.ts": [
           {
@@ -310,6 +310,52 @@
             },
             "duration": 1,
             "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/App.tsx": [
+          {
+            "timestamp": "2026-10-29T13:03:59.391Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 298,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/gql-generated/high-risk/gql.ts": [
+          {
+            "timestamp": "2026-10-29T13:04:54.031Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/gql-generated/high-risk/gql.ts",
+            "fileType": ".ts",
+            "linesAdded": 496,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-10-29T13:05:10.703Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/gql-generated/high-risk/gql.ts",
+            "fileType": ".ts",
+            "linesAdded": 24,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ]
       },

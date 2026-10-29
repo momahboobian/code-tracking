@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3619                                          |
+| **Lines Added** (➕)   | 4437                                          |
 | **Lines Removed** (➖) | 705                                        |
-| **Net Change** (↕)    | 2914                |
-| **Active Time** (⌚)   | 22 minutes |
+| **Net Change** (↕)    | 3732                |
+| **Active Time** (⌚)   | 24 minutes |
 
 
 ## Modified Files
@@ -17,6 +17,8 @@
 - **SkillTagCreateSubSkill.tsx** (+86, -1)
 - **SkillTagAdmin.scss** (+178, -3)
 - **settings.json** (+95, -0)
+- **App.tsx** (+298, -0)
+- **gql.ts** (+520, -0)
 
 ## Visualizations
 
@@ -25,8 +27,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 3961
-".tsx" : 87
+".ts" : 4481
+".tsx" : 385
 ".scss" : 181
 ".json" : 95
 ```
@@ -39,7 +41,8 @@ title Coding activity by hour (count of changes)
 "09h" : 3
 "10h" : 13
 "11h" : 5
+"13h" : 3
 ```
 
 
-> **Last Updated:** 29/10/2026, 11:23:10
+> **Last Updated:** 29/10/2026, 13:08:10
