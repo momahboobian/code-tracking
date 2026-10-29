@@ -4,27 +4,29 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 5398                                          |
-| **Lines Removed** (➖) | 710                                        |
-| **Net Change** (↕)    | 4688                |
-| **Active Time** (⌚)   | 48 minutes |
+| **Lines Added** (➕)   | 14397                                          |
+| **Lines Removed** (➖) | 1677                                        |
+| **Net Change** (↕)    | 12720                |
+| **Active Time** (⌚)   | 73 minutes |
 
 
 ## Modified Files
-- **AlertService.ts** (+809, -75)
-- **AlertService.test.ts** (+2068, -508)
-- **SystemService.ts** (+387, -118)
-- **SkillTagCreateSubSkill.tsx** (+86, -1)
+- **AlertService.ts** (+813, -151)
+- **AlertService.test.ts** (+2457, -1022)
+- **SystemService.ts** (+387, -236)
+- **SkillTagCreateSubSkill.tsx** (+87, -1)
 - **SkillTagAdmin.scss** (+178, -3)
 - **settings.json** (+95, -0)
-- **App.tsx** (+298, -0)
+- **App.tsx** (+300, -2)
 - **gql.ts** (+520, -0)
-- **AlertForm.tsx** (+470, -2)
-- **AlertForm.scss** (+190, -0)
+- **AlertForm.tsx** (+575, -107)
+- **AlertForm.scss** (+214, -24)
 - **index.tsx** (+3, -0)
-- **ApprovedDomainSystemService.test.ts** (+198, -0)
-- **yesalert.json** (+16, -0)
-- **html.pug** (+80, -3)
+- **ApprovedDomainSystemService.test.ts** (+213, -15)
+- **yesalert.json** (+17, -1)
+- **html.pug** (+85, -8)
+- **yesalertTemplate.test.ts** (+43, -0)
+- **tables.ts** (+8410, -107)
 
 ## Visualizations
 
@@ -33,11 +35,11 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 4683
-".tsx" : 860
-".scss" : 371
-".json" : 111
-".pug" : 83
+".ts" : 14374
+".tsx" : 1075
+".scss" : 419
+".json" : 113
+".pug" : 93
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -50,8 +52,8 @@ title Coding activity by hour (count of changes)
 "11h" : 5
 "13h" : 15
 "14h" : 5
-"15h" : 2
+"15h" : 28
 ```
 
 
-> **Last Updated:** 29/10/2026, 15:18:10
+> **Last Updated:** 29/10/2026, 15:53:10
