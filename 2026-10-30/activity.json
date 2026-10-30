@@ -1,0 +1,47 @@
+{
+  "date": "2026-10-30",
+  "projects": {
+    "cda": {
+      "totalLinesAdded": 7,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/components/ApprovedUrlModal/ApprovedUrlModal.tsx": [
+          {
+            "timestamp": "2026-10-30T09:48:04.993Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/components/ApprovedUrlModal/ApprovedUrlModal.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "tsx": 0
+      },
+      "changeFrequency": {
+        "9": 0
+      },
+      "topFiles": [
+        "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/components/ApprovedUrlModal/ApprovedUrlModal.tsx"
+      ],
+      "averageChangeSize": 7
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    9
+  ],
+  "mostUsedLanguages": [
+    "tsx"
+  ]
+}
