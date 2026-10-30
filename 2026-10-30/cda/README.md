@@ -4,17 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 725                                          |
-| **Lines Removed** (➖) | 165                                        |
-| **Net Change** (↕)    | 560                |
-| **Active Time** (⌚)   | 138 minutes |
+| **Lines Added** (➕)   | 1069                                          |
+| **Lines Removed** (➖) | 187                                        |
+| **Net Change** (↕)    | 882                |
+| **Active Time** (⌚)   | 147 minutes |
 
 
 ## Modified Files
 - **ApprovedUrlModal.tsx** (+195, -128)
 - **ApprovedUrlModal.scss** (+81, -28)
 - **approvedUrl.ts** (+2, -1)
-- **AlertForm.tsx** (+29, -2)
+- **AlertForm.tsx** (+29, -24)
 - **AlertForm.scss** (+20, -2)
 - **settings.json** (+56, -0)
 - **index.ts** (+4, -1)
@@ -23,6 +23,7 @@
 - **ApprovedUrlModal.test.tsx** (+113, -0)
 - **index.ts** (+4, -1)
 - **EmailVisualisation.tsx** (+82, -0)
+- **NewAlert.tsx** (+344, -0)
 
 ## Visualizations
 
@@ -31,7 +32,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 690
+".tsx" : 1056
 ".scss" : 131
 ".ts" : 13
 ".json" : 56
@@ -46,8 +47,8 @@ title Coding activity by hour (count of changes)
 "10h" : 25
 "11h" : 18
 "12h" : 30
-"13h" : 16
+"13h" : 19
 ```
 
 
-> **Last Updated:** 30/10/2026, 13:33:11
+> **Last Updated:** 30/10/2026, 13:38:11
