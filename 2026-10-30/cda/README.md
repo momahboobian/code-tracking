@@ -5,13 +5,13 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 341                                          |
-| **Lines Removed** (➖) | 55                                        |
-| **Net Change** (↕)    | 286                |
+| **Lines Removed** (➖) | 116                                        |
+| **Net Change** (↕)    | 225                |
 | **Active Time** (⌚)   | 78 minutes |
 
 
 ## Modified Files
-- **ApprovedUrlModal.tsx** (+164, -41)
+- **ApprovedUrlModal.tsx** (+164, -102)
 - **ApprovedUrlModal.scss** (+71, -9)
 - **approvedUrl.ts** (+2, -1)
 - **AlertForm.tsx** (+29, -2)
@@ -25,7 +25,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 236
+".tsx" : 297
 ".scss" : 102
 ".ts" : 3
 ".json" : 55
@@ -39,8 +39,8 @@ title Coding activity by hour (count of changes)
 "09h" : 6
 "10h" : 25
 "11h" : 18
-"12h" : 13
+"12h" : 14
 ```
 
 
-> **Last Updated:** 30/10/2026, 12:33:11
+> **Last Updated:** 30/10/2026, 12:38:11
