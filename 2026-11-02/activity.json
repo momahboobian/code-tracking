@@ -2,9 +2,9 @@
   "date": "2026-11-02",
   "projects": {
     "cda": {
-      "totalLinesAdded": 2879,
-      "totalLinesRemoved": 145,
-      "totalActiveTime": 96,
+      "totalLinesAdded": 2916,
+      "totalLinesRemoved": 190,
+      "totalActiveTime": 107,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/components/ApprovedUrlModal/ApprovedUrlModal.tsx": [
           {
@@ -740,6 +740,20 @@
             },
             "duration": 0,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2026-11-02T14:38:16.417Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/Config/Config.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 20,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/RouteWrapper/RouteWrapper.tsx": [
@@ -882,6 +896,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2026-11-02T14:35:32.706Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/RouteWrapper/RouteWrapper.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/ConfigApprovedDomains/ConfigApprovedDomains.scss": [
@@ -958,6 +986,34 @@
             },
             "duration": 3,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2026-11-02T14:36:55.518Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 8,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-11-02T14:38:16.407Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 30,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/Config/ConfigPage.tsx": [
@@ -974,6 +1030,50 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2026-11-02T14:34:08.395Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/Config/ConfigPage.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-11-02T14:35:57.836Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/Config/ConfigPage.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 7,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/Config/configPageTitles.ts": [
+          {
+            "timestamp": "2026-11-02T14:38:16.409Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/Config/configPageTitles.ts",
+            "fileType": ".ts",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
           }
         ]
       },
