@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 61302                                          |
-| **Lines Removed** (➖) | 852                                        |
-| **Net Change** (↕)    | 60450                |
-| **Active Time** (⌚)   | 294 minutes |
+| **Lines Added** (➕)   | 62612                                          |
+| **Lines Removed** (➖) | 1297                                        |
+| **Net Change** (↕)    | 61315                |
+| **Active Time** (⌚)   | 390 minutes |
 
 
 ## Modified Files
@@ -44,31 +44,31 @@
 - **index.ts** (+6, -2)
 - **AddDomain.tsx** (+93, -2)
 - **approvedUrl.ts** (+98, -7)
-- **approvedUrl.test.ts** (+113, -0)
-- **approvedUrl.ts** (+128, -0)
+- **approvedUrl.test.ts** (+240, -47)
+- **approvedUrl.ts** (+255, -42)
 - **AddDomain.test.tsx** (+85, -0)
-- **SystemService.ts** (+1043, -257)
-- **ApprovedDomainSystemService.test.ts** (+657, -50)
+- **SystemService.ts** (+1081, -295)
+- **ApprovedDomainSystemService.test.ts** (+765, -158)
 - **ApprovedUrlForm.tsx** (+70, -2)
-- **AlertService.ts** (+1578, -0)
-- **alertTransformer.ts** (+161, -0)
+- **AlertService.ts** (+1691, -37)
+- **alertTransformer.ts** (+164, -1)
 - **PermissionService.ts** (+933, -0)
 - **PermissionService.test.ts** (+2888, -0)
-- **AlertService.test.ts** (+3650, -1)
+- **AlertService.test.ts** (+4256, -96)
 - **MockPermissionsService.ts** (+239, -0)
-- **yesalert.js** (+1172, -43)
+- **yesalert.js** (+1187, -58)
 - **yesalert.ts** (+977, -32)
-- **MockSystemService.ts** (+268, -69)
-- **yesalert-mutations.ts** (+1374, -32)
+- **MockSystemService.ts** (+283, -84)
+- **yesalert-mutations.ts** (+1406, -37)
 - **StaffStatusService.test.ts** (+909, -0)
-- **sap_views.ts** (+1886, -0)
+- **sap_views.ts** (+1892, -1)
 - **policies.ts** (+27, -0)
 - **AuditService.ts** (+402, -0)
-- **resolvers-types.ts** (+17714, -0)
+- **resolvers-types.ts** (+17790, -21)
 - **YesAlertService.ts** (+211, -0)
 - **MockStaffStatusService.ts** (+94, -0)
-- **views.ts** (+11446, -0)
-- **tables.ts** (+8303, -0)
+- **views.ts** (+11466, -20)
+- **tables.ts** (+8327, -0)
 - **yesalertTemplate.test.ts** (+45, -0)
 - **html.pug** (+72, -0)
 - **yesalert.json** (+15, -0)
@@ -84,8 +84,8 @@ title Lines changed by file type
 ".tsx" : 4018
 ".toml" : 143
 ".scss" : 727
-".ts" : 55681
-".js" : 1215
+".ts" : 57406
+".js" : 1245
 ".pug" : 72
 ".json" : 15
 ".css" : 283
@@ -103,8 +103,8 @@ title Coding activity by hour (count of changes)
 "14h" : 50
 "15h" : 52
 "16h" : 25
-"17h" : 40
+"17h" : 104
 ```
 
 
-> **Last Updated:** 02/11/2026, 17:22:23
+> **Last Updated:** 02/11/2026, 17:27:23
