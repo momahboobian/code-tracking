@@ -2,9 +2,9 @@
   "date": "2026-11-02",
   "projects": {
     "cda": {
-      "totalLinesAdded": 15729,
-      "totalLinesRemoved": 398,
-      "totalActiveTime": 247,
+      "totalLinesAdded": 60465,
+      "totalLinesRemoved": 637,
+      "totalActiveTime": 264,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/components/ApprovedUrlModal/ApprovedUrlModal.tsx": [
           {
@@ -2192,6 +2192,20 @@
             },
             "duration": 2,
             "language": "ts"
+          },
+          {
+            "timestamp": "2026-11-02T17:08:28.973Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/yesalert/SystemService.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 130,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/unit/services/yesalert/ApprovedDomainSystemService.test.ts": [
@@ -2366,6 +2380,20 @@
             },
             "duration": 1,
             "language": "ts"
+          },
+          {
+            "timestamp": "2026-11-02T17:08:28.992Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/yesalert/AlertService.ts",
+            "fileType": ".ts",
+            "linesAdded": 733,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/transformers/yesalert/alertTransformer.ts": [
@@ -2374,6 +2402,20 @@
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/transformers/yesalert/alertTransformer.ts",
             "fileType": ".ts",
             "linesAdded": 81,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-11-02T17:08:29.008Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/transformers/yesalert/alertTransformer.ts",
+            "fileType": ".ts",
+            "linesAdded": 80,
             "linesRemoved": 0,
             "projectName": "cda",
             "content": {
@@ -2444,6 +2486,20 @@
             },
             "duration": 1,
             "language": "ts"
+          },
+          {
+            "timestamp": "2026-11-02T17:08:29.015Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/unit/services/yesalert/AlertService.test.ts",
+            "fileType": ".ts",
+            "linesAdded": 1557,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/__mocks__/services/yesalert/MockPermissionsService.ts": [
@@ -2476,6 +2532,20 @@
             },
             "duration": 3,
             "language": "js"
+          },
+          {
+            "timestamp": "2026-11-02T17:08:28.975Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/high-risk-schema/definitions/yesalert.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 24,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/high-risk-schema/resolvers/yesalert.ts": [
@@ -2492,6 +2562,20 @@
             },
             "duration": 1,
             "language": "ts"
+          },
+          {
+            "timestamp": "2026-11-02T17:08:28.978Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/high-risk-schema/resolvers/yesalert.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 16,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/__mocks__/services/yesalert/MockSystemService.ts": [
@@ -2500,6 +2584,194 @@
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/__mocks__/services/yesalert/MockSystemService.ts",
             "fileType": ".ts",
             "linesAdded": 199,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-11-02T17:08:28.980Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/__mocks__/services/yesalert/MockSystemService.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 37,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/high-risk-schema/yesalert/yesalert-mutations.ts": [
+          {
+            "timestamp": "2026-11-02T17:07:30.740Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/high-risk-schema/yesalert/yesalert-mutations.ts",
+            "fileType": ".ts",
+            "linesAdded": 1374,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-11-02T17:08:28.983Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/high-risk-schema/yesalert/yesalert-mutations.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 32,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/unit/services/yesalert/StaffStatusService.test.ts": [
+          {
+            "timestamp": "2026-11-02T17:08:29.017Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/unit/services/yesalert/StaffStatusService.test.ts",
+            "fileType": ".ts",
+            "linesAdded": 909,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-table-types/src/types/sap_views.ts": [
+          {
+            "timestamp": "2026-11-02T17:08:29.020Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-table-types/src/types/sap_views.ts",
+            "fileType": ".ts",
+            "linesAdded": 1886,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/types/admin/policies.ts": [
+          {
+            "timestamp": "2026-11-02T17:08:29.010Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/types/admin/policies.ts",
+            "fileType": ".ts",
+            "linesAdded": 27,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/yesalert/AuditService.ts": [
+          {
+            "timestamp": "2026-11-02T17:08:28.994Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/yesalert/AuditService.ts",
+            "fileType": ".ts",
+            "linesAdded": 402,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/types/gql-generated/high-risk/resolvers-types.ts": [
+          {
+            "timestamp": "2026-11-02T17:08:28.998Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/types/gql-generated/high-risk/resolvers-types.ts",
+            "fileType": ".ts",
+            "linesAdded": 17714,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/yesalert/YesAlertService.ts": [
+          {
+            "timestamp": "2026-11-02T17:08:28.989Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/yesalert/YesAlertService.ts",
+            "fileType": ".ts",
+            "linesAdded": 211,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/__mocks__/services/yesalert/MockStaffStatusService.ts": [
+          {
+            "timestamp": "2026-11-02T17:08:29.012Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/__mocks__/services/yesalert/MockStaffStatusService.ts",
+            "fileType": ".ts",
+            "linesAdded": 94,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-table-types/src/types/views.ts": [
+          {
+            "timestamp": "2026-11-02T17:08:29.022Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-table-types/src/types/views.ts",
+            "fileType": ".ts",
+            "linesAdded": 11446,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/packages/cda-table-types/src/types/tables.ts": [
+          {
+            "timestamp": "2026-11-02T17:08:29.029Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/packages/cda-table-types/src/types/tables.ts",
+            "fileType": ".ts",
+            "linesAdded": 8303,
             "linesRemoved": 0,
             "projectName": "cda",
             "content": {
