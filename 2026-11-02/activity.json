@@ -3,8 +3,8 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 2506,
-      "totalLinesRemoved": 105,
-      "totalActiveTime": 79,
+      "totalLinesRemoved": 106,
+      "totalActiveTime": 80,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/components/ApprovedUrlModal/ApprovedUrlModal.tsx": [
           {
@@ -683,6 +683,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-11-02T14:19:28.043Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/Config/Config.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "tsx"
           }
         ],
