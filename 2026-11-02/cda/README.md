@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 6423                                          |
-| **Lines Removed** (➖) | 368                                        |
-| **Net Change** (↕)    | 6055                |
-| **Active Time** (⌚)   | 215 minutes |
+| **Lines Added** (➕)   | 12801                                          |
+| **Lines Removed** (➖) | 370                                        |
+| **Net Change** (↕)    | 12431                |
+| **Active Time** (⌚)   | 227 minutes |
 
 
 ## Modified Files
@@ -45,13 +45,17 @@
 - **AddDomain.tsx** (+93, -2)
 - **approvedUrl.ts** (+98, -7)
 - **approvedUrl.test.ts** (+113, -0)
-- **approvedUrl.ts** (+85, -0)
+- **approvedUrl.ts** (+128, -0)
 - **AddDomain.test.tsx** (+85, -0)
 - **SystemService.ts** (+387, -0)
-- **ApprovedDomainSystemService.test.ts** (+198, -0)
+- **ApprovedDomainSystemService.test.ts** (+380, -1)
 - **ApprovedUrlForm.tsx** (+70, -2)
 - **AlertService.ts** (+845, -0)
 - **alertTransformer.ts** (+81, -0)
+- **PermissionService.ts** (+933, -0)
+- **PermissionService.test.ts** (+2888, -0)
+- **AlertService.test.ts** (+2093, -1)
+- **MockPermissionsService.ts** (+239, -0)
 
 ## Visualizations
 
@@ -63,7 +67,7 @@ title Lines changed by file type
 ".tsx" : 4018
 ".toml" : 143
 ".scss" : 727
-".ts" : 1903
+".ts" : 8283
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -77,8 +81,8 @@ title Coding activity by hour (count of changes)
 "13h" : 28
 "14h" : 50
 "15h" : 52
-"16h" : 5
+"16h" : 13
 ```
 
 
-> **Last Updated:** 02/11/2026, 16:22:18
+> **Last Updated:** 02/11/2026, 16:27:18
