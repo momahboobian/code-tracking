@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 4387                                          |
+| **Lines Added** (➕)   | 4789                                          |
 | **Lines Removed** (➖) | 352                                        |
-| **Net Change** (↕)    | 4035                |
-| **Active Time** (⌚)   | 167 minutes |
+| **Net Change** (↕)    | 4437                |
+| **Active Time** (⌚)   | 175 minutes |
 
 
 ## Modified Files
@@ -24,7 +24,7 @@
 - **Config.tsx** (+65, -32)
 - **RouteWrapper.tsx** (+226, -14)
 - **ConfigApprovedDomains.scss** (+81, -34)
-- **ConfigApprovedDomains.test.tsx** (+350, -0)
+- **ConfigApprovedDomains.test.tsx** (+409, -0)
 - **App.tsx** (+336, -38)
 - **ConfigPage.tsx** (+27, -7)
 - **configPageTitles.ts** (+8, -0)
@@ -43,6 +43,10 @@
 - **ConfigAlertTypes.tsx** (+151, -0)
 - **index.ts** (+5, -2)
 - **AddDomain.tsx** (+89, -1)
+- **approvedUrl.ts** (+93, -0)
+- **approvedUrl.test.ts** (+80, -0)
+- **approvedUrl.ts** (+85, -0)
+- **AddDomain.test.tsx** (+85, -0)
 
 ## Visualizations
 
@@ -51,10 +55,10 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 3781
+".tsx" : 3925
 ".toml" : 143
 ".scss" : 727
-".ts" : 88
+".ts" : 346
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -67,8 +71,8 @@ title Coding activity by hour (count of changes)
 "12h" : 14
 "13h" : 28
 "14h" : 50
-"15h" : 22
+"15h" : 30
 ```
 
 
-> **Last Updated:** 02/11/2026, 15:14:07
+> **Last Updated:** 02/11/2026, 15:24:07
