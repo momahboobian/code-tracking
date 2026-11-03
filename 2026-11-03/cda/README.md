@@ -4,15 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 46948                                          |
-| **Lines Removed** (➖) | 187                                        |
-| **Net Change** (↕)    | 46761                |
-| **Active Time** (⌚)   | 129 minutes |
+| **Lines Added** (➕)   | 47018                                          |
+| **Lines Removed** (➖) | 256                                        |
+| **Net Change** (↕)    | 46762                |
+| **Active Time** (⌚)   | 141 minutes |
 
 
 ## Modified Files
-- **SystemService.ts** (+461, -28)
-- **ApprovedDomainSystemService.test.ts** (+476, -65)
+- **SystemService.ts** (+469, -36)
+- **ApprovedDomainSystemService.test.ts** (+529, -118)
 - **20261023123500-create-yesalert-approved-domains-view.js** (+14, -2)
 - **AlertService.test.ts** (+2169, -20)
 - **20261023110503-create-yesalert-approved-domain-table.js** (+27, -1)
@@ -25,11 +25,11 @@
 - **AlertService.ts** (+887, -56)
 - **ApprovedUrlService.ts** (+73, -0)
 - **YesAlertService.ts** (+216, -1)
-- **resolvers-types.ts** (+17796, -3)
+- **resolvers-types.ts** (+17798, -4)
 - **system.ts** (+442, -0)
 - **yesalert.ts** (+945, -0)
-- **approvedUrl.ts** (+49, -3)
-- **approvedUrl.test.ts** (+41, -4)
+- **approvedUrl.ts** (+52, -6)
+- **approvedUrl.test.ts** (+45, -8)
 - **RouteWrapper.tsx** (+212, -0)
 - **ConfigApprovedDomains.tsx** (+243, -0)
 
@@ -40,7 +40,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 45491
+".ts" : 45630
 ".js" : 1189
 ".tsx" : 455
 ```
@@ -55,7 +55,8 @@ title Coding activity by hour (count of changes)
 "11h" : 9
 "12h" : 42
 "13h" : 2
+"14h" : 11
 ```
 
 
-> **Last Updated:** 03/11/2026, 13:11:40
+> **Last Updated:** 03/11/2026, 14:36:40
