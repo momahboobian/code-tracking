@@ -4,29 +4,34 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 24309                                          |
-| **Lines Removed** (➖) | 19                                        |
-| **Net Change** (↕)    | 24290                |
-| **Active Time** (⌚)   | 44 minutes |
+| **Lines Added** (➕)   | 46887                                          |
+| **Lines Removed** (➖) | 187                                        |
+| **Net Change** (↕)    | 46700                |
+| **Active Time** (⌚)   | 129 minutes |
 
 
 ## Modified Files
-- **SystemService.ts** (+440, -15)
-- **ApprovedDomainSystemService.test.ts** (+358, -0)
+- **SystemService.ts** (+453, -28)
+- **ApprovedDomainSystemService.test.ts** (+423, -65)
 - **20261023123500-create-yesalert-approved-domains-view.js** (+14, -2)
-- **AlertService.test.ts** (+2149, -0)
+- **AlertService.test.ts** (+2169, -20)
 - **20261023110503-create-yesalert-approved-domain-table.js** (+27, -1)
 - **vulcan.ts** (+1724, -0)
-- **views.ts** (+12, -0)
-- **tables.ts** (+12, -0)
+- **views.ts** (+11470, -0)
+- **tables.ts** (+8351, -0)
 - **20261023123501-create-yesalert-approved-domains-view.js** (+13, -1)
-- **yesalert.js** (+1, -0)
-- **MockSystemService.ts** (+205, -0)
-- **AlertService.ts** (+831, -0)
+- **yesalert.js** (+1131, -0)
+- **MockSystemService.ts** (+208, -3)
+- **AlertService.ts** (+887, -56)
 - **ApprovedUrlService.ts** (+73, -0)
-- **YesAlertService.ts** (+215, -0)
-- **resolvers-types.ts** (+17793, -0)
+- **YesAlertService.ts** (+216, -1)
+- **resolvers-types.ts** (+17796, -3)
 - **system.ts** (+442, -0)
+- **yesalert.ts** (+945, -0)
+- **approvedUrl.ts** (+49, -3)
+- **approvedUrl.test.ts** (+41, -4)
+- **RouteWrapper.tsx** (+212, -0)
+- **ConfigApprovedDomains.tsx** (+243, -0)
 
 ## Visualizations
 
@@ -35,8 +40,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 24269
-".js" : 59
+".ts" : 45430
+".js" : 1189
+".tsx" : 455
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -47,8 +53,8 @@ title Coding activity by hour (count of changes)
 "09h" : 3
 "10h" : 15
 "11h" : 9
-"12h" : 9
+"12h" : 42
 ```
 
 
-> **Last Updated:** 03/11/2026, 12:21:40
+> **Last Updated:** 03/11/2026, 12:26:40
