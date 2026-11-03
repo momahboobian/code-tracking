@@ -4,14 +4,14 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1978                                          |
+| **Lines Added** (➕)   | 21904                                          |
 | **Lines Removed** (➖) | 19                                        |
-| **Net Change** (↕)    | 1959                |
-| **Active Time** (⌚)   | 33 minutes |
+| **Net Change** (↕)    | 21885                |
+| **Active Time** (⌚)   | 40 minutes |
 
 
 ## Modified Files
-- **SystemService.ts** (+28, -15)
+- **SystemService.ts** (+440, -15)
 - **ApprovedDomainSystemService.test.ts** (+65, -0)
 - **20261023123500-create-yesalert-approved-domains-view.js** (+14, -2)
 - **AlertService.test.ts** (+37, -0)
@@ -21,8 +21,12 @@
 - **tables.ts** (+12, -0)
 - **20261023123501-create-yesalert-approved-domains-view.js** (+13, -1)
 - **yesalert.js** (+1, -0)
-- **MockSystemService.ts** (+3, -0)
-- **AlertService.ts** (+42, -0)
+- **MockSystemService.ts** (+205, -0)
+- **AlertService.ts** (+831, -0)
+- **ApprovedUrlService.ts** (+73, -0)
+- **YesAlertService.ts** (+215, -0)
+- **resolvers-types.ts** (+17793, -0)
+- **system.ts** (+442, -0)
 
 ## Visualizations
 
@@ -31,7 +35,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 1938
+".ts" : 21864
 ".js" : 59
 ```
 
@@ -43,7 +47,8 @@ title Coding activity by hour (count of changes)
 "09h" : 3
 "10h" : 15
 "11h" : 9
+"12h" : 7
 ```
 
 
-> **Last Updated:** 03/11/2026, 11:37:24
+> **Last Updated:** 03/11/2026, 12:16:40
