@@ -2,7 +2,7 @@
   "date": "2026-11-03",
   "projects": {
     "cda": {
-      "totalLinesAdded": 46887,
+      "totalLinesAdded": 46948,
       "totalLinesRemoved": 187,
       "totalActiveTime": 129,
       "files": {
@@ -132,6 +132,20 @@
             },
             "duration": 2,
             "language": "ts"
+          },
+          {
+            "timestamp": "2026-11-03T13:08:24.266Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/yesalert/SystemService.ts",
+            "fileType": ".ts",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/unit/services/yesalert/ApprovedDomainSystemService.test.ts": [
@@ -217,6 +231,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-11-03T13:08:24.269Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/unit/services/yesalert/ApprovedDomainSystemService.test.ts",
+            "fileType": ".ts",
+            "linesAdded": 53,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "ts"
           }
         ],
