@@ -2,7 +2,7 @@
   "date": "2026-11-03",
   "projects": {
     "cda": {
-      "totalLinesAdded": 1911,
+      "totalLinesAdded": 1924,
       "totalLinesRemoved": 3,
       "totalActiveTime": 21,
       "files": {
@@ -258,6 +258,22 @@
             },
             "duration": 1,
             "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-db-migration/src/migrations/staff/views/20261023123501-create-yesalert-approved-domains-view.js": [
+          {
+            "timestamp": "2026-11-03T10:57:09.190Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-db-migration/src/migrations/staff/views/20261023123501-create-yesalert-approved-domains-view.js",
+            "fileType": ".js",
+            "linesAdded": 13,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
           }
         ]
       },
