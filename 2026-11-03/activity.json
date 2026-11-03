@@ -3,7 +3,7 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 48346,
-      "totalLinesRemoved": 256,
+      "totalLinesRemoved": 264,
       "totalActiveTime": 142,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/yesalert/SystemService.ts": [
@@ -1219,6 +1219,20 @@
             "fileType": ".tsx",
             "linesAdded": 382,
             "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-11-03T15:38:51.791Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/NewAlert/NewAlert.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 8,
             "projectName": "cda",
             "content": {
               "added": [],
