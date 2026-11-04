@@ -2,7 +2,7 @@
   "date": "2026-11-04",
   "projects": {
     "cda": {
-      "totalLinesAdded": 2141,
+      "totalLinesAdded": 2154,
       "totalLinesRemoved": 157,
       "totalActiveTime": 12,
       "files": {
@@ -156,6 +156,20 @@
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/high-risk-schema/yesalert/system.ts",
             "fileType": ".ts",
             "linesAdded": 452,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-11-04T13:41:31.465Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/high-risk-schema/yesalert/system.ts",
+            "fileType": ".ts",
+            "linesAdded": 13,
             "linesRemoved": 0,
             "projectName": "cda",
             "content": {
