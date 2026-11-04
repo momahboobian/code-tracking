@@ -2,9 +2,9 @@
   "date": "2026-11-04",
   "projects": {
     "cda": {
-      "totalLinesAdded": 25780,
+      "totalLinesAdded": 25801,
       "totalLinesRemoved": 178,
-      "totalActiveTime": 31,
+      "totalActiveTime": 35,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/yesalert/SystemService.ts": [
           {
@@ -417,6 +417,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-11-04T15:46:29.837Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/__mocks__/services/yesalert/MockUrlService.ts",
+            "fileType": ".ts",
+            "linesAdded": 21,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "ts"
           }
         ],
