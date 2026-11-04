@@ -2,9 +2,9 @@
   "date": "2026-11-04",
   "projects": {
     "cda": {
-      "totalLinesAdded": 35559,
-      "totalLinesRemoved": 606,
-      "totalActiveTime": 57,
+      "totalLinesAdded": 35719,
+      "totalLinesRemoved": 610,
+      "totalActiveTime": 67,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/services/yesalert/SystemService.ts": [
           {
@@ -939,6 +939,110 @@
               "removed": []
             },
             "duration": 2,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/config.ts": [
+          {
+            "timestamp": "2026-11-04T16:39:55.938Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/config.ts",
+            "fileType": ".ts",
+            "linesAdded": 46,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-11-04T16:40:12.614Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/config.ts",
+            "fileType": ".ts",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/lib/approvedUrl.ts": [
+          {
+            "timestamp": "2026-11-04T16:40:14.742Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/lib/approvedUrl.ts",
+            "fileType": ".ts",
+            "linesAdded": 44,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-11-04T16:40:18.473Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/lib/approvedUrl.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/components/ApprovedUrlForm/ApprovedUrlForm.tsx": [
+          {
+            "timestamp": "2026-11-04T16:40:29.027Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/components/ApprovedUrlForm/ApprovedUrlForm.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 66,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-11-04T16:40:31.760Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/components/ApprovedUrlForm/ApprovedUrlForm.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-11-04T16:40:54.044Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/components/ApprovedUrlForm/ApprovedUrlForm.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "tsx"
           }
         ]
