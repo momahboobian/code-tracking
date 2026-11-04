@@ -2,7 +2,7 @@
   "date": "2026-11-04",
   "projects": {
     "cda": {
-      "totalLinesAdded": 4243,
+      "totalLinesAdded": 22044,
       "totalLinesRemoved": 162,
       "totalActiveTime": 12,
       "files": {
@@ -246,6 +246,22 @@
             "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/high-risk-schema/resolvers/yesalert.ts",
             "fileType": ".ts",
             "linesAdded": 949,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/types/gql-generated/high-risk/resolvers-types.ts": [
+          {
+            "timestamp": "2026-11-04T15:30:10.386Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/types/gql-generated/high-risk/resolvers-types.ts",
+            "fileType": ".ts",
+            "linesAdded": 17801,
             "linesRemoved": 0,
             "projectName": "cda",
             "content": {
