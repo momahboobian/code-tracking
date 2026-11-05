@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1634                                          |
-| **Lines Removed** (➖) | 723                                        |
-| **Net Change** (↕)    | 911                |
-| **Active Time** (⌚)   | 40 minutes |
+| **Lines Added** (➕)   | 1635                                          |
+| **Lines Removed** (➖) | 726                                        |
+| **Net Change** (↕)    | 909                |
+| **Active Time** (⌚)   | 46 minutes |
 
 
 ## Modified Files
@@ -17,7 +17,7 @@
 - **RouteWrapper.tsx** (+8, -8)
 - **ConfigApprovedDomains.tsx** (+19, -4)
 - **ConfigApprovedDomains.scss** (+76, -8)
-- **AddDomain.tsx** (+112, -1)
+- **AddDomain.tsx** (+113, -4)
 - **normaliseApprovedHost.ts** (+42, -0)
 - **InlineUpdateButton.tsx** (+181, -0)
 - **AddDomain.scss** (+79, -16)
@@ -30,7 +30,7 @@
 pie showData
 title Lines changed by file type
 ".ts" : 130
-".tsx" : 2048
+".tsx" : 2052
 ".scss" : 179
 ```
 
@@ -42,8 +42,8 @@ title Coding activity by hour (count of changes)
 "09h" : 5
 "10h" : 8
 "11h" : 4
-"12h" : 19
+"12h" : 21
 ```
 
 
-> **Last Updated:** 05/11/2026, 12:47:59
+> **Last Updated:** 05/11/2026, 12:52:59
