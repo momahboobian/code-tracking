@@ -2,9 +2,9 @@
   "date": "2026-11-05",
   "projects": {
     "cda": {
-      "totalLinesAdded": 1209,
+      "totalLinesAdded": 1342,
       "totalLinesRemoved": 694,
-      "totalActiveTime": 7,
+      "totalActiveTime": 13,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/high-risk-schema/yesalert/system.ts": [
           {
@@ -226,6 +226,38 @@
             },
             "duration": 1,
             "language": "scss"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/AddDomain/AddDomain.tsx": [
+          {
+            "timestamp": "2026-11-05T11:59:03.680Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/AddDomain/AddDomain.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 91,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/lib/normaliseApprovedHost.ts": [
+          {
+            "timestamp": "2026-11-05T11:59:23.222Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/lib/normaliseApprovedHost.ts",
+            "fileType": ".ts",
+            "linesAdded": 42,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ]
       },
