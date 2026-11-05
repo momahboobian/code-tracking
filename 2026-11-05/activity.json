@@ -3,7 +3,7 @@
   "projects": {
     "cda": {
       "totalLinesAdded": 431,
-      "totalLinesRemoved": 0,
+      "totalLinesRemoved": 343,
       "totalActiveTime": 0,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/high-risk-schema/yesalert/system.ts": [
@@ -36,6 +36,20 @@
             },
             "duration": 0,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2026-11-05T09:43:34.684Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/components/AlertForm/AlertForm.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 113,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/NewAlert/NewAlert.test.tsx": [
@@ -45,6 +59,20 @@
             "fileType": ".tsx",
             "linesAdded": 230,
             "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-11-05T09:43:34.689Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/NewAlert/NewAlert.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 230,
             "projectName": "cda",
             "content": {
               "added": [],
