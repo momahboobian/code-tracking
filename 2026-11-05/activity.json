@@ -2,9 +2,9 @@
   "date": "2026-11-05",
   "projects": {
     "cda": {
-      "totalLinesAdded": 3461,
-      "totalLinesRemoved": 735,
-      "totalActiveTime": 68,
+      "totalLinesAdded": 4112,
+      "totalLinesRemoved": 738,
+      "totalActiveTime": 70,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/tests/integration/high-risk-schema/yesalert/system.ts": [
           {
@@ -771,6 +771,52 @@
             "fileType": ".tsx",
             "linesAdded": 577,
             "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/NewTemplate/NewTemplate.tsx": [
+          {
+            "timestamp": "2026-11-05T15:20:55.368Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/NewTemplate/NewTemplate.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 339,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/TemplateDetail/TemplateDetail.tsx": [
+          {
+            "timestamp": "2026-11-05T15:21:12.051Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/TemplateDetail/TemplateDetail.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 312,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-11-05T15:21:14.874Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/TemplateDetail/TemplateDetail.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 3,
             "projectName": "cda",
             "content": {
               "added": [],
