@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1118                                          |
-| **Lines Removed** (➖) | 215                                        |
-| **Net Change** (↕)    | 903                |
-| **Active Time** (⌚)   | 41 minutes |
+| **Lines Added** (➕)   | 1234                                          |
+| **Lines Removed** (➖) | 221                                        |
+| **Net Change** (↕)    | 1013                |
+| **Active Time** (⌚)   | 49 minutes |
 
 
 ## Modified Files
@@ -16,16 +16,17 @@
 - **AddDomain.scss** (+61, -0)
 - **AddDomain.test.tsx** (+174, -3)
 - **AddDomain.tsx** (+128, -3)
-- **ConfigApprovedDomains.test.tsx** (+6, -39)
+- **ConfigApprovedDomains.test.tsx** (+28, -39)
 - **ApprovedUrlModal.scss** (+49, -0)
 - **normaliseApprovedHost.ts** (+47, -0)
 - **normaliseApprovedHost.test.ts** (+55, -0)
-- **ConfigApprovedDomains.tsx** (+15, -8)
+- **ConfigApprovedDomains.tsx** (+15, -14)
 - **ConfirmActionModal.tsx** (+49, -0)
-- **AddDomain.scss** (+50, -1)
-- **AddDomain.test.tsx** (+236, -0)
-- **AddDomain.tsx** (+170, -0)
+- **AddDomain.scss** (+61, -1)
+- **AddDomain.test.tsx** (+240, -0)
+- **AddDomain.tsx** (+187, -0)
 - **index.ts** (+3, -0)
+- **ConfigApprovedDomains.scss** (+62, -0)
 
 ## Visualizations
 
@@ -34,8 +35,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 1067
-".scss" : 161
+".tsx" : 1116
+".scss" : 234
 ".ts" : 105
 ```
 
@@ -46,8 +47,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "09h" : 2
 "10h" : 17
-"11h" : 16
+"11h" : 23
 ```
 
 
-> **Last Updated:** 06/11/2026, 11:33:55
+> **Last Updated:** 06/11/2026, 11:38:55
