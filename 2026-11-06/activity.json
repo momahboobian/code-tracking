@@ -2,9 +2,9 @@
   "date": "2026-11-06",
   "projects": {
     "cda": {
-      "totalLinesAdded": 1632,
+      "totalLinesAdded": 1635,
       "totalLinesRemoved": 281,
-      "totalActiveTime": 78,
+      "totalActiveTime": 80,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/components/ApprovedUrlModal/ApprovedUrlModal.tsx": [
           {
@@ -791,6 +791,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2026-11-06T11:59:54.090Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/ConfigApprovedDomains/ConfigApprovedDomains.scss",
+            "fileType": ".scss",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "scss"
           }
         ],
