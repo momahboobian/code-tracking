@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 655                                          |
-| **Lines Removed** (➖) | 214                                        |
-| **Net Change** (↕)    | 441                |
-| **Active Time** (⌚)   | 34 minutes |
+| **Lines Added** (➕)   | 1118                                          |
+| **Lines Removed** (➖) | 215                                        |
+| **Net Change** (↕)    | 903                |
+| **Active Time** (⌚)   | 41 minutes |
 
 
 ## Modified Files
@@ -20,8 +20,12 @@
 - **ApprovedUrlModal.scss** (+49, -0)
 - **normaliseApprovedHost.ts** (+47, -0)
 - **normaliseApprovedHost.test.ts** (+55, -0)
-- **ConfigApprovedDomains.tsx** (+11, -8)
+- **ConfigApprovedDomains.tsx** (+15, -8)
 - **ConfirmActionModal.tsx** (+49, -0)
+- **AddDomain.scss** (+50, -1)
+- **AddDomain.test.tsx** (+236, -0)
+- **AddDomain.tsx** (+170, -0)
+- **index.ts** (+3, -0)
 
 ## Visualizations
 
@@ -30,9 +34,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 657
-".scss" : 110
-".ts" : 102
+".tsx" : 1067
+".scss" : 161
+".ts" : 105
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -42,8 +46,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "09h" : 2
 "10h" : 17
-"11h" : 10
+"11h" : 16
 ```
 
 
-> **Last Updated:** 06/11/2026, 11:18:55
+> **Last Updated:** 06/11/2026, 11:33:55
