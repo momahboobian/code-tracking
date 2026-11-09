@@ -4,17 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 74792                                          |
+| **Lines Added** (➕)   | 75208                                          |
 | **Lines Removed** (➖) | 3498                                        |
-| **Net Change** (↕)    | 71294                |
-| **Active Time** (⌚)   | 186 minutes |
+| **Net Change** (↕)    | 71710                |
+| **Active Time** (⌚)   | 194 minutes |
 
 
 ## Modified Files
 - **NewAlert.tsx** (+592, -221)
 - **system.ts** (+1094, -558)
-- **approvedUrl.test.ts** (+41, -4)
-- **approvedUrl.ts** (+46, -0)
+- **approvedUrl.test.ts** (+48, -4)
+- **approvedUrl.ts** (+50, -0)
 - **RouteWrapper.tsx** (+234, -22)
 - **AlertService.ts** (+849, -57)
 - **AuditService.ts** (+422, -16)
@@ -33,7 +33,7 @@
 - **views.ts** (+12067, -609)
 - **tables.ts** (+8887, -548)
 - **sap_views.ts** (+1913, -22)
-- **ApprovedUrlModal.tsx** (+226, -24)
+- **ApprovedUrlModal.tsx** (+233, -24)
 - **ConfigApprovedDomains.tsx** (+377, -4)
 - **NewTemplate.tsx** (+339, -0)
 - **gql.ts** (+496, -0)
@@ -46,7 +46,10 @@
 - **cohorts.ts** (+69, -0)
 - **CohortGroups.test.tsx** (+349, -0)
 - **CohortGroups.tsx** (+136, -0)
-- **ApprovedUrlModal.test.tsx** (+394, -0)
+- **ApprovedUrlModal.test.tsx** (+395, -0)
+- **ApprovedUrlForm.tsx** (+84, -0)
+- **ApprovedUrlForm.test.tsx** (+92, -0)
+- **EmailVisualisation.scss** (+221, -0)
 
 ## Visualizations
 
@@ -55,9 +58,10 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 3851
-".ts" : 73158
+".tsx" : 4035
+".ts" : 73169
 ".js" : 1281
+".scss" : 221
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -69,8 +73,8 @@ title Coding activity by hour (count of changes)
 "10h" : 1
 "11h" : 10
 "13h" : 5
-"14h" : 2
+"14h" : 9
 ```
 
 
-> **Last Updated:** 09/11/2026, 14:16:29
+> **Last Updated:** 09/11/2026, 14:26:29
