@@ -4,9 +4,9 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 53686                                          |
+| **Lines Added** (➕)   | 73904                                          |
 | **Lines Removed** (➖) | 3473                                        |
-| **Net Change** (↕)    | 50213                |
+| **Net Change** (↕)    | 70431                |
 | **Active Time** (⌚)   | 168 minutes |
 
 
@@ -36,6 +36,14 @@
 - **ApprovedUrlModal.tsx** (+226, -8)
 - **ConfigApprovedDomains.tsx** (+373, -0)
 - **NewTemplate.tsx** (+339, -0)
+- **gql.ts** (+496, -0)
+- **CohortDetail.test.tsx** (+239, -0)
+- **App.tsx** (+296, -0)
+- **graphql.ts** (+10823, -0)
+- **CohortDetail.tsx** (+135, -0)
+- **Home.test.tsx** (+261, -0)
+- **graphql.ts** (+7899, -0)
+- **cohorts.ts** (+69, -0)
 
 ## Visualizations
 
@@ -44,8 +52,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 2007
-".ts" : 53871
+".tsx" : 2938
+".ts" : 73158
 ".js" : 1281
 ```
 
@@ -56,7 +64,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "09h" : 157
 "10h" : 1
+"11h" : 8
 ```
 
 
-> **Last Updated:** 09/11/2026, 10:21:29
+> **Last Updated:** 09/11/2026, 11:56:29
