@@ -2,9 +2,9 @@
   "date": "2026-11-09",
   "projects": {
     "cda": {
-      "totalLinesAdded": 73904,
+      "totalLinesAdded": 74389,
       "totalLinesRemoved": 3473,
-      "totalActiveTime": 168,
+      "totalActiveTime": 173,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/NewAlert/NewAlert.tsx": [
           {
@@ -2394,6 +2394,38 @@
             },
             "duration": 0,
             "language": "ts"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/CohortGroups/CohortGroups.test.tsx": [
+          {
+            "timestamp": "2026-11-09T11:57:14.078Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/CohortGroups/CohortGroups.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 349,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/CohortGroups/CohortGroups.tsx": [
+          {
+            "timestamp": "2026-11-09T11:58:36.708Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/CohortGroups/CohortGroups.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 136,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
           }
         ]
       },
