@@ -2,9 +2,9 @@
   "date": "2026-11-09",
   "projects": {
     "cda": {
-      "totalLinesAdded": 75208,
-      "totalLinesRemoved": 3498,
-      "totalActiveTime": 194,
+      "totalLinesAdded": 75219,
+      "totalLinesRemoved": 3502,
+      "totalActiveTime": 198,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/NewAlert/NewAlert.tsx": [
           {
@@ -459,6 +459,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-11-09T14:28:03.163Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/lambdas/cda-graphql-staff/src/utils/yesalert/approvedUrl.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "ts"
           }
         ],
@@ -2630,6 +2644,22 @@
             },
             "duration": 1,
             "language": "scss"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/lib/smsMessageValidation.ts": [
+          {
+            "timestamp": "2026-11-09T14:28:10.011Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/lib/smsMessageValidation.ts",
+            "fileType": ".ts",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ]
       },
