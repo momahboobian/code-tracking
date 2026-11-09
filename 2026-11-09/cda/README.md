@@ -4,18 +4,18 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 52488                                          |
-| **Lines Removed** (➖) | 3276                                        |
-| **Net Change** (↕)    | 49212                |
-| **Active Time** (⌚)   | 135 minutes |
+| **Lines Added** (➕)   | 53347                                          |
+| **Lines Removed** (➖) | 3473                                        |
+| **Net Change** (↕)    | 49874                |
+| **Active Time** (⌚)   | 168 minutes |
 
 
 ## Modified Files
-- **NewAlert.tsx** (+483, -110)
-- **system.ts** (+952, -487)
-- **approvedUrl.test.ts** (+37, -0)
+- **NewAlert.tsx** (+589, -216)
+- **system.ts** (+1094, -558)
+- **approvedUrl.test.ts** (+41, -4)
 - **approvedUrl.ts** (+46, -0)
-- **RouteWrapper.tsx** (+226, -14)
+- **RouteWrapper.tsx** (+234, -22)
 - **AlertService.ts** (+849, -57)
 - **AuditService.ts** (+422, -16)
 - **yesalert.ts** (+1018, -69)
@@ -33,6 +33,8 @@
 - **views.ts** (+12067, -609)
 - **tables.ts** (+8887, -548)
 - **sap_views.ts** (+1913, -22)
+- **ApprovedUrlModal.tsx** (+226, -8)
+- **ConfigApprovedDomains.tsx** (+373, -0)
 
 ## Visualizations
 
@@ -41,8 +43,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 833
-".ts" : 53650
+".tsx" : 1668
+".ts" : 53871
 ".js" : 1281
 ```
 
@@ -51,8 +53,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"09h" : 130
+"09h" : 157
 ```
 
 
-> **Last Updated:** 09/11/2026, 09:46:29
+> **Last Updated:** 09/11/2026, 09:51:29
