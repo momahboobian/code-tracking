@@ -2,9 +2,9 @@
   "date": "2026-11-11",
   "projects": {
     "cda": {
-      "totalLinesAdded": 917,
-      "totalLinesRemoved": 8,
-      "totalActiveTime": 4,
+      "totalLinesAdded": 983,
+      "totalLinesRemoved": 9,
+      "totalActiveTime": 5,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/App.tsx": [
           {
@@ -64,6 +64,20 @@
             },
             "duration": 0,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2026-11-11T12:02:47.022Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/AlertedStaff/AlertedStaff.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/AlertedStaff/AlertedStaff.test.tsx": [
@@ -79,6 +93,22 @@
               "removed": []
             },
             "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/components/SafePeople/SafePeople.tsx": [
+          {
+            "timestamp": "2026-11-11T12:03:42.204Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/components/SafePeople/SafePeople.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 66,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "tsx"
           }
         ]
