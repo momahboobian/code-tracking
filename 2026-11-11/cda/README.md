@@ -5,9 +5,9 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 1308                                          |
-| **Lines Removed** (➖) | 30                                        |
-| **Net Change** (↕)    | 1278                |
-| **Active Time** (⌚)   | 35 minutes |
+| **Lines Removed** (➖) | 37                                        |
+| **Net Change** (↕)    | 1271                |
+| **Active Time** (⌚)   | 36 minutes |
 
 
 ## Modified Files
@@ -17,7 +17,7 @@
 - **SafePeople.tsx** (+66, -0)
 - **package.json** (+72, -0)
 - **ResendAlert.tsx** (+95, -0)
-- **AlertedStaff.scss** (+63, -1)
+- **AlertedStaff.scss** (+63, -8)
 
 ## Visualizations
 
@@ -28,7 +28,7 @@ pie showData
 title Lines changed by file type
 ".tsx" : 1202
 ".json" : 72
-".scss" : 64
+".scss" : 71
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -41,8 +41,8 @@ title Coding activity by hour (count of changes)
 "12h" : 6
 "13h" : 10
 "14h" : 6
-"15h" : 7
+"15h" : 8
 ```
 
 
-> **Last Updated:** 11/11/2026, 15:04:20
+> **Last Updated:** 11/11/2026, 15:09:20
