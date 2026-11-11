@@ -4,20 +4,20 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1317                                          |
+| **Lines Added** (➕)   | 1324                                          |
 | **Lines Removed** (➖) | 43                                        |
-| **Net Change** (↕)    | 1274                |
-| **Active Time** (⌚)   | 43 minutes |
+| **Net Change** (↕)    | 1281                |
+| **Active Time** (⌚)   | 46 minutes |
 
 
 ## Modified Files
 - **App.tsx** (+298, -0)
-- **AlertedStaff.tsx** (+494, -29)
+- **AlertedStaff.tsx** (+497, -29)
 - **AlertedStaff.test.tsx** (+229, -6)
 - **SafePeople.tsx** (+66, -0)
 - **package.json** (+72, -0)
 - **ResendAlert.tsx** (+95, -0)
-- **AlertedStaff.scss** (+63, -8)
+- **AlertedStaff.scss** (+67, -8)
 
 ## Visualizations
 
@@ -26,9 +26,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 1217
+".tsx" : 1220
 ".json" : 72
-".scss" : 71
+".scss" : 75
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -41,8 +41,8 @@ title Coding activity by hour (count of changes)
 "12h" : 6
 "13h" : 10
 "14h" : 6
-"15h" : 13
+"15h" : 15
 ```
 
 
-> **Last Updated:** 11/11/2026, 15:19:20
+> **Last Updated:** 11/11/2026, 15:24:20
