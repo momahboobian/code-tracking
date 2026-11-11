@@ -2,9 +2,9 @@
   "date": "2026-11-11",
   "projects": {
     "cda": {
-      "totalLinesAdded": 1130,
+      "totalLinesAdded": 1241,
       "totalLinesRemoved": 29,
-      "totalActiveTime": 21,
+      "totalActiveTime": 24,
       "files": {
         "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/App.tsx": [
           {
@@ -190,6 +190,48 @@
             },
             "duration": 0,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2026-11-11T14:55:03.946Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/AlertedStaff/AlertedStaff.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-11-11T14:56:54.000Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/AlertedStaff/AlertedStaff.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 14,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-11-11T14:57:08.804Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/AlertedStaff/AlertedStaff.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/containers/AlertedStaff/AlertedStaff.test.tsx": [
@@ -336,6 +378,22 @@
             },
             "duration": 0,
             "language": "json"
+          }
+        ],
+        "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/components/ResendAlert/ResendAlert.tsx": [
+          {
+            "timestamp": "2026-11-11T14:55:03.949Z",
+            "fileName": "/Users/momahboobian/Documents/_BBC/cda/apps/yesalert/src/components/ResendAlert/ResendAlert.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 94,
+            "linesRemoved": 0,
+            "projectName": "cda",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
           }
         ]
       },
