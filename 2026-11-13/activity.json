@@ -64,8 +64,8 @@
     },
     "broadcaster-v6-feature": {
       "totalLinesAdded": 46256,
-      "totalLinesRemoved": 323,
-      "totalActiveTime": 321,
+      "totalLinesRemoved": 326,
+      "totalActiveTime": 325,
       "files": {
         "/Users/momahboobian/Documents/_Git-repo/broadcaster-v6-feature/src/containers/OnAir/OnAir.tsx": [
           {
@@ -1130,6 +1130,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-11-13T20:04:46.038Z",
+            "fileName": "/Users/momahboobian/Documents/_Git-repo/broadcaster-v6-feature/src/containers/OnAir/OnAir.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "broadcaster-v6-feature",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "tsx"
           }
         ],
