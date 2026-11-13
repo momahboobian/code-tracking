@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 38523                                          |
+| **Lines Added** (➕)   | 38861                                          |
 | **Lines Removed** (➖) | 229                                        |
-| **Net Change** (↕)    | 38294                |
-| **Active Time** (⌚)   | 209 minutes |
+| **Net Change** (↕)    | 38632                |
+| **Active Time** (⌚)   | 220 minutes |
 
 
 ## Modified Files
@@ -53,8 +53,12 @@
 - **OnAirPrivateTransportControls.tsx** (+1073, -0)
 - **TransportReadout.tsx** (+224, -0)
 - **OnAirPrivateTransportControls.test.tsx** (+1993, -0)
-- **OnAirHeader.tsx** (+61, -5)
+- **OnAirHeader.tsx** (+62, -5)
 - **OnAirRunningOrderList.tsx** (+238, -6)
+- **timeZone.ts** (+219, -0)
+- **OnAirHeader.test.tsx** (+26, -0)
+- **OnAirLiveStreamCard.test.tsx** (+37, -0)
+- **OnAirLiveStreamCard.tsx** (+55, -0)
 
 ## Visualizations
 
@@ -63,9 +67,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 11810
+".tsx" : 11929
 ".json" : 274
-".ts" : 26668
+".ts" : 26887
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -75,8 +79,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "16h" : 43
 "17h" : 51
-"18h" : 58
+"18h" : 68
 ```
 
 
-> **Last Updated:** 13/11/2026, 18:52:05
+> **Last Updated:** 13/11/2026, 18:57:05
