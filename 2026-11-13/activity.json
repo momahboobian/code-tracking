@@ -63,9 +63,9 @@
       "averageChangeSize": 50
     },
     "broadcaster-v6-feature": {
-      "totalLinesAdded": 44622,
+      "totalLinesAdded": 45055,
       "totalLinesRemoved": 261,
-      "totalActiveTime": 280,
+      "totalActiveTime": 284,
       "files": {
         "/Users/momahboobian/Documents/_Git-repo/broadcaster-v6-feature/src/containers/OnAir/OnAir.tsx": [
           {
@@ -2890,6 +2890,50 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_Git-repo/broadcaster-v6-feature/src/components/OnAirNowPlaying/OnAirNowPlaying.tsx": [
+          {
+            "timestamp": "2026-11-13T19:22:08.659Z",
+            "fileName": "/Users/momahboobian/Documents/_Git-repo/broadcaster-v6-feature/src/components/OnAirNowPlaying/OnAirNowPlaying.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 431,
+            "linesRemoved": 0,
+            "projectName": "broadcaster-v6-feature",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-11-13T19:22:26.421Z",
+            "fileName": "/Users/momahboobian/Documents/_Git-repo/broadcaster-v6-feature/src/components/OnAirNowPlaying/OnAirNowPlaying.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "broadcaster-v6-feature",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-11-13T19:23:39.245Z",
+            "fileName": "/Users/momahboobian/Documents/_Git-repo/broadcaster-v6-feature/src/components/OnAirNowPlaying/OnAirNowPlaying.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "broadcaster-v6-feature",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "tsx"
           }
         ]
