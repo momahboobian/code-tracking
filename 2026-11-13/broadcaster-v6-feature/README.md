@@ -4,17 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3005                                          |
+| **Lines Added** (➕)   | 3008                                          |
 | **Lines Removed** (➖) | 36                                        |
-| **Net Change** (↕)    | 2969                |
-| **Active Time** (⌚)   | 51 minutes |
+| **Net Change** (↕)    | 2972                |
+| **Active Time** (⌚)   | 54 minutes |
 
 
 ## Modified Files
 - **OnAir.tsx** (+128, -1)
 - **OnAirView.tsx** (+163, -2)
 - **chatLanguageModels.json** (+24, -0)
-- **settings.json** (+110, -0)
+- **settings.json** (+113, -0)
 - **OnAirPublicSource.tsx** (+35, -1)
 - **PrivateTransportControls.test.tsx** (+1976, -0)
 - **OnAirAccessibility.test.tsx** (+114, -0)
@@ -29,7 +29,7 @@
 pie showData
 title Lines changed by file type
 ".tsx" : 2907
-".json" : 134
+".json" : 137
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -37,8 +37,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"16h" : 40
+"16h" : 42
 ```
 
 
-> **Last Updated:** 13/11/2026, 16:32:05
+> **Last Updated:** 13/11/2026, 16:37:05
