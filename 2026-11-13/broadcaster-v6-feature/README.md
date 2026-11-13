@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 45175                                          |
-| **Lines Removed** (➖) | 308                                        |
-| **Net Change** (↕)    | 44867                |
-| **Active Time** (⌚)   | 313 minutes |
+| **Lines Added** (➕)   | 45180                                          |
+| **Lines Removed** (➖) | 311                                        |
+| **Net Change** (↕)    | 44869                |
+| **Active Time** (⌚)   | 320 minutes |
 
 
 ## Modified Files
@@ -31,7 +31,7 @@
 - **TransportButtons.tsx** (+136, -4)
 - **vitest.config.ts** (+37, -14)
 - **settings.json** (+4, -0)
-- **UserProvider.tsx** (+208, -0)
+- **UserProvider.tsx** (+209, -3)
 - **Navigation.tsx** (+98, -1)
 - **Navigation.test.tsx** (+90, -0)
 - **UserProvider.test.tsx** (+141, -0)
@@ -76,7 +76,7 @@
 - **OnAirNowPlaying.tsx** (+433, -0)
 - **OnAirLiveStream.tsx** (+77, -47)
 - **OnAirTransport.tsx** (+30, -0)
-- **config.ts** (+8, -0)
+- **config.ts** (+12, -0)
 
 ## Visualizations
 
@@ -85,9 +85,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 17977
+".tsx" : 17981
 ".json" : 274
-".ts" : 27232
+".ts" : 27236
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -98,8 +98,8 @@ title Coding activity by hour (count of changes)
 "16h" : 43
 "17h" : 51
 "18h" : 77
-"19h" : 46
+"19h" : 49
 ```
 
 
-> **Last Updated:** 13/11/2026, 19:42:05
+> **Last Updated:** 13/11/2026, 19:47:05
