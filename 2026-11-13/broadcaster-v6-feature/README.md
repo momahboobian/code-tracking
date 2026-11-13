@@ -4,14 +4,14 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 45180                                          |
-| **Lines Removed** (➖) | 311                                        |
-| **Net Change** (↕)    | 44869                |
-| **Active Time** (⌚)   | 320 minutes |
+| **Lines Added** (➕)   | 46256                                          |
+| **Lines Removed** (➖) | 323                                        |
+| **Net Change** (↕)    | 45933                |
+| **Active Time** (⌚)   | 321 minutes |
 
 
 ## Modified Files
-- **OnAir.tsx** (+133, -51)
+- **OnAir.tsx** (+133, -53)
 - **OnAirView.tsx** (+163, -2)
 - **chatLanguageModels.json** (+24, -0)
 - **settings.json** (+148, -1)
@@ -25,13 +25,13 @@
 - **OnAirViewerStatsStrip.test.tsx** (+25, -0)
 - **OnAirLiveStreamCard.test.tsx** (+36, -0)
 - **TransportButtons.test.tsx** (+34, -0)
-- **OnAir.test.tsx** (+1817, -0)
+- **OnAir.test.tsx** (+1837, -0)
 - **App.tsx** (+142, -75)
 - **OnAirPrivateTransportControls.test.tsx** (+1993, -0)
 - **TransportButtons.tsx** (+136, -4)
 - **vitest.config.ts** (+37, -14)
 - **settings.json** (+4, -0)
-- **UserProvider.tsx** (+209, -3)
+- **UserProvider.tsx** (+209, -13)
 - **Navigation.tsx** (+98, -1)
 - **Navigation.test.tsx** (+90, -0)
 - **UserProvider.test.tsx** (+141, -0)
@@ -77,6 +77,7 @@
 - **OnAirLiveStream.tsx** (+77, -47)
 - **OnAirTransport.tsx** (+30, -0)
 - **config.ts** (+12, -0)
+- **TransportControls.tsx** (+1056, -0)
 
 ## Visualizations
 
@@ -85,7 +86,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 17981
+".tsx" : 19069
 ".json" : 274
 ".ts" : 27236
 ```
@@ -99,7 +100,8 @@ title Coding activity by hour (count of changes)
 "17h" : 51
 "18h" : 77
 "19h" : 49
+"20h" : 4
 ```
 
 
-> **Last Updated:** 13/11/2026, 19:47:05
+> **Last Updated:** 13/11/2026, 20:02:05
