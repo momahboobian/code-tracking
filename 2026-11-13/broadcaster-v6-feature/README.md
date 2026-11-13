@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 34923                                          |
-| **Lines Removed** (➖) | 209                                        |
-| **Net Change** (↕)    | 34714                |
-| **Active Time** (⌚)   | 180 minutes |
+| **Lines Added** (➕)   | 38523                                          |
+| **Lines Removed** (➖) | 229                                        |
+| **Net Change** (↕)    | 38294                |
+| **Active Time** (⌚)   | 209 minutes |
 
 
 ## Modified Files
@@ -29,7 +29,7 @@
 - **App.tsx** (+142, -75)
 - **OnAirPrivateTransportControls.test.tsx** (+1993, -0)
 - **TransportButtons.tsx** (+136, -4)
-- **vitest.config.ts** (+26, -5)
+- **vitest.config.ts** (+37, -14)
 - **settings.json** (+4, -0)
 - **UserProvider.tsx** (+208, -0)
 - **Navigation.tsx** (+98, -1)
@@ -50,6 +50,11 @@
 - **TimeDisplay.tsx** (+47, -8)
 - **setupTests.ts** (+8, -0)
 - **vite.config.ts** (+23, -5)
+- **OnAirPrivateTransportControls.tsx** (+1073, -0)
+- **TransportReadout.tsx** (+224, -0)
+- **OnAirPrivateTransportControls.test.tsx** (+1993, -0)
+- **OnAirHeader.tsx** (+61, -5)
+- **OnAirRunningOrderList.tsx** (+238, -6)
 
 ## Visualizations
 
@@ -58,9 +63,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 8210
+".tsx" : 11810
 ".json" : 274
-".ts" : 26648
+".ts" : 26668
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -70,8 +75,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "16h" : 43
 "17h" : 51
-"18h" : 46
+"18h" : 58
 ```
 
 
-> **Last Updated:** 13/11/2026, 18:47:05
+> **Last Updated:** 13/11/2026, 18:52:05
