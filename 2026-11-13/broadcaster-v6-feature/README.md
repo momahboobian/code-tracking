@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 40408                                          |
-| **Lines Removed** (➖) | 254                                        |
-| **Net Change** (↕)    | 40154                |
-| **Active Time** (⌚)   | 251 minutes |
+| **Lines Added** (➕)   | 44472                                          |
+| **Lines Removed** (➖) | 255                                        |
+| **Net Change** (↕)    | 44217                |
+| **Active Time** (⌚)   | 270 minutes |
 
 
 ## Modified Files
@@ -65,8 +65,12 @@
 - **ErrorBoundary.tsx** (+54, -0)
 - **LoadingSkeleton.tsx** (+74, -2)
 - **TransportButtons.tsx** (+132, -0)
-- **OnAirNowPlayingCard.tsx** (+440, -8)
+- **OnAirNowPlayingCard.tsx** (+440, -9)
 - **types.ts** (+332, -5)
+- **TransportControls.test.tsx** (+1993, -0)
+- **TransportReadout.test.tsx** (+44, -0)
+- **TransportButtons.test.tsx** (+34, -0)
+- **TransportControls.test.tsx** (+1993, -0)
 
 ## Visualizations
 
@@ -75,7 +79,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 13164
+".tsx" : 17229
 ".json" : 274
 ".ts" : 27224
 ```
@@ -88,8 +92,8 @@ title Coding activity by hour (count of changes)
 "16h" : 43
 "17h" : 51
 "18h" : 77
-"19h" : 10
+"19h" : 15
 ```
 
 
-> **Last Updated:** 13/11/2026, 19:12:05
+> **Last Updated:** 13/11/2026, 19:17:05
