@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 45165                                          |
-| **Lines Removed** (➖) | 305                                        |
-| **Net Change** (↕)    | 44860                |
-| **Active Time** (⌚)   | 307 minutes |
+| **Lines Added** (➕)   | 45175                                          |
+| **Lines Removed** (➖) | 308                                        |
+| **Net Change** (↕)    | 44867                |
+| **Active Time** (⌚)   | 313 minutes |
 
 
 ## Modified Files
@@ -74,8 +74,9 @@
 - **OnAirNowPlaying.test.tsx** (+111, -2)
 - **OnAirLiveStream.test.tsx** (+37, -0)
 - **OnAirNowPlaying.tsx** (+433, -0)
-- **OnAirLiveStream.tsx** (+75, -44)
+- **OnAirLiveStream.tsx** (+77, -47)
 - **OnAirTransport.tsx** (+30, -0)
+- **config.ts** (+8, -0)
 
 ## Visualizations
 
@@ -84,9 +85,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 17972
+".tsx" : 17977
 ".json" : 274
-".ts" : 27224
+".ts" : 27232
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -97,8 +98,8 @@ title Coding activity by hour (count of changes)
 "16h" : 43
 "17h" : 51
 "18h" : 77
-"19h" : 41
+"19h" : 46
 ```
 
 
-> **Last Updated:** 13/11/2026, 19:37:05
+> **Last Updated:** 13/11/2026, 19:42:05
