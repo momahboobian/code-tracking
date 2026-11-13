@@ -63,9 +63,9 @@
       "averageChangeSize": 50
     },
     "broadcaster-v6-feature": {
-      "totalLinesAdded": 34711,
-      "totalLinesRemoved": 165,
-      "totalActiveTime": 135,
+      "totalLinesAdded": 34767,
+      "totalLinesRemoved": 167,
+      "totalActiveTime": 145,
       "files": {
         "/Users/momahboobian/Documents/_Git-repo/broadcaster-v6-feature/src/containers/OnAir/OnAir.tsx": [
           {
@@ -661,6 +661,20 @@
             },
             "duration": 0,
             "language": "json"
+          },
+          {
+            "timestamp": "2026-11-13T18:14:12.746Z",
+            "fileName": "/Users/momahboobian/Library/Application Support/Code/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "broadcaster-v6-feature",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "json"
           }
         ],
         "/Users/momahboobian/Documents/_Git-repo/broadcaster-v6-feature/src/components/OnAirView/OnAirPublicSource.tsx": [
@@ -1062,6 +1076,48 @@
               "removed": []
             },
             "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-11-13T18:15:05.207Z",
+            "fileName": "/Users/momahboobian/Documents/_Git-repo/broadcaster-v6-feature/src/App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "broadcaster-v6-feature",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-11-13T18:15:31.576Z",
+            "fileName": "/Users/momahboobian/Documents/_Git-repo/broadcaster-v6-feature/src/App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "broadcaster-v6-feature",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-11-13T18:16:05.356Z",
+            "fileName": "/Users/momahboobian/Documents/_Git-repo/broadcaster-v6-feature/src/App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "broadcaster-v6-feature",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "tsx"
           }
         ],
@@ -1601,6 +1657,50 @@
             },
             "duration": 1,
             "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_Git-repo/broadcaster-v6-feature/package.json": [
+          {
+            "timestamp": "2026-11-13T18:14:18.353Z",
+            "fileName": "/Users/momahboobian/Documents/_Git-repo/broadcaster-v6-feature/package.json",
+            "fileType": ".json",
+            "linesAdded": 50,
+            "linesRemoved": 0,
+            "projectName": "broadcaster-v6-feature",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-11-13T18:15:55.147Z",
+            "fileName": "/Users/momahboobian/Documents/_Git-repo/broadcaster-v6-feature/package.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "broadcaster-v6-feature",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-11-13T18:16:24.588Z",
+            "fileName": "/Users/momahboobian/Documents/_Git-repo/broadcaster-v6-feature/package.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "broadcaster-v6-feature",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ]
       },

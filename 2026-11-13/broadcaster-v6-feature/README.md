@@ -4,17 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 34711                                          |
-| **Lines Removed** (➖) | 165                                        |
-| **Net Change** (↕)    | 34546                |
-| **Active Time** (⌚)   | 135 minutes |
+| **Lines Added** (➕)   | 34767                                          |
+| **Lines Removed** (➖) | 167                                        |
+| **Net Change** (↕)    | 34600                |
+| **Active Time** (⌚)   | 145 minutes |
 
 
 ## Modified Files
 - **OnAir.tsx** (+128, -51)
 - **OnAirView.tsx** (+163, -2)
 - **chatLanguageModels.json** (+24, -0)
-- **settings.json** (+143, -0)
+- **settings.json** (+145, -0)
 - **OnAirPublicSource.tsx** (+35, -1)
 - **PrivateTransportControls.test.tsx** (+1976, -0)
 - **OnAirAccessibility.test.tsx** (+114, -0)
@@ -26,7 +26,7 @@
 - **OnAirLiveStreamCard.test.tsx** (+36, -0)
 - **TransportButtons.test.tsx** (+34, -0)
 - **OnAir.test.tsx** (+1817, -0)
-- **App.tsx** (+131, -65)
+- **App.tsx** (+133, -67)
 - **OnAirPrivateTransportControls.test.tsx** (+1993, -0)
 - **TransportButtons.tsx** (+136, -4)
 - **vitest.config.ts** (+26, -5)
@@ -44,6 +44,7 @@
 - **lucide-react.d.ts** (+26572, -0)
 - **Navigation.test.tsx** (+91, -1)
 - **LoginPage.test.tsx** (+58, -0)
+- **package.json** (+52, -0)
 
 ## Visualizations
 
@@ -52,8 +53,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 8058
-".json" : 206
+".tsx" : 8062
+".json" : 260
 ".ts" : 26612
 ```
 
@@ -64,8 +65,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "16h" : 43
 "17h" : 51
-"18h" : 11
+"18h" : 18
 ```
 
 
-> **Last Updated:** 13/11/2026, 18:12:05
+> **Last Updated:** 13/11/2026, 18:17:05
