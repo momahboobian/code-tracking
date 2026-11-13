@@ -63,9 +63,9 @@
       "averageChangeSize": 50
     },
     "broadcaster-v6-feature": {
-      "totalLinesAdded": 45158,
+      "totalLinesAdded": 45165,
       "totalLinesRemoved": 305,
-      "totalActiveTime": 299,
+      "totalActiveTime": 307,
       "files": {
         "/Users/momahboobian/Documents/_Git-repo/broadcaster-v6-feature/src/containers/OnAir/OnAir.tsx": [
           {
@@ -276,6 +276,62 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-11-13T19:32:39.700Z",
+            "fileName": "/Users/momahboobian/Documents/_Git-repo/broadcaster-v6-feature/src/containers/OnAir/OnAir.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "broadcaster-v6-feature",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-11-13T19:32:53.507Z",
+            "fileName": "/Users/momahboobian/Documents/_Git-repo/broadcaster-v6-feature/src/containers/OnAir/OnAir.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "broadcaster-v6-feature",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-11-13T19:32:56.150Z",
+            "fileName": "/Users/momahboobian/Documents/_Git-repo/broadcaster-v6-feature/src/containers/OnAir/OnAir.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "broadcaster-v6-feature",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-11-13T19:34:49.063Z",
+            "fileName": "/Users/momahboobian/Documents/_Git-repo/broadcaster-v6-feature/src/containers/OnAir/OnAir.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "broadcaster-v6-feature",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "tsx"
           }
         ],
@@ -3020,6 +3076,34 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-11-13T19:35:14.540Z",
+            "fileName": "/Users/momahboobian/Documents/_Git-repo/broadcaster-v6-feature/src/components/OnAirLiveStream/OnAirLiveStream.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "broadcaster-v6-feature",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-11-13T19:36:25.525Z",
+            "fileName": "/Users/momahboobian/Documents/_Git-repo/broadcaster-v6-feature/src/components/OnAirLiveStream/OnAirLiveStream.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "broadcaster-v6-feature",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "tsx"
           }
         ],
