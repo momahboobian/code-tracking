@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 7982                                          |
-| **Lines Removed** (➖) | 161                                        |
+| **Lines Added** (➕)   | 7983                                          |
+| **Lines Removed** (➖) | 162                                        |
 | **Net Change** (↕)    | 7821                |
-| **Active Time** (⌚)   | 119 minutes |
+| **Active Time** (⌚)   | 122 minutes |
 
 
 ## Modified Files
@@ -29,7 +29,7 @@
 - **App.tsx** (+130, -65)
 - **OnAirPrivateTransportControls.test.tsx** (+1993, -0)
 - **TransportButtons.tsx** (+136, -4)
-- **vitest.config.ts** (+25, -4)
+- **vitest.config.ts** (+26, -5)
 - **settings.json** (+4, -0)
 - **UserProvider.tsx** (+207, -0)
 - **Navigation.tsx** (+97, -0)
@@ -51,7 +51,7 @@ pie showData
 title Lines changed by file type
 ".tsx" : 7899
 ".json" : 206
-".ts" : 38
+".ts" : 40
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -60,8 +60,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "16h" : 43
-"17h" : 49
+"17h" : 51
 ```
 
 
-> **Last Updated:** 13/11/2026, 17:57:05
+> **Last Updated:** 13/11/2026, 18:02:05
