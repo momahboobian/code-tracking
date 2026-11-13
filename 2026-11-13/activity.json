@@ -63,7 +63,7 @@
       "averageChangeSize": 50
     },
     "broadcaster-v6-feature": {
-      "totalLinesAdded": 4964,
+      "totalLinesAdded": 4966,
       "totalLinesRemoved": 36,
       "totalActiveTime": 66,
       "files": {
@@ -492,6 +492,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-11-13T17:09:58.340Z",
+            "fileName": "/Users/momahboobian/Library/Application Support/Code/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "broadcaster-v6-feature",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "json"
           }
         ],
