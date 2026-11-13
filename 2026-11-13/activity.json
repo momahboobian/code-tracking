@@ -63,9 +63,9 @@
       "averageChangeSize": 50
     },
     "broadcaster-v6-feature": {
-      "totalLinesAdded": 7089,
+      "totalLinesAdded": 7095,
       "totalLinesRemoved": 88,
-      "totalActiveTime": 70,
+      "totalActiveTime": 79,
       "files": {
         "/Users/momahboobian/Documents/_Git-repo/broadcaster-v6-feature/src/containers/OnAir/OnAir.tsx": [
           {
@@ -520,6 +520,62 @@
               "removed": []
             },
             "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-11-13T17:22:57.296Z",
+            "fileName": "/Users/momahboobian/Library/Application Support/Code/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "broadcaster-v6-feature",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-11-13T17:23:33.585Z",
+            "fileName": "/Users/momahboobian/Library/Application Support/Code/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "broadcaster-v6-feature",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-11-13T17:23:36.199Z",
+            "fileName": "/Users/momahboobian/Library/Application Support/Code/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "broadcaster-v6-feature",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-11-13T17:26:54.819Z",
+            "fileName": "/Users/momahboobian/Library/Application Support/Code/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "broadcaster-v6-feature",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "json"
           }
         ],
