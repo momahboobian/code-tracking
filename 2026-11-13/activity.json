@@ -63,9 +63,9 @@
       "averageChangeSize": 50
     },
     "broadcaster-v6-feature": {
-      "totalLinesAdded": 3163,
+      "totalLinesAdded": 4964,
       "totalLinesRemoved": 36,
-      "totalActiveTime": 62,
+      "totalActiveTime": 66,
       "files": {
         "/Users/momahboobian/Documents/_Git-repo/broadcaster-v6-feature/src/containers/OnAir/OnAir.tsx": [
           {
@@ -479,6 +479,20 @@
             },
             "duration": 0,
             "language": "json"
+          },
+          {
+            "timestamp": "2026-11-13T17:04:03.278Z",
+            "fileName": "/Users/momahboobian/Library/Application Support/Code/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "broadcaster-v6-feature",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
           }
         ],
         "/Users/momahboobian/Documents/_Git-repo/broadcaster-v6-feature/src/components/OnAirView/OnAirPublicSource.tsx": [
@@ -757,6 +771,36 @@
             "fileName": "/Users/momahboobian/Documents/_Git-repo/broadcaster-v6-feature/src/components/OnAirView/TransportButtons/TransportButtons.test.tsx",
             "fileType": ".tsx",
             "linesAdded": 34,
+            "linesRemoved": 0,
+            "projectName": "broadcaster-v6-feature",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/momahboobian/Documents/_Git-repo/broadcaster-v6-feature/src/containers/OnAir/OnAir.test.tsx": [
+          {
+            "timestamp": "2026-11-13T17:02:21.236Z",
+            "fileName": "/Users/momahboobian/Documents/_Git-repo/broadcaster-v6-feature/src/containers/OnAir/OnAir.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 851,
+            "linesRemoved": 0,
+            "projectName": "broadcaster-v6-feature",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-11-13T17:02:21.264Z",
+            "fileName": "/Users/momahboobian/Documents/_Git-repo/broadcaster-v6-feature/src/containers/OnAir/OnAir.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 949,
             "linesRemoved": 0,
             "projectName": "broadcaster-v6-feature",
             "content": {
