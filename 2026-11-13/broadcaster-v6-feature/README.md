@@ -4,17 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 7234                                          |
-| **Lines Removed** (➖) | 92                                        |
-| **Net Change** (↕)    | 7142                |
-| **Active Time** (⌚)   | 84 minutes |
+| **Lines Added** (➕)   | 7263                                          |
+| **Lines Removed** (➖) | 96                                        |
+| **Net Change** (↕)    | 7167                |
+| **Active Time** (⌚)   | 94 minutes |
 
 
 ## Modified Files
 - **OnAir.tsx** (+128, -50)
 - **OnAirView.tsx** (+163, -2)
 - **chatLanguageModels.json** (+24, -0)
-- **settings.json** (+136, -0)
+- **settings.json** (+137, -0)
 - **OnAirPublicSource.tsx** (+35, -1)
 - **PrivateTransportControls.test.tsx** (+1976, -0)
 - **OnAirAccessibility.test.tsx** (+114, -0)
@@ -29,6 +29,8 @@
 - **App.tsx** (+130, -3)
 - **OnAirPrivateTransportControls.test.tsx** (+1993, -0)
 - **TransportButtons.tsx** (+136, -4)
+- **vitest.config.ts** (+24, -4)
+- **settings.json** (+4, -0)
 
 ## Visualizations
 
@@ -38,7 +40,8 @@
 pie showData
 title Lines changed by file type
 ".tsx" : 7166
-".json" : 160
+".json" : 165
+".ts" : 28
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -47,8 +50,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "16h" : 43
-"17h" : 23
+"17h" : 28
 ```
 
 
-> **Last Updated:** 13/11/2026, 17:32:05
+> **Last Updated:** 13/11/2026, 17:37:05
